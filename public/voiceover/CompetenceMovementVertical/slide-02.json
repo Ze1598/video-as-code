@@ -1,0 +1,21 @@
+{
+  "text": "Influence creates movement.",
+  "durationMs": 1811,
+  "words": [
+    {
+      "text": "Influence",
+      "startMs": 0,
+      "endMs": 743
+    },
+    {
+      "text": "creates",
+      "startMs": 789,
+      "endMs": 1126
+    },
+    {
+      "text": "movement.",
+      "startMs": 1196,
+      "endMs": 1811
+    }
+  ]
+}

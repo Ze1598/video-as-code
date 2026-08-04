@@ -1,0 +1,21 @@
+{
+  "text": "Clarity creates confidence.",
+  "durationMs": 1811,
+  "words": [
+    {
+      "text": "Clarity",
+      "startMs": 0,
+      "endMs": 499
+    },
+    {
+      "text": "creates",
+      "startMs": 569,
+      "endMs": 940
+    },
+    {
+      "text": "confidence.",
+      "startMs": 998,
+      "endMs": 1811
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "text": "Ideas only matter when they change something.",
+  "durationMs": 2786,
+  "words": [
+    {
+      "text": "Ideas",
+      "startMs": 0,
+      "endMs": 580
+    },
+    {
+      "text": "only",
+      "startMs": 673,
+      "endMs": 906
+    },
+    {
+      "text": "matter",
+      "startMs": 975,
+      "endMs": 1277
+    },
+    {
+      "text": "when",
+      "startMs": 1324,
+      "endMs": 1463
+    },
+    {
+      "text": "they",
+      "startMs": 1498,
+      "endMs": 1625
+    },
+    {
+      "text": "change",
+      "startMs": 1683,
+      "endMs": 2020
+    },
+    {
+      "text": "something.",
+      "startMs": 2067,
+      "endMs": 2786
+    }
+  ]
+}
