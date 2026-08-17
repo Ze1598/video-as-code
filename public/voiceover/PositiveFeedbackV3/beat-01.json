@@ -1,0 +1,126 @@
+{
+  "text": "So let's go back. In February, a data engineer built a validation system, one that caught data issues before they ever reached the client.",
+  "durationMs": 9845,
+  "words": [
+    {
+      "text": "So",
+      "startMs": 0,
+      "endMs": 279
+    },
+    {
+      "text": "let's",
+      "startMs": 337,
+      "endMs": 534
+    },
+    {
+      "text": "go",
+      "startMs": 592,
+      "endMs": 731
+    },
+    {
+      "text": "back.",
+      "startMs": 813,
+      "endMs": 1115
+    },
+    {
+      "text": "In",
+      "startMs": 1149,
+      "endMs": 1312
+    },
+    {
+      "text": "February,",
+      "startMs": 1405,
+      "endMs": 2055
+    },
+    {
+      "text": "a",
+      "startMs": 2101,
+      "endMs": 2159
+    },
+    {
+      "text": "data",
+      "startMs": 2252,
+      "endMs": 2682
+    },
+    {
+      "text": "engineer",
+      "startMs": 2775,
+      "endMs": 3286
+    },
+    {
+      "text": "built",
+      "startMs": 3425,
+      "endMs": 3762
+    },
+    {
+      "text": "a",
+      "startMs": 3889,
+      "endMs": 3971
+    },
+    {
+      "text": "validation",
+      "startMs": 4075,
+      "endMs": 4818
+    },
+    {
+      "text": "system,",
+      "startMs": 4899,
+      "endMs": 5410
+    },
+    {
+      "text": "one",
+      "startMs": 5515,
+      "endMs": 5782
+    },
+    {
+      "text": "that",
+      "startMs": 5817,
+      "endMs": 5979
+    },
+    {
+      "text": "caught",
+      "startMs": 6060,
+      "endMs": 6327
+    },
+    {
+      "text": "data",
+      "startMs": 6385,
+      "endMs": 6711
+    },
+    {
+      "text": "issues",
+      "startMs": 6803,
+      "endMs": 7221
+    },
+    {
+      "text": "before",
+      "startMs": 7279,
+      "endMs": 7790
+    },
+    {
+      "text": "they",
+      "startMs": 7918,
+      "endMs": 8103.999999999999
+    },
+    {
+      "text": "ever",
+      "startMs": 8185.000000000001,
+      "endMs": 8452
+    },
+    {
+      "text": "reached",
+      "startMs": 8580,
+      "endMs": 8905
+    },
+    {
+      "text": "the",
+      "startMs": 8940,
+      "endMs": 9009
+    },
+    {
+      "text": "client.",
+      "startMs": 9056,
+      "endMs": 9845
+    }
+  ]
+}

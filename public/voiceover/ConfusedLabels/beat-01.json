@@ -1,0 +1,281 @@
+{
+  "text": "It started simply. A product team needed a new customer reporting capability. The architect called it a module inside the existing application. The product manager called it a platform other departments could eventually use. The delivery manager called it a component required for the current project. The engineers just called it the new reporting thing.",
+  "durationMs": 24009,
+  "words": [
+    {
+      "text": "It",
+      "startMs": 0,
+      "endMs": 163
+    },
+    {
+      "text": "started",
+      "startMs": 221,
+      "endMs": 778
+    },
+    {
+      "text": "simply.",
+      "startMs": 882,
+      "endMs": 1451
+    },
+    {
+      "text": "A",
+      "startMs": 1498,
+      "endMs": 1579
+    },
+    {
+      "text": "product",
+      "startMs": 1707,
+      "endMs": 2171
+    },
+    {
+      "text": "team",
+      "startMs": 2194,
+      "endMs": 2403
+    },
+    {
+      "text": "needed",
+      "startMs": 2543,
+      "endMs": 2972
+    },
+    {
+      "text": "a",
+      "startMs": 3065,
+      "endMs": 3146
+    },
+    {
+      "text": "new",
+      "startMs": 3274,
+      "endMs": 3471
+    },
+    {
+      "text": "customer",
+      "startMs": 3599,
+      "endMs": 4203
+    },
+    {
+      "text": "reporting",
+      "startMs": 4307,
+      "endMs": 4992
+    },
+    {
+      "text": "capability.",
+      "startMs": 5120,
+      "endMs": 6095
+    },
+    {
+      "text": "The",
+      "startMs": 6177,
+      "endMs": 6281
+    },
+    {
+      "text": "architect",
+      "startMs": 6327,
+      "endMs": 6908
+    },
+    {
+      "text": "called",
+      "startMs": 7001,
+      "endMs": 7303
+    },
+    {
+      "text": "it",
+      "startMs": 7338,
+      "endMs": 7419
+    },
+    {
+      "text": "a",
+      "startMs": 7512,
+      "endMs": 7570
+    },
+    {
+      "text": "module",
+      "startMs": 7697,
+      "endMs": 8278
+    },
+    {
+      "text": "inside",
+      "startMs": 8371,
+      "endMs": 8940
+    },
+    {
+      "text": "the",
+      "startMs": 8986,
+      "endMs": 9079
+    },
+    {
+      "text": "existing",
+      "startMs": 9160,
+      "endMs": 9799
+    },
+    {
+      "text": "application.",
+      "startMs": 9985,
+      "endMs": 10832
+    },
+    {
+      "text": "The",
+      "startMs": 10879,
+      "endMs": 10983
+    },
+    {
+      "text": "product",
+      "startMs": 11041,
+      "endMs": 11413
+    },
+    {
+      "text": "manager",
+      "startMs": 11494,
+      "endMs": 11958
+    },
+    {
+      "text": "called",
+      "startMs": 12051,
+      "endMs": 12399
+    },
+    {
+      "text": "it",
+      "startMs": 12446,
+      "endMs": 12527
+    },
+    {
+      "text": "a",
+      "startMs": 12632,
+      "endMs": 12725
+    },
+    {
+      "text": "platform",
+      "startMs": 12852,
+      "endMs": 13607
+    },
+    {
+      "text": "other",
+      "startMs": 13688,
+      "endMs": 13967
+    },
+    {
+      "text": "departments",
+      "startMs": 14025,
+      "endMs": 14687
+    },
+    {
+      "text": "could",
+      "startMs": 14733,
+      "endMs": 14896
+    },
+    {
+      "text": "eventually",
+      "startMs": 14977,
+      "endMs": 15720
+    },
+    {
+      "text": "use.",
+      "startMs": 15813,
+      "endMs": 16126.000000000002
+    },
+    {
+      "text": "The",
+      "startMs": 16161.000000000002,
+      "endMs": 16254.000000000002
+    },
+    {
+      "text": "delivery",
+      "startMs": 16335,
+      "endMs": 16776
+    },
+    {
+      "text": "manager",
+      "startMs": 16858,
+      "endMs": 17299
+    },
+    {
+      "text": "called",
+      "startMs": 17403,
+      "endMs": 17740
+    },
+    {
+      "text": "it",
+      "startMs": 17775,
+      "endMs": 17856
+    },
+    {
+      "text": "a",
+      "startMs": 17961,
+      "endMs": 18054
+    },
+    {
+      "text": "component",
+      "startMs": 18181,
+      "endMs": 18866
+    },
+    {
+      "text": "required",
+      "startMs": 18948,
+      "endMs": 19505
+    },
+    {
+      "text": "for",
+      "startMs": 19598,
+      "endMs": 19760
+    },
+    {
+      "text": "the",
+      "startMs": 19818,
+      "endMs": 19888
+    },
+    {
+      "text": "current",
+      "startMs": 19934,
+      "endMs": 20259
+    },
+    {
+      "text": "project.",
+      "startMs": 20317,
+      "endMs": 20898
+    },
+    {
+      "text": "The",
+      "startMs": 20921,
+      "endMs": 21026
+    },
+    {
+      "text": "engineers",
+      "startMs": 21084,
+      "endMs": 21606
+    },
+    {
+      "text": "just",
+      "startMs": 21687,
+      "endMs": 21885
+    },
+    {
+      "text": "called",
+      "startMs": 21943,
+      "endMs": 22210
+    },
+    {
+      "text": "it",
+      "startMs": 22245,
+      "endMs": 22326
+    },
+    {
+      "text": "the",
+      "startMs": 22384,
+      "endMs": 22500
+    },
+    {
+      "text": "new",
+      "startMs": 22593,
+      "endMs": 22779
+    },
+    {
+      "text": "reporting",
+      "startMs": 22872,
+      "endMs": 23475
+    },
+    {
+      "text": "thing.",
+      "startMs": 23557,
+      "endMs": 24009
+    }
+  ]
+}

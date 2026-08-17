@@ -1,0 +1,66 @@
+{
+  "text": "The name doesn't need to be perfect, but the shared definition does.",
+  "durationMs": 4086.9999999999995,
+  "words": [
+    {
+      "text": "The",
+      "startMs": 0,
+      "endMs": 139
+    },
+    {
+      "text": "name",
+      "startMs": 197,
+      "endMs": 395
+    },
+    {
+      "text": "doesn't",
+      "startMs": 441,
+      "endMs": 720
+    },
+    {
+      "text": "need",
+      "startMs": 755,
+      "endMs": 929
+    },
+    {
+      "text": "to",
+      "startMs": 964,
+      "endMs": 1033
+    },
+    {
+      "text": "be",
+      "startMs": 1091,
+      "endMs": 1207
+    },
+    {
+      "text": "perfect,",
+      "startMs": 1265,
+      "endMs": 1858
+    },
+    {
+      "text": "but",
+      "startMs": 1892,
+      "endMs": 2067
+    },
+    {
+      "text": "the",
+      "startMs": 2101,
+      "endMs": 2171
+    },
+    {
+      "text": "shared",
+      "startMs": 2218,
+      "endMs": 2577
+    },
+    {
+      "text": "definition",
+      "startMs": 2659,
+      "endMs": 3274
+    },
+    {
+      "text": "does.",
+      "startMs": 3402,
+      "endMs": 4086.9999999999995
+    }
+  ]
+}

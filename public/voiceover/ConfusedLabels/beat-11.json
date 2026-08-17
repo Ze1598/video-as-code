@@ -1,0 +1,111 @@
+{
+  "text": "Have you ever been months into a project, before realizing you and your team were never actually describing the same thing?",
+  "durationMs": 7988,
+  "words": [
+    {
+      "text": "Have",
+      "startMs": 0,
+      "endMs": 232
+    },
+    {
+      "text": "you",
+      "startMs": 267,
+      "endMs": 348
+    },
+    {
+      "text": "ever",
+      "startMs": 441,
+      "endMs": 673
+    },
+    {
+      "text": "been",
+      "startMs": 766,
+      "endMs": 1033
+    },
+    {
+      "text": "months",
+      "startMs": 1265,
+      "endMs": 1683
+    },
+    {
+      "text": "into",
+      "startMs": 1776,
+      "endMs": 2125
+    },
+    {
+      "text": "a",
+      "startMs": 2159,
+      "endMs": 2194
+    },
+    {
+      "text": "project,",
+      "startMs": 2287,
+      "endMs": 2914
+    },
+    {
+      "text": "before",
+      "startMs": 2949,
+      "endMs": 3320
+    },
+    {
+      "text": "realizing",
+      "startMs": 3379,
+      "endMs": 4017.0000000000005
+    },
+    {
+      "text": "you",
+      "startMs": 4098,
+      "endMs": 4214
+    },
+    {
+      "text": "and",
+      "startMs": 4296,
+      "endMs": 4377
+    },
+    {
+      "text": "your",
+      "startMs": 4423,
+      "endMs": 4540
+    },
+    {
+      "text": "team",
+      "startMs": 4598,
+      "endMs": 4911
+    },
+    {
+      "text": "were",
+      "startMs": 5039,
+      "endMs": 5224
+    },
+    {
+      "text": "never",
+      "startMs": 5259,
+      "endMs": 5515
+    },
+    {
+      "text": "actually",
+      "startMs": 5608,
+      "endMs": 6118
+    },
+    {
+      "text": "describing",
+      "startMs": 6177,
+      "endMs": 6908
+    },
+    {
+      "text": "the",
+      "startMs": 6989,
+      "endMs": 7070
+    },
+    {
+      "text": "same",
+      "startMs": 7152,
+      "endMs": 7465
+    },
+    {
+      "text": "thing?",
+      "startMs": 7512,
+      "endMs": 7988
+    }
+  ]
+}

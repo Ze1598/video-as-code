@@ -1,0 +1,71 @@
+{
+  "text": "If it's worth mentioning at the review, it's worth mentioning when it happens.",
+  "durationMs": 5433,
+  "words": [
+    {
+      "text": "If",
+      "startMs": 0,
+      "endMs": 406
+    },
+    {
+      "text": "it's",
+      "startMs": 488,
+      "endMs": 697
+    },
+    {
+      "text": "worth",
+      "startMs": 755,
+      "endMs": 1010
+    },
+    {
+      "text": "mentioning",
+      "startMs": 1091,
+      "endMs": 1579
+    },
+    {
+      "text": "at",
+      "startMs": 1707,
+      "endMs": 1916
+    },
+    {
+      "text": "the",
+      "startMs": 1962,
+      "endMs": 2055
+    },
+    {
+      "text": "review,",
+      "startMs": 2113,
+      "endMs": 2612
+    },
+    {
+      "text": "it's",
+      "startMs": 2659,
+      "endMs": 2891
+    },
+    {
+      "text": "worth",
+      "startMs": 2949,
+      "endMs": 3193
+    },
+    {
+      "text": "mentioning",
+      "startMs": 3274,
+      "endMs": 3750
+    },
+    {
+      "text": "when",
+      "startMs": 3878,
+      "endMs": 4180
+    },
+    {
+      "text": "it",
+      "startMs": 4272,
+      "endMs": 4412
+    },
+    {
+      "text": "happens.",
+      "startMs": 4470,
+      "endMs": 5433
+    }
+  ]
+}

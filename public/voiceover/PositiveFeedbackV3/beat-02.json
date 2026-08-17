@@ -1,0 +1,66 @@
+{
+  "text": "Her manager was impressed. He praised the work, in a leadership call.",
+  "durationMs": 4458,
+  "words": [
+    {
+      "text": "Her",
+      "startMs": 0,
+      "endMs": 186
+    },
+    {
+      "text": "manager",
+      "startMs": 232,
+      "endMs": 697
+    },
+    {
+      "text": "was",
+      "startMs": 778,
+      "endMs": 1022
+    },
+    {
+      "text": "impressed.",
+      "startMs": 1126,
+      "endMs": 1811
+    },
+    {
+      "text": "He",
+      "startMs": 1892,
+      "endMs": 2043.0000000000002
+    },
+    {
+      "text": "praised",
+      "startMs": 2136,
+      "endMs": 2519
+    },
+    {
+      "text": "the",
+      "startMs": 2554,
+      "endMs": 2624
+    },
+    {
+      "text": "work,",
+      "startMs": 2670,
+      "endMs": 3007
+    },
+    {
+      "text": "in",
+      "startMs": 3042,
+      "endMs": 3146
+    },
+    {
+      "text": "a",
+      "startMs": 3193,
+      "endMs": 3216
+    },
+    {
+      "text": "leadership",
+      "startMs": 3297,
+      "endMs": 3808
+    },
+    {
+      "text": "call.",
+      "startMs": 3889,
+      "endMs": 4458
+    }
+  ]
+}

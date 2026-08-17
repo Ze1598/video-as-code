@@ -1,7 +1,7 @@
 ---
 name: leadership-visual-essay
-description: Build a state-driven diagram video from a leadership/organizational essay — a fixed node/connector visual system with a focus-driven camera, one causal chain, one payoff, and per-beat technique matched to content. Use for "Programmatic Leadership Visual Essay" style videos, as opposed to plain kinetic-typography videos.
-version: 1.1
+description: Build a state-driven diagram video from a leadership/organizational essay — a fixed node/connector visual system with a focus-driven camera, one causal chain, one payoff, and per-beat technique matched to content. Opens on a hook, closes on an engagement question, not an essay paraphrase. Use for "Programmatic Leadership Visual Essay" style videos, as opposed to plain kinetic-typography videos.
+version: 1.2
 ---
 
 This is a distinct video genre from plain kinetic-text essay videos (see
@@ -17,21 +17,46 @@ system — rather than just narrated text on screen. Reference implementation in
 mechanism. Never a montage of generic examples — one concrete, specific case carries the
 entire video.
 
-**Narrative architecture** — this is a causal chain, not an escalation of separate problems.
-Map the essay onto these beats (skip any that don't apply, but keep the order):
+**Narrative architecture** — this is a causal chain, not an escalation of separate problems,
+and it is bracketed by a Hook and a closing engagement question that are NOT paraphrased from
+the essay. Map the essay's body onto these beats (skip any that don't apply, but keep the
+order); Hook and CTA are new writing, not compressed essay sentences:
 
 ```
-Concrete First Action
-  -> Reasonable Response (the other party's action is competent, not naive)
-    -> Immediate Improvement (the response genuinely helps, at first)
-      -> Point Where Control Ends (the exact moment/assumption where it breaks)
-        -> Surviving Failure Path (the gap persists, unnoticed, across time)
-          -> Visible Consequence (someone changes behavior because of the gap)
-            -> Mechanism Reveal  <- THE PAYOFF: camera pulls back, shows the whole system
-              -> Balanced Counterweight (preserve what was legitimate; isolate only the real mistake)
-                -> Reframe (state the general mechanism, beyond this one case)
-                  -> Smallest Correction / Operational Close
+Hook  <- cold open, no diagram yet: tease the tension/outcome without giving away the mechanism
+  -> Concrete First Action
+    -> Reasonable Response (the other party's action is competent, not naive)
+      -> Immediate Improvement (the response genuinely helps, at first)
+        -> Point Where Control Ends (the exact moment/assumption where it breaks)
+          -> Surviving Failure Path (the gap persists, unnoticed, across time)
+            -> Visible Consequence (someone changes behavior because of the gap)
+              -> Mechanism Reveal  <- THE PAYOFF: camera pulls back, shows the whole system
+                -> Balanced Counterweight (preserve what was legitimate; isolate only the real mistake)
+                  -> Reframe (state the general mechanism, beyond this one case)
+                    -> Smallest Correction / Operational Close (the essay's own thesis, as bookend)
+                      -> CTA  <- a direct question to the viewer, not "like and subscribe"
 ```
+
+**Hook** (a few seconds, its own dedicated scene, diagram not visible yet — it has nothing to
+show): create curiosity about the outcome without revealing the mechanism. A good test: if the
+hook could be the essay's own opening sentence, it's too literal — write it fresh. E.g. instead
+of opening on "A product team started designing a new reporting capability" (the essay's actual
+first line), open on "Somewhere along the way, this team stopped building one project — and
+started building four. Nobody decided that. It just happened," which creates a "how does that
+happen?" question the rest of the video answers.
+
+**CTA** (a closing engagement question, own dedicated scene, diagram already receded): after the
+essay's thesis lands as the visual bookend, add ONE direct, specific question inviting the
+viewer to reflect on their own experience with this exact mechanism — not generic engagement
+bait. Style it quieter than the thesis (e.g. italic, muted color) so it reads as a genuine aside,
+not another proclamation. This is new writing like the Hook; don't paraphrase the essay for it.
+
+**Body wording**: the essay's own strongest, most quotable lines (the counterweight, the thesis)
+are worth keeping close to verbatim — they're already written for a reader's eye and tend to
+land fine spoken too. Everything else should be rewritten as spoken narrative, not compressed
+essay prose: add small connective/tension phrases ("Slowly, each of them started building on
+their own definition," "The warning had been there in every conversation") that a written essay
+doesn't need but spoken narration does, to keep it from reading as a paraphrase.
 
 Do not write a villain. If the response looks obviously stupid, the mechanism doesn't teach
 anything. The strongest material shows a competent action that still produces a bad outcome
@@ -84,6 +109,17 @@ through instead of cleanly stopping at the edge. To dim a node (e.g. "this perso
 currently out of the loop"), only change its stroke color and label color; keep fill opacity
 at 1 always.
 
+**Caption/diagram safe zone (a real bug to avoid):** the diagram's camera can zoom out far
+enough (wide/reveal shots) that node labels sit in the same screen region as a bottom-anchored
+caption — they will visibly overlap at some point in the video if you don't prevent it
+structurally. Don't fix this by nudging pixel offsets per beat; guarantee it by construction:
+wrap the diagram in a container styled `transform: scale(0.75); transform-origin: 50% 0%;`
+(shrinks it uniformly, anchored to the top edge, so its lowest possible pixel is fixed
+regardless of camera position/zoom) and position the caption in the now-permanently-clear band
+below it (e.g. `top: ~860` instead of `bottom: ~130` on a 1080-tall frame). The diagram
+literally cannot render into the caption's territory this way — a tuned-by-eye offset will
+eventually be violated by some camera state you didn't test.
+
 **Camera — derive the target, don't hand-pick coordinates.** For every beat, decide which
 persona(s) are actually being discussed (0, 1, or 2 — rarely more) and compute the camera
 from that:
@@ -106,15 +142,38 @@ arrive. A naive keyframe list of single points per beat will perpetually ease to
 target and never rest, which is most noticeable (and most damaging) on any beat that needs a
 true static hold (a deadpan emotional beat, or the reveal itself while a connector draws).
 
+**Camera moves must read as pans, not cuts.** A short transition (under ~20 frames at 60fps)
+with an ease-out curve reads as a snap with a decorative curve on top, not a camera actually
+sweeping across the layout — this is especially visible on any beat that cuts between several
+entities in sequence (e.g. introducing four people one after another within one beat). Use
+**at least 45-50 frames (0.75-0.85s)** for a between-entity pan and **~55 frames** for a
+beat-boundary transition, with **`Easing.inOut(Easing.cubic)`** (accelerate away from the start,
+decelerate into the hold) rather than the ease-out curve used for text entrances — that curve is
+tuned for something appearing, not a viewpoint moving. This one `easing` choice in `Camera.ts`
+governs every transition segment in the whole keyframe list (the flat hold segments are
+unaffected since interpolating between two equal values ignores the easing shape), so it's a
+single, low-risk change with a large effect on how "programmatic" the video feels.
+
 ## Structure conventions for this format
 
-- **No title card.** Open directly on the first beat's diagram/audio.
-- **No separate outro/end card.** Hold the closing line on screen for about 2 seconds after
-  its audio ends, then end the composition there.
+- **No title card** (no essay title/byline card) — but there IS a Hook scene before the diagram
+  appears (see Narrative architecture above); the difference is a title card announces the
+  video, a Hook creates a question. The diagram fades in at the start of the first causal-chain
+  beat, not at frame 0.
+- **No separate outro/end card.** After the thesis bookend, the CTA is the true final beat: hold
+  it on screen for about 2.5 seconds after its audio ends, then end the composition there.
 - Default to **1920x1080 at 60fps** for this format (smoother diagram/camera motion than the
   30fps used for the plain kinetic-text format).
 - Keep the same base dark/accent palette as the project's other essay videos for series
   continuity, unless told otherwise.
+
+**Pacing: silence needs real duration, not just a nonzero value.** Every beat's hold (the gap
+between its speech ending and the next beat's speech starting) is already structurally silent —
+but 500-900ms of that reads as a rounding error, not a breath, especially stacked against fast
+camera cuts. Use **1.2-2.6 seconds of hold** depending on the beat's weight (short/plain beats
+at the low end, the Mechanism Reveal and the final CTA at the high end) — roughly 1.5-1.8x
+what feels sufficient on first instinct. This, together with the pan-not-cut camera rule above,
+is most of what separates a video that feels "programmatic" from one that feels directed.
 
 ## Audio & timing pipeline (reuse, don't reinvent)
 
@@ -126,6 +185,16 @@ start/end, camera cue points) off real word timestamps via a `frameOfWord(beatId
 edge?, occurrence?)` lookup — never a guessed frame number. Run generation with:
 `node --env-file=.env --experimental-strip-types scripts/generate-voiceover-<name>.ts`
 (no `tsx`/`ts-node` dependency needed on Node 22+).
+
+**Voice settings — avoid a flat/monotone read.** Default `voice_settings` tuned for
+consistency (`stability: 0.5, style: 0.3`) reads as monotone over 2-3 minutes of narration. For
+this format, prefer `stability: 0.35` (ElevenLabs' actual lever for natural prosodic variation
+between sentences — lower is more expressive/human, higher is flatter/more consistent),
+`style: 0.45` (leans into the voice's natural expressiveness), and `speed: 0.92` (valid range
+0.7-1.2, default 1.0; a measured pace reads as more deliberate/less rushed than default). There
+is no literal per-breath pitch control in the ElevenLabs API — `stability` is the closest real
+lever to "less monotone," not a pitch-curve parameter, so don't over-promise precision here when
+describing the effect to a user.
 
 ## File layout (mirror this)
 
@@ -235,4 +304,13 @@ through undermines the sense that the screen actually changed.
 - Confirm at least the enumeration/list beat and the counterweight beat use a dedicated scene,
   not the diagram + generic caption — if every beat still looks like "graph + caption," the
   match-technique-to-content step above was skipped.
+- Check a still at the widest camera framing (the Mechanism Reveal, or any other 0-focus-node
+  beat) with the caption visible — confirm no diagram content (node labels, tags) intersects
+  the caption band. This is the safe-zone check; do it at the widest shot specifically, since
+  that's where a tuned-by-eye offset would have failed.
+- Scrub (not just spot-check) the multi-person pans within a beat — confirm they read as a
+  sweep across the layout, not a snap-cut with a curve on it.
+- Confirm the video opens on a Hook scene (not the diagram, not a title card) and closes on a
+  CTA scene (not the thesis) — and that neither is a paraphrase of the essay's own opening/
+  closing sentences.
 - `npx tsc` and `npx eslint <dir>` clean before rendering.

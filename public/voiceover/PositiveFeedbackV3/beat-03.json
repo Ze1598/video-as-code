@@ -1,0 +1,61 @@
+{
+  "text": "But he never told her. He just assumed she already knew.",
+  "durationMs": 3251,
+  "words": [
+    {
+      "text": "But",
+      "startMs": 0,
+      "endMs": 267
+    },
+    {
+      "text": "he",
+      "startMs": 313,
+      "endMs": 360
+    },
+    {
+      "text": "never",
+      "startMs": 453,
+      "endMs": 673
+    },
+    {
+      "text": "told",
+      "startMs": 755,
+      "endMs": 1057
+    },
+    {
+      "text": "her.",
+      "startMs": 1115,
+      "endMs": 1265
+    },
+    {
+      "text": "He",
+      "startMs": 1324,
+      "endMs": 1405
+    },
+    {
+      "text": "just",
+      "startMs": 1486,
+      "endMs": 1741
+    },
+    {
+      "text": "assumed",
+      "startMs": 1788,
+      "endMs": 2171
+    },
+    {
+      "text": "she",
+      "startMs": 2218,
+      "endMs": 2403
+    },
+    {
+      "text": "already",
+      "startMs": 2450,
+      "endMs": 2763
+    },
+    {
+      "text": "knew.",
+      "startMs": 2798,
+      "endMs": 3251
+    }
+  ]
+}
