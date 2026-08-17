@@ -1,0 +1,41 @@
+{
+  "text": "Ten months later, in her performance review,",
+  "durationMs": 2694,
+  "words": [
+    {
+      "text": "Ten",
+      "startMs": 0,
+      "endMs": 290
+    },
+    {
+      "text": "months",
+      "startMs": 348,
+      "endMs": 615
+    },
+    {
+      "text": "later,",
+      "startMs": 673,
+      "endMs": 1080
+    },
+    {
+      "text": "in",
+      "startMs": 1138,
+      "endMs": 1265
+    },
+    {
+      "text": "her",
+      "startMs": 1347,
+      "endMs": 1451
+    },
+    {
+      "text": "performance",
+      "startMs": 1521,
+      "endMs": 2090
+    },
+    {
+      "text": "review,",
+      "startMs": 2125,
+      "endMs": 2694
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "text": "It says: this worked. This mattered. Do it again.",
+  "durationMs": 3065,
+  "words": [
+    {
+      "text": "It",
+      "startMs": 0,
+      "endMs": 313
+    },
+    {
+      "text": "says:",
+      "startMs": 372,
+      "endMs": 731
+    },
+    {
+      "text": "this",
+      "startMs": 766,
+      "endMs": 952
+    },
+    {
+      "text": "worked.",
+      "startMs": 1033,
+      "endMs": 1370
+    },
+    {
+      "text": "This",
+      "startMs": 1393,
+      "endMs": 1556
+    },
+    {
+      "text": "mattered.",
+      "startMs": 1625,
+      "endMs": 2101
+    },
+    {
+      "text": "Do",
+      "startMs": 2159,
+      "endMs": 2287
+    },
+    {
+      "text": "it",
+      "startMs": 2357,
+      "endMs": 2450
+    },
+    {
+      "text": "again.",
+      "startMs": 2485,
+      "endMs": 3065
+    }
+  ]
+}

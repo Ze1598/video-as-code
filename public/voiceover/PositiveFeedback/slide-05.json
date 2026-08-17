@@ -1,0 +1,61 @@
+{
+  "text": "No one told her which parts of her work actually mattered.",
+  "durationMs": 3669,
+  "words": [
+    {
+      "text": "No",
+      "startMs": 0,
+      "endMs": 221
+    },
+    {
+      "text": "one",
+      "startMs": 279,
+      "endMs": 441
+    },
+    {
+      "text": "told",
+      "startMs": 476,
+      "endMs": 755
+    },
+    {
+      "text": "her",
+      "startMs": 813,
+      "endMs": 929
+    },
+    {
+      "text": "which",
+      "startMs": 1010,
+      "endMs": 1242
+    },
+    {
+      "text": "parts",
+      "startMs": 1312,
+      "endMs": 1591
+    },
+    {
+      "text": "of",
+      "startMs": 1637,
+      "endMs": 1707
+    },
+    {
+      "text": "her",
+      "startMs": 1788,
+      "endMs": 1939
+    },
+    {
+      "text": "work",
+      "startMs": 2055,
+      "endMs": 2380
+    },
+    {
+      "text": "actually",
+      "startMs": 2461,
+      "endMs": 2914
+    },
+    {
+      "text": "mattered.",
+      "startMs": 2972,
+      "endMs": 3669
+    }
+  ]
+}

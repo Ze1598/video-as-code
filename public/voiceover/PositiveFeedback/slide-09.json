@@ -1,0 +1,46 @@
+{
+  "text": "Meetings celebrated finished tickets. Preventive work went unnoticed.",
+  "durationMs": 4272,
+  "words": [
+    {
+      "text": "Meetings",
+      "startMs": 0,
+      "endMs": 453
+    },
+    {
+      "text": "celebrated",
+      "startMs": 488,
+      "endMs": 1149
+    },
+    {
+      "text": "finished",
+      "startMs": 1219,
+      "endMs": 1602
+    },
+    {
+      "text": "tickets.",
+      "startMs": 1637,
+      "endMs": 2078
+    },
+    {
+      "text": "Preventive",
+      "startMs": 2171,
+      "endMs": 2763
+    },
+    {
+      "text": "work",
+      "startMs": 2821,
+      "endMs": 3077
+    },
+    {
+      "text": "went",
+      "startMs": 3146,
+      "endMs": 3402
+    },
+    {
+      "text": "unnoticed.",
+      "startMs": 3471,
+      "endMs": 4272
+    }
+  ]
+}

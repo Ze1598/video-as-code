@@ -1,0 +1,21 @@
+{
+  "text": "You're doing fine.",
+  "durationMs": 1440,
+  "words": [
+    {
+      "text": "You're",
+      "startMs": 0,
+      "endMs": 406
+    },
+    {
+      "text": "doing",
+      "startMs": 476,
+      "endMs": 766
+    },
+    {
+      "text": "fine.",
+      "startMs": 848,
+      "endMs": 1440
+    }
+  ]
+}

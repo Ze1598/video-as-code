@@ -1,0 +1,51 @@
+{
+  "text": "Her manager praised the work, during a leadership call.",
+  "durationMs": 3297,
+  "words": [
+    {
+      "text": "Her",
+      "startMs": 0,
+      "endMs": 174
+    },
+    {
+      "text": "manager",
+      "startMs": 221,
+      "endMs": 662
+    },
+    {
+      "text": "praised",
+      "startMs": 778,
+      "endMs": 1196
+    },
+    {
+      "text": "the",
+      "startMs": 1254,
+      "endMs": 1347
+    },
+    {
+      "text": "work,",
+      "startMs": 1405,
+      "endMs": 1730
+    },
+    {
+      "text": "during",
+      "startMs": 1811,
+      "endMs": 2125
+    },
+    {
+      "text": "a",
+      "startMs": 2183,
+      "endMs": 2206
+    },
+    {
+      "text": "leadership",
+      "startMs": 2276,
+      "endMs": 2740
+    },
+    {
+      "text": "call.",
+      "startMs": 2856,
+      "endMs": 3297
+    }
+  ]
+}

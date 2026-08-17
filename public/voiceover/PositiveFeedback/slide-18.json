@@ -1,0 +1,46 @@
+{
+  "text": "If it's worth mentioning at the performance review,",
+  "durationMs": 3437,
+  "words": [
+    {
+      "text": "If",
+      "startMs": 0,
+      "endMs": 360
+    },
+    {
+      "text": "it's",
+      "startMs": 476,
+      "endMs": 731
+    },
+    {
+      "text": "worth",
+      "startMs": 813,
+      "endMs": 1080
+    },
+    {
+      "text": "mentioning",
+      "startMs": 1149,
+      "endMs": 1625
+    },
+    {
+      "text": "at",
+      "startMs": 1741,
+      "endMs": 1950
+    },
+    {
+      "text": "the",
+      "startMs": 2032,
+      "endMs": 2136
+    },
+    {
+      "text": "performance",
+      "startMs": 2194,
+      "endMs": 2810
+    },
+    {
+      "text": "review,",
+      "startMs": 2844,
+      "endMs": 3437
+    }
+  ]
+}

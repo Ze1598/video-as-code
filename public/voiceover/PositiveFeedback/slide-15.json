@@ -1,0 +1,16 @@
+{
+  "text": "It's reinforcement.",
+  "durationMs": 1533,
+  "words": [
+    {
+      "text": "It's",
+      "startMs": 0,
+      "endMs": 360
+    },
+    {
+      "text": "reinforcement.",
+      "startMs": 430,
+      "endMs": 1533
+    }
+  ]
+}

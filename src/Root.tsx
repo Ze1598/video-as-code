@@ -4,6 +4,8 @@ import { HelloWorld, myCompSchema } from "./HelloWorld";
 import { Logo, myCompSchema2 } from "./HelloWorld/Logo";
 import { CompetenceMovement } from "./CompetenceMovement";
 import { CompetenceMovementVertical } from "./CompetenceMovementVertical";
+import { PositiveFeedback, POSITIVE_FEEDBACK_DURATION } from "./PositiveFeedback";
+import { PositiveFeedbackV2, POSITIVE_FEEDBACK_V2_DURATION } from "./PositiveFeedbackV2";
 
 // Each <Composition> is an entry in the sidebar!
 
@@ -26,6 +28,24 @@ export const RemotionRoot: React.FC = () => {
         fps={30}
         width={1080}
         height={1920}
+      />
+
+      <Composition
+        id="PositiveFeedback"
+        component={PositiveFeedback}
+        durationInFrames={POSITIVE_FEEDBACK_DURATION}
+        fps={30}
+        width={1920}
+        height={1080}
+      />
+
+      <Composition
+        id="PositiveFeedbackV2"
+        component={PositiveFeedbackV2}
+        durationInFrames={POSITIVE_FEEDBACK_V2_DURATION}
+        fps={60}
+        width={1920}
+        height={1080}
       />
 
       <Composition

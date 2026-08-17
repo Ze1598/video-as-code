@@ -1,0 +1,56 @@
+{
+  "text": "She'd waited ten months for something everyone else already knew.",
+  "durationMs": 4086.9999999999995,
+  "words": [
+    {
+      "text": "She'd",
+      "startMs": 0,
+      "endMs": 360
+    },
+    {
+      "text": "waited",
+      "startMs": 418,
+      "endMs": 766
+    },
+    {
+      "text": "ten",
+      "startMs": 813,
+      "endMs": 1057
+    },
+    {
+      "text": "months",
+      "startMs": 1138,
+      "endMs": 1440
+    },
+    {
+      "text": "for",
+      "startMs": 1533,
+      "endMs": 1695
+    },
+    {
+      "text": "something",
+      "startMs": 1753,
+      "endMs": 2148
+    },
+    {
+      "text": "everyone",
+      "startMs": 2241,
+      "endMs": 2694
+    },
+    {
+      "text": "else",
+      "startMs": 2763,
+      "endMs": 3065
+    },
+    {
+      "text": "already",
+      "startMs": 3135,
+      "endMs": 3587
+    },
+    {
+      "text": "knew.",
+      "startMs": 3634,
+      "endMs": 4086.9999999999995
+    }
+  ]
+}

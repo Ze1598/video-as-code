@@ -1,0 +1,41 @@
+{
+  "text": "That gave her nothing to work with.",
+  "durationMs": 2183,
+  "words": [
+    {
+      "text": "That",
+      "startMs": 0,
+      "endMs": 302
+    },
+    {
+      "text": "gave",
+      "startMs": 360,
+      "endMs": 615
+    },
+    {
+      "text": "her",
+      "startMs": 662,
+      "endMs": 766
+    },
+    {
+      "text": "nothing",
+      "startMs": 848,
+      "endMs": 1173
+    },
+    {
+      "text": "to",
+      "startMs": 1242,
+      "endMs": 1335
+    },
+    {
+      "text": "work",
+      "startMs": 1416,
+      "endMs": 1649
+    },
+    {
+      "text": "with.",
+      "startMs": 1718,
+      "endMs": 2183
+    }
+  ]
+}

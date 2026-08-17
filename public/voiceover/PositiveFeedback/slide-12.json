@@ -1,0 +1,61 @@
+{
+  "text": "he brought up February. Called it one of her strongest contributions.",
+  "durationMs": 3994,
+  "words": [
+    {
+      "text": "he",
+      "startMs": 0,
+      "endMs": 151
+    },
+    {
+      "text": "brought",
+      "startMs": 209,
+      "endMs": 488
+    },
+    {
+      "text": "up",
+      "startMs": 557,
+      "endMs": 639
+    },
+    {
+      "text": "February.",
+      "startMs": 720,
+      "endMs": 1324
+    },
+    {
+      "text": "Called",
+      "startMs": 1440,
+      "endMs": 1730
+    },
+    {
+      "text": "it",
+      "startMs": 1765,
+      "endMs": 1858
+    },
+    {
+      "text": "one",
+      "startMs": 1950,
+      "endMs": 2136
+    },
+    {
+      "text": "of",
+      "startMs": 2159,
+      "endMs": 2218
+    },
+    {
+      "text": "her",
+      "startMs": 2264,
+      "endMs": 2357
+    },
+    {
+      "text": "strongest",
+      "startMs": 2415,
+      "endMs": 2856
+    },
+    {
+      "text": "contributions.",
+      "startMs": 2902,
+      "endMs": 3994
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "text": "The months after: corrections, task assignments, deadline reminders.",
+  "durationMs": 4365,
+  "words": [
+    {
+      "text": "The",
+      "startMs": 0,
+      "endMs": 139
+    },
+    {
+      "text": "months",
+      "startMs": 186,
+      "endMs": 511
+    },
+    {
+      "text": "after:",
+      "startMs": 580,
+      "endMs": 1010
+    },
+    {
+      "text": "corrections,",
+      "startMs": 1184,
+      "endMs": 1823
+    },
+    {
+      "text": "task",
+      "startMs": 1846,
+      "endMs": 2218
+    },
+    {
+      "text": "assignments,",
+      "startMs": 2264,
+      "endMs": 2891
+    },
+    {
+      "text": "deadline",
+      "startMs": 3007,
+      "endMs": 3506
+    },
+    {
+      "text": "reminders.",
+      "startMs": 3553,
+      "endMs": 4365
+    }
+  ]
+}

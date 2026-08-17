@@ -1,0 +1,46 @@
+{
+  "text": "She followed the only signals she could see.",
+  "durationMs": 2647,
+  "words": [
+    {
+      "text": "She",
+      "startMs": 0,
+      "endMs": 232
+    },
+    {
+      "text": "followed",
+      "startMs": 313,
+      "endMs": 697
+    },
+    {
+      "text": "the",
+      "startMs": 755,
+      "endMs": 871
+    },
+    {
+      "text": "only",
+      "startMs": 964,
+      "endMs": 1242
+    },
+    {
+      "text": "signals",
+      "startMs": 1312,
+      "endMs": 1707
+    },
+    {
+      "text": "she",
+      "startMs": 1741,
+      "endMs": 1834
+    },
+    {
+      "text": "could",
+      "startMs": 1881,
+      "endMs": 2067
+    },
+    {
+      "text": "see.",
+      "startMs": 2113,
+      "endMs": 2647
+    }
+  ]
+}

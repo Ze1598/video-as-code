@@ -1,0 +1,76 @@
+{
+  "text": "If it's worth mentioning at the performance review, it's worth mentioning when it happens.",
+  "durationMs": 5108,
+  "words": [
+    {
+      "text": "If",
+      "startMs": 0,
+      "endMs": 279
+    },
+    {
+      "text": "it's",
+      "startMs": 337,
+      "endMs": 488
+    },
+    {
+      "text": "worth",
+      "startMs": 522,
+      "endMs": 766
+    },
+    {
+      "text": "mentioning",
+      "startMs": 836,
+      "endMs": 1335
+    },
+    {
+      "text": "at",
+      "startMs": 1451,
+      "endMs": 1649
+    },
+    {
+      "text": "the",
+      "startMs": 1707,
+      "endMs": 1811
+    },
+    {
+      "text": "performance",
+      "startMs": 1858,
+      "endMs": 2426
+    },
+    {
+      "text": "review,",
+      "startMs": 2461,
+      "endMs": 2856
+    },
+    {
+      "text": "it's",
+      "startMs": 2926,
+      "endMs": 3146
+    },
+    {
+      "text": "worth",
+      "startMs": 3193,
+      "endMs": 3460
+    },
+    {
+      "text": "mentioning",
+      "startMs": 3518,
+      "endMs": 3994
+    },
+    {
+      "text": "when",
+      "startMs": 4110,
+      "endMs": 4319
+    },
+    {
+      "text": "it",
+      "startMs": 4365,
+      "endMs": 4447
+    },
+    {
+      "text": "happens.",
+      "startMs": 4516,
+      "endMs": 5108
+    }
+  ]
+}

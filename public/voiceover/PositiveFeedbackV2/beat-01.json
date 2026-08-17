@@ -1,0 +1,96 @@
+{
+  "text": "In February, a data engineer built a validation system that caught data issues before they reached the client.",
+  "durationMs": 7338,
+  "words": [
+    {
+      "text": "In",
+      "startMs": 0,
+      "endMs": 139
+    },
+    {
+      "text": "February,",
+      "startMs": 197,
+      "endMs": 848
+    },
+    {
+      "text": "a",
+      "startMs": 882,
+      "endMs": 952
+    },
+    {
+      "text": "data",
+      "startMs": 1033,
+      "endMs": 1347
+    },
+    {
+      "text": "engineer",
+      "startMs": 1428,
+      "endMs": 1974
+    },
+    {
+      "text": "built",
+      "startMs": 2090,
+      "endMs": 2415
+    },
+    {
+      "text": "a",
+      "startMs": 2496,
+      "endMs": 2554
+    },
+    {
+      "text": "validation",
+      "startMs": 2682,
+      "endMs": 3437
+    },
+    {
+      "text": "system",
+      "startMs": 3518,
+      "endMs": 3971
+    },
+    {
+      "text": "that",
+      "startMs": 4062.9999999999995,
+      "endMs": 4249
+    },
+    {
+      "text": "caught",
+      "startMs": 4319,
+      "endMs": 4586
+    },
+    {
+      "text": "data",
+      "startMs": 4644,
+      "endMs": 4969
+    },
+    {
+      "text": "issues",
+      "startMs": 5050,
+      "endMs": 5492
+    },
+    {
+      "text": "before",
+      "startMs": 5584,
+      "endMs": 5991
+    },
+    {
+      "text": "they",
+      "startMs": 6049,
+      "endMs": 6177
+    },
+    {
+      "text": "reached",
+      "startMs": 6258,
+      "endMs": 6525
+    },
+    {
+      "text": "the",
+      "startMs": 6560,
+      "endMs": 6629
+    },
+    {
+      "text": "client.",
+      "startMs": 6676,
+      "endMs": 7338
+    }
+  ]
+}
