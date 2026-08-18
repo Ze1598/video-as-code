@@ -83,14 +83,21 @@ ask what the intended design is rather than reasoning harder toward a confident-
 into a decision.** Evaluate purely on what's architecturally/creatively correct. If something
 is genuinely low-priority, say so based on relevance/impact, not effort.
 
+**Documentation reflects only the current state of the codebase — never history.** CLAUDE.md,
+README.md, and skill definitions (`.claude/skills/**/SKILL.md`) state what exists and how it
+works now, period. No "previously," "replaced," "used to," "before the fix," "this was found
+via" — that framing belongs in commit messages and git history, not standing documentation. The
+one exception is `tests/`: a regression test's purpose is documenting the specific bug it guards
+against, so that context stays in test comments.
+
 **Run the voiceover-generation script with:**
 ```
 node --env-file=.env --experimental-strip-types scripts/generate-voiceover.ts <VideoName>
 ```
 This is the one, deterministic CLI for every video — it reads that video's beat list from
 `src/<VideoName>/script.ts`. Never write a new hand-written `generate-voiceover-<name>.ts` file
-per video; that per-project-script pattern is exactly what this replaced. Not `tsx`/`ts-node` —
-Node 22+ strips TypeScript natively and no such dependency exists in this repo.
+per video — a per-video script duplicates logic across videos and lets them drift. Not
+`tsx`/`ts-node` — Node 22+ strips TypeScript natively and no such dependency exists in this repo.
 
 **Run `npm test` after any code change, and after adding or changing a test case.** The
 regression suite lives in `tests/` (`tests/README.md` explains what's covered and why — module

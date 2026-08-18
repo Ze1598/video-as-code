@@ -1,20 +1,17 @@
 ---
 name: leadership-visual-essay
 description: Build a state-driven diagram video from a leadership/organizational essay — a fixed node/connector visual system with a focus-driven camera, one causal chain, one payoff, and per-beat technique matched to content. Opens on a hook, closes on an engagement question, not an essay paraphrase. Use for "Programmatic Leadership Visual Essay" style videos, as opposed to plain kinetic-typography videos.
-version: 1.2
+version: 1.3
 ---
 
 This is a distinct video genre from plain kinetic-text essay videos (see
 [remotion-markup](../remotion-markup/SKILL.md) for that format — no example of it currently
-exists in this repo; every video built so far uses this diagram format). Use this skill when
+exists in this repo; every video in this repo uses this diagram format). Use this skill when
 the user wants a leadership/organizational essay turned into a video that shows a *mechanism*
 — people, information, and decisions moving through a system — rather than just narrated text
 on screen. Reference implementation in this repo: `src/HowToBeUnderstood/`, built against the
 shared library below — read it before building a new one, don't rely on memory of a past
-session. Earlier implementations (`ConfusedLabels`, `PositiveFeedbackV2`/`V3`) were removed
-once superseded by the shared library, to keep exactly one canonical example in the repo —
-their rendered outputs (`out/ConfusedLabels.mp4`, `out/PositiveFeedback_v2.mp4`, `_v3.mp4`)
-still exist.
+session.
 
 ## Format definition
 
@@ -113,10 +110,10 @@ mount/unmount). Use `<Sequence>` only to place each beat's `<Audio>` at the righ
   actually spoke. Instead, **pulse the existing connector** that carried the original claim —
   a brief accent + glow flash timed to the reveal's cue word, using the same reserved
   accent-color treatment as a genuine delivery, layered on top of (not replacing) its normal
-  resting state. This was the device `HoldYourStandards` used for a team lead's public boast
-  echoing back against him once operations independently invoked the same standard: the boast
-  connector (Team Lead <-> Other Managers) pulsed, rather than a new connector being drawn to
-  Operations, who never heard the boast at all.
+  resting state. `HoldYourStandards` uses this device for a team lead's public boast echoing
+  back against him once operations independently invokes the same standard: the boast connector
+  (Team Lead <-> Other Managers) pulses, rather than a new connector being drawn to Operations,
+  who never heard the boast at all.
 
 **Node occlusion (a real bug to avoid):** connector lines terminate at node centers in code,
 relying on the node's circle being drawn afterward and fully opaque to visually clip the line
@@ -126,13 +123,13 @@ through instead of cleanly stopping at the edge. To dim a node (e.g. "this perso
 currently out of the loop"), only change its stroke color and label color; keep fill opacity
 at 1 always.
 
-**Packets have the *inverse* occlusion rule from connectors — a real bug hit twice before
-being fixed.** A connector needs nodes drawn *after* it, to clip its ends. A packet/marker
-(`src/lib/diagram/PacketMarker.tsx`) that can idle exactly at a node's center needs the
-*opposite*: it must render *after* the nodes, or that node's opaque fill paints directly over
-it, making it invisible for however long it sits there. Use `DiagramFrame`'s `overlay` prop for
-every packet — nodes and connectors go in `children`, packets go in `overlay`, which always
-renders after `children` inside the same camera-transformed `<g>`. This makes the correct
+**Packets have the *inverse* occlusion rule from connectors.** A connector needs nodes drawn
+*after* it, to clip its ends. A packet/marker (`src/lib/diagram/PacketMarker.tsx`) that can idle
+exactly at a node's center needs the *opposite*: it must render *after* the nodes, or that
+node's opaque fill paints directly over it, making it invisible for however long it sits there.
+Use `DiagramFrame`'s `overlay` prop for every packet — nodes and connectors go in `children`,
+packets go in `overlay`, which always renders after `children` inside the same
+camera-transformed `<g>`. This makes the correct
 z-order structural rather than a JSX-ordering convention a future video can get backwards; see
 `src/lib/__demo__/World.tsx`'s own packet for a worked example of the failure mode this
 prevents.
@@ -153,18 +150,24 @@ persona(s) are actually being discussed (0, 1, 2, or occasionally more) and comp
 from that using `fitCameraToFocus` (`src/lib/diagram/frameFit.ts`) — pass it your video's node
 positions and the focus id(s):
 - 1 or more focus nodes: `fitCameraToFocus(NODES, [id, ...])` centers on their centroid and
-  picks the tightest zoom that still fits them with margin — this replaces hand-picked
-  `TIGHT_ZOOM`/`PAIR_ZOOM` constants, which don't automatically stay valid when a video's node
-  layout changes. **Always check the result's `excludesNonFocus`** (a test should assert it
-  for every shot a video actually uses, not just eyeball a still) — `false` means a non-focus
-  node genuinely leaks into that framing at any zoom the fit allows, named in
-  `leakingNodeIds`; that's a real layout problem (nodes too close together for this shot),
-  not something to silently ship. This function replaced hand-picked constants after they
-  independently leaked a non-focus node into frame *three separate times* across three videos
-  (a too-loose `PAIR_ZOOM`, a too-cramped 4-node layout, and — found only once this function
-  existed to check it — a pre-existing leak in the very first reference video, all caught only
-  by a still-check until this existed) — treat the eyeballed version as the failure mode this
-  function exists to prevent, not an acceptable fallback.
+  picks the tightest zoom that still fits them with margin, so a video's own node layout is the
+  single source of truth for every tight/pair shot — never hand-pick a `TIGHT_ZOOM`/`PAIR_ZOOM`
+  constant. **Always check the result's `excludesNonFocus`** (a test should assert it for every
+  shot a video actually uses, not just eyeball a still) — `false` means a non-focus node
+  genuinely leaks into that framing at any zoom the fit allows, named in `leakingNodeIds`;
+  that's a real layout problem (nodes too close together for this shot), not something to
+  silently ship. Eyeballing a still instead of checking `excludesNonFocus` is exactly the
+  failure mode this function exists to prevent, not an acceptable fallback.
+  - The default margin is asymmetric — `{ top: 55, right: 55, bottom: 130, left: 55 }` — because
+    `PersonNode`'s label renders BELOW the circle (radius 54 + a 38px offset + ~26px of text),
+    not symmetrically around it. This protects both directions the margin is used for: a focus
+    node's full footprint (circle + label) must land inside the frame at the computed zoom, and
+    a non-focus node's full footprint must land entirely outside it. A node positioned south of
+    a shot's center is the binding constraint for inclusion (its label reaches away from
+    center); a node positioned north of the focus is the binding constraint for exclusion (its
+    label reaches back toward center). Pass an explicit `margin` override only when a node's
+    real rendered footprint differs from `PersonNode`'s (a different node type, unusually large
+    labels).
 - 0 focus nodes ("wide"/"reveal"): `fitCameraToFocus(NODES, [])` centers on the centroid of
   every entity, zoomed to fit all of them. Use this whenever the beat is general/reflective
   rather than about a specific 1-2 people. The Mechanism Reveal payoff wants a *deliberately*
@@ -183,20 +186,18 @@ then transition to the next target only in the gap between one hold-until and th
 arrive. A naive keyframe list of single points per beat will perpetually ease toward the next
 target and never rest, which is most noticeable (and most damaging) on any beat that needs a
 true static hold (a deadpan emotional beat, or the reveal itself while a connector draws).
-`src/lib/Camera.ts`'s `cameraTransformFactory` now validates this eagerly (see below) but can
-only catch a missing hold as a crash, not silently-wrong values — the hold-pair discipline
-itself is still on you.
+`src/lib/Camera.ts`'s `cameraTransformFactory` validates this eagerly (see below) but can only
+catch a missing hold as a crash, not silently-wrong values — the hold-pair discipline itself is
+still on you.
 
 **This exact rule generalizes to `WORLD_OPACITY_FRAMES`/`VALUES` too — it is not
 camera-specific.** A video's world-opacity fade (diagram in/out around a dedicated scene) uses
 the identical `interpolate()` mechanism as the camera, and is subject to the identical failure:
 a "hold" expressed as a single point immediately followed by a much later, different-valued
-point doesn't hold — it drifts, eased, across the *entire* gap between them. This shipped once
-(`AvoidCommunicationSilos`'s Mechanism Reveal nearly faded the diagram to invisible mid-beat,
-caught only by a still-check at the reveal's midpoint) before being generalized here. Use
-`opacityFactory` from `src/lib/keyframes.ts` instead of an inline `interpolate` call — same
-shape as `cameraTransformFactory` (construct once from your `WORLD_OPACITY_FRAMES`/`VALUES`,
-call per frame), and it validates eagerly too.
+point doesn't hold — it drifts, eased, across the *entire* gap between them. Use `opacityFactory`
+from `src/lib/keyframes.ts` instead of an inline `interpolate` call — same shape as
+`cameraTransformFactory` (construct once from your `WORLD_OPACITY_FRAMES`/`VALUES`, call per
+frame), and it validates eagerly too.
 
 **A specific, real way to break the hold-pair rule: two adjacent beats colliding on their
 shared boundary frame.** Beats are contiguous (`buildTimeline` guarantees
@@ -208,10 +209,9 @@ no indication of which layout.ts line caused it. The fix is the same offset-pan 
 every other beat-boundary transition: hold on one side up to `nextBeat.from - SLOW`, then let
 the arrival keyframe at `nextBeat.from` be the only point that actually sits on the boundary.
 Never place a hold point at `beat[n].from + beat[n].duration` when beat `n + 1` also places one
-at its own `.from` — pick one side. Both `cameraTransformFactory` and `opacityFactory` now call
+at its own `.from` — pick one side. Both `cameraTransformFactory` and `opacityFactory` call
 `assertStrictlyIncreasing` (`src/lib/keyframes.ts`) before returning, so this fails immediately
-at module load with a message naming the exact colliding frames and this cause, instead of a
-generic crash on first render.
+at module load with a message naming the exact colliding frames and this cause.
 
 **Camera moves must read as pans, not cuts.** A short transition (under ~20 frames at 60fps)
 with an ease-out curve reads as a snap with a decorative curve on top, not a camera actually
@@ -257,9 +257,9 @@ start/end, packet travel start/end, camera cue points) off real word timestamps 
 **One script, not one per video.** `scripts/generate-voiceover.ts` is the single, deterministic
 CLI — it takes a video name and reads that video's beat list from its own
 `src/<VideoName>/script.ts` (a `SLIDES: Slide[]` export, `Slide` from `scripts/lib/
-elevenlabs.ts`). Write the beat list as data in that file, never as a new hand-written script —
-a per-video `scripts/generate-voiceover-<name>.ts` file is exactly the "ad hoc per project"
-shape this replaced. Run with:
+elevenlabs.ts`). Write the beat list as data in that file, never as a new hand-written
+per-video `scripts/generate-voiceover-<name>.ts` script — that shape duplicates logic across
+videos and lets them drift. Run with:
 `node --env-file=.env --experimental-strip-types scripts/generate-voiceover.ts <VideoName>`
 (no `tsx`/`ts-node` dependency needed on Node 22+).
 
@@ -277,12 +277,11 @@ describing the effect to a user.
 script is often a full paragraph (multiple sentences in one `with-timestamps` call), and the
 model's default pause at a sentence-ending period is short and uniform — over several sentences
 it can read as separate audio clips butted together rather than one person speaking. The tag
-`<break time="Xs" />` does insert a real, controllable gap when sent to `model_id: "eleven_v3"`
-(confirmed directly: ignored on `eleven_multilingual_v2` — 0.45s gap, tag literally read back
-as text in the alignment response — but honored on `eleven_v3` — 2.0s gap, tag not spoken).
-**Don't use this fix anyway**: `eleven_v3` is still a preview feature and was found, on direct
-listening after a full-script regeneration, to measurably degrade voice fidelity/character
-compared to `eleven_multilingual_v2` — a worse trade than the pause problem it solves. Generate
+`<break time="Xs" />` inserts a real, controllable gap on `model_id: "eleven_v3"` (ignored on
+`eleven_multilingual_v2` — 0.45s gap, tag literally read back as text in the alignment response
+— but honored on `eleven_v3` — 2.0s gap, tag not spoken). **Don't use this fix anyway**:
+`eleven_v3` is a preview feature that measurably degrades voice fidelity/character compared to
+`eleven_multilingual_v2` — a worse trade than the pause problem it solves. Generate
 on `eleven_multilingual_v2` (see `voice_settings` above) and accept the tighter natural pauses
 until v3 (or an equivalent break-tag-supporting model) leaves preview and is re-verified for
 fidelity, not just for whether the tag works.
@@ -296,8 +295,8 @@ assemble the beat's audio with exact silence gaps controlled directly in Remotio
 but a real pipeline change away from this section's "one call per beat" convention, and still
 costs a fresh paid generation. Neither has been implemented or tested end-to-end yet.
 
-If a future break-tag-supporting model is used again, two mechanical footguns to handle in the
-generation script (found while testing `eleven_v3`, still true for any such model): pad the tag
+If a future break-tag-supporting model is used, two mechanical footguns to handle in the
+generation script (true for `eleven_v3` and any such model): pad the tag
 with real spaces (`sentence one. <break time="0.35s" /> sentence two.`, not butted against the
 punctuation) or its characters fuse onto the adjacent real words when the alignment response is
 split into words, corrupting both; and filter tag characters out of the derived word list — the
@@ -314,13 +313,12 @@ that.
 ## Reusable library — import, don't copy-paste
 
 `scripts/lib/` and `src/lib/` hold every piece of this pipeline that's genuinely mechanical
-boilerplate, not creative per-video content. Built after three videos had independently
-re-derived (and once, mis-derived) the same code. **Before writing any of the code below by
-hand, check whether `src/lib`/`scripts/lib` already has it** — re-deriving something that
-already exists there is exactly the wasted-token/re-discovered-bug pattern this library exists
-to prevent. `src/lib/__demo__/` is a standing smoke test for the library itself (synthetic
-placeholder data, not a real video) — run `npx remotion still LibDemo out.png --frame=N` after
-touching anything under `src/lib` to confirm nothing broke.
+boilerplate, not creative per-video content. **Before writing any of the code below by hand,
+check whether `src/lib`/`scripts/lib` already has it** — re-deriving something that already
+exists there wastes effort and risks re-introducing a bug the shared version already avoids.
+`src/lib/__demo__/` is a standing smoke test for the library itself (synthetic placeholder data,
+not a real video) — run `npx remotion still LibDemo out.png --frame=N` after touching anything
+under `src/lib` to confirm nothing broke.
 
 What's in the library (import these, don't reimplement):
 - `scripts/lib/elevenlabs.ts` — `generateVoiceover({ outDir, slides, voiceSettings?, modelId? })`,
@@ -341,11 +339,10 @@ What's in the library (import these, don't reimplement):
   `frameOfWordFactory(beats, timeline, fps)`.
 - `src/lib/keyframes.ts` — `assertStrictlyIncreasing(frames, label)` (called eagerly inside
   `cameraTransformFactory`/`opacityFactory` — a colliding keyframe array throws immediately at
-  module load, naming the exact cause, instead of a generic crash on first render) and
-  `opacityFactory(frames, values)`, the `WORLD_OPACITY_FRAMES`/`VALUES` equivalent of
-  `cameraTransformFactory` — construct once, call per frame. Use this instead of an inline
-  `interpolate` call for world opacity; see "Camera must actually hold, not drift" below, which
-  the identical rule now covers for both.
+  module load, naming the exact cause) and `opacityFactory(frames, values)`, the
+  `WORLD_OPACITY_FRAMES`/`VALUES` equivalent of `cameraTransformFactory` — construct once, call
+  per frame. Use this instead of an inline `interpolate` call for world opacity; see "Camera
+  must actually hold, not drift" below, which covers both.
 - `src/lib/Camera.ts` — `cameraTransformFactory(frames, xs, ys, zooms)`, called with a video's
   own `CAMERA_FRAMES`/`X`/`Y`/`ZOOM` from its `layout.ts`.
 - `src/lib/diagram/frameFit.ts` — `fitCameraToFocus(nodes, focusIds, opts?)`, the generalized
@@ -359,9 +356,8 @@ What's in the library (import these, don't reimplement):
   below) + camera `<g>` + `<svg>`, taking `worldOpacity`, `children` (nodes/connectors), and an
   `overlay` prop (packets — see "Node occlusion" below for why these are separate).
 - `src/lib/diagram/PacketMarker.tsx` — the diamond ("in-transit/unresolved") or circle
-  ("delivered/resolved", pass `accent`) packet marker, hand-copied independently across three
-  videos before being extracted here. Always render it via `DiagramFrame`'s `overlay` prop, not
-  inline alongside nodes.
+  ("delivered/resolved", pass `accent`) packet marker. Always render it via `DiagramFrame`'s
+  `overlay` prop, not inline alongside nodes.
 - `src/lib/diagram/connectorMath.ts` — `drawOnStyle(t)`, the pathLength=1 draw-on primitive.
   **Connector activation, direction, and color meaning stay hand-written per video** — that's
   the creative core of the diagram, not boilerplate (see "Connectors carry the entire
@@ -406,13 +402,12 @@ component in the same directory — on a case-sensitive filesystem TypeScript st
 filenames differing only by case (`forceConsistentCasingInFileNames`). Use `layout.ts` for
 the data file instead.
 
-## On-screen text must be derived, never hand-typed (this is the #1 recurring bug)
+## On-screen text must be derived, never hand-typed (the single most important rule for this format)
 
-Every version of this format so far has shipped with captions that quietly diverge from the
-actual audio — e.g. showing "at the review" when the recorded line says "at the performance
-review." The fix is architectural, not "be more careful": **on-screen text must be computed
-from the same real word array that generated the audio, never retyped by hand as a separate
-string.** Concretely:
+A hand-typed caption can silently diverge from the actual audio — e.g. showing "at the review"
+when the spoken line is "at the performance review." The fix is architectural, not "be more
+careful": **on-screen text must be computed from the same real word array that generated the
+audio, never retyped by hand as a separate string.** Concretely:
 
 - Write a `splitSentences(words)` utility that groups a beat's real `WordTiming[]` into
   sentences at real sentence-ending punctuation (`.`, `?`, `!`). Every piece of on-screen text
@@ -434,13 +429,12 @@ string.** Concretely:
 
 ## Match technique to content — the diagram is not the only tool
 
-The single biggest quality failure in early drafts of this format was applying the same
-node/connector diagram to every beat regardless of what that beat is actually about, so nothing
-about the screen distinguished "we're describing a relationship between two people" from "we're
-listing three things" from "we're weighing a legitimate action against a mistake." Treat the
-diagram as **one technique among several**, reserved for beats that are genuinely about people/
-information moving through the system. For other beats, build a dedicated full-screen scene
-whose *structure* matches the sentence's structure:
+Applying the same node/connector diagram to every beat regardless of what that beat is actually
+about leaves nothing about the screen distinguishing "we're describing a relationship between
+two people" from "we're listing three things" from "we're weighing a legitimate action against
+a mistake." Treat the diagram as **one technique among several**, reserved for beats that are
+genuinely about people/information moving through the system. For other beats, build a
+dedicated full-screen scene whose *structure* matches the sentence's structure:
 
 - **An enumeration** ("it says: this worked, this mattered, do it again") becomes an actual
   list: wipe away from the diagram, then reveal each item as its own row, timed to that item's
