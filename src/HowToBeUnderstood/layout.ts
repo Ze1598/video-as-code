@@ -1,9 +1,10 @@
-import { frameOfWord, TIMELINE, TOTAL_DURATION } from "./timeline";
-import { DEFAULT_CAPTION_TOP, DEFAULT_DIAGRAM_SCALE } from "../lib/diagram/DiagramFrame";
+import { frameOfWord, TIMELINE, TOTAL_DURATION } from "./timeline.ts";
+import { DEFAULT_CAPTION_TOP, DEFAULT_DIAGRAM_SCALE } from "../lib/diagram/DiagramFrame.tsx";
+import { fitCameraToFocus } from "../lib/diagram/frameFit.ts";
 
 // Same base palette as the other essay videos, for series continuity — see
 // src/lib/palette.ts, the shared source of truth.
-export { BG, TEXT, DIM_TEXT, ACCENT, LINE_INACTIVE, LINE_ACTIVE } from "../lib/palette";
+export { BG, TEXT, DIM_TEXT, ACCENT, LINE_INACTIVE, LINE_ACTIVE } from "../lib/palette.ts";
 
 export type NodeId = "lead" | "eng1" | "eng2" | "eng3";
 export const ENGINEER_IDS: NodeId[] = ["eng1", "eng2", "eng3"];
@@ -90,10 +91,26 @@ export const WRONG_PACKET_FADE_DURATION = 20;
 // them is genuinely constant. FAST/SLOW are deliberately long with an
 // ease-in-out curve (see Camera.ts) so pans read as the camera sweeping
 // across the layout, not cutting between positions.
+// WIDE/REVEAL are 0-focus shots (nothing to exclude — everyone's included
+// by definition), and REVEAL's deliberate "wider than idle wide" framing
+// is a creative choice, not a safety-derived one — both stay explicit
+// constants rather than going through fitCameraToFocus's generic 0-focus
+// path, which would collapse them to the same zoom.
 const WIDE = { x: CENTER.x, y: CENTER.y, zoom: 0.85 };
 const REVEAL = { x: CENTER.x, y: CENTER.y, zoom: 0.7 };
-const TIGHT_ZOOM = 2.0;
-const tight = (id: NodeId) => ({ x: NODES[id].x, y: NODES[id].y, zoom: TIGHT_ZOOM });
+
+// maxZoom: 2.3, not the fitCameraToFocus default of 2.0 — this layout's
+// Engineer 1 / Engineer 2 are only 80 world-units apart vertically (though
+// 500 apart horizontally), so the default cap left Engineer 2 bleeding
+// into a tight Engineer 1 shot (found via fitCameraToFocus's own exclusion
+// check, confirmed by rendering a still — a real, pre-existing bug, not
+// introduced by this retrofit). 2.3 is verified (see
+// tests/frame-fit.test.ts) to exclude correctly for all four tight shots
+// in this layout.
+const tight = (id: NodeId) => {
+  const fit = fitCameraToFocus(NODES, [id], { maxZoom: 2.3 });
+  return { x: fit.x, y: fit.y, zoom: fit.zoom };
+};
 
 const FAST = 48; // a genuine pan between entities within a beat
 const SLOW = 55; // a gentler transition at a beat/mode boundary

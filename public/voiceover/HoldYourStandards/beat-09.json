@@ -1,0 +1,176 @@
+{
+  "text": "His approval also taught the team more than his speeches did. They learned that unclear errors were acceptable if the main workflow worked. Broken edge cases could wait. Refinement ended when the deadline arrived.",
+  "durationMs": 14861,
+  "words": [
+    {
+      "text": "His",
+      "startMs": 0,
+      "endMs": 197
+    },
+    {
+      "text": "approval",
+      "startMs": 244,
+      "endMs": 824
+    },
+    {
+      "text": "also",
+      "startMs": 952,
+      "endMs": 1335
+    },
+    {
+      "text": "taught",
+      "startMs": 1463,
+      "endMs": 1788
+    },
+    {
+      "text": "the",
+      "startMs": 1834,
+      "endMs": 1927
+    },
+    {
+      "text": "team",
+      "startMs": 2009,
+      "endMs": 2438
+    },
+    {
+      "text": "more",
+      "startMs": 2786,
+      "endMs": 3111
+    },
+    {
+      "text": "than",
+      "startMs": 3158,
+      "endMs": 3320
+    },
+    {
+      "text": "his",
+      "startMs": 3425,
+      "endMs": 3553
+    },
+    {
+      "text": "speeches",
+      "startMs": 3587,
+      "endMs": 4040
+    },
+    {
+      "text": "did.",
+      "startMs": 4122,
+      "endMs": 4435
+    },
+    {
+      "text": "They",
+      "startMs": 4737,
+      "endMs": 4899
+    },
+    {
+      "text": "learned",
+      "startMs": 4992,
+      "endMs": 5213
+    },
+    {
+      "text": "that",
+      "startMs": 5236,
+      "endMs": 5387
+    },
+    {
+      "text": "unclear",
+      "startMs": 5480,
+      "endMs": 5933
+    },
+    {
+      "text": "errors",
+      "startMs": 6026,
+      "endMs": 6374
+    },
+    {
+      "text": "were",
+      "startMs": 6432,
+      "endMs": 6571
+    },
+    {
+      "text": "acceptable",
+      "startMs": 6606,
+      "endMs": 7454
+    },
+    {
+      "text": "if",
+      "startMs": 7686,
+      "endMs": 7953
+    },
+    {
+      "text": "the",
+      "startMs": 8010.999999999999,
+      "endMs": 8103.999999999999
+    },
+    {
+      "text": "main",
+      "startMs": 8162.000000000001,
+      "endMs": 8382
+    },
+    {
+      "text": "workflow",
+      "startMs": 8440,
+      "endMs": 8986
+    },
+    {
+      "text": "worked.",
+      "startMs": 9091,
+      "endMs": 9532
+    },
+    {
+      "text": "Broken",
+      "startMs": 9799,
+      "endMs": 10217
+    },
+    {
+      "text": "edge",
+      "startMs": 10344,
+      "endMs": 10635
+    },
+    {
+      "text": "cases",
+      "startMs": 10681,
+      "endMs": 11122
+    },
+    {
+      "text": "could",
+      "startMs": 11215,
+      "endMs": 11424
+    },
+    {
+      "text": "wait.",
+      "startMs": 11517,
+      "endMs": 11958
+    },
+    {
+      "text": "Refinement",
+      "startMs": 12225,
+      "endMs": 12852
+    },
+    {
+      "text": "ended",
+      "startMs": 12934,
+      "endMs": 13282
+    },
+    {
+      "text": "when",
+      "startMs": 13363,
+      "endMs": 13526
+    },
+    {
+      "text": "the",
+      "startMs": 13560,
+      "endMs": 13630
+    },
+    {
+      "text": "deadline",
+      "startMs": 13688,
+      "endMs": 14106
+    },
+    {
+      "text": "arrived.",
+      "startMs": 14129,
+      "endMs": 14861
+    }
+  ]
+}

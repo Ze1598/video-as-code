@@ -33,13 +33,15 @@ your own initiative. Report the finding, then wait. An earlier "proceed"/"go ahe
 broader task does not cover a new finding.
 
 **Every change gets validated before being called done.** For this repo that means: type-check
-and lint clean, and an actual `npx remotion still`/render check of the frames the change
+and lint clean, `npm test` clean (the regression suite in `tests/` — see `tests/README.md`;
+mandatory whenever code changes and whenever a test case is added or changed, not just before a
+first render), and an actual `npx remotion still`/render check of the frames the change
 touches — not just "the code looks right."
 
 **Plan before generating audio.** ElevenLabs generation costs money, and a script change after
 generation means regenerating audio plus rebuilding every beat-timing-dependent file
 (`data.ts`, `timeline.ts`, `layout.ts`, camera cues, scene cues). Present the causal-beat
-script table for approval before running any `generate-voiceover-*.ts` script.
+script table for approval before running `scripts/generate-voiceover.ts` against it.
 
 **Never hand-type on-screen text.** Captions, list items, split-screen phrases, closing lines
 — every on-screen string is derived from the real ElevenLabs word array
@@ -81,12 +83,22 @@ ask what the intended design is rather than reasoning harder toward a confident-
 into a decision.** Evaluate purely on what's architecturally/creatively correct. If something
 is genuinely low-priority, say so based on relevance/impact, not effort.
 
-**Run voiceover-generation scripts with:**
+**Run the voiceover-generation script with:**
 ```
-node --env-file=.env --experimental-strip-types scripts/generate-voiceover-<name>.ts
+node --env-file=.env --experimental-strip-types scripts/generate-voiceover.ts <VideoName>
 ```
-Not `tsx`/`ts-node` — Node 22+ strips TypeScript natively and no such dependency exists in
-this repo.
+This is the one, deterministic CLI for every video — it reads that video's beat list from
+`src/<VideoName>/script.ts`. Never write a new hand-written `generate-voiceover-<name>.ts` file
+per video; that per-project-script pattern is exactly what this replaced. Not `tsx`/`ts-node` —
+Node 22+ strips TypeScript natively and no such dependency exists in this repo.
+
+**Run `npm test` after any code change, and after adding or changing a test case.** The
+regression suite lives in `tests/` (`tests/README.md` explains what's covered and why — module
+resolution, camera-boundary keyframe collisions, a non-focus node leaking into a tight/pair
+shot, the ElevenLabs wiring). This is a mandatory step, not an optional check — see "Every
+change gets validated before being called done" above. `npm run test:live` runs two real, paid
+ElevenLabs calls and is never run without the user's explicit go-ahead for that specific run,
+same as any other paid API call.
 
 **Spot-check with `npx remotion still` before a full render.** At minimum: every beat
 boundary, the payoff/reveal moment, and the widest camera framing with a caption visible (the
@@ -113,8 +125,9 @@ memory of past sessions.
 
 **Before writing any video code by hand, check `src/lib/` and `scripts/lib/` first.** They
 hold every mechanical, non-creative piece of this pipeline (ElevenLabs API calls, word-timing
-derivation, the camera transform, the safe-zone diagram wrapper, node rendering, connector
-draw-on math, Hook/CTA/split-argument/list-row/caption/long-form scene primitives) — import
-from there, don't re-derive or copy-paste from an existing video. `src/HowToBeUnderstood/` is
-the current reference implementation, built against that library. This applies regardless of
-how the opening prompt is worded — it's not something the user has to ask for each time.
+derivation, the camera transform and its focus-node fit formula, keyframe-array validation, the
+safe-zone diagram wrapper, node/packet rendering, connector draw-on math, Hook/CTA/split-
+argument/list-row/caption/long-form scene primitives) — import from there, don't re-derive or
+copy-paste from an existing video. `src/HowToBeUnderstood/` is the current reference
+implementation, built against that library. This applies regardless of how the opening prompt
+is worded — it's not something the user has to ask for each time.

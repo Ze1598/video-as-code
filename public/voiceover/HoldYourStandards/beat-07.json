@@ -1,0 +1,51 @@
+{
+  "text": "They held his team to the standard he advertised.",
+  "durationMs": 2972,
+  "words": [
+    {
+      "text": "They",
+      "startMs": 0,
+      "endMs": 186
+    },
+    {
+      "text": "held",
+      "startMs": 232,
+      "endMs": 441
+    },
+    {
+      "text": "his",
+      "startMs": 488,
+      "endMs": 615
+    },
+    {
+      "text": "team",
+      "startMs": 697,
+      "endMs": 1010
+    },
+    {
+      "text": "to",
+      "startMs": 1138,
+      "endMs": 1254
+    },
+    {
+      "text": "the",
+      "startMs": 1312,
+      "endMs": 1382
+    },
+    {
+      "text": "standard",
+      "startMs": 1416,
+      "endMs": 1823
+    },
+    {
+      "text": "he",
+      "startMs": 1858,
+      "endMs": 1939
+    },
+    {
+      "text": "advertised.",
+      "startMs": 2020,
+      "endMs": 2972
+    }
+  ]
+}

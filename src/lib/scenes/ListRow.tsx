@@ -1,5 +1,5 @@
 import { Easing, interpolate } from "remotion";
-import { ACCENT, FONT, TEXT } from "../palette";
+import { ACCENT, FONT, TEXT } from "../palette.ts";
 
 const EASE = Easing.bezier(0.16, 1, 0.3, 1);
 const clamp = { extrapolateLeft: "clamp" as const, extrapolateRight: "clamp" as const };

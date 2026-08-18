@@ -1,0 +1,351 @@
+{
+  "text": "Eventually, operations, design, and engineering joined the same call. An engineer asked an operator to show how a correction worked. The operator opened the system and walked through it. The corrected value came from a different source than the designers had assumed. The report didn't need an immediate update. A question that had traveled through several meetings took minutes to resolve — once the people involved could speak directly.",
+  "durationMs": 24428,
+  "words": [
+    {
+      "text": "Eventually,",
+      "startMs": 0,
+      "endMs": 766
+    },
+    {
+      "text": "operations,",
+      "startMs": 824,
+      "endMs": 1556
+    },
+    {
+      "text": "design,",
+      "startMs": 1660,
+      "endMs": 2159
+    },
+    {
+      "text": "and",
+      "startMs": 2194,
+      "endMs": 2357
+    },
+    {
+      "text": "engineering",
+      "startMs": 2415,
+      "endMs": 2891
+    },
+    {
+      "text": "joined",
+      "startMs": 2972,
+      "endMs": 3262
+    },
+    {
+      "text": "the",
+      "startMs": 3286,
+      "endMs": 3355
+    },
+    {
+      "text": "same",
+      "startMs": 3402,
+      "endMs": 3622
+    },
+    {
+      "text": "call.",
+      "startMs": 3669,
+      "endMs": 3982
+    },
+    {
+      "text": "An",
+      "startMs": 4005,
+      "endMs": 4145
+    },
+    {
+      "text": "engineer",
+      "startMs": 4226,
+      "endMs": 4586
+    },
+    {
+      "text": "asked",
+      "startMs": 4644,
+      "endMs": 4853
+    },
+    {
+      "text": "an",
+      "startMs": 4888,
+      "endMs": 4957
+    },
+    {
+      "text": "operator",
+      "startMs": 5039,
+      "endMs": 5596
+    },
+    {
+      "text": "to",
+      "startMs": 5677,
+      "endMs": 5747
+    },
+    {
+      "text": "show",
+      "startMs": 5875,
+      "endMs": 6188
+    },
+    {
+      "text": "how",
+      "startMs": 6293,
+      "endMs": 6513
+    },
+    {
+      "text": "a",
+      "startMs": 6606,
+      "endMs": 6641
+    },
+    {
+      "text": "correction",
+      "startMs": 6722,
+      "endMs": 7163
+    },
+    {
+      "text": "worked.",
+      "startMs": 7245,
+      "endMs": 7628
+    },
+    {
+      "text": "The",
+      "startMs": 7976,
+      "endMs": 8103.999999999999
+    },
+    {
+      "text": "operator",
+      "startMs": 8162.000000000001,
+      "endMs": 8649
+    },
+    {
+      "text": "opened",
+      "startMs": 8707,
+      "endMs": 8998
+    },
+    {
+      "text": "the",
+      "startMs": 9021,
+      "endMs": 9091
+    },
+    {
+      "text": "system",
+      "startMs": 9125,
+      "endMs": 9497
+    },
+    {
+      "text": "and",
+      "startMs": 9578,
+      "endMs": 9706
+    },
+    {
+      "text": "walked",
+      "startMs": 9810,
+      "endMs": 10066
+    },
+    {
+      "text": "through",
+      "startMs": 10101,
+      "endMs": 10356
+    },
+    {
+      "text": "it.",
+      "startMs": 10391,
+      "endMs": 10565
+    },
+    {
+      "text": "The",
+      "startMs": 10751,
+      "endMs": 10867
+    },
+    {
+      "text": "corrected",
+      "startMs": 10913,
+      "endMs": 11320
+    },
+    {
+      "text": "value",
+      "startMs": 11366,
+      "endMs": 11726
+    },
+    {
+      "text": "came",
+      "startMs": 11761,
+      "endMs": 11970
+    },
+    {
+      "text": "from",
+      "startMs": 12016,
+      "endMs": 12167
+    },
+    {
+      "text": "a",
+      "startMs": 12225,
+      "endMs": 12249
+    },
+    {
+      "text": "different",
+      "startMs": 12353,
+      "endMs": 12783
+    },
+    {
+      "text": "source",
+      "startMs": 12841,
+      "endMs": 13212
+    },
+    {
+      "text": "than",
+      "startMs": 13247,
+      "endMs": 13375
+    },
+    {
+      "text": "the",
+      "startMs": 13421,
+      "endMs": 13491
+    },
+    {
+      "text": "designers",
+      "startMs": 13549,
+      "endMs": 14060
+    },
+    {
+      "text": "had",
+      "startMs": 14118,
+      "endMs": 14269
+    },
+    {
+      "text": "assumed.",
+      "startMs": 14315,
+      "endMs": 14849
+    },
+    {
+      "text": "The",
+      "startMs": 15082,
+      "endMs": 15186
+    },
+    {
+      "text": "report",
+      "startMs": 15233,
+      "endMs": 15592
+    },
+    {
+      "text": "didn't",
+      "startMs": 15639,
+      "endMs": 15894
+    },
+    {
+      "text": "need",
+      "startMs": 15976,
+      "endMs": 16207.999999999998
+    },
+    {
+      "text": "an",
+      "startMs": 16254.000000000002,
+      "endMs": 16312.000000000002
+    },
+    {
+      "text": "immediate",
+      "startMs": 16347.000000000002,
+      "endMs": 16742
+    },
+    {
+      "text": "update.",
+      "startMs": 16788,
+      "endMs": 17427
+    },
+    {
+      "text": "A",
+      "startMs": 17485,
+      "endMs": 17566
+    },
+    {
+      "text": "question",
+      "startMs": 17671,
+      "endMs": 18065
+    },
+    {
+      "text": "that",
+      "startMs": 18112,
+      "endMs": 18240
+    },
+    {
+      "text": "had",
+      "startMs": 18286,
+      "endMs": 18402
+    },
+    {
+      "text": "traveled",
+      "startMs": 18437,
+      "endMs": 18890
+    },
+    {
+      "text": "through",
+      "startMs": 18948,
+      "endMs": 19180
+    },
+    {
+      "text": "several",
+      "startMs": 19226,
+      "endMs": 19575
+    },
+    {
+      "text": "meetings",
+      "startMs": 19656,
+      "endMs": 20109
+    },
+    {
+      "text": "took",
+      "startMs": 20236,
+      "endMs": 20411
+    },
+    {
+      "text": "minutes",
+      "startMs": 20515,
+      "endMs": 20863
+    },
+    {
+      "text": "to",
+      "startMs": 20921,
+      "endMs": 20991
+    },
+    {
+      "text": "resolve",
+      "startMs": 21072,
+      "endMs": 21514
+    },
+    {
+      "text": "—",
+      "startMs": 21595,
+      "endMs": 21641
+    },
+    {
+      "text": "once",
+      "startMs": 21873,
+      "endMs": 22152
+    },
+    {
+      "text": "the",
+      "startMs": 22187,
+      "endMs": 22257
+    },
+    {
+      "text": "people",
+      "startMs": 22303,
+      "endMs": 22570
+    },
+    {
+      "text": "involved",
+      "startMs": 22605,
+      "endMs": 22976
+    },
+    {
+      "text": "could",
+      "startMs": 23011,
+      "endMs": 23174
+    },
+    {
+      "text": "speak",
+      "startMs": 23232,
+      "endMs": 23580
+    },
+    {
+      "text": "directly.",
+      "startMs": 23661,
+      "endMs": 24428
+    }
+  ]
+}

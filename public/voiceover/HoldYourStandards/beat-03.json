@@ -1,0 +1,171 @@
+{
+  "text": "The rest was rough. Error messages didn't explain what went wrong. Navigation changed between screens. One common edge case broke the approval flow. Several pages looked unfinished beside the company's other internal tools.",
+  "durationMs": 14489,
+  "words": [
+    {
+      "text": "The",
+      "startMs": 0,
+      "endMs": 151
+    },
+    {
+      "text": "rest",
+      "startMs": 232,
+      "endMs": 418
+    },
+    {
+      "text": "was",
+      "startMs": 894,
+      "endMs": 1115
+    },
+    {
+      "text": "rough.",
+      "startMs": 1277,
+      "endMs": 1718
+    },
+    {
+      "text": "Error",
+      "startMs": 2020,
+      "endMs": 2287
+    },
+    {
+      "text": "messages",
+      "startMs": 2368,
+      "endMs": 2902
+    },
+    {
+      "text": "didn't",
+      "startMs": 3007,
+      "endMs": 3320
+    },
+    {
+      "text": "explain",
+      "startMs": 3367,
+      "endMs": 3843
+    },
+    {
+      "text": "what",
+      "startMs": 3901,
+      "endMs": 4051.9999999999995
+    },
+    {
+      "text": "went",
+      "startMs": 4098,
+      "endMs": 4261
+    },
+    {
+      "text": "wrong.",
+      "startMs": 4307,
+      "endMs": 4632
+    },
+    {
+      "text": "Navigation",
+      "startMs": 4772,
+      "endMs": 5352
+    },
+    {
+      "text": "changed",
+      "startMs": 5433,
+      "endMs": 5735
+    },
+    {
+      "text": "between",
+      "startMs": 5782,
+      "endMs": 6072
+    },
+    {
+      "text": "screens.",
+      "startMs": 6118,
+      "endMs": 6641
+    },
+    {
+      "text": "One",
+      "startMs": 6943,
+      "endMs": 7175
+    },
+    {
+      "text": "common",
+      "startMs": 7210,
+      "endMs": 7454
+    },
+    {
+      "text": "edge",
+      "startMs": 7512,
+      "endMs": 7663
+    },
+    {
+      "text": "case",
+      "startMs": 7709,
+      "endMs": 8080.999999999999
+    },
+    {
+      "text": "broke",
+      "startMs": 8185.000000000001,
+      "endMs": 8522
+    },
+    {
+      "text": "the",
+      "startMs": 8545,
+      "endMs": 8615
+    },
+    {
+      "text": "approval",
+      "startMs": 8661,
+      "endMs": 9091
+    },
+    {
+      "text": "flow.",
+      "startMs": 9149,
+      "endMs": 9485
+    },
+    {
+      "text": "Several",
+      "startMs": 9532,
+      "endMs": 9950
+    },
+    {
+      "text": "pages",
+      "startMs": 10031,
+      "endMs": 10426
+    },
+    {
+      "text": "looked",
+      "startMs": 10507,
+      "endMs": 10751
+    },
+    {
+      "text": "unfinished",
+      "startMs": 10879,
+      "endMs": 11622
+    },
+    {
+      "text": "beside",
+      "startMs": 11923,
+      "endMs": 12341
+    },
+    {
+      "text": "the",
+      "startMs": 12365,
+      "endMs": 12434
+    },
+    {
+      "text": "company's",
+      "startMs": 12481,
+      "endMs": 12910
+    },
+    {
+      "text": "other",
+      "startMs": 13038,
+      "endMs": 13305
+    },
+    {
+      "text": "internal",
+      "startMs": 13363,
+      "endMs": 13746
+    },
+    {
+      "text": "tools.",
+      "startMs": 13804,
+      "endMs": 14489
+    }
+  ]
+}

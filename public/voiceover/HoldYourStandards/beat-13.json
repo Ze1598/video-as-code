@@ -1,0 +1,61 @@
+{
+  "text": "Would your team describe your standards the same way you do?",
+  "durationMs": 3019,
+  "words": [
+    {
+      "text": "Would",
+      "startMs": 0,
+      "endMs": 209
+    },
+    {
+      "text": "your",
+      "startMs": 244,
+      "endMs": 348
+    },
+    {
+      "text": "team",
+      "startMs": 430,
+      "endMs": 639
+    },
+    {
+      "text": "describe",
+      "startMs": 697,
+      "endMs": 1161
+    },
+    {
+      "text": "your",
+      "startMs": 1196,
+      "endMs": 1324
+    },
+    {
+      "text": "standards",
+      "startMs": 1382,
+      "endMs": 1881
+    },
+    {
+      "text": "the",
+      "startMs": 1927,
+      "endMs": 2009
+    },
+    {
+      "text": "same",
+      "startMs": 2067,
+      "endMs": 2276
+    },
+    {
+      "text": "way",
+      "startMs": 2322,
+      "endMs": 2450
+    },
+    {
+      "text": "you",
+      "startMs": 2496,
+      "endMs": 2589
+    },
+    {
+      "text": "do?",
+      "startMs": 2647,
+      "endMs": 3019
+    }
+  ]
+}

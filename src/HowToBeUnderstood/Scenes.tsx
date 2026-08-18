@@ -1,8 +1,8 @@
 import { AbsoluteFill, Easing, interpolate, useCurrentFrame } from "remotion";
-import { BEATS } from "./data";
-import { wordsToText } from "../lib/sentences";
-import { TEXT } from "./layout";
-import { ListRow } from "../lib/scenes/ListRow";
+import { BEATS } from "./data.ts";
+import { wordsToText } from "../lib/sentences.ts";
+import { TEXT } from "./layout.ts";
+import { ListRow } from "../lib/scenes/ListRow.tsx";
 
 const EASE = Easing.bezier(0.16, 1, 0.3, 1);
 const clamp = { extrapolateLeft: "clamp" as const, extrapolateRight: "clamp" as const };

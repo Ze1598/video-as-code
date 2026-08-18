@@ -1,0 +1,296 @@
+{
+  "text": "If the work misses the standard, say not good enough. Be specific about what must improve and protect the time required to improve it. Demanding another iteration without changing the deadline or workload is pressure without support. The next time you describe your team's standards, compare them with the last piece of work you knowingly allowed to ship.",
+  "durationMs": 22756,
+  "words": [
+    {
+      "text": "If",
+      "startMs": 0,
+      "endMs": 221
+    },
+    {
+      "text": "the",
+      "startMs": 348,
+      "endMs": 476
+    },
+    {
+      "text": "work",
+      "startMs": 557,
+      "endMs": 848
+    },
+    {
+      "text": "misses",
+      "startMs": 987,
+      "endMs": 1358
+    },
+    {
+      "text": "the",
+      "startMs": 1416,
+      "endMs": 1498
+    },
+    {
+      "text": "standard,",
+      "startMs": 1544,
+      "endMs": 2136
+    },
+    {
+      "text": "say",
+      "startMs": 2322,
+      "endMs": 2601
+    },
+    {
+      "text": "not",
+      "startMs": 2705,
+      "endMs": 2856
+    },
+    {
+      "text": "good",
+      "startMs": 2914,
+      "endMs": 3077
+    },
+    {
+      "text": "enough.",
+      "startMs": 3135,
+      "endMs": 3413
+    },
+    {
+      "text": "Be",
+      "startMs": 3471,
+      "endMs": 3646
+    },
+    {
+      "text": "specific",
+      "startMs": 3680,
+      "endMs": 4319
+    },
+    {
+      "text": "about",
+      "startMs": 4400,
+      "endMs": 4702
+    },
+    {
+      "text": "what",
+      "startMs": 4760,
+      "endMs": 4923
+    },
+    {
+      "text": "must",
+      "startMs": 5004,
+      "endMs": 5236
+    },
+    {
+      "text": "improve",
+      "startMs": 5283,
+      "endMs": 5724
+    },
+    {
+      "text": "and",
+      "startMs": 5828,
+      "endMs": 6037
+    },
+    {
+      "text": "protect",
+      "startMs": 6142,
+      "endMs": 6803
+    },
+    {
+      "text": "the",
+      "startMs": 6966,
+      "endMs": 7094
+    },
+    {
+      "text": "time",
+      "startMs": 7175,
+      "endMs": 7488
+    },
+    {
+      "text": "required",
+      "startMs": 7535,
+      "endMs": 8080.999999999999
+    },
+    {
+      "text": "to",
+      "startMs": 8313,
+      "endMs": 8452
+    },
+    {
+      "text": "improve",
+      "startMs": 8545,
+      "endMs": 8951
+    },
+    {
+      "text": "it.",
+      "startMs": 8986,
+      "endMs": 9172
+    },
+    {
+      "text": "Demanding",
+      "startMs": 9404,
+      "endMs": 9950
+    },
+    {
+      "text": "another",
+      "startMs": 10008,
+      "endMs": 10403
+    },
+    {
+      "text": "iteration",
+      "startMs": 10530,
+      "endMs": 11262
+    },
+    {
+      "text": "without",
+      "startMs": 11366,
+      "endMs": 11691
+    },
+    {
+      "text": "changing",
+      "startMs": 11773,
+      "endMs": 12132
+    },
+    {
+      "text": "the",
+      "startMs": 12179,
+      "endMs": 12249
+    },
+    {
+      "text": "deadline",
+      "startMs": 12295,
+      "endMs": 12771
+    },
+    {
+      "text": "or",
+      "startMs": 12875,
+      "endMs": 13026
+    },
+    {
+      "text": "workload",
+      "startMs": 13108,
+      "endMs": 13653
+    },
+    {
+      "text": "is",
+      "startMs": 13746,
+      "endMs": 13874
+    },
+    {
+      "text": "pressure",
+      "startMs": 14002,
+      "endMs": 14396
+    },
+    {
+      "text": "without",
+      "startMs": 14431,
+      "endMs": 14710
+    },
+    {
+      "text": "support.",
+      "startMs": 14756,
+      "endMs": 15314
+    },
+    {
+      "text": "The",
+      "startMs": 15615,
+      "endMs": 15708
+    },
+    {
+      "text": "next",
+      "startMs": 15755,
+      "endMs": 15987
+    },
+    {
+      "text": "time",
+      "startMs": 16021.999999999998,
+      "endMs": 16242
+    },
+    {
+      "text": "you",
+      "startMs": 16265.999999999998,
+      "endMs": 16358
+    },
+    {
+      "text": "describe",
+      "startMs": 16451,
+      "endMs": 16916
+    },
+    {
+      "text": "your",
+      "startMs": 16951,
+      "endMs": 17055
+    },
+    {
+      "text": "team's",
+      "startMs": 17101,
+      "endMs": 17380
+    },
+    {
+      "text": "standards,",
+      "startMs": 17427,
+      "endMs": 18112
+    },
+    {
+      "text": "compare",
+      "startMs": 18297,
+      "endMs": 18738
+    },
+    {
+      "text": "them",
+      "startMs": 18773,
+      "endMs": 18889
+    },
+    {
+      "text": "with",
+      "startMs": 18924,
+      "endMs": 19040
+    },
+    {
+      "text": "the",
+      "startMs": 19075,
+      "endMs": 19145
+    },
+    {
+      "text": "last",
+      "startMs": 19191,
+      "endMs": 19377
+    },
+    {
+      "text": "piece",
+      "startMs": 19435,
+      "endMs": 19656
+    },
+    {
+      "text": "of",
+      "startMs": 19691,
+      "endMs": 19760
+    },
+    {
+      "text": "work",
+      "startMs": 19888,
+      "endMs": 20225
+    },
+    {
+      "text": "you",
+      "startMs": 20526,
+      "endMs": 20701
+    },
+    {
+      "text": "knowingly",
+      "startMs": 20828,
+      "endMs": 21362
+    },
+    {
+      "text": "allowed",
+      "startMs": 21444,
+      "endMs": 21873
+    },
+    {
+      "text": "to",
+      "startMs": 21954,
+      "endMs": 22082
+    },
+    {
+      "text": "ship.",
+      "startMs": 22163,
+      "endMs": 22756
+    }
+  ]
+}

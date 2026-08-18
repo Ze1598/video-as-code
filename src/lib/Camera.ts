@@ -1,4 +1,5 @@
 import { Easing, interpolate } from "remotion";
+import { assertStrictlyIncreasing } from "./keyframes.ts";
 
 // Ease-in-out, not the ease-out curve used for text entrances elsewhere: a
 // pan needs to accelerate away from its start AND decelerate into its next
@@ -23,6 +24,7 @@ export function cameraTransformFactory(
   ys: number[],
   zooms: number[],
 ): (frame: number) => string {
+  assertStrictlyIncreasing(frames, "camera keyframes");
   return function cameraTransform(frame: number): string {
     const x = interpolate(frame, frames, xs, opts);
     const y = interpolate(frame, frames, ys, opts);

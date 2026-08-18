@@ -1,4 +1,4 @@
-import type { Beat, WordTiming } from "../timeline";
+import type { Beat, WordTiming } from "../timeline.ts";
 
 // Synthetic placeholder data for src/lib's smoke-test composition — NOT real
 // narration, so hand-generated word timings are fine here (unlike an actual

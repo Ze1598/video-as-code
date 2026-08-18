@@ -1,0 +1,171 @@
+{
+  "text": "A team lead told other managers that his team built some of the company's best internal products. He praised their attention to detail and said they didn't settle for software that merely worked.",
+  "durationMs": 13142,
+  "words": [
+    {
+      "text": "A",
+      "startMs": 0,
+      "endMs": 93
+    },
+    {
+      "text": "team",
+      "startMs": 174,
+      "endMs": 337
+    },
+    {
+      "text": "lead",
+      "startMs": 430,
+      "endMs": 639
+    },
+    {
+      "text": "told",
+      "startMs": 987,
+      "endMs": 1416
+    },
+    {
+      "text": "other",
+      "startMs": 1544,
+      "endMs": 1811
+    },
+    {
+      "text": "managers",
+      "startMs": 1869,
+      "endMs": 2485
+    },
+    {
+      "text": "that",
+      "startMs": 2670,
+      "endMs": 2902
+    },
+    {
+      "text": "his",
+      "startMs": 2984,
+      "endMs": 3146
+    },
+    {
+      "text": "team",
+      "startMs": 3251,
+      "endMs": 3576
+    },
+    {
+      "text": "built",
+      "startMs": 3738,
+      "endMs": 4062.9999999999995
+    },
+    {
+      "text": "some",
+      "startMs": 4191,
+      "endMs": 4447
+    },
+    {
+      "text": "of",
+      "startMs": 4493,
+      "endMs": 4563
+    },
+    {
+      "text": "the",
+      "startMs": 4609,
+      "endMs": 4690
+    },
+    {
+      "text": "company's",
+      "startMs": 4748,
+      "endMs": 5317
+    },
+    {
+      "text": "best",
+      "startMs": 5457,
+      "endMs": 5875
+    },
+    {
+      "text": "internal",
+      "startMs": 6060,
+      "endMs": 6571
+    },
+    {
+      "text": "products.",
+      "startMs": 6653,
+      "endMs": 7338
+    },
+    {
+      "text": "He",
+      "startMs": 7639,
+      "endMs": 7767
+    },
+    {
+      "text": "praised",
+      "startMs": 7848,
+      "endMs": 8150
+    },
+    {
+      "text": "their",
+      "startMs": 8173,
+      "endMs": 8313
+    },
+    {
+      "text": "attention",
+      "startMs": 8359,
+      "endMs": 8766
+    },
+    {
+      "text": "to",
+      "startMs": 8824,
+      "endMs": 8928
+    },
+    {
+      "text": "detail",
+      "startMs": 9021,
+      "endMs": 9497
+    },
+    {
+      "text": "and",
+      "startMs": 9729,
+      "endMs": 9938
+    },
+    {
+      "text": "said",
+      "startMs": 9985,
+      "endMs": 10147
+    },
+    {
+      "text": "they",
+      "startMs": 10182,
+      "endMs": 10286
+    },
+    {
+      "text": "didn't",
+      "startMs": 10368,
+      "endMs": 10623
+    },
+    {
+      "text": "settle",
+      "startMs": 10658,
+      "endMs": 10925
+    },
+    {
+      "text": "for",
+      "startMs": 10960,
+      "endMs": 11076
+    },
+    {
+      "text": "software",
+      "startMs": 11169,
+      "endMs": 11703
+    },
+    {
+      "text": "that",
+      "startMs": 11738,
+      "endMs": 11889
+    },
+    {
+      "text": "merely",
+      "startMs": 11970,
+      "endMs": 12307
+    },
+    {
+      "text": "worked.",
+      "startMs": 12388,
+      "endMs": 13142
+    }
+  ]
+}

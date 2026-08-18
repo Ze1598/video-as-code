@@ -1,0 +1,86 @@
+{
+  "text": "How many of your meetings exist to repair a conversation that should have just happened directly?",
+  "durationMs": 6316,
+  "words": [
+    {
+      "text": "How",
+      "startMs": 0,
+      "endMs": 209
+    },
+    {
+      "text": "many",
+      "startMs": 267,
+      "endMs": 453
+    },
+    {
+      "text": "of",
+      "startMs": 488,
+      "endMs": 546
+    },
+    {
+      "text": "your",
+      "startMs": 604,
+      "endMs": 731
+    },
+    {
+      "text": "meetings",
+      "startMs": 778,
+      "endMs": 1184
+    },
+    {
+      "text": "exist",
+      "startMs": 1242,
+      "endMs": 1683
+    },
+    {
+      "text": "to",
+      "startMs": 1776,
+      "endMs": 1927
+    },
+    {
+      "text": "repair",
+      "startMs": 2055,
+      "endMs": 2519
+    },
+    {
+      "text": "a",
+      "startMs": 2705,
+      "endMs": 2833
+    },
+    {
+      "text": "conversation",
+      "startMs": 2972,
+      "endMs": 3715
+    },
+    {
+      "text": "that",
+      "startMs": 3762,
+      "endMs": 3889
+    },
+    {
+      "text": "should",
+      "startMs": 3947,
+      "endMs": 4214
+    },
+    {
+      "text": "have",
+      "startMs": 4296,
+      "endMs": 4516
+    },
+    {
+      "text": "just",
+      "startMs": 4574,
+      "endMs": 4783
+    },
+    {
+      "text": "happened",
+      "startMs": 4865,
+      "endMs": 5294
+    },
+    {
+      "text": "directly?",
+      "startMs": 5422,
+      "endMs": 6316
+    }
+  ]
+}

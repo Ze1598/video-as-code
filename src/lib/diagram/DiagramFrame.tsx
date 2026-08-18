@@ -15,6 +15,18 @@ export type DiagramFrameProps = {
   cameraTransform: (frame: number) => string;
   diagramScale?: number;
   children: React.ReactNode;
+  /**
+   * Rendered in the SAME camera-transformed `<g>` as `children`, but
+   * always AFTER it. Packets/markers (see `PacketMarker`) belong here, not
+   * in `children` — a packet idling exactly at a node's center is fully
+   * painted over by that node's opaque fill if it renders underneath it
+   * (the same occlusion mechanic connectors rely on, working against a
+   * packet instead of for a connector — see the skill's "Node occlusion").
+   * Putting nodes/connectors in `children` and packets in `overlay` makes
+   * the correct z-order structural instead of a JSX-ordering convention a
+   * future video can forget.
+   */
+  overlay?: React.ReactNode;
 };
 
 export const DiagramFrame: React.FC<DiagramFrameProps> = ({
@@ -23,6 +35,7 @@ export const DiagramFrame: React.FC<DiagramFrameProps> = ({
   cameraTransform,
   diagramScale = DEFAULT_DIAGRAM_SCALE,
   children,
+  overlay,
 }) => {
   return (
     <div
@@ -34,7 +47,10 @@ export const DiagramFrame: React.FC<DiagramFrameProps> = ({
       }}
     >
       <svg viewBox="0 0 1920 1080" width="100%" height="100%" style={{ opacity: worldOpacity }}>
-        <g transform={cameraTransform(frame)}>{children}</g>
+        <g transform={cameraTransform(frame)}>
+          {children}
+          {overlay}
+        </g>
       </svg>
     </div>
   );

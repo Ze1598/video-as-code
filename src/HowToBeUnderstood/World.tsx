@@ -1,8 +1,10 @@
 import { Easing, interpolate, useCurrentFrame } from "remotion";
-import { cameraTransform } from "./Camera";
-import { PersonNode } from "../lib/diagram/PersonNode";
-import { DiagramFrame } from "../lib/diagram/DiagramFrame";
-import { drawOnStyle } from "../lib/diagram/connectorMath";
+import { cameraTransform } from "./Camera.ts";
+import { PersonNode } from "../lib/diagram/PersonNode.tsx";
+import { DiagramFrame } from "../lib/diagram/DiagramFrame.tsx";
+import { PacketMarker } from "../lib/diagram/PacketMarker.tsx";
+import { drawOnStyle } from "../lib/diagram/connectorMath.ts";
+import { opacityFactory } from "../lib/keyframes.ts";
 import {
   ACCENT,
   BELIEF_LABELS,
@@ -22,7 +24,7 @@ import {
   WORLD_OPACITY_VALUES,
   WRONG_PACKET_FADE_DURATION,
   WRONG_PACKET_FADE_START,
-} from "./layout";
+} from "./layout.ts";
 
 const EASE = Easing.bezier(0.16, 1, 0.3, 1);
 const clamp = { extrapolateLeft: "clamp" as const, extrapolateRight: "clamp" as const };
@@ -132,43 +134,32 @@ function WrongPacket({ id, frame }: { id: NodeId; frame: number }) {
   if (opacity <= 0) return null;
 
   const { x, y } = NODES[id];
-  const size = 34;
   const py = y - 60;
 
-  return (
-    <rect
-      x={x - size / 2}
-      y={py - size / 2}
-      width={size}
-      height={size}
-      transform={`rotate(45, ${x}, ${py})`}
-      fill="#1E1A15"
-      stroke={LINE_ACTIVE}
-      strokeWidth={2}
-      opacity={opacity}
-    />
-  );
+  return <PacketMarker x={x} y={py} size={34} opacity={opacity} />;
 }
 
 const NODE_IDS: NodeId[] = ["lead", "eng1", "eng2", "eng3"];
 
+const worldOpacity = opacityFactory(WORLD_OPACITY_FRAMES, WORLD_OPACITY_VALUES);
+
 export const World: React.FC = () => {
   const frame = useCurrentFrame();
-  const worldOpacity = interpolate(frame, WORLD_OPACITY_FRAMES, WORLD_OPACITY_VALUES, {
-    ...clamp,
-    easing: EASE,
-  });
 
   return (
-    <DiagramFrame frame={frame} worldOpacity={worldOpacity} cameraTransform={cameraTransform}>
+    <DiagramFrame
+      frame={frame}
+      worldOpacity={worldOpacity(frame)}
+      cameraTransform={cameraTransform}
+      overlay={ENGINEER_IDS.map((id) => (
+        <WrongPacket key={id} id={id} frame={frame} />
+      ))}
+    >
       {ENGINEER_IDS.map((id) => (
         <Connector key={id} id={id} frame={frame} />
       ))}
       {ENGINEER_IDS.map((id) => (
         <TruePacketLine key={id} id={id} frame={frame} />
-      ))}
-      {ENGINEER_IDS.map((id) => (
-        <WrongPacket key={id} id={id} frame={frame} />
       ))}
       {NODE_IDS.map((id) => (
         <PersonNode key={id} x={NODES[id].x} y={NODES[id].y} label={NODES[id].label} />

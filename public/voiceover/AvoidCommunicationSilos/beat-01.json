@@ -1,0 +1,311 @@
+{
+  "text": "A solution design team met with operations to define a new customer reporting process, due in six weeks. The engineers who'd build it weren't in the room — technical design would come later. The designers documented the workflow, the reporting rules, the data it would need. They sent the requirements to engineering, and booked a playback to walk them through it.",
+  "durationMs": 19830,
+  "words": [
+    {
+      "text": "A",
+      "startMs": 0,
+      "endMs": 70
+    },
+    {
+      "text": "solution",
+      "startMs": 174,
+      "endMs": 546
+    },
+    {
+      "text": "design",
+      "startMs": 592,
+      "endMs": 871
+    },
+    {
+      "text": "team",
+      "startMs": 894,
+      "endMs": 1103
+    },
+    {
+      "text": "met",
+      "startMs": 1231,
+      "endMs": 1451
+    },
+    {
+      "text": "with",
+      "startMs": 1533,
+      "endMs": 1707
+    },
+    {
+      "text": "operations",
+      "startMs": 1788,
+      "endMs": 2438
+    },
+    {
+      "text": "to",
+      "startMs": 2543,
+      "endMs": 2635
+    },
+    {
+      "text": "define",
+      "startMs": 2717,
+      "endMs": 3146
+    },
+    {
+      "text": "a",
+      "startMs": 3193,
+      "endMs": 3216
+    },
+    {
+      "text": "new",
+      "startMs": 3309,
+      "endMs": 3437
+    },
+    {
+      "text": "customer",
+      "startMs": 3518,
+      "endMs": 3936
+    },
+    {
+      "text": "reporting",
+      "startMs": 3994,
+      "endMs": 4435
+    },
+    {
+      "text": "process,",
+      "startMs": 4516,
+      "endMs": 5143
+    },
+    {
+      "text": "due",
+      "startMs": 5445,
+      "endMs": 5712
+    },
+    {
+      "text": "in",
+      "startMs": 5759,
+      "endMs": 5840
+    },
+    {
+      "text": "six",
+      "startMs": 5944,
+      "endMs": 6188
+    },
+    {
+      "text": "weeks.",
+      "startMs": 6281,
+      "endMs": 6687
+    },
+    {
+      "text": "The",
+      "startMs": 6815,
+      "endMs": 6943
+    },
+    {
+      "text": "engineers",
+      "startMs": 6978,
+      "endMs": 7372
+    },
+    {
+      "text": "who'd",
+      "startMs": 7407,
+      "endMs": 7616
+    },
+    {
+      "text": "build",
+      "startMs": 7663,
+      "endMs": 7930
+    },
+    {
+      "text": "it",
+      "startMs": 7976,
+      "endMs": 8057
+    },
+    {
+      "text": "weren't",
+      "startMs": 8185.000000000001,
+      "endMs": 8510
+    },
+    {
+      "text": "in",
+      "startMs": 8568,
+      "endMs": 8638
+    },
+    {
+      "text": "the",
+      "startMs": 8673,
+      "endMs": 8742
+    },
+    {
+      "text": "room",
+      "startMs": 8800,
+      "endMs": 8975
+    },
+    {
+      "text": "—",
+      "startMs": 9067,
+      "endMs": 9125
+    },
+    {
+      "text": "technical",
+      "startMs": 9207,
+      "endMs": 9648
+    },
+    {
+      "text": "design",
+      "startMs": 9729,
+      "endMs": 9996
+    },
+    {
+      "text": "would",
+      "startMs": 10031,
+      "endMs": 10182
+    },
+    {
+      "text": "come",
+      "startMs": 10217,
+      "endMs": 10379
+    },
+    {
+      "text": "later.",
+      "startMs": 10426,
+      "endMs": 10867
+    },
+    {
+      "text": "The",
+      "startMs": 11134,
+      "endMs": 11238
+    },
+    {
+      "text": "designers",
+      "startMs": 11297,
+      "endMs": 11703
+    },
+    {
+      "text": "documented",
+      "startMs": 11749,
+      "endMs": 12249
+    },
+    {
+      "text": "the",
+      "startMs": 12272,
+      "endMs": 12341
+    },
+    {
+      "text": "workflow,",
+      "startMs": 12399,
+      "endMs": 13038
+    },
+    {
+      "text": "the",
+      "startMs": 13096,
+      "endMs": 13189
+    },
+    {
+      "text": "reporting",
+      "startMs": 13247,
+      "endMs": 13746
+    },
+    {
+      "text": "rules,",
+      "startMs": 13804,
+      "endMs": 14245
+    },
+    {
+      "text": "the",
+      "startMs": 14431,
+      "endMs": 14547
+    },
+    {
+      "text": "data",
+      "startMs": 14605,
+      "endMs": 15023
+    },
+    {
+      "text": "it",
+      "startMs": 15105,
+      "endMs": 15186
+    },
+    {
+      "text": "would",
+      "startMs": 15267,
+      "endMs": 15418
+    },
+    {
+      "text": "need.",
+      "startMs": 15476,
+      "endMs": 15743
+    },
+    {
+      "text": "They",
+      "startMs": 15929,
+      "endMs": 16068.000000000002
+    },
+    {
+      "text": "sent",
+      "startMs": 16114.999999999998,
+      "endMs": 16289.000000000002
+    },
+    {
+      "text": "the",
+      "startMs": 16312.000000000002,
+      "endMs": 16382.000000000002
+    },
+    {
+      "text": "requirements",
+      "startMs": 16440,
+      "endMs": 16997
+    },
+    {
+      "text": "to",
+      "startMs": 17032,
+      "endMs": 17102
+    },
+    {
+      "text": "engineering,",
+      "startMs": 17206,
+      "endMs": 17728
+    },
+    {
+      "text": "and",
+      "startMs": 17752,
+      "endMs": 17856
+    },
+    {
+      "text": "booked",
+      "startMs": 17914,
+      "endMs": 18100
+    },
+    {
+      "text": "a",
+      "startMs": 18123,
+      "endMs": 18146
+    },
+    {
+      "text": "playback",
+      "startMs": 18193,
+      "endMs": 18622
+    },
+    {
+      "text": "to",
+      "startMs": 18680,
+      "endMs": 18750
+    },
+    {
+      "text": "walk",
+      "startMs": 18843,
+      "endMs": 19064
+    },
+    {
+      "text": "them",
+      "startMs": 19122,
+      "endMs": 19249
+    },
+    {
+      "text": "through",
+      "startMs": 19307,
+      "endMs": 19563
+    },
+    {
+      "text": "it.",
+      "startMs": 19598,
+      "endMs": 19830
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "text": "He told other managers his team never shipped unfinished work. His own team had already shipped exactly that.",
+  "durationMs": 6548,
+  "words": [
+    {
+      "text": "He",
+      "startMs": 0,
+      "endMs": 139
+    },
+    {
+      "text": "told",
+      "startMs": 197,
+      "endMs": 441
+    },
+    {
+      "text": "other",
+      "startMs": 546,
+      "endMs": 801
+    },
+    {
+      "text": "managers",
+      "startMs": 848,
+      "endMs": 1277
+    },
+    {
+      "text": "his",
+      "startMs": 1312,
+      "endMs": 1393
+    },
+    {
+      "text": "team",
+      "startMs": 1474,
+      "endMs": 1637
+    },
+    {
+      "text": "never",
+      "startMs": 1718,
+      "endMs": 1950
+    },
+    {
+      "text": "shipped",
+      "startMs": 2009,
+      "endMs": 2310
+    },
+    {
+      "text": "unfinished",
+      "startMs": 2368,
+      "endMs": 2868
+    },
+    {
+      "text": "work.",
+      "startMs": 2949,
+      "endMs": 3320
+    },
+    {
+      "text": "His",
+      "startMs": 3587,
+      "endMs": 3762
+    },
+    {
+      "text": "own",
+      "startMs": 3843,
+      "endMs": 4040
+    },
+    {
+      "text": "team",
+      "startMs": 4098,
+      "endMs": 4296
+    },
+    {
+      "text": "had",
+      "startMs": 4354,
+      "endMs": 4470
+    },
+    {
+      "text": "already",
+      "startMs": 4528,
+      "endMs": 4899
+    },
+    {
+      "text": "shipped",
+      "startMs": 4957,
+      "endMs": 5271
+    },
+    {
+      "text": "exactly",
+      "startMs": 5352,
+      "endMs": 5956
+    },
+    {
+      "text": "that.",
+      "startMs": 6002,
+      "endMs": 6548
+    }
+  ]
+}

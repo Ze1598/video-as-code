@@ -1,0 +1,236 @@
+{
+  "text": "Operations started using the portal the following week. Employees got stuck. Some submitted the same request twice because the confirmation screen didn't load. Others contacted the development team because they couldn't understand why their requests failed. The operations manager collected the issues and sent them back.",
+  "durationMs": 18762,
+  "words": [
+    {
+      "text": "Operations",
+      "startMs": 0,
+      "endMs": 580
+    },
+    {
+      "text": "started",
+      "startMs": 673,
+      "endMs": 1242
+    },
+    {
+      "text": "using",
+      "startMs": 1370,
+      "endMs": 1695
+    },
+    {
+      "text": "the",
+      "startMs": 1741,
+      "endMs": 1823
+    },
+    {
+      "text": "portal",
+      "startMs": 1904,
+      "endMs": 2287
+    },
+    {
+      "text": "the",
+      "startMs": 2368,
+      "endMs": 2438
+    },
+    {
+      "text": "following",
+      "startMs": 2531,
+      "endMs": 2984
+    },
+    {
+      "text": "week.",
+      "startMs": 3088,
+      "endMs": 3460
+    },
+    {
+      "text": "Employees",
+      "startMs": 3692,
+      "endMs": 4249
+    },
+    {
+      "text": "got",
+      "startMs": 4331,
+      "endMs": 4516
+    },
+    {
+      "text": "stuck.",
+      "startMs": 4598,
+      "endMs": 5143
+    },
+    {
+      "text": "Some",
+      "startMs": 5329,
+      "endMs": 5608
+    },
+    {
+      "text": "submitted",
+      "startMs": 5654,
+      "endMs": 6072
+    },
+    {
+      "text": "the",
+      "startMs": 6095,
+      "endMs": 6165
+    },
+    {
+      "text": "same",
+      "startMs": 6211,
+      "endMs": 6432
+    },
+    {
+      "text": "request",
+      "startMs": 6467,
+      "endMs": 6931
+    },
+    {
+      "text": "twice",
+      "startMs": 6966,
+      "endMs": 7419
+    },
+    {
+      "text": "because",
+      "startMs": 7500,
+      "endMs": 7837
+    },
+    {
+      "text": "the",
+      "startMs": 7872,
+      "endMs": 7941
+    },
+    {
+      "text": "confirmation",
+      "startMs": 8022,
+      "endMs": 8731
+    },
+    {
+      "text": "screen",
+      "startMs": 8789,
+      "endMs": 9102
+    },
+    {
+      "text": "didn't",
+      "startMs": 9160,
+      "endMs": 9474
+    },
+    {
+      "text": "load.",
+      "startMs": 9532,
+      "endMs": 9973
+    },
+    {
+      "text": "Others",
+      "startMs": 10240,
+      "endMs": 10612
+    },
+    {
+      "text": "contacted",
+      "startMs": 10693,
+      "endMs": 11250
+    },
+    {
+      "text": "the",
+      "startMs": 11285,
+      "endMs": 11355
+    },
+    {
+      "text": "development",
+      "startMs": 11401,
+      "endMs": 11923
+    },
+    {
+      "text": "team",
+      "startMs": 11970,
+      "endMs": 12179
+    },
+    {
+      "text": "because",
+      "startMs": 12237,
+      "endMs": 12516
+    },
+    {
+      "text": "they",
+      "startMs": 12539,
+      "endMs": 12643
+    },
+    {
+      "text": "couldn't",
+      "startMs": 12690,
+      "endMs": 12945
+    },
+    {
+      "text": "understand",
+      "startMs": 12991,
+      "endMs": 13502
+    },
+    {
+      "text": "why",
+      "startMs": 13584,
+      "endMs": 13735
+    },
+    {
+      "text": "their",
+      "startMs": 13793,
+      "endMs": 13944
+    },
+    {
+      "text": "requests",
+      "startMs": 13990,
+      "endMs": 14443
+    },
+    {
+      "text": "failed.",
+      "startMs": 14536,
+      "endMs": 14965
+    },
+    {
+      "text": "The",
+      "startMs": 15151,
+      "endMs": 15267
+    },
+    {
+      "text": "operations",
+      "startMs": 15325,
+      "endMs": 15824
+    },
+    {
+      "text": "manager",
+      "startMs": 15882,
+      "endMs": 16300
+    },
+    {
+      "text": "collected",
+      "startMs": 16382.000000000002,
+      "endMs": 16834
+    },
+    {
+      "text": "the",
+      "startMs": 16881,
+      "endMs": 16950
+    },
+    {
+      "text": "issues",
+      "startMs": 17032,
+      "endMs": 17415
+    },
+    {
+      "text": "and",
+      "startMs": 17496,
+      "endMs": 17635
+    },
+    {
+      "text": "sent",
+      "startMs": 17694,
+      "endMs": 17914
+    },
+    {
+      "text": "them",
+      "startMs": 17961,
+      "endMs": 18100
+    },
+    {
+      "text": "back.",
+      "startMs": 18158,
+      "endMs": 18762
+    }
+  ]
+}

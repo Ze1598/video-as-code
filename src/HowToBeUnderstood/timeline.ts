@@ -1,5 +1,5 @@
-import { BEATS } from "./data";
-import { buildTimeline, frameOfWordFactory, totalDuration } from "../lib/timeline";
+import { BEATS } from "./data.ts";
+import { buildTimeline, frameOfWordFactory, totalDuration } from "../lib/timeline.ts";
 
 export const FPS = 60;
 

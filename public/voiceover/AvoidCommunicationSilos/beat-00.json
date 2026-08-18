@@ -1,0 +1,106 @@
+{
+  "text": "One question. Three teams. And weeks spent passing it between them — before anyone thought to just ask it directly.",
+  "durationMs": 6641,
+  "words": [
+    {
+      "text": "One",
+      "startMs": 0,
+      "endMs": 163
+    },
+    {
+      "text": "question.",
+      "startMs": 197,
+      "endMs": 615
+    },
+    {
+      "text": "Three",
+      "startMs": 743,
+      "endMs": 1033
+    },
+    {
+      "text": "teams.",
+      "startMs": 1068,
+      "endMs": 1440
+    },
+    {
+      "text": "And",
+      "startMs": 1672,
+      "endMs": 1834
+    },
+    {
+      "text": "weeks",
+      "startMs": 1939,
+      "endMs": 2148
+    },
+    {
+      "text": "spent",
+      "startMs": 2171,
+      "endMs": 2519
+    },
+    {
+      "text": "passing",
+      "startMs": 2624,
+      "endMs": 2949
+    },
+    {
+      "text": "it",
+      "startMs": 2995,
+      "endMs": 3053
+    },
+    {
+      "text": "between",
+      "startMs": 3111,
+      "endMs": 3379
+    },
+    {
+      "text": "them",
+      "startMs": 3425,
+      "endMs": 3576
+    },
+    {
+      "text": "—",
+      "startMs": 3680,
+      "endMs": 3738
+    },
+    {
+      "text": "before",
+      "startMs": 3971,
+      "endMs": 4296
+    },
+    {
+      "text": "anyone",
+      "startMs": 4377,
+      "endMs": 4760
+    },
+    {
+      "text": "thought",
+      "startMs": 4783,
+      "endMs": 5004
+    },
+    {
+      "text": "to",
+      "startMs": 5039,
+      "endMs": 5097
+    },
+    {
+      "text": "just",
+      "startMs": 5155,
+      "endMs": 5329
+    },
+    {
+      "text": "ask",
+      "startMs": 5387,
+      "endMs": 5619
+    },
+    {
+      "text": "it",
+      "startMs": 5666,
+      "endMs": 5724
+    },
+    {
+      "text": "directly.",
+      "startMs": 5782,
+      "endMs": 6641
+    }
+  ]
+}

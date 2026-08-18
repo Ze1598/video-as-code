@@ -1,15 +1,15 @@
 import { Sequence, useCurrentFrame } from "remotion";
-import { BG } from "../palette";
-import { Caption } from "../scenes/Caption";
-import { CtaScene } from "../scenes/CtaScene";
-import { HookScene } from "../scenes/HookScene";
-import { ListRow } from "../scenes/ListRow";
-import { LongFormScene } from "../scenes/LongFormScene";
-import { SplitArgumentScene } from "../scenes/SplitArgumentScene";
-import { Wipe } from "../Wipe";
-import { DEMO_BEATS } from "./data";
-import { BEAT_ORDER, FPS, TIMELINE, TOTAL_DURATION, frameOfWord } from "./timeline";
-import { DemoWorld } from "./World";
+import { BG } from "../palette.ts";
+import { Caption } from "../scenes/Caption.tsx";
+import { CtaScene } from "../scenes/CtaScene.tsx";
+import { HookScene } from "../scenes/HookScene.tsx";
+import { ListRow } from "../scenes/ListRow.tsx";
+import { LongFormScene } from "../scenes/LongFormScene.tsx";
+import { SplitArgumentScene } from "../scenes/SplitArgumentScene.tsx";
+import { Wipe } from "../Wipe.tsx";
+import { DEMO_BEATS } from "./data.ts";
+import { BEAT_ORDER, FPS, TIMELINE, TOTAL_DURATION, frameOfWord } from "./timeline.ts";
+import { DemoWorld } from "./World.tsx";
 
 export const FPS_LIB_DEMO = FPS;
 export const LIB_DEMO_DURATION = TOTAL_DURATION;

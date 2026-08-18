@@ -1,7 +1,7 @@
 import { AbsoluteFill, useCurrentFrame } from "remotion";
-import type { Beat, TimelineEntry } from "../timeline";
-import { ACCENT, DIM_TEXT, FONT } from "../palette";
-import { HighlightedText, sentenceCycle } from "./useSentenceCycle";
+import type { Beat, TimelineEntry } from "../timeline.ts";
+import { ACCENT, DIM_TEXT, FONT } from "../palette.ts";
+import { HighlightedText, sentenceCycle } from "./useSentenceCycle.tsx";
 
 export type LongFormSceneProps = {
   beatId: string;

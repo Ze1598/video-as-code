@@ -1,0 +1,166 @@
+{
+  "text": "A few weeks later, the team demonstrated a new internal request portal before release. The main workflow worked. Employees could submit requests, managers could approve them, and operations could track their progress.",
+  "durationMs": 12539,
+  "words": [
+    {
+      "text": "A",
+      "startMs": 0,
+      "endMs": 93
+    },
+    {
+      "text": "few",
+      "startMs": 174,
+      "endMs": 337
+    },
+    {
+      "text": "weeks",
+      "startMs": 360,
+      "endMs": 534
+    },
+    {
+      "text": "later,",
+      "startMs": 627,
+      "endMs": 1080
+    },
+    {
+      "text": "the",
+      "startMs": 1138,
+      "endMs": 1231
+    },
+    {
+      "text": "team",
+      "startMs": 1277,
+      "endMs": 1451
+    },
+    {
+      "text": "demonstrated",
+      "startMs": 1509,
+      "endMs": 2183
+    },
+    {
+      "text": "a",
+      "startMs": 2264,
+      "endMs": 2299
+    },
+    {
+      "text": "new",
+      "startMs": 2426,
+      "endMs": 2647
+    },
+    {
+      "text": "internal",
+      "startMs": 2705,
+      "endMs": 3146
+    },
+    {
+      "text": "request",
+      "startMs": 3204,
+      "endMs": 3576
+    },
+    {
+      "text": "portal",
+      "startMs": 3611,
+      "endMs": 3959
+    },
+    {
+      "text": "before",
+      "startMs": 4017.0000000000005,
+      "endMs": 4400
+    },
+    {
+      "text": "release.",
+      "startMs": 4423,
+      "endMs": 4888
+    },
+    {
+      "text": "The",
+      "startMs": 5155,
+      "endMs": 5283
+    },
+    {
+      "text": "main",
+      "startMs": 5375,
+      "endMs": 5642
+    },
+    {
+      "text": "workflow",
+      "startMs": 5770,
+      "endMs": 6269
+    },
+    {
+      "text": "worked.",
+      "startMs": 6351,
+      "endMs": 6699
+    },
+    {
+      "text": "Employees",
+      "startMs": 6931,
+      "endMs": 7442
+    },
+    {
+      "text": "could",
+      "startMs": 7500,
+      "endMs": 7651
+    },
+    {
+      "text": "submit",
+      "startMs": 7686,
+      "endMs": 8034.000000000001
+    },
+    {
+      "text": "requests,",
+      "startMs": 8115,
+      "endMs": 8661
+    },
+    {
+      "text": "managers",
+      "startMs": 8766,
+      "endMs": 9242
+    },
+    {
+      "text": "could",
+      "startMs": 9300,
+      "endMs": 9474
+    },
+    {
+      "text": "approve",
+      "startMs": 9497,
+      "endMs": 9880
+    },
+    {
+      "text": "them,",
+      "startMs": 9927,
+      "endMs": 10124
+    },
+    {
+      "text": "and",
+      "startMs": 10147,
+      "endMs": 10298
+    },
+    {
+      "text": "operations",
+      "startMs": 10379,
+      "endMs": 10948
+    },
+    {
+      "text": "could",
+      "startMs": 10995,
+      "endMs": 11157
+    },
+    {
+      "text": "track",
+      "startMs": 11192,
+      "endMs": 11447
+    },
+    {
+      "text": "their",
+      "startMs": 11529,
+      "endMs": 11691
+    },
+    {
+      "text": "progress.",
+      "startMs": 11738,
+      "endMs": 12539
+    }
+  ]
+}

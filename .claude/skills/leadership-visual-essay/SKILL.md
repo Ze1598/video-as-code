@@ -105,6 +105,18 @@ mount/unmount). Use `<Sequence>` only to place each beat's `<Audio>` at the righ
   whole video (spawn -> hop to hop -> idle where it's stuck -> final delivery) rather than
   separate disconnected animations — one object's journey is what makes the mechanism legible
   as a single throughline.
+- **A Mechanism Reveal doesn't have to be a new connector forming.** The default payoff shape
+  is a missing connection finally opening (see the Reveal guidance below) — but some essays'
+  actual mechanism is the *same* claim landing twice: spoken to one party, then independently
+  invoked by another party who never heard it directly. Drawing a new connector between those
+  two parties would violate the "only where real contact happens" rule above, since they never
+  actually spoke. Instead, **pulse the existing connector** that carried the original claim —
+  a brief accent + glow flash timed to the reveal's cue word, using the same reserved
+  accent-color treatment as a genuine delivery, layered on top of (not replacing) its normal
+  resting state. This was the device `HoldYourStandards` used for a team lead's public boast
+  echoing back against him once operations independently invoked the same standard: the boast
+  connector (Team Lead <-> Other Managers) pulsed, rather than a new connector being drawn to
+  Operations, who never heard the boast at all.
 
 **Node occlusion (a real bug to avoid):** connector lines terminate at node centers in code,
 relying on the node's circle being drawn afterward and fully opaque to visually clip the line
@@ -113,6 +125,17 @@ opacity applies to the fill too, and any connector terminating inside it will vi
 through instead of cleanly stopping at the edge. To dim a node (e.g. "this person is
 currently out of the loop"), only change its stroke color and label color; keep fill opacity
 at 1 always.
+
+**Packets have the *inverse* occlusion rule from connectors — a real bug hit twice before
+being fixed.** A connector needs nodes drawn *after* it, to clip its ends. A packet/marker
+(`src/lib/diagram/PacketMarker.tsx`) that can idle exactly at a node's center needs the
+*opposite*: it must render *after* the nodes, or that node's opaque fill paints directly over
+it, making it invisible for however long it sits there. Use `DiagramFrame`'s `overlay` prop for
+every packet — nodes and connectors go in `children`, packets go in `overlay`, which always
+renders after `children` inside the same camera-transformed `<g>`. This makes the correct
+z-order structural rather than a JSX-ordering convention a future video can get backwards; see
+`src/lib/__demo__/World.tsx`'s own packet for a worked example of the failure mode this
+prevents.
 
 **Caption/diagram safe zone (a real bug to avoid):** the diagram's camera can zoom out far
 enough (wide/reveal shots) that node labels sit in the same screen region as a bottom-anchored
@@ -126,19 +149,33 @@ literally cannot render into the caption's territory this way — a tuned-by-eye
 eventually be violated by some camera state you didn't test.
 
 **Camera — derive the target, don't hand-pick coordinates.** For every beat, decide which
-persona(s) are actually being discussed (0, 1, or 2 — rarely more) and compute the camera
-from that:
-- 1 focus node: center on it, tight zoom.
-- 2 focus nodes: center on their midpoint; set zoom from their actual on-screen distance so
-  they consistently fit with the same visual margin (e.g. `zoom = clamp(desiredOnScreenSpan /
-  actualWorldDistance, minZoom, maxZoom)`), not a guessed constant per beat.
-- 0 focus nodes ("wide"/"reveal"): center on the centroid of all entities, zoomed out. Use
-  this whenever the beat is general/reflective rather than about a specific 1-2 people, and
-  always for the Mechanism Reveal payoff (with a slightly wider zoom than the default idle
-  wide shot, since the reveal is the one moment that needs to show literally everything at
-  once).
+persona(s) are actually being discussed (0, 1, 2, or occasionally more) and compute the camera
+from that using `fitCameraToFocus` (`src/lib/diagram/frameFit.ts`) — pass it your video's node
+positions and the focus id(s):
+- 1 or more focus nodes: `fitCameraToFocus(NODES, [id, ...])` centers on their centroid and
+  picks the tightest zoom that still fits them with margin — this replaces hand-picked
+  `TIGHT_ZOOM`/`PAIR_ZOOM` constants, which don't automatically stay valid when a video's node
+  layout changes. **Always check the result's `excludesNonFocus`** (a test should assert it
+  for every shot a video actually uses, not just eyeball a still) — `false` means a non-focus
+  node genuinely leaks into that framing at any zoom the fit allows, named in
+  `leakingNodeIds`; that's a real layout problem (nodes too close together for this shot),
+  not something to silently ship. This function replaced hand-picked constants after they
+  independently leaked a non-focus node into frame *three separate times* across three videos
+  (a too-loose `PAIR_ZOOM`, a too-cramped 4-node layout, and — found only once this function
+  existed to check it — a pre-existing leak in the very first reference video, all caught only
+  by a still-check until this existed) — treat the eyeballed version as the failure mode this
+  function exists to prevent, not an acceptable fallback.
+- 0 focus nodes ("wide"/"reveal"): `fitCameraToFocus(NODES, [])` centers on the centroid of
+  every entity, zoomed to fit all of them. Use this whenever the beat is general/reflective
+  rather than about a specific 1-2 people. The Mechanism Reveal payoff wants a *deliberately*
+  wider zoom than the idle wide shot, since it's the one moment that needs to show literally
+  everything at once with room to spare — that's a creative choice, not a safety-derived one,
+  so keep it as an explicit constant (e.g. `{ x: CENTER.x, y: CENTER.y, zoom: 0.7 }`) rather
+  than routing it through the function, which would just collapse it to the same zoom as the
+  ordinary wide shot.
 - Never leave an entity in frame that the current beat isn't about — that's what reads as
-  "not accurately centered" / confusing, even if technically visible.
+  "not accurately centered" / confusing, even if technically visible. This is exactly what
+  `excludesNonFocus` checks mechanically instead of by eye.
 
 **Camera must actually hold, not drift.** Build keyframes as explicit (arrive, hold-until)
 pairs carrying the *same* x/y/zoom, so interpolating between them is genuinely constant —
@@ -146,6 +183,35 @@ then transition to the next target only in the gap between one hold-until and th
 arrive. A naive keyframe list of single points per beat will perpetually ease toward the next
 target and never rest, which is most noticeable (and most damaging) on any beat that needs a
 true static hold (a deadpan emotional beat, or the reveal itself while a connector draws).
+`src/lib/Camera.ts`'s `cameraTransformFactory` now validates this eagerly (see below) but can
+only catch a missing hold as a crash, not silently-wrong values — the hold-pair discipline
+itself is still on you.
+
+**This exact rule generalizes to `WORLD_OPACITY_FRAMES`/`VALUES` too — it is not
+camera-specific.** A video's world-opacity fade (diagram in/out around a dedicated scene) uses
+the identical `interpolate()` mechanism as the camera, and is subject to the identical failure:
+a "hold" expressed as a single point immediately followed by a much later, different-valued
+point doesn't hold — it drifts, eased, across the *entire* gap between them. This shipped once
+(`AvoidCommunicationSilos`'s Mechanism Reveal nearly faded the diagram to invisible mid-beat,
+caught only by a still-check at the reveal's midpoint) before being generalized here. Use
+`opacityFactory` from `src/lib/keyframes.ts` instead of an inline `interpolate` call — same
+shape as `cameraTransformFactory` (construct once from your `WORLD_OPACITY_FRAMES`/`VALUES`,
+call per frame), and it validates eagerly too.
+
+**A specific, real way to break the hold-pair rule: two adjacent beats colliding on their
+shared boundary frame.** Beats are contiguous (`buildTimeline` guarantees
+`beat[n].from + beat[n].duration === beat[n + 1].from`), so if beat `n`'s last keyframe is a
+hold placed exactly at its own end, and beat `n + 1`'s first keyframe is placed exactly at its
+own start, they are the *same frame number* with (usually) two different target values —
+`interpolate()` requires strictly increasing input, so this throws, deep inside Remotion, with
+no indication of which layout.ts line caused it. The fix is the same offset-pan pattern used at
+every other beat-boundary transition: hold on one side up to `nextBeat.from - SLOW`, then let
+the arrival keyframe at `nextBeat.from` be the only point that actually sits on the boundary.
+Never place a hold point at `beat[n].from + beat[n].duration` when beat `n + 1` also places one
+at its own `.from` — pick one side. Both `cameraTransformFactory` and `opacityFactory` now call
+`assertStrictlyIncreasing` (`src/lib/keyframes.ts`) before returning, so this fails immediately
+at module load with a message naming the exact colliding frames and this cause, instead of a
+generic crash on first render.
 
 **Camera moves must read as pans, not cuts.** A short transition (under ~20 frames at 60fps)
 with an ease-out curve reads as a snap with a decorative curve on top, not a camera actually
@@ -182,13 +248,19 @@ is most of what separates a video that feels "programmatic" from one that feels 
 
 ## Audio & timing pipeline (reuse, don't reinvent)
 
-Follow the same real-timestamp pipeline as the plain kinetic-text format
-(`scripts/generate-voiceover*.ts` in this repo): one ElevenLabs `with-timestamps` call per
-*beat* (not per sentence — a beat's script can be a full paragraph), derive word-level timing
-JSON, and drive every diagram state change (connector draw-on start/end, packet travel
-start/end, camera cue points) off real word timestamps via a `frameOfWord(beatId, word,
-edge?, occurrence?)` lookup — never a guessed frame number. Run generation with:
-`node --env-file=.env --experimental-strip-types scripts/generate-voiceover-<name>.ts`
+Follow the same real-timestamp pipeline as the plain kinetic-text format: one ElevenLabs
+`with-timestamps` call per *beat* (not per sentence — a beat's script can be a full paragraph),
+derive word-level timing JSON, and drive every diagram state change (connector draw-on
+start/end, packet travel start/end, camera cue points) off real word timestamps via a
+`frameOfWord(beatId, word, edge?, occurrence?)` lookup — never a guessed frame number.
+
+**One script, not one per video.** `scripts/generate-voiceover.ts` is the single, deterministic
+CLI — it takes a video name and reads that video's beat list from its own
+`src/<VideoName>/script.ts` (a `SLIDES: Slide[]` export, `Slide` from `scripts/lib/
+elevenlabs.ts`). Write the beat list as data in that file, never as a new hand-written script —
+a per-video `scripts/generate-voiceover-<name>.ts` file is exactly the "ad hoc per project"
+shape this replaced. Run with:
+`node --env-file=.env --experimental-strip-types scripts/generate-voiceover.ts <VideoName>`
 (no `tsx`/`ts-node` dependency needed on Node 22+).
 
 **Voice settings — avoid a flat/monotone read.** Default `voice_settings` tuned for
@@ -252,9 +324,12 @@ touching anything under `src/lib` to confirm nothing broke.
 
 What's in the library (import these, don't reimplement):
 - `scripts/lib/elevenlabs.ts` — `generateVoiceover({ outDir, slides, voiceSettings?, modelId? })`,
-  the entire ElevenLabs `with-timestamps` call + word-timing derivation + file-writing loop.
-  Defaults to the validated `voice_settings` and `eleven_multilingual_v2` (see "Voice settings"
-  and "Sentence-to-sentence pauses" below — don't default to `eleven_v3`).
+  the entire ElevenLabs `with-timestamps` call + word-timing derivation + file-writing loop, and
+  the `Slide`/`VoiceSettings` types. Defaults to the validated `voice_settings` and
+  `eleven_multilingual_v2` (see "Voice settings" and "Sentence-to-sentence pauses" below — don't
+  default to `eleven_v3`).
+- `scripts/generate-voiceover.ts` — the one CLI that calls it (see "Audio & timing pipeline"
+  below for the full invocation and where a video's own beat list lives).
 - `scripts/build-timing-data.ts` — CLI: `node --experimental-strip-types
   scripts/build-timing-data.ts <VideoName>` builds `src/<VideoName>/data.ts` straight from
   `public/voiceover/<VideoName>/beat-*.json`. Never hand-write this conversion.
@@ -264,13 +339,29 @@ What's in the library (import these, don't reimplement):
   duration + a declared per-beat hold weight, not a hand-summed cumulative frame table — a
   hand-summed table silently goes stale the moment the audio changes) and
   `frameOfWordFactory(beats, timeline, fps)`.
+- `src/lib/keyframes.ts` — `assertStrictlyIncreasing(frames, label)` (called eagerly inside
+  `cameraTransformFactory`/`opacityFactory` — a colliding keyframe array throws immediately at
+  module load, naming the exact cause, instead of a generic crash on first render) and
+  `opacityFactory(frames, values)`, the `WORLD_OPACITY_FRAMES`/`VALUES` equivalent of
+  `cameraTransformFactory` — construct once, call per frame. Use this instead of an inline
+  `interpolate` call for world opacity; see "Camera must actually hold, not drift" below, which
+  the identical rule now covers for both.
 - `src/lib/Camera.ts` — `cameraTransformFactory(frames, xs, ys, zooms)`, called with a video's
   own `CAMERA_FRAMES`/`X`/`Y`/`ZOOM` from its `layout.ts`.
+- `src/lib/diagram/frameFit.ts` — `fitCameraToFocus(nodes, focusIds, opts?)`, the generalized
+  camera-target formula behind `tight()`/`pair()` (see "Camera — derive the target" below) —
+  build those two helpers in your video's `layout.ts` on top of this, don't hand-pick zoom
+  constants.
 - `src/lib/Wipe.tsx` — the scene-transition wipe.
 - `src/lib/diagram/PersonNode.tsx` — node circle + label, with the occlusion-safety rule (see
   below) enforced by construction: `dim` only ever changes stroke/text color, never fill opacity.
 - `src/lib/diagram/DiagramFrame.tsx` — the safe-zone wrapper (see "Caption/diagram safe zone"
-  below) + camera `<g>` + `<svg>`, taking `worldOpacity` and children.
+  below) + camera `<g>` + `<svg>`, taking `worldOpacity`, `children` (nodes/connectors), and an
+  `overlay` prop (packets — see "Node occlusion" below for why these are separate).
+- `src/lib/diagram/PacketMarker.tsx` — the diamond ("in-transit/unresolved") or circle
+  ("delivered/resolved", pass `accent`) packet marker, hand-copied independently across three
+  videos before being extracted here. Always render it via `DiagramFrame`'s `overlay` prop, not
+  inline alongside nodes.
 - `src/lib/diagram/connectorMath.ts` — `drawOnStyle(t)`, the pathLength=1 draw-on primitive.
   **Connector activation, direction, and color meaning stay hand-written per video** — that's
   the creative core of the diagram, not boilerplate (see "Connectors carry the entire
@@ -284,6 +375,9 @@ What's in the library (import these, don't reimplement):
 
 ```
 src/<VideoName>/
+  script.ts    # SLIDES: id, text — the beat-by-beat narration script, read
+               # by scripts/generate-voiceover.ts. Data only, never a new
+               # generate-voiceover-<name>.ts script.
   data.ts      # BEATS: id, durationMs, words[] — generated by
                # scripts/build-timing-data.ts, never hand-written
   timeline.ts  # FPS, BEAT_ORDER, HOLD_SECONDS, then TIMELINE = buildTimeline(...)
@@ -432,3 +526,7 @@ visibility actually flips.
 - On any long-form reflective beat, confirm the diagram is fully gone (not a faint residual)
   and the text is centered in the full frame, not confined to the bottom caption band.
 - `npx tsc` and `npx eslint <dir>` clean before rendering.
+- `npm test` clean (see `tests/README.md`) — the regression suite catches classes of bug a
+  still-check at a handful of frames won't: module resolution, camera-boundary keyframe
+  collisions, a non-focus node leaking into a tight/pair shot. Mandatory whenever code or test
+  cases changed, not just before a first render.

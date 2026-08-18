@@ -1,0 +1,361 @@
+{
+  "text": "That doesn't mean every release must be perfect. Sometimes the correct decision is to release a limited version, gather feedback, and improve it. But call it what it is. Document the known gaps, tell users what to expect, and schedule the next iteration before the team moves on. Ship and iterate only works when the iteration happens. Otherwise, you shipped unfinished work and passed the cost to the people using it.",
+  "durationMs": 25402,
+  "words": [
+    {
+      "text": "That",
+      "startMs": 0,
+      "endMs": 209
+    },
+    {
+      "text": "doesn't",
+      "startMs": 290,
+      "endMs": 604
+    },
+    {
+      "text": "mean",
+      "startMs": 708,
+      "endMs": 894
+    },
+    {
+      "text": "every",
+      "startMs": 987,
+      "endMs": 1231
+    },
+    {
+      "text": "release",
+      "startMs": 1289,
+      "endMs": 1602
+    },
+    {
+      "text": "must",
+      "startMs": 1625,
+      "endMs": 1788
+    },
+    {
+      "text": "be",
+      "startMs": 1823,
+      "endMs": 1916
+    },
+    {
+      "text": "perfect.",
+      "startMs": 1974,
+      "endMs": 2485
+    },
+    {
+      "text": "Sometimes",
+      "startMs": 2786,
+      "endMs": 3286
+    },
+    {
+      "text": "the",
+      "startMs": 3320,
+      "endMs": 3390
+    },
+    {
+      "text": "correct",
+      "startMs": 3448,
+      "endMs": 3796
+    },
+    {
+      "text": "decision",
+      "startMs": 3843,
+      "endMs": 4249
+    },
+    {
+      "text": "is",
+      "startMs": 4342,
+      "endMs": 4481
+    },
+    {
+      "text": "to",
+      "startMs": 4528,
+      "endMs": 4598
+    },
+    {
+      "text": "release",
+      "startMs": 4690,
+      "endMs": 5027
+    },
+    {
+      "text": "a",
+      "startMs": 5074,
+      "endMs": 5108
+    },
+    {
+      "text": "limited",
+      "startMs": 5190,
+      "endMs": 5550
+    },
+    {
+      "text": "version,",
+      "startMs": 5631,
+      "endMs": 6142
+    },
+    {
+      "text": "gather",
+      "startMs": 6444,
+      "endMs": 6850
+    },
+    {
+      "text": "feedback,",
+      "startMs": 6954,
+      "endMs": 7605
+    },
+    {
+      "text": "and",
+      "startMs": 7628,
+      "endMs": 7755
+    },
+    {
+      "text": "improve",
+      "startMs": 7814,
+      "endMs": 8266
+    },
+    {
+      "text": "it.",
+      "startMs": 8301,
+      "endMs": 8522
+    },
+    {
+      "text": "But",
+      "startMs": 8754,
+      "endMs": 8928
+    },
+    {
+      "text": "call",
+      "startMs": 8986,
+      "endMs": 9160
+    },
+    {
+      "text": "it",
+      "startMs": 9218,
+      "endMs": 9276
+    },
+    {
+      "text": "what",
+      "startMs": 9311,
+      "endMs": 9439
+    },
+    {
+      "text": "it",
+      "startMs": 9485,
+      "endMs": 9543
+    },
+    {
+      "text": "is.",
+      "startMs": 9601,
+      "endMs": 9927
+    },
+    {
+      "text": "Document",
+      "startMs": 10159,
+      "endMs": 10658
+    },
+    {
+      "text": "the",
+      "startMs": 10693,
+      "endMs": 10774
+    },
+    {
+      "text": "known",
+      "startMs": 10809,
+      "endMs": 10983
+    },
+    {
+      "text": "gaps,",
+      "startMs": 11041,
+      "endMs": 11540
+    },
+    {
+      "text": "tell",
+      "startMs": 11587,
+      "endMs": 11900
+    },
+    {
+      "text": "users",
+      "startMs": 12028,
+      "endMs": 12434
+    },
+    {
+      "text": "what",
+      "startMs": 12516,
+      "endMs": 12678
+    },
+    {
+      "text": "to",
+      "startMs": 12713,
+      "endMs": 12783
+    },
+    {
+      "text": "expect,",
+      "startMs": 12864,
+      "endMs": 13537
+    },
+    {
+      "text": "and",
+      "startMs": 13769,
+      "endMs": 13943
+    },
+    {
+      "text": "schedule",
+      "startMs": 14036,
+      "endMs": 14512
+    },
+    {
+      "text": "the",
+      "startMs": 14547,
+      "endMs": 14617
+    },
+    {
+      "text": "next",
+      "startMs": 14663,
+      "endMs": 14884
+    },
+    {
+      "text": "iteration",
+      "startMs": 14942,
+      "endMs": 15418
+    },
+    {
+      "text": "before",
+      "startMs": 15476,
+      "endMs": 15789
+    },
+    {
+      "text": "the",
+      "startMs": 15824,
+      "endMs": 15894
+    },
+    {
+      "text": "team",
+      "startMs": 15952,
+      "endMs": 16172.999999999998
+    },
+    {
+      "text": "moves",
+      "startMs": 16231.000000000002,
+      "endMs": 16474
+    },
+    {
+      "text": "on.",
+      "startMs": 16556,
+      "endMs": 16834
+    },
+    {
+      "text": "Ship",
+      "startMs": 17101,
+      "endMs": 17438
+    },
+    {
+      "text": "and",
+      "startMs": 17496,
+      "endMs": 17589
+    },
+    {
+      "text": "iterate",
+      "startMs": 17635,
+      "endMs": 18088
+    },
+    {
+      "text": "only",
+      "startMs": 18216,
+      "endMs": 18553
+    },
+    {
+      "text": "works",
+      "startMs": 18611,
+      "endMs": 18913
+    },
+    {
+      "text": "when",
+      "startMs": 19005,
+      "endMs": 19180
+    },
+    {
+      "text": "the",
+      "startMs": 19214,
+      "endMs": 19284
+    },
+    {
+      "text": "iteration",
+      "startMs": 19330,
+      "endMs": 19795
+    },
+    {
+      "text": "happens.",
+      "startMs": 19853,
+      "endMs": 20352
+    },
+    {
+      "text": "Otherwise,",
+      "startMs": 20387,
+      "endMs": 21142
+    },
+    {
+      "text": "you",
+      "startMs": 21327,
+      "endMs": 21432
+    },
+    {
+      "text": "shipped",
+      "startMs": 21536,
+      "endMs": 21850
+    },
+    {
+      "text": "unfinished",
+      "startMs": 21978,
+      "endMs": 22604
+    },
+    {
+      "text": "work",
+      "startMs": 22663,
+      "endMs": 22964
+    },
+    {
+      "text": "and",
+      "startMs": 23046,
+      "endMs": 23173
+    },
+    {
+      "text": "passed",
+      "startMs": 23255,
+      "endMs": 23556
+    },
+    {
+      "text": "the",
+      "startMs": 23580,
+      "endMs": 23649
+    },
+    {
+      "text": "cost",
+      "startMs": 23707,
+      "endMs": 24044
+    },
+    {
+      "text": "to",
+      "startMs": 24067,
+      "endMs": 24125
+    },
+    {
+      "text": "the",
+      "startMs": 24172,
+      "endMs": 24253
+    },
+    {
+      "text": "people",
+      "startMs": 24300,
+      "endMs": 24613
+    },
+    {
+      "text": "using",
+      "startMs": 24694,
+      "endMs": 24973
+    },
+    {
+      "text": "it.",
+      "startMs": 25019,
+      "endMs": 25402
+    }
+  ]
+}

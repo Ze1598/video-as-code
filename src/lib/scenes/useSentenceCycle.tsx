@@ -1,5 +1,5 @@
 import { Easing, interpolate } from "remotion";
-import { splitSentences, type WordTiming } from "../sentences";
+import { splitSentences, type WordTiming } from "../sentences.ts";
 
 const EASE = Easing.bezier(0.16, 1, 0.3, 1);
 const clamp = { extrapolateLeft: "clamp" as const, extrapolateRight: "clamp" as const };

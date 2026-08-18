@@ -1,6 +1,6 @@
-import { generateVoiceover } from "./lib/elevenlabs";
+import type { Slide } from "../../scripts/lib/elevenlabs.ts";
 
-const SLIDES = [
+export const SLIDES: Slide[] = [
   {
     id: "beat-00",
     text: "He asked three people to support the same plan. Three people agreed. They just weren't agreeing to the same thing.",
@@ -46,5 +46,3 @@ const SLIDES = [
     text: "The last time someone pushed back on you, are you sure you know which version of your idea they were pushing back on?",
   },
 ];
-
-await generateVoiceover({ outDir: "public/voiceover/HowToBeUnderstood", slides: SLIDES });

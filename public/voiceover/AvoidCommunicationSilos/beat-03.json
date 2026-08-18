@@ -1,0 +1,191 @@
+{
+  "text": "This time, an engineer asked two things: which system stored the corrected value, and whether the report needed to update immediately. The designers could answer the first question. Not the second. Another follow-up went on the calendar.",
+  "durationMs": 13746,
+  "words": [
+    {
+      "text": "This",
+      "startMs": 0,
+      "endMs": 232
+    },
+    {
+      "text": "time,",
+      "startMs": 290,
+      "endMs": 615
+    },
+    {
+      "text": "an",
+      "startMs": 639,
+      "endMs": 778
+    },
+    {
+      "text": "engineer",
+      "startMs": 882,
+      "endMs": 1219
+    },
+    {
+      "text": "asked",
+      "startMs": 1277,
+      "endMs": 1463
+    },
+    {
+      "text": "two",
+      "startMs": 1486,
+      "endMs": 1637
+    },
+    {
+      "text": "things:",
+      "startMs": 1730,
+      "endMs": 2194
+    },
+    {
+      "text": "which",
+      "startMs": 2426,
+      "endMs": 2682
+    },
+    {
+      "text": "system",
+      "startMs": 2775,
+      "endMs": 3228
+    },
+    {
+      "text": "stored",
+      "startMs": 3320,
+      "endMs": 3704
+    },
+    {
+      "text": "the",
+      "startMs": 3727,
+      "endMs": 3796
+    },
+    {
+      "text": "corrected",
+      "startMs": 3855,
+      "endMs": 4272
+    },
+    {
+      "text": "value,",
+      "startMs": 4319,
+      "endMs": 4795
+    },
+    {
+      "text": "and",
+      "startMs": 4818,
+      "endMs": 4969
+    },
+    {
+      "text": "whether",
+      "startMs": 5050,
+      "endMs": 5283
+    },
+    {
+      "text": "the",
+      "startMs": 5317,
+      "endMs": 5387
+    },
+    {
+      "text": "report",
+      "startMs": 5468,
+      "endMs": 5909
+    },
+    {
+      "text": "needed",
+      "startMs": 5991,
+      "endMs": 6246
+    },
+    {
+      "text": "to",
+      "startMs": 6281,
+      "endMs": 6339
+    },
+    {
+      "text": "update",
+      "startMs": 6420,
+      "endMs": 6803
+    },
+    {
+      "text": "immediately.",
+      "startMs": 6850,
+      "endMs": 7523
+    },
+    {
+      "text": "The",
+      "startMs": 7651,
+      "endMs": 7767
+    },
+    {
+      "text": "designers",
+      "startMs": 7814,
+      "endMs": 8255
+    },
+    {
+      "text": "could",
+      "startMs": 8313,
+      "endMs": 8464
+    },
+    {
+      "text": "answer",
+      "startMs": 8545,
+      "endMs": 8847
+    },
+    {
+      "text": "the",
+      "startMs": 8905,
+      "endMs": 8975
+    },
+    {
+      "text": "first",
+      "startMs": 9033,
+      "endMs": 9230
+    },
+    {
+      "text": "question.",
+      "startMs": 9265,
+      "endMs": 9718
+    },
+    {
+      "text": "Not",
+      "startMs": 9764,
+      "endMs": 9973
+    },
+    {
+      "text": "the",
+      "startMs": 10019,
+      "endMs": 10089
+    },
+    {
+      "text": "second.",
+      "startMs": 10136,
+      "endMs": 10670
+    },
+    {
+      "text": "Another",
+      "startMs": 10902,
+      "endMs": 11273
+    },
+    {
+      "text": "follow-up",
+      "startMs": 11355,
+      "endMs": 11865
+    },
+    {
+      "text": "went",
+      "startMs": 11993,
+      "endMs": 12318
+    },
+    {
+      "text": "on",
+      "startMs": 12481,
+      "endMs": 12690
+    },
+    {
+      "text": "the",
+      "startMs": 12725,
+      "endMs": 12794
+    },
+    {
+      "text": "calendar.",
+      "startMs": 12841,
+      "endMs": 13746
+    }
+  ]
+}

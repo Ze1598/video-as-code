@@ -1,0 +1,61 @@
+{
+  "text": "The meetings became the machinery that kept the communication silos thriving.",
+  "durationMs": 4830,
+  "words": [
+    {
+      "text": "The",
+      "startMs": 0,
+      "endMs": 151
+    },
+    {
+      "text": "meetings",
+      "startMs": 232,
+      "endMs": 673
+    },
+    {
+      "text": "became",
+      "startMs": 766,
+      "endMs": 1161
+    },
+    {
+      "text": "the",
+      "startMs": 1207,
+      "endMs": 1289
+    },
+    {
+      "text": "machinery",
+      "startMs": 1335,
+      "endMs": 1927
+    },
+    {
+      "text": "that",
+      "startMs": 2009,
+      "endMs": 2148
+    },
+    {
+      "text": "kept",
+      "startMs": 2252,
+      "endMs": 2670
+    },
+    {
+      "text": "the",
+      "startMs": 2717,
+      "endMs": 2798
+    },
+    {
+      "text": "communication",
+      "startMs": 2844,
+      "endMs": 3425
+    },
+    {
+      "text": "silos",
+      "startMs": 3483,
+      "endMs": 3796
+    },
+    {
+      "text": "thriving.",
+      "startMs": 3924,
+      "endMs": 4830
+    }
+  ]
+}

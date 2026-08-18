@@ -1,0 +1,371 @@
+{
+  "text": "The company had separated the people who understood the problem from the people who had to solve it — then tried to repair that separation with more meetings. Each handoff removed context. Operations answered the question the designers carried back, but couldn't hear why engineering had asked it. Engineering got the answer, but not the discussion that shaped it. New information created new questions — and those traveled back through the same route.",
+  "durationMs": 27446,
+  "words": [
+    {
+      "text": "The",
+      "startMs": 0,
+      "endMs": 139
+    },
+    {
+      "text": "company",
+      "startMs": 221,
+      "endMs": 569
+    },
+    {
+      "text": "had",
+      "startMs": 1324,
+      "endMs": 2171
+    },
+    {
+      "text": "separated",
+      "startMs": 2264,
+      "endMs": 2821
+    },
+    {
+      "text": "the",
+      "startMs": 2844,
+      "endMs": 2914
+    },
+    {
+      "text": "people",
+      "startMs": 2961,
+      "endMs": 3251
+    },
+    {
+      "text": "who",
+      "startMs": 3286,
+      "endMs": 3437
+    },
+    {
+      "text": "understood",
+      "startMs": 3529,
+      "endMs": 3982
+    },
+    {
+      "text": "the",
+      "startMs": 4017.0000000000005,
+      "endMs": 4098
+    },
+    {
+      "text": "problem",
+      "startMs": 4180,
+      "endMs": 4586
+    },
+    {
+      "text": "from",
+      "startMs": 4748,
+      "endMs": 4946
+    },
+    {
+      "text": "the",
+      "startMs": 4992,
+      "endMs": 5062
+    },
+    {
+      "text": "people",
+      "startMs": 5097,
+      "endMs": 5352
+    },
+    {
+      "text": "who",
+      "startMs": 5387,
+      "endMs": 5492
+    },
+    {
+      "text": "had",
+      "startMs": 5584,
+      "endMs": 5759
+    },
+    {
+      "text": "to",
+      "startMs": 5793,
+      "endMs": 5851
+    },
+    {
+      "text": "solve",
+      "startMs": 5909,
+      "endMs": 6188
+    },
+    {
+      "text": "it",
+      "startMs": 6211,
+      "endMs": 6327
+    },
+    {
+      "text": "—",
+      "startMs": 6385,
+      "endMs": 6444
+    },
+    {
+      "text": "then",
+      "startMs": 6571,
+      "endMs": 6769
+    },
+    {
+      "text": "tried",
+      "startMs": 6827,
+      "endMs": 7105
+    },
+    {
+      "text": "to",
+      "startMs": 7140,
+      "endMs": 7210
+    },
+    {
+      "text": "repair",
+      "startMs": 7303,
+      "endMs": 7616
+    },
+    {
+      "text": "that",
+      "startMs": 7697,
+      "endMs": 7814
+    },
+    {
+      "text": "separation",
+      "startMs": 7860,
+      "endMs": 8394
+    },
+    {
+      "text": "with",
+      "startMs": 8452,
+      "endMs": 8591
+    },
+    {
+      "text": "more",
+      "startMs": 8649,
+      "endMs": 8824
+    },
+    {
+      "text": "meetings.",
+      "startMs": 8847,
+      "endMs": 9358
+    },
+    {
+      "text": "Each",
+      "startMs": 9706,
+      "endMs": 9938
+    },
+    {
+      "text": "handoff",
+      "startMs": 10019,
+      "endMs": 10484
+    },
+    {
+      "text": "removed",
+      "startMs": 10612,
+      "endMs": 11064
+    },
+    {
+      "text": "context.",
+      "startMs": 11169,
+      "endMs": 12051
+    },
+    {
+      "text": "Operations",
+      "startMs": 12399,
+      "endMs": 13003
+    },
+    {
+      "text": "answered",
+      "startMs": 13108,
+      "endMs": 13572
+    },
+    {
+      "text": "the",
+      "startMs": 13595,
+      "endMs": 13665
+    },
+    {
+      "text": "question",
+      "startMs": 13711,
+      "endMs": 14083
+    },
+    {
+      "text": "the",
+      "startMs": 14129,
+      "endMs": 14199
+    },
+    {
+      "text": "designers",
+      "startMs": 14257,
+      "endMs": 14652
+    },
+    {
+      "text": "carried",
+      "startMs": 14733,
+      "endMs": 15093
+    },
+    {
+      "text": "back,",
+      "startMs": 15151,
+      "endMs": 15581
+    },
+    {
+      "text": "but",
+      "startMs": 15767,
+      "endMs": 15941
+    },
+    {
+      "text": "couldn't",
+      "startMs": 15987,
+      "endMs": 16277.999999999998
+    },
+    {
+      "text": "hear",
+      "startMs": 16370.999999999998,
+      "endMs": 16707
+    },
+    {
+      "text": "why",
+      "startMs": 16870,
+      "endMs": 17206
+    },
+    {
+      "text": "engineering",
+      "startMs": 17334,
+      "endMs": 17810
+    },
+    {
+      "text": "had",
+      "startMs": 17868,
+      "endMs": 18031
+    },
+    {
+      "text": "asked",
+      "startMs": 18158,
+      "endMs": 18542
+    },
+    {
+      "text": "it.",
+      "startMs": 18588,
+      "endMs": 18762
+    },
+    {
+      "text": "Engineering",
+      "startMs": 18820,
+      "endMs": 19331
+    },
+    {
+      "text": "got",
+      "startMs": 19412,
+      "endMs": 19598
+    },
+    {
+      "text": "the",
+      "startMs": 19633,
+      "endMs": 19714
+    },
+    {
+      "text": "answer,",
+      "startMs": 19772,
+      "endMs": 20132
+    },
+    {
+      "text": "but",
+      "startMs": 20155,
+      "endMs": 20295
+    },
+    {
+      "text": "not",
+      "startMs": 20353,
+      "endMs": 20538
+    },
+    {
+      "text": "the",
+      "startMs": 20597,
+      "endMs": 20689
+    },
+    {
+      "text": "discussion",
+      "startMs": 20771,
+      "endMs": 21270
+    },
+    {
+      "text": "that",
+      "startMs": 21316,
+      "endMs": 21432
+    },
+    {
+      "text": "shaped",
+      "startMs": 21491,
+      "endMs": 21792
+    },
+    {
+      "text": "it.",
+      "startMs": 21839,
+      "endMs": 21978
+    },
+    {
+      "text": "New",
+      "startMs": 22036,
+      "endMs": 22234
+    },
+    {
+      "text": "information",
+      "startMs": 22268,
+      "endMs": 22791
+    },
+    {
+      "text": "created",
+      "startMs": 22849,
+      "endMs": 23255
+    },
+    {
+      "text": "new",
+      "startMs": 23302,
+      "endMs": 23429
+    },
+    {
+      "text": "questions",
+      "startMs": 23487,
+      "endMs": 24045
+    },
+    {
+      "text": "—",
+      "startMs": 24138,
+      "endMs": 24323
+    },
+    {
+      "text": "and",
+      "startMs": 24509,
+      "endMs": 24660
+    },
+    {
+      "text": "those",
+      "startMs": 24718,
+      "endMs": 25008
+    },
+    {
+      "text": "traveled",
+      "startMs": 25055,
+      "endMs": 25484
+    },
+    {
+      "text": "back",
+      "startMs": 25519,
+      "endMs": 25833
+    },
+    {
+      "text": "through",
+      "startMs": 25995,
+      "endMs": 26355
+    },
+    {
+      "text": "the",
+      "startMs": 26436,
+      "endMs": 26518
+    },
+    {
+      "text": "same",
+      "startMs": 26564,
+      "endMs": 26831
+    },
+    {
+      "text": "route.",
+      "startMs": 26878,
+      "endMs": 27446
+    }
+  ]
+}

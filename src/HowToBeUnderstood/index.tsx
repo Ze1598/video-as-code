@@ -1,16 +1,16 @@
 import { Audio } from "@remotion/media";
 import { AbsoluteFill, Sequence, staticFile } from "remotion";
-import { BEAT_ORDER, FPS, TIMELINE, TOTAL_DURATION } from "./timeline";
-import { BG, HIGHLIGHTS } from "./layout";
-import { World } from "./World";
-import { Caption } from "./Hud";
-import { ListScene } from "./Scenes";
-import { BEATS } from "./data";
-import { Wipe } from "../lib/Wipe";
-import { HookScene } from "../lib/scenes/HookScene";
-import { CtaScene } from "../lib/scenes/CtaScene";
-import { SplitArgumentScene } from "../lib/scenes/SplitArgumentScene";
-import { LongFormScene } from "../lib/scenes/LongFormScene";
+import { BEAT_ORDER, FPS, TIMELINE, TOTAL_DURATION } from "./timeline.ts";
+import { BG, HIGHLIGHTS } from "./layout.ts";
+import { World } from "./World.tsx";
+import { Caption } from "./Hud.tsx";
+import { ListScene } from "./Scenes.tsx";
+import { BEATS } from "./data.ts";
+import { Wipe } from "../lib/Wipe.tsx";
+import { HookScene } from "../lib/scenes/HookScene.tsx";
+import { CtaScene } from "../lib/scenes/CtaScene.tsx";
+import { SplitArgumentScene } from "../lib/scenes/SplitArgumentScene.tsx";
+import { LongFormScene } from "../lib/scenes/LongFormScene.tsx";
 
 export const FPS_HTBU = FPS;
 export const HOW_TO_BE_UNDERSTOOD_DURATION = TOTAL_DURATION;

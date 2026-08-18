@@ -1,8 +1,8 @@
 import { useCurrentFrame } from "remotion";
-import type { Beat, TimelineEntry } from "../timeline";
-import { ACCENT, DIM_TEXT, FONT } from "../palette";
-import { DEFAULT_CAPTION_TOP } from "../diagram/DiagramFrame";
-import { HighlightedText, sentenceCycle } from "./useSentenceCycle";
+import type { Beat, TimelineEntry } from "../timeline.ts";
+import { ACCENT, DIM_TEXT, FONT } from "../palette.ts";
+import { DEFAULT_CAPTION_TOP } from "../diagram/DiagramFrame.tsx";
+import { HighlightedText, sentenceCycle } from "./useSentenceCycle.tsx";
 
 export type CaptionProps = {
   beats: Record<string, Beat>;

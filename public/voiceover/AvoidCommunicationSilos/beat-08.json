@@ -1,0 +1,261 @@
+{
+  "text": "Specialized teams aren't the problem. Designers should design. Engineers should build. Operations shouldn't attend every technical discussion. The problem begins when specialization controls who is allowed to exchange information. If the builder can only question the requirement through a designer, the designer becomes a courier. Every missing detail creates another trip.",
+  "durationMs": 20619,
+  "words": [
+    {
+      "text": "Specialized",
+      "startMs": 0,
+      "endMs": 499
+    },
+    {
+      "text": "teams",
+      "startMs": 546,
+      "endMs": 778
+    },
+    {
+      "text": "aren't",
+      "startMs": 801,
+      "endMs": 1033
+    },
+    {
+      "text": "the",
+      "startMs": 1057,
+      "endMs": 1126
+    },
+    {
+      "text": "problem.",
+      "startMs": 1173,
+      "endMs": 1637
+    },
+    {
+      "text": "Designers",
+      "startMs": 1730,
+      "endMs": 2194
+    },
+    {
+      "text": "should",
+      "startMs": 2218,
+      "endMs": 2426
+    },
+    {
+      "text": "design.",
+      "startMs": 2461,
+      "endMs": 2856
+    },
+    {
+      "text": "Engineers",
+      "startMs": 2902,
+      "endMs": 3344
+    },
+    {
+      "text": "should",
+      "startMs": 3379,
+      "endMs": 3587
+    },
+    {
+      "text": "build.",
+      "startMs": 3634,
+      "endMs": 4040
+    },
+    {
+      "text": "Operations",
+      "startMs": 4168,
+      "endMs": 4690
+    },
+    {
+      "text": "shouldn't",
+      "startMs": 4725,
+      "endMs": 5074
+    },
+    {
+      "text": "attend",
+      "startMs": 5097,
+      "endMs": 5550
+    },
+    {
+      "text": "every",
+      "startMs": 5735,
+      "endMs": 6014
+    },
+    {
+      "text": "technical",
+      "startMs": 6095,
+      "endMs": 6525
+    },
+    {
+      "text": "discussion.",
+      "startMs": 6571,
+      "endMs": 7198
+    },
+    {
+      "text": "The",
+      "startMs": 7500,
+      "endMs": 7616
+    },
+    {
+      "text": "problem",
+      "startMs": 7674,
+      "endMs": 8010.999999999999
+    },
+    {
+      "text": "begins",
+      "startMs": 8069.000000000001,
+      "endMs": 8382
+    },
+    {
+      "text": "when",
+      "startMs": 8417,
+      "endMs": 8533
+    },
+    {
+      "text": "specialization",
+      "startMs": 8615,
+      "endMs": 9369
+    },
+    {
+      "text": "controls",
+      "startMs": 9427,
+      "endMs": 9857
+    },
+    {
+      "text": "who",
+      "startMs": 9903,
+      "endMs": 10112
+    },
+    {
+      "text": "is",
+      "startMs": 10217,
+      "endMs": 10391
+    },
+    {
+      "text": "allowed",
+      "startMs": 10472,
+      "endMs": 10844
+    },
+    {
+      "text": "to",
+      "startMs": 10867,
+      "endMs": 10925
+    },
+    {
+      "text": "exchange",
+      "startMs": 10983,
+      "endMs": 11447
+    },
+    {
+      "text": "information.",
+      "startMs": 11482,
+      "endMs": 12190
+    },
+    {
+      "text": "If",
+      "startMs": 12423,
+      "endMs": 12539
+    },
+    {
+      "text": "the",
+      "startMs": 12585,
+      "endMs": 12655
+    },
+    {
+      "text": "builder",
+      "startMs": 12713,
+      "endMs": 12992
+    },
+    {
+      "text": "can",
+      "startMs": 13038,
+      "endMs": 13166
+    },
+    {
+      "text": "only",
+      "startMs": 13270,
+      "endMs": 13595
+    },
+    {
+      "text": "question",
+      "startMs": 13677,
+      "endMs": 14071
+    },
+    {
+      "text": "the",
+      "startMs": 14118,
+      "endMs": 14187
+    },
+    {
+      "text": "requirement",
+      "startMs": 14245,
+      "endMs": 14756
+    },
+    {
+      "text": "through",
+      "startMs": 14791,
+      "endMs": 14988
+    },
+    {
+      "text": "a",
+      "startMs": 15012,
+      "endMs": 15035
+    },
+    {
+      "text": "designer,",
+      "startMs": 15081,
+      "endMs": 15743
+    },
+    {
+      "text": "the",
+      "startMs": 15975,
+      "endMs": 16103.000000000002
+    },
+    {
+      "text": "designer",
+      "startMs": 16149,
+      "endMs": 16521
+    },
+    {
+      "text": "becomes",
+      "startMs": 16567,
+      "endMs": 16974
+    },
+    {
+      "text": "a",
+      "startMs": 17101,
+      "endMs": 17206
+    },
+    {
+      "text": "courier.",
+      "startMs": 17310,
+      "endMs": 17775
+    },
+    {
+      "text": "Every",
+      "startMs": 18123,
+      "endMs": 18425
+    },
+    {
+      "text": "missing",
+      "startMs": 18471,
+      "endMs": 18762
+    },
+    {
+      "text": "detail",
+      "startMs": 18820,
+      "endMs": 19168
+    },
+    {
+      "text": "creates",
+      "startMs": 19249,
+      "endMs": 19656
+    },
+    {
+      "text": "another",
+      "startMs": 19702,
+      "endMs": 20004
+    },
+    {
+      "text": "trip.",
+      "startMs": 20050,
+      "endMs": 20619
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "text": "The team lead noticed. None of the problems stopped the main workflow, the deadline was close, and internal users could work around them. He approved the release and moved the team to its next priority.",
+  "durationMs": 11238,
+  "words": [
+    {
+      "text": "The",
+      "startMs": 0,
+      "endMs": 163
+    },
+    {
+      "text": "team",
+      "startMs": 244,
+      "endMs": 418
+    },
+    {
+      "text": "lead",
+      "startMs": 522,
+      "endMs": 650
+    },
+    {
+      "text": "noticed.",
+      "startMs": 743,
+      "endMs": 1324
+    },
+    {
+      "text": "None",
+      "startMs": 1509,
+      "endMs": 1718
+    },
+    {
+      "text": "of",
+      "startMs": 1741,
+      "endMs": 1800
+    },
+    {
+      "text": "the",
+      "startMs": 1846,
+      "endMs": 1916
+    },
+    {
+      "text": "problems",
+      "startMs": 1962,
+      "endMs": 2392
+    },
+    {
+      "text": "stopped",
+      "startMs": 2450,
+      "endMs": 2891
+    },
+    {
+      "text": "the",
+      "startMs": 2995,
+      "endMs": 3100
+    },
+    {
+      "text": "main",
+      "startMs": 3158,
+      "endMs": 3332
+    },
+    {
+      "text": "workflow,",
+      "startMs": 3413,
+      "endMs": 3971
+    },
+    {
+      "text": "the",
+      "startMs": 4005,
+      "endMs": 4098
+    },
+    {
+      "text": "deadline",
+      "startMs": 4180,
+      "endMs": 4609
+    },
+    {
+      "text": "was",
+      "startMs": 4644,
+      "endMs": 4772
+    },
+    {
+      "text": "close,",
+      "startMs": 4853,
+      "endMs": 5224
+    },
+    {
+      "text": "and",
+      "startMs": 5248,
+      "endMs": 5375
+    },
+    {
+      "text": "internal",
+      "startMs": 5468,
+      "endMs": 5851
+    },
+    {
+      "text": "users",
+      "startMs": 5933,
+      "endMs": 6281
+    },
+    {
+      "text": "could",
+      "startMs": 6385,
+      "endMs": 6548
+    },
+    {
+      "text": "work",
+      "startMs": 6594,
+      "endMs": 6815
+    },
+    {
+      "text": "around",
+      "startMs": 6861,
+      "endMs": 7105
+    },
+    {
+      "text": "them.",
+      "startMs": 7152,
+      "endMs": 7396
+    },
+    {
+      "text": "He",
+      "startMs": 7872,
+      "endMs": 7988
+    },
+    {
+      "text": "approved",
+      "startMs": 8034.000000000001,
+      "endMs": 8417
+    },
+    {
+      "text": "the",
+      "startMs": 8440,
+      "endMs": 8510
+    },
+    {
+      "text": "release",
+      "startMs": 8568,
+      "endMs": 8916
+    },
+    {
+      "text": "and",
+      "startMs": 8963,
+      "endMs": 9079
+    },
+    {
+      "text": "moved",
+      "startMs": 9137,
+      "endMs": 9346
+    },
+    {
+      "text": "the",
+      "startMs": 9369,
+      "endMs": 9439
+    },
+    {
+      "text": "team",
+      "startMs": 9485,
+      "endMs": 9706
+    },
+    {
+      "text": "to",
+      "startMs": 9764,
+      "endMs": 9834
+    },
+    {
+      "text": "its",
+      "startMs": 9915,
+      "endMs": 10043
+    },
+    {
+      "text": "next",
+      "startMs": 10101,
+      "endMs": 10310
+    },
+    {
+      "text": "priority.",
+      "startMs": 10344,
+      "endMs": 11238
+    }
+  ]
+}

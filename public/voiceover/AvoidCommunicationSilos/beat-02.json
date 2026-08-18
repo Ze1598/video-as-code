@@ -1,0 +1,241 @@
+{
+  "text": "Engineering asked a direct question: what happens when operations corrects a record after the reporting period closes? The designers didn't know. They wrote the question down and scheduled a follow-up with operations. Operations explained the correction process. The designers updated the requirements — and booked another playback.",
+  "durationMs": 20898,
+  "words": [
+    {
+      "text": "Engineering",
+      "startMs": 0,
+      "endMs": 546
+    },
+    {
+      "text": "asked",
+      "startMs": 673,
+      "endMs": 1022
+    },
+    {
+      "text": "a",
+      "startMs": 1115,
+      "endMs": 1196
+    },
+    {
+      "text": "direct",
+      "startMs": 1300,
+      "endMs": 1695
+    },
+    {
+      "text": "question:",
+      "startMs": 1776,
+      "endMs": 2392
+    },
+    {
+      "text": "what",
+      "startMs": 2450,
+      "endMs": 2659
+    },
+    {
+      "text": "happens",
+      "startMs": 2740,
+      "endMs": 3077
+    },
+    {
+      "text": "when",
+      "startMs": 3123,
+      "endMs": 3309
+    },
+    {
+      "text": "operations",
+      "startMs": 3471,
+      "endMs": 4110
+    },
+    {
+      "text": "corrects",
+      "startMs": 4214,
+      "endMs": 4725
+    },
+    {
+      "text": "a",
+      "startMs": 4853,
+      "endMs": 5016
+    },
+    {
+      "text": "record",
+      "startMs": 5201,
+      "endMs": 5666
+    },
+    {
+      "text": "after",
+      "startMs": 5793,
+      "endMs": 6153
+    },
+    {
+      "text": "the",
+      "startMs": 6211,
+      "endMs": 6293
+    },
+    {
+      "text": "reporting",
+      "startMs": 6339,
+      "endMs": 6850
+    },
+    {
+      "text": "period",
+      "startMs": 6931,
+      "endMs": 7279
+    },
+    {
+      "text": "closes?",
+      "startMs": 7372,
+      "endMs": 8092.000000000001
+    },
+    {
+      "text": "The",
+      "startMs": 8440,
+      "endMs": 8568
+    },
+    {
+      "text": "designers",
+      "startMs": 8626,
+      "endMs": 9079
+    },
+    {
+      "text": "didn't",
+      "startMs": 9137,
+      "endMs": 9451
+    },
+    {
+      "text": "know.",
+      "startMs": 9543,
+      "endMs": 9938
+    },
+    {
+      "text": "They",
+      "startMs": 10205,
+      "endMs": 10391
+    },
+    {
+      "text": "wrote",
+      "startMs": 10426,
+      "endMs": 10658
+    },
+    {
+      "text": "the",
+      "startMs": 10681,
+      "endMs": 10751
+    },
+    {
+      "text": "question",
+      "startMs": 10786,
+      "endMs": 11215
+    },
+    {
+      "text": "down",
+      "startMs": 11308,
+      "endMs": 11610
+    },
+    {
+      "text": "and",
+      "startMs": 11668,
+      "endMs": 11773
+    },
+    {
+      "text": "scheduled",
+      "startMs": 11831,
+      "endMs": 12260
+    },
+    {
+      "text": "a",
+      "startMs": 12295,
+      "endMs": 12318
+    },
+    {
+      "text": "follow-up",
+      "startMs": 12411,
+      "endMs": 12910
+    },
+    {
+      "text": "with",
+      "startMs": 12968,
+      "endMs": 13131
+    },
+    {
+      "text": "operations.",
+      "startMs": 13177,
+      "endMs": 14036
+    },
+    {
+      "text": "Operations",
+      "startMs": 14303,
+      "endMs": 14872
+    },
+    {
+      "text": "explained",
+      "startMs": 14930,
+      "endMs": 15383
+    },
+    {
+      "text": "the",
+      "startMs": 15406,
+      "endMs": 15476
+    },
+    {
+      "text": "correction",
+      "startMs": 15511,
+      "endMs": 15883
+    },
+    {
+      "text": "process.",
+      "startMs": 15941,
+      "endMs": 16567
+    },
+    {
+      "text": "The",
+      "startMs": 16753,
+      "endMs": 16846
+    },
+    {
+      "text": "designers",
+      "startMs": 16904,
+      "endMs": 17345
+    },
+    {
+      "text": "updated",
+      "startMs": 17438,
+      "endMs": 18030
+    },
+    {
+      "text": "the",
+      "startMs": 18054,
+      "endMs": 18123
+    },
+    {
+      "text": "requirements",
+      "startMs": 18158,
+      "endMs": 18739
+    },
+    {
+      "text": "—",
+      "startMs": 18866,
+      "endMs": 18994
+    },
+    {
+      "text": "and",
+      "startMs": 19342,
+      "endMs": 19482
+    },
+    {
+      "text": "booked",
+      "startMs": 19528,
+      "endMs": 19749
+    },
+    {
+      "text": "another",
+      "startMs": 19795,
+      "endMs": 20050
+    },
+    {
+      "text": "playback.",
+      "startMs": 20097,
+      "endMs": 20898
+    }
+  ]
+}

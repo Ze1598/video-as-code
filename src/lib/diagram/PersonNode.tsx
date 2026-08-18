@@ -1,4 +1,4 @@
-import { ACCENT, DIM_TEXT, FONT, LINE_ACTIVE, LINE_INACTIVE, TEXT } from "../palette";
+import { ACCENT, DIM_TEXT, FONT, LINE_ACTIVE, LINE_INACTIVE, TEXT } from "../palette.ts";
 
 export type PersonNodeProps = {
   x: number;

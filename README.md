@@ -53,12 +53,13 @@ before building a new one. Output: `out/HowToBeUnderstood.mp4`.
    architecture (Hook → causal chain → Mechanism Reveal → Balanced Counterweight → Reframe →
    Smallest Correction → CTA). Present the beat table for approval before generating audio;
    audio generation costs money and a script change means regenerating it.
-3. Generate voiceover: `scripts/generate-voiceover-<name>.ts` defines a `SLIDES` array and
-   calls `generateVoiceover()` from `scripts/lib/elevenlabs.ts` — one ElevenLabs
-   `with-timestamps` call per beat, output to `public/voiceover/<VideoName>/beat-NN.mp3` +
-   `.json`. Run with:
+3. Generate voiceover: one ElevenLabs `with-timestamps` call per beat, output to
+   `public/voiceover/<VideoName>/beat-NN.mp3` + `.json`. `scripts/generate-voiceover.ts` is the
+   single, deterministic CLI for every video — it reads that video's own beat list from
+   `src/<VideoName>/script.ts` (a `SLIDES` array). Write the script as data there, never as a
+   new hand-written `generate-voiceover-<name>.ts` file. Run with:
    ```
-   node --env-file=.env --experimental-strip-types scripts/generate-voiceover-<name>.ts
+   node --env-file=.env --experimental-strip-types scripts/generate-voiceover.ts <VideoName>
    ```
    (Node 22+ has built-in TS stripping — no `tsx`/`ts-node` dependency needed.)
 4. Generate `src/<VideoName>/data.ts` directly from the resulting JSON — never hand-transcribe
@@ -98,16 +99,34 @@ ELEVENLABS_VOICE_ID=...
 
 ```
 scripts/lib/elevenlabs.ts         # shared generateVoiceover() — import, don't copy
+scripts/generate-voiceover.ts     # the ONE voiceover CLI — <VideoName> arg, reads that
+                                   # video's own src/<VideoName>/script.ts for its SLIDES
 scripts/build-timing-data.ts      # CLI: JSON -> src/<VideoName>/data.ts
-scripts/generate-voiceover-*.ts   # one script per video: SLIDES + a call to the shared function
 public/voiceover/<VideoName>/     # generated audio + word-timing JSON per video
 src/lib/                          # shared library — palette, timeline, camera, diagram
                                    # primitives, scene primitives; src/lib/__demo__ is its smoke test
-src/<VideoName>/                  # one Remotion composition module per video
+src/<VideoName>/                  # one Remotion composition module per video (script.ts holds
+                                   # its beat-by-beat narration, read by scripts/generate-voiceover.ts)
 src/Root.tsx                      # registers every composition (id, fps, dimensions)
 out/                               # rendered .mp4 output
 .claude/skills/leadership-visual-essay/  # full spec for the format
+tests/                             # regression suite (npm test) — see tests/README.md
 ```
+
+## Tests
+
+`tests/` is a regression suite (Node's built-in test runner, no added dependency) built from
+real bugs hit while building videos against this pipeline — module resolution, camera-boundary
+keyframe collisions, a non-focus node leaking into a tight/pair shot, the ElevenLabs wiring, and
+more. See `tests/README.md` for what's covered and why.
+
+```console
+npm test          # everything except the live ElevenLabs tests (free, ~10-20s)
+npm run test:live # ONLY the two live ElevenLabs tests (paid — see tests/README.md)
+```
+
+Run `npm test` whenever code changes, and whenever a test case is added or changed — it's part
+of validating a change is actually done, the same as `tsc`/`eslint`/a still-check.
 
 ## Docs
 

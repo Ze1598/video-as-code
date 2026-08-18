@@ -1,7 +1,7 @@
 import { AbsoluteFill, Easing, interpolate, useCurrentFrame } from "remotion";
-import type { Beat } from "../timeline";
-import { DIM_TEXT, FONT } from "../palette";
-import { wordsToText } from "../sentences";
+import type { Beat } from "../timeline.ts";
+import { DIM_TEXT, FONT } from "../palette.ts";
+import { wordsToText } from "../sentences.ts";
 
 const EASE = Easing.bezier(0.16, 1, 0.3, 1);
 const clamp = { extrapolateLeft: "clamp" as const, extrapolateRight: "clamp" as const };
