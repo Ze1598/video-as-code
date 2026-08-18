@@ -1,0 +1,106 @@
+{
+  "text": "He asked three people to support the same plan. Three people agreed. They just weren't agreeing to the same thing.",
+  "durationMs": 6548,
+  "words": [
+    {
+      "text": "He",
+      "startMs": 0,
+      "endMs": 174
+    },
+    {
+      "text": "asked",
+      "startMs": 232,
+      "endMs": 557
+    },
+    {
+      "text": "three",
+      "startMs": 639,
+      "endMs": 882
+    },
+    {
+      "text": "people",
+      "startMs": 940,
+      "endMs": 1289
+    },
+    {
+      "text": "to",
+      "startMs": 1335,
+      "endMs": 1405
+    },
+    {
+      "text": "support",
+      "startMs": 1498,
+      "endMs": 1974
+    },
+    {
+      "text": "the",
+      "startMs": 2032,
+      "endMs": 2125
+    },
+    {
+      "text": "same",
+      "startMs": 2171,
+      "endMs": 2392
+    },
+    {
+      "text": "plan.",
+      "startMs": 2438,
+      "endMs": 2844
+    },
+    {
+      "text": "Three",
+      "startMs": 3146,
+      "endMs": 3390
+    },
+    {
+      "text": "people",
+      "startMs": 3437,
+      "endMs": 3738
+    },
+    {
+      "text": "agreed.",
+      "startMs": 3773,
+      "endMs": 4226
+    },
+    {
+      "text": "They",
+      "startMs": 4389,
+      "endMs": 4540
+    },
+    {
+      "text": "just",
+      "startMs": 4574,
+      "endMs": 4737
+    },
+    {
+      "text": "weren't",
+      "startMs": 4830,
+      "endMs": 5097
+    },
+    {
+      "text": "agreeing",
+      "startMs": 5132,
+      "endMs": 5468
+    },
+    {
+      "text": "to",
+      "startMs": 5515,
+      "endMs": 5573
+    },
+    {
+      "text": "the",
+      "startMs": 5631,
+      "endMs": 5700
+    },
+    {
+      "text": "same",
+      "startMs": 5735,
+      "endMs": 5968
+    },
+    {
+      "text": "thing.",
+      "startMs": 6014,
+      "endMs": 6548
+    }
+  ]
+}

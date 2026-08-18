@@ -1,0 +1,211 @@
+{
+  "text": "A team lead had a plan: move engineers between projects when one team needed support. Some people were sitting on light workloads. Other projects were stalled, waiting on skills that lived somewhere else. Sharing people, he believed, would keep everything moving.",
+  "durationMs": 18390,
+  "words": [
+    {
+      "text": "A",
+      "startMs": 0,
+      "endMs": 81
+    },
+    {
+      "text": "team",
+      "startMs": 174,
+      "endMs": 337
+    },
+    {
+      "text": "lead",
+      "startMs": 464,
+      "endMs": 731
+    },
+    {
+      "text": "had",
+      "startMs": 894,
+      "endMs": 1219
+    },
+    {
+      "text": "a",
+      "startMs": 1300,
+      "endMs": 1382
+    },
+    {
+      "text": "plan:",
+      "startMs": 1486,
+      "endMs": 1892
+    },
+    {
+      "text": "move",
+      "startMs": 2125,
+      "endMs": 2403
+    },
+    {
+      "text": "engineers",
+      "startMs": 2438,
+      "endMs": 3065
+    },
+    {
+      "text": "between",
+      "startMs": 3228,
+      "endMs": 3587
+    },
+    {
+      "text": "projects",
+      "startMs": 3669,
+      "endMs": 4307
+    },
+    {
+      "text": "when",
+      "startMs": 4470,
+      "endMs": 4667
+    },
+    {
+      "text": "one",
+      "startMs": 4748,
+      "endMs": 4981
+    },
+    {
+      "text": "team",
+      "startMs": 5004,
+      "endMs": 5248
+    },
+    {
+      "text": "needed",
+      "startMs": 5341,
+      "endMs": 5689
+    },
+    {
+      "text": "support.",
+      "startMs": 5817,
+      "endMs": 6467
+    },
+    {
+      "text": "Some",
+      "startMs": 6699,
+      "endMs": 6943
+    },
+    {
+      "text": "people",
+      "startMs": 6978,
+      "endMs": 7396
+    },
+    {
+      "text": "were",
+      "startMs": 7488,
+      "endMs": 7686
+    },
+    {
+      "text": "sitting",
+      "startMs": 7721,
+      "endMs": 8045.999999999999
+    },
+    {
+      "text": "on",
+      "startMs": 8103.999999999999,
+      "endMs": 8185.000000000001
+    },
+    {
+      "text": "light",
+      "startMs": 8324,
+      "endMs": 8568
+    },
+    {
+      "text": "workloads.",
+      "startMs": 8626,
+      "endMs": 9311
+    },
+    {
+      "text": "Other",
+      "startMs": 9578,
+      "endMs": 9845
+    },
+    {
+      "text": "projects",
+      "startMs": 9903,
+      "endMs": 10379
+    },
+    {
+      "text": "were",
+      "startMs": 10437,
+      "endMs": 10577
+    },
+    {
+      "text": "stalled,",
+      "startMs": 10635,
+      "endMs": 11146
+    },
+    {
+      "text": "waiting",
+      "startMs": 11227,
+      "endMs": 11505
+    },
+    {
+      "text": "on",
+      "startMs": 11587,
+      "endMs": 11645
+    },
+    {
+      "text": "skills",
+      "startMs": 11738,
+      "endMs": 12249
+    },
+    {
+      "text": "that",
+      "startMs": 12341,
+      "endMs": 12504
+    },
+    {
+      "text": "lived",
+      "startMs": 12550,
+      "endMs": 12759
+    },
+    {
+      "text": "somewhere",
+      "startMs": 12794,
+      "endMs": 13201
+    },
+    {
+      "text": "else.",
+      "startMs": 13259,
+      "endMs": 13735
+    },
+    {
+      "text": "Sharing",
+      "startMs": 14083,
+      "endMs": 14454
+    },
+    {
+      "text": "people,",
+      "startMs": 14512,
+      "endMs": 15116
+    },
+    {
+      "text": "he",
+      "startMs": 15778,
+      "endMs": 15906
+    },
+    {
+      "text": "believed,",
+      "startMs": 15964,
+      "endMs": 16428
+    },
+    {
+      "text": "would",
+      "startMs": 16591,
+      "endMs": 16800
+    },
+    {
+      "text": "keep",
+      "startMs": 16846,
+      "endMs": 17043
+    },
+    {
+      "text": "everything",
+      "startMs": 17125,
+      "endMs": 17554
+    },
+    {
+      "text": "moving.",
+      "startMs": 17682,
+      "endMs": 18390
+    }
+  ]
+}

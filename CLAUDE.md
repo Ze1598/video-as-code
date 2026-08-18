@@ -110,3 +110,11 @@ commands live in `README.md`. The full technical spec for the diagram-based form
 system, camera math, pacing, voice settings, script structure — lives in
 `.claude/skills/leadership-visual-essay/SKILL.md`; read it before building one, don't rely on
 memory of past sessions.
+
+**Before writing any video code by hand, check `src/lib/` and `scripts/lib/` first.** They
+hold every mechanical, non-creative piece of this pipeline (ElevenLabs API calls, word-timing
+derivation, the camera transform, the safe-zone diagram wrapper, node rendering, connector
+draw-on math, Hook/CTA/split-argument/list-row/caption/long-form scene primitives) — import
+from there, don't re-derive or copy-paste from an existing video. `src/HowToBeUnderstood/` is
+the current reference implementation, built against that library. This applies regardless of
+how the opening prompt is worded — it's not something the user has to ask for each time.

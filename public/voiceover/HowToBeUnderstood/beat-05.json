@@ -1,0 +1,261 @@
+{
+  "text": "Eventually he stopped defending the idea and asked something else: are there any parts that you still need more clarity on? One engineer thought permanent project teams would disappear entirely. Another expected compulsory rotations every few weeks. A third believed any project manager could pull them onto another team without warning.",
+  "durationMs": 24984,
+  "words": [
+    {
+      "text": "Eventually",
+      "startMs": 0,
+      "endMs": 720
+    },
+    {
+      "text": "he",
+      "startMs": 801,
+      "endMs": 894
+    },
+    {
+      "text": "stopped",
+      "startMs": 952,
+      "endMs": 1451
+    },
+    {
+      "text": "defending",
+      "startMs": 1637,
+      "endMs": 2148
+    },
+    {
+      "text": "the",
+      "startMs": 2229,
+      "endMs": 2334
+    },
+    {
+      "text": "idea",
+      "startMs": 2415,
+      "endMs": 2868
+    },
+    {
+      "text": "and",
+      "startMs": 2961,
+      "endMs": 3088
+    },
+    {
+      "text": "asked",
+      "startMs": 3228,
+      "endMs": 3657
+    },
+    {
+      "text": "something",
+      "startMs": 3762,
+      "endMs": 4214
+    },
+    {
+      "text": "else:",
+      "startMs": 4307,
+      "endMs": 4714
+    },
+    {
+      "text": "are",
+      "startMs": 5016,
+      "endMs": 5224
+    },
+    {
+      "text": "there",
+      "startMs": 5271,
+      "endMs": 5480
+    },
+    {
+      "text": "any",
+      "startMs": 5561,
+      "endMs": 5770
+    },
+    {
+      "text": "parts",
+      "startMs": 5863,
+      "endMs": 6362
+    },
+    {
+      "text": "that",
+      "startMs": 6548,
+      "endMs": 6722
+    },
+    {
+      "text": "you",
+      "startMs": 6780,
+      "endMs": 6861
+    },
+    {
+      "text": "still",
+      "startMs": 6920,
+      "endMs": 7163
+    },
+    {
+      "text": "need",
+      "startMs": 7245,
+      "endMs": 7465
+    },
+    {
+      "text": "more",
+      "startMs": 7546,
+      "endMs": 7790
+    },
+    {
+      "text": "clarity",
+      "startMs": 7837,
+      "endMs": 8406
+    },
+    {
+      "text": "on?",
+      "startMs": 8510,
+      "endMs": 8742
+    },
+    {
+      "text": "One",
+      "startMs": 9009,
+      "endMs": 9230
+    },
+    {
+      "text": "engineer",
+      "startMs": 9265,
+      "endMs": 9776
+    },
+    {
+      "text": "thought",
+      "startMs": 9903,
+      "endMs": 10286
+    },
+    {
+      "text": "permanent",
+      "startMs": 10414,
+      "endMs": 10867
+    },
+    {
+      "text": "project",
+      "startMs": 10960,
+      "endMs": 11494
+    },
+    {
+      "text": "teams",
+      "startMs": 11517,
+      "endMs": 11842
+    },
+    {
+      "text": "would",
+      "startMs": 11900,
+      "endMs": 12074
+    },
+    {
+      "text": "disappear",
+      "startMs": 12121,
+      "endMs": 12771
+    },
+    {
+      "text": "entirely.",
+      "startMs": 12899,
+      "endMs": 13758
+    },
+    {
+      "text": "Another",
+      "startMs": 14176,
+      "endMs": 14687
+    },
+    {
+      "text": "expected",
+      "startMs": 14826,
+      "endMs": 15511
+    },
+    {
+      "text": "compulsory",
+      "startMs": 15569,
+      "endMs": 16370.000000000002
+    },
+    {
+      "text": "rotations",
+      "startMs": 16509,
+      "endMs": 17392
+    },
+    {
+      "text": "every",
+      "startMs": 17577,
+      "endMs": 17891
+    },
+    {
+      "text": "few",
+      "startMs": 17984,
+      "endMs": 18216
+    },
+    {
+      "text": "weeks.",
+      "startMs": 18274,
+      "endMs": 18843
+    },
+    {
+      "text": "A",
+      "startMs": 19145,
+      "endMs": 19249
+    },
+    {
+      "text": "third",
+      "startMs": 19377,
+      "endMs": 19772
+    },
+    {
+      "text": "believed",
+      "startMs": 19934,
+      "endMs": 20445
+    },
+    {
+      "text": "any",
+      "startMs": 20526,
+      "endMs": 20747
+    },
+    {
+      "text": "project",
+      "startMs": 20828,
+      "endMs": 21234
+    },
+    {
+      "text": "manager",
+      "startMs": 21293,
+      "endMs": 21734
+    },
+    {
+      "text": "could",
+      "startMs": 21792,
+      "endMs": 21989
+    },
+    {
+      "text": "pull",
+      "startMs": 22082,
+      "endMs": 22407
+    },
+    {
+      "text": "them",
+      "startMs": 22488,
+      "endMs": 22628
+    },
+    {
+      "text": "onto",
+      "startMs": 22721,
+      "endMs": 23034
+    },
+    {
+      "text": "another",
+      "startMs": 23127,
+      "endMs": 23545
+    },
+    {
+      "text": "team",
+      "startMs": 23603,
+      "endMs": 23823
+    },
+    {
+      "text": "without",
+      "startMs": 23882,
+      "endMs": 24207
+    },
+    {
+      "text": "warning.",
+      "startMs": 24311,
+      "endMs": 24984
+    }
+  ]
+}

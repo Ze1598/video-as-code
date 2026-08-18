@@ -5,11 +5,16 @@ version: 1.2
 ---
 
 This is a distinct video genre from plain kinetic-text essay videos (see
-[remotion-markup](../remotion-markup/SKILL.md) / this project's `src/PositiveFeedback/` for
-that format). Use this skill when the user wants a leadership/organizational essay turned
-into a video that shows a *mechanism* — people, information, and decisions moving through a
-system — rather than just narrated text on screen. Reference implementation in this repo:
-`src/PositiveFeedbackV2/`.
+[remotion-markup](../remotion-markup/SKILL.md) for that format — no example of it currently
+exists in this repo; every video built so far uses this diagram format). Use this skill when
+the user wants a leadership/organizational essay turned into a video that shows a *mechanism*
+— people, information, and decisions moving through a system — rather than just narrated text
+on screen. Reference implementation in this repo: `src/HowToBeUnderstood/`, built against the
+shared library below — read it before building a new one, don't rely on memory of a past
+session. Earlier implementations (`ConfusedLabels`, `PositiveFeedbackV2`/`V3`) were removed
+once superseded by the shared library, to keep exactly one canonical example in the repo —
+their rendered outputs (`out/ConfusedLabels.mp4`, `out/PositiveFeedback_v2.mp4`, `_v3.mp4`)
+still exist.
 
 ## Format definition
 
@@ -196,26 +201,110 @@ is no literal per-breath pitch control in the ElevenLabs API — `stability` is 
 lever to "less monotone," not a pitch-curve parameter, so don't over-promise precision here when
 describing the effect to a user.
 
+**Sentence-to-sentence pauses — still an open problem, `eleven_v3` is not the fix.** A beat's
+script is often a full paragraph (multiple sentences in one `with-timestamps` call), and the
+model's default pause at a sentence-ending period is short and uniform — over several sentences
+it can read as separate audio clips butted together rather than one person speaking. The tag
+`<break time="Xs" />` does insert a real, controllable gap when sent to `model_id: "eleven_v3"`
+(confirmed directly: ignored on `eleven_multilingual_v2` — 0.45s gap, tag literally read back
+as text in the alignment response — but honored on `eleven_v3` — 2.0s gap, tag not spoken).
+**Don't use this fix anyway**: `eleven_v3` is still a preview feature and was found, on direct
+listening after a full-script regeneration, to measurably degrade voice fidelity/character
+compared to `eleven_multilingual_v2` — a worse trade than the pause problem it solves. Generate
+on `eleven_multilingual_v2` (see `voice_settings` above) and accept the tighter natural pauses
+until v3 (or an equivalent break-tag-supporting model) leaves preview and is re-verified for
+fidelity, not just for whether the tag works.
+
+If pausing is worth solving before then, the two options that don't require a model swap are:
+post-process the already-generated beat MP3s to splice in measured silence at each real sentence
+boundary (via ffmpeg) and re-derive word timings shifted to account for it — no new ElevenLabs
+cost, but requires rebuilding `data.ts`/`timeline.ts` and re-verifying every camera/connector cue
+still resolves; or generate one `with-timestamps` call per *sentence* instead of per beat and
+assemble the beat's audio with exact silence gaps controlled directly in Remotion — more control,
+but a real pipeline change away from this section's "one call per beat" convention, and still
+costs a fresh paid generation. Neither has been implemented or tested end-to-end yet.
+
+If a future break-tag-supporting model is used again, two mechanical footguns to handle in the
+generation script (found while testing `eleven_v3`, still true for any such model): pad the tag
+with real spaces (`sentence one. <break time="0.35s" /> sentence two.`, not butted against the
+punctuation) or its characters fuse onto the adjacent real words when the alignment response is
+split into words, corrupting both; and filter tag characters out of the derived word list — the
+alignment response reports the tag's own characters with timestamps as if they were spoken text,
+even though real audio doesn't voice them, so drop any parsed "word" matching `/[<>="]/` before
+writing to the timing JSON (none of this format's real spoken words contain those characters, so
+the filter is safe).
+
+Verify end to end on a single real beat (word count and reconstructed text vs. original, byte
+for byte) before spending on a full multi-beat regeneration — a bad filter or an unsupported
+tag combination wastes the whole script's cost at once, a single-beat test costs a fraction of
+that.
+
+## Reusable library — import, don't copy-paste
+
+`scripts/lib/` and `src/lib/` hold every piece of this pipeline that's genuinely mechanical
+boilerplate, not creative per-video content. Built after three videos had independently
+re-derived (and once, mis-derived) the same code. **Before writing any of the code below by
+hand, check whether `src/lib`/`scripts/lib` already has it** — re-deriving something that
+already exists there is exactly the wasted-token/re-discovered-bug pattern this library exists
+to prevent. `src/lib/__demo__/` is a standing smoke test for the library itself (synthetic
+placeholder data, not a real video) — run `npx remotion still LibDemo out.png --frame=N` after
+touching anything under `src/lib` to confirm nothing broke.
+
+What's in the library (import these, don't reimplement):
+- `scripts/lib/elevenlabs.ts` — `generateVoiceover({ outDir, slides, voiceSettings?, modelId? })`,
+  the entire ElevenLabs `with-timestamps` call + word-timing derivation + file-writing loop.
+  Defaults to the validated `voice_settings` and `eleven_multilingual_v2` (see "Voice settings"
+  and "Sentence-to-sentence pauses" below — don't default to `eleven_v3`).
+- `scripts/build-timing-data.ts` — CLI: `node --experimental-strip-types
+  scripts/build-timing-data.ts <VideoName>` builds `src/<VideoName>/data.ts` straight from
+  `public/voiceover/<VideoName>/beat-*.json`. Never hand-write this conversion.
+- `src/lib/palette.ts` — the format's palette/font constants.
+- `src/lib/sentences.ts` — `splitSentences`/`wordsToText`.
+- `src/lib/timeline.ts` — `buildTimeline(beatOrder, beats, holdSeconds, fps)` (real audio
+  duration + a declared per-beat hold weight, not a hand-summed cumulative frame table — a
+  hand-summed table silently goes stale the moment the audio changes) and
+  `frameOfWordFactory(beats, timeline, fps)`.
+- `src/lib/Camera.ts` — `cameraTransformFactory(frames, xs, ys, zooms)`, called with a video's
+  own `CAMERA_FRAMES`/`X`/`Y`/`ZOOM` from its `layout.ts`.
+- `src/lib/Wipe.tsx` — the scene-transition wipe.
+- `src/lib/diagram/PersonNode.tsx` — node circle + label, with the occlusion-safety rule (see
+  below) enforced by construction: `dim` only ever changes stroke/text color, never fill opacity.
+- `src/lib/diagram/DiagramFrame.tsx` — the safe-zone wrapper (see "Caption/diagram safe zone"
+  below) + camera `<g>` + `<svg>`, taking `worldOpacity` and children.
+- `src/lib/diagram/connectorMath.ts` — `drawOnStyle(t)`, the pathLength=1 draw-on primitive.
+  **Connector activation, direction, and color meaning stay hand-written per video** — that's
+  the creative core of the diagram, not boilerplate (see "Connectors carry the entire
+  mechanism" below).
+- `src/lib/scenes/` — `HookScene`, `CtaScene`, `SplitArgumentScene` (right-call/mistake split,
+  with the title-alignment/weight fix below baked in — see "Match technique to content"),
+  `ListRow`, `Caption`, `LongFormScene` (see "Match technique to content" for when to use this
+  one), and the shared `sentenceCycle`/`HighlightedText` logic they're built on.
+
 ## File layout (mirror this)
 
 ```
 src/<VideoName>/
-  data.ts      # BEATS: id, durationMs, words[] (real ElevenLabs timings)
-  timeline.ts  # FPS, TIMELINE (from/duration per beat), frameOfWord() helper
-  sentences.ts # splitSentences()/wordsToText() — the single source every
-               # on-screen string is derived from (see the section above)
-  layout.ts    # palette, node positions, connector/packet segment frames,
-               # focus-driven camera keyframe builder, per-beat highlight phrases
-  Camera.ts    # cameraTransform(frame) -> SVG transform string
-  World.tsx    # the persistent SVG world: nodes, connectors, packet, HUD entities
-  Hud.tsx      # screen-space caption (one real sentence at a time) + any
-               # timeline/progress HUD — skips beats that have a dedicated scene
-  Scenes.tsx   # dedicated full-screen scenes for beats that need a different
-               # technique than the diagram (lists, verdict-splits, etc.), plus
-               # the Wipe transition component
-  index.tsx    # composition: <World/>, <Hud/> rendered continuously, one
+  data.ts      # BEATS: id, durationMs, words[] — generated by
+               # scripts/build-timing-data.ts, never hand-written
+  timeline.ts  # FPS, BEAT_ORDER, HOLD_SECONDS, then TIMELINE = buildTimeline(...)
+               # and frameOfWord = frameOfWordFactory(...) from src/lib/timeline
+  layout.ts    # STILL FULLY CUSTOM: palette overrides (rare), node positions,
+               # connector/packet cue frames, focus-driven camera keyframes,
+               # per-beat highlight phrases — this is the video's creative core
+  Camera.ts    # export const cameraTransform = cameraTransformFactory(...)
+               # from src/lib/Camera, called with this video's own keyframes
+  World.tsx    # STILL CUSTOM: the persistent SVG world — which nodes/connectors
+               # exist and what they mean — built on src/lib/diagram primitives
+               # (PersonNode, DiagramFrame, drawOnStyle)
+  Hud.tsx      # thin: which beats use the generic caption (CAPTIONED_BEATS),
+               # rendering <Caption> from src/lib/scenes with this video's data
+  Scenes.tsx   # STILL CUSTOM where content is bespoke (which items, which
+               # split text, word-slice indices, real-word-anchored reveal
+               # frames), built on src/lib/scenes primitives (HookScene,
+               # CtaScene, SplitArgumentScene, ListRow, LongFormScene)
+  index.tsx    # composition: <World/>, <Caption/> rendered continuously, one
                # <Sequence> per beat for <Audio>, dedicated scene <Sequence>s,
-               # closing text sequence, Wipe transitions at scene-mode changes
+               # <Wipe/> at actual diagram-visibility mode switches only
 ```
 
 **Naming gotcha**: don't name the data/constants file `world.ts` alongside a `World.tsx`
@@ -266,9 +355,26 @@ whose *structure* matches the sentence's structure:
 - **A two-sided argument** (preserve the legitimate action, isolate the actual mistake — the
   Balanced Counterweight beat) becomes a literal split: two labeled zones (e.g. "THE RIGHT
   CALL" vs "THE MISTAKE"), each revealing on its own real timing, colored so only the actual
-  mistake gets the accent color.
+  mistake gets the accent color. **Align both column labels to the same top edge**
+  (`alignItems: "flex-start"` on the row, not `"center"`) — centering the row vertically makes
+  the label of whichever column has the shorter body text visually float higher than the other
+  once real (unequal-length) text fills them in, which reads as broken layout, not a design
+  choice. And **give both column bodies the same font weight**, differing only by color (e.g.
+  both `fontWeight: 700`, one `TEXT` and one `ACCENT`) — weight and color both changing at once
+  reads as two unrelated styles rather than one system with one variable (the color) doing the
+  distinguishing work.
 - **A quote** gets its own flat, deadpan typographic treatment (no camera movement, an
   intentionally muted color, added quotation marks) distinct from ordinary narration beats.
+- **Long-form reflective narration** (a beat that states a general principle or thesis line,
+  not tied to any specific node or relationship — e.g. the Reframe or Smallest Correction beats)
+  gets a dedicated full-screen scene too, not a generic caption layered over the dimmed diagram.
+  Center it properly in the frame (not confined to the bottom caption band — there's no diagram
+  to keep clear of anymore) and size the text larger than the ordinary caption, since it's now
+  the sole thing on screen. Set the diagram's opacity to a literal `0` for this stretch, not a
+  faint residual (the ~0.02-0.05 "near-invisible" dimming below is for a dedicated scene with
+  substantial content covering most of the frame, where a faint diagram ghost is negligible; a
+  single line of large centered text leaves most of the frame empty, and a faint diagram there
+  reads as visible clutter, not restraint).
 - Look for small concrete illustrations tied to specific nouns in the sentence — e.g. if the
   script lists concrete work items ("corrections, task assignments, deadline reminders"),
   label the moving pieces in the diagram with those exact words instead of generic shapes.
@@ -277,7 +383,10 @@ whose *structure* matches the sentence's structure:
 
 Reserve the diagram itself for beats about a relationship, an exclusion, or the mechanism
 reveal — the throughline of the video — not as a default backdrop for every beat regardless of
-content.
+content. Once a beat (or run of beats) has moved past the mechanism into pure reflection — no
+node or relationship left to show — the diagram doesn't need to come back for the rest of the
+video; don't dim-and-restore repeatedly across a stretch that's structurally done with the
+diagram.
 
 ## Scene transitions (wipes)
 
@@ -288,7 +397,11 @@ crossfade. This is a genre cue that the mode of the video just changed, not just
 reserve it for actual mode switches (diagram -> dedicated scene), not every beat, or it stops
 meaning anything. When a dedicated scene takes over, dim the diagram behind it to
 near-invisible (~0.02-0.05 opacity, not merely reduced) — a partially-visible diagram bleeding
-through undermines the sense that the screen actually changed.
+through undermines the sense that the screen actually changed. Once the diagram is fully gone
+(opacity `0`, e.g. entering a run of long-form reflective beats), further beats within that same
+stretch don't each need their own wipe — the diagram's mode isn't changing again, only the text
+is, so treat those as ordinary beat transitions. Reserve the wipe for the moments the diagram's
+visibility actually flips.
 
 ## Verification before rendering
 
@@ -313,4 +426,9 @@ through undermines the sense that the screen actually changed.
 - Confirm the video opens on a Hook scene (not the diagram, not a title card) and closes on a
   CTA scene (not the thesis) — and that neither is a paraphrase of the essay's own opening/
   closing sentences.
+- On any two-column comparison scene, check a still with both columns' real (unequal-length)
+  text visible: confirm both labels sit on the same top edge and both bodies share one font
+  weight, differing only by color.
+- On any long-form reflective beat, confirm the diagram is fully gone (not a faint residual)
+  and the text is centered in the full frame, not confined to the bottom caption band.
 - `npx tsc` and `npx eslint <dir>` clean before rendering.

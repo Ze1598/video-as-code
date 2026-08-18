@@ -17,6 +17,10 @@ Opening prompt for a fresh session:
 New video from <substack URL> — use the leadership-visual-essay format, call it <Name>.mp4.
 ```
 
+The reuse-the-shared-library rule lives in `CLAUDE.md` (always loaded, regardless of prompt
+wording) and in the skill — not in this prompt. Keep this prompt minimal; don't grow it to
+compensate for something a standing rule should already guarantee.
+
 ## The format: Programmatic Leadership Visual Essay
 
 A state-driven diagram — people/roles as nodes, information moving between them, one causal
@@ -26,11 +30,19 @@ an essay paraphrase. 16:9, 60fps.
 
 **Full spec: `.claude/skills/leadership-visual-essay/SKILL.md`. Read it before building a new
 one** — it has the accumulated fixes (caption/diagram layout, camera pacing, voice settings,
-script structure) from three iterations, not just the concept.
+script structure, the shared library below) baked in, not just the concept. Don't rely on
+memory of a past session.
 
-Reference implementations: `src/PositiveFeedbackV2/`, `src/PositiveFeedbackV3/`,
-`src/ConfusedLabels/`. Outputs: `out/PositiveFeedback_v2.mp4`, `out/PositiveFeedback_v3.mp4`,
-`out/ConfusedLabels.mp4`.
+**Reusable library — check before writing anything by hand.** `src/lib/` and `scripts/lib/`
+hold every mechanical, non-creative piece of this pipeline (ElevenLabs API calls, word-timing
+derivation, sentence-splitting, the camera transform, the safe-zone diagram wrapper, node
+rendering, connector draw-on math, and the Hook/CTA/split-argument/list-row/caption/long-form
+scene primitives). A new video should import from these, not re-derive or copy-paste them —
+see the skill's "Reusable library" section for the full inventory. `src/lib/__demo__/` is a
+standing smoke test for the library itself, not a real video.
+
+Reference implementation: `src/HowToBeUnderstood/`, built against the shared library — read it
+before building a new one. Output: `out/HowToBeUnderstood.mp4`.
 
 ## Pipeline
 
@@ -41,7 +53,8 @@ Reference implementations: `src/PositiveFeedbackV2/`, `src/PositiveFeedbackV3/`,
    architecture (Hook → causal chain → Mechanism Reveal → Balanced Counterweight → Reframe →
    Smallest Correction → CTA). Present the beat table for approval before generating audio;
    audio generation costs money and a script change means regenerating it.
-3. Generate voiceover: `scripts/generate-voiceover-<name>.ts`, one ElevenLabs
+3. Generate voiceover: `scripts/generate-voiceover-<name>.ts` defines a `SLIDES` array and
+   calls `generateVoiceover()` from `scripts/lib/elevenlabs.ts` — one ElevenLabs
    `with-timestamps` call per beat, output to `public/voiceover/<VideoName>/beat-NN.mp3` +
    `.json`. Run with:
    ```
@@ -49,12 +62,15 @@ Reference implementations: `src/PositiveFeedbackV2/`, `src/PositiveFeedbackV3/`,
    ```
    (Node 22+ has built-in TS stripping — no `tsx`/`ts-node` dependency needed.)
 4. Generate `src/<VideoName>/data.ts` directly from the resulting JSON — never hand-transcribe
-   word timings; that's how captions silently drift from the actual audio.
-5. Build the Remotion composition (mirror the file layout in the skill: `data.ts`,
-   `timeline.ts`, `sentences.ts`, `layout.ts`, `Camera.ts`, `World.tsx`, `Hud.tsx`,
-   `Scenes.tsx`, `index.tsx`), register it in `src/Root.tsx`, spot-check with
-   `npx remotion still <id> out.png --frame=N` at every beat boundary and the payoff moment,
-   then render:
+   word timings; that's how captions silently drift from the actual audio:
+   ```
+   node --experimental-strip-types scripts/build-timing-data.ts <VideoName>
+   ```
+5. Build the Remotion composition (mirror `src/HowToBeUnderstood/`'s layout — see the skill's
+   "File layout" for which files stay fully custom per video — `layout.ts`, `World.tsx`'s
+   connector meaning, `Scenes.tsx`'s bespoke wrappers — and which are thin wrappers around
+   `src/lib`), register it in `src/Root.tsx`, spot-check with `npx remotion still <id> out.png
+   --frame=N` at every beat boundary and the payoff moment, then render:
    ```
    npx remotion render <CompositionId> out/<VideoName>.mp4
    ```
@@ -81,8 +97,12 @@ ELEVENLABS_VOICE_ID=...
 ## Repo layout
 
 ```
-scripts/generate-voiceover-*.ts   # one script per video, ElevenLabs generation
+scripts/lib/elevenlabs.ts         # shared generateVoiceover() — import, don't copy
+scripts/build-timing-data.ts      # CLI: JSON -> src/<VideoName>/data.ts
+scripts/generate-voiceover-*.ts   # one script per video: SLIDES + a call to the shared function
 public/voiceover/<VideoName>/     # generated audio + word-timing JSON per video
+src/lib/                          # shared library — palette, timeline, camera, diagram
+                                   # primitives, scene primitives; src/lib/__demo__ is its smoke test
 src/<VideoName>/                  # one Remotion composition module per video
 src/Root.tsx                      # registers every composition (id, fps, dimensions)
 out/                               # rendered .mp4 output
