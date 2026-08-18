@@ -1,0 +1,291 @@
+{
+  "text": "They rebuilt the forms, the approval stages, the notifications, the permissions, the reports. Where the old logic looked strange, or made no obvious sense, they left it alone — changing it would have needed sign-off from an owner nobody could name. The gap between what they were building and why sat there, quietly, through the entire build.",
+  "durationMs": 19923,
+  "words": [
+    {
+      "text": "They",
+      "startMs": 0,
+      "endMs": 244
+    },
+    {
+      "text": "rebuilt",
+      "startMs": 906,
+      "endMs": 1289
+    },
+    {
+      "text": "the",
+      "startMs": 1312,
+      "endMs": 1382
+    },
+    {
+      "text": "forms,",
+      "startMs": 1440,
+      "endMs": 1869
+    },
+    {
+      "text": "the",
+      "startMs": 1904,
+      "endMs": 2009
+    },
+    {
+      "text": "approval",
+      "startMs": 2055,
+      "endMs": 2473
+    },
+    {
+      "text": "stages,",
+      "startMs": 2531,
+      "endMs": 3088
+    },
+    {
+      "text": "the",
+      "startMs": 3123,
+      "endMs": 3216
+    },
+    {
+      "text": "notifications,",
+      "startMs": 3297,
+      "endMs": 4272
+    },
+    {
+      "text": "the",
+      "startMs": 4296,
+      "endMs": 4389
+    },
+    {
+      "text": "permissions,",
+      "startMs": 4470,
+      "endMs": 5283
+    },
+    {
+      "text": "the",
+      "startMs": 5515,
+      "endMs": 5619
+    },
+    {
+      "text": "reports.",
+      "startMs": 5700,
+      "endMs": 6293
+    },
+    {
+      "text": "Where",
+      "startMs": 6478,
+      "endMs": 6687
+    },
+    {
+      "text": "the",
+      "startMs": 6722,
+      "endMs": 6792
+    },
+    {
+      "text": "old",
+      "startMs": 6838,
+      "endMs": 6978
+    },
+    {
+      "text": "logic",
+      "startMs": 7036,
+      "endMs": 7349
+    },
+    {
+      "text": "looked",
+      "startMs": 7454,
+      "endMs": 7697
+    },
+    {
+      "text": "strange,",
+      "startMs": 7755,
+      "endMs": 8290
+    },
+    {
+      "text": "or",
+      "startMs": 8313,
+      "endMs": 8406
+    },
+    {
+      "text": "made",
+      "startMs": 8464,
+      "endMs": 8638
+    },
+    {
+      "text": "no",
+      "startMs": 8696,
+      "endMs": 8812
+    },
+    {
+      "text": "obvious",
+      "startMs": 8893,
+      "endMs": 9311
+    },
+    {
+      "text": "sense,",
+      "startMs": 9358,
+      "endMs": 9741
+    },
+    {
+      "text": "they",
+      "startMs": 9764,
+      "endMs": 9892
+    },
+    {
+      "text": "left",
+      "startMs": 9950,
+      "endMs": 10170
+    },
+    {
+      "text": "it",
+      "startMs": 10217,
+      "endMs": 10298
+    },
+    {
+      "text": "alone",
+      "startMs": 10333,
+      "endMs": 10623
+    },
+    {
+      "text": "—",
+      "startMs": 10704,
+      "endMs": 10751
+    },
+    {
+      "text": "changing",
+      "startMs": 11169,
+      "endMs": 11529
+    },
+    {
+      "text": "it",
+      "startMs": 11587,
+      "endMs": 11668
+    },
+    {
+      "text": "would",
+      "startMs": 11703,
+      "endMs": 11842
+    },
+    {
+      "text": "have",
+      "startMs": 11877,
+      "endMs": 11981
+    },
+    {
+      "text": "needed",
+      "startMs": 12016,
+      "endMs": 12295
+    },
+    {
+      "text": "sign-off",
+      "startMs": 12353,
+      "endMs": 12759
+    },
+    {
+      "text": "from",
+      "startMs": 12794,
+      "endMs": 12922
+    },
+    {
+      "text": "an",
+      "startMs": 12980,
+      "endMs": 13038
+    },
+    {
+      "text": "owner",
+      "startMs": 13142,
+      "endMs": 13479
+    },
+    {
+      "text": "nobody",
+      "startMs": 13572,
+      "endMs": 13932
+    },
+    {
+      "text": "could",
+      "startMs": 13978,
+      "endMs": 14141
+    },
+    {
+      "text": "name.",
+      "startMs": 14187,
+      "endMs": 14477
+    },
+    {
+      "text": "The",
+      "startMs": 14710,
+      "endMs": 14826
+    },
+    {
+      "text": "gap",
+      "startMs": 14884,
+      "endMs": 15116
+    },
+    {
+      "text": "between",
+      "startMs": 15197,
+      "endMs": 15546
+    },
+    {
+      "text": "what",
+      "startMs": 15638,
+      "endMs": 15836
+    },
+    {
+      "text": "they",
+      "startMs": 15871,
+      "endMs": 15987
+    },
+    {
+      "text": "were",
+      "startMs": 16021.999999999998,
+      "endMs": 16172.999999999998
+    },
+    {
+      "text": "building",
+      "startMs": 16207,
+      "endMs": 16544
+    },
+    {
+      "text": "and",
+      "startMs": 16590,
+      "endMs": 16683
+    },
+    {
+      "text": "why",
+      "startMs": 16765,
+      "endMs": 16985
+    },
+    {
+      "text": "sat",
+      "startMs": 17078,
+      "endMs": 17357
+    },
+    {
+      "text": "there,",
+      "startMs": 17403,
+      "endMs": 17693
+    },
+    {
+      "text": "quietly,",
+      "startMs": 17821,
+      "endMs": 18460
+    },
+    {
+      "text": "through",
+      "startMs": 18483,
+      "endMs": 18703
+    },
+    {
+      "text": "the",
+      "startMs": 18738,
+      "endMs": 18808
+    },
+    {
+      "text": "entire",
+      "startMs": 18854,
+      "endMs": 19249
+    },
+    {
+      "text": "build.",
+      "startMs": 19307,
+      "endMs": 19923
+    }
+  ]
+}

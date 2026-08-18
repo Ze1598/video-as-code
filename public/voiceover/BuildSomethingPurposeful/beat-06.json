@@ -1,0 +1,406 @@
+{
+  "text": "The next question was who would own it after launch. That answer was missing too. The project manager set up a meeting with operations. Operations brought in a department head. The department head pointed to product management. Product management pulled in an architect, who remembered part of the original system. Every conversation produced one more name, one more meeting. Senior people spent hours trying to reconstruct the business reason behind a product that was already finished and ready to ship.",
+  "durationMs": 29258,
+  "words": [
+    {
+      "text": "The",
+      "startMs": 0,
+      "endMs": 139
+    },
+    {
+      "text": "next",
+      "startMs": 221,
+      "endMs": 418
+    },
+    {
+      "text": "question",
+      "startMs": 441,
+      "endMs": 766
+    },
+    {
+      "text": "was",
+      "startMs": 859,
+      "endMs": 1010
+    },
+    {
+      "text": "who",
+      "startMs": 1068,
+      "endMs": 1207
+    },
+    {
+      "text": "would",
+      "startMs": 1254,
+      "endMs": 1405
+    },
+    {
+      "text": "own",
+      "startMs": 1486,
+      "endMs": 1683
+    },
+    {
+      "text": "it",
+      "startMs": 1730,
+      "endMs": 1823
+    },
+    {
+      "text": "after",
+      "startMs": 1916,
+      "endMs": 2241
+    },
+    {
+      "text": "launch.",
+      "startMs": 2334,
+      "endMs": 2763
+    },
+    {
+      "text": "That",
+      "startMs": 2995,
+      "endMs": 3228
+    },
+    {
+      "text": "answer",
+      "startMs": 3309,
+      "endMs": 3692
+    },
+    {
+      "text": "was",
+      "startMs": 3750,
+      "endMs": 3855
+    },
+    {
+      "text": "missing",
+      "startMs": 3947,
+      "endMs": 4238
+    },
+    {
+      "text": "too.",
+      "startMs": 4319,
+      "endMs": 4656
+    },
+    {
+      "text": "The",
+      "startMs": 4702,
+      "endMs": 4807
+    },
+    {
+      "text": "project",
+      "startMs": 4853,
+      "endMs": 5097
+    },
+    {
+      "text": "manager",
+      "startMs": 5143,
+      "endMs": 5515
+    },
+    {
+      "text": "set",
+      "startMs": 5596,
+      "endMs": 5793
+    },
+    {
+      "text": "up",
+      "startMs": 5851,
+      "endMs": 5956
+    },
+    {
+      "text": "a",
+      "startMs": 6037,
+      "endMs": 6060
+    },
+    {
+      "text": "meeting",
+      "startMs": 6142,
+      "endMs": 6444
+    },
+    {
+      "text": "with",
+      "startMs": 6490,
+      "endMs": 6641
+    },
+    {
+      "text": "operations.",
+      "startMs": 6734,
+      "endMs": 7639
+    },
+    {
+      "text": "Operations",
+      "startMs": 7906,
+      "endMs": 8533
+    },
+    {
+      "text": "brought",
+      "startMs": 8591,
+      "endMs": 8835
+    },
+    {
+      "text": "in",
+      "startMs": 8893,
+      "endMs": 8986
+    },
+    {
+      "text": "a",
+      "startMs": 9067,
+      "endMs": 9102
+    },
+    {
+      "text": "department",
+      "startMs": 9183,
+      "endMs": 9799
+    },
+    {
+      "text": "head.",
+      "startMs": 9857,
+      "endMs": 10205
+    },
+    {
+      "text": "The",
+      "startMs": 10437,
+      "endMs": 10553
+    },
+    {
+      "text": "department",
+      "startMs": 10600,
+      "endMs": 11064
+    },
+    {
+      "text": "head",
+      "startMs": 11122,
+      "endMs": 11273
+    },
+    {
+      "text": "pointed",
+      "startMs": 11355,
+      "endMs": 11656
+    },
+    {
+      "text": "to",
+      "startMs": 11691,
+      "endMs": 11761
+    },
+    {
+      "text": "product",
+      "startMs": 11819,
+      "endMs": 12179
+    },
+    {
+      "text": "management.",
+      "startMs": 12225,
+      "endMs": 12841
+    },
+    {
+      "text": "Product",
+      "startMs": 13189,
+      "endMs": 13514
+    },
+    {
+      "text": "management",
+      "startMs": 13561,
+      "endMs": 14025
+    },
+    {
+      "text": "pulled",
+      "startMs": 14107,
+      "endMs": 14443
+    },
+    {
+      "text": "in",
+      "startMs": 14501,
+      "endMs": 14583
+    },
+    {
+      "text": "an",
+      "startMs": 14641,
+      "endMs": 14722
+    },
+    {
+      "text": "architect,",
+      "startMs": 14803,
+      "endMs": 15384
+    },
+    {
+      "text": "who",
+      "startMs": 15418,
+      "endMs": 15558
+    },
+    {
+      "text": "remembered",
+      "startMs": 15651,
+      "endMs": 16196.000000000002
+    },
+    {
+      "text": "part",
+      "startMs": 16289.000000000002,
+      "endMs": 16614
+    },
+    {
+      "text": "of",
+      "startMs": 16672,
+      "endMs": 16730
+    },
+    {
+      "text": "the",
+      "startMs": 16777,
+      "endMs": 16858
+    },
+    {
+      "text": "original",
+      "startMs": 16916,
+      "endMs": 17334
+    },
+    {
+      "text": "system.",
+      "startMs": 17415,
+      "endMs": 17926
+    },
+    {
+      "text": "Every",
+      "startMs": 18112,
+      "endMs": 18356
+    },
+    {
+      "text": "conversation",
+      "startMs": 18402,
+      "endMs": 19052
+    },
+    {
+      "text": "produced",
+      "startMs": 19134,
+      "endMs": 19563
+    },
+    {
+      "text": "one",
+      "startMs": 19668,
+      "endMs": 19900
+    },
+    {
+      "text": "more",
+      "startMs": 19935,
+      "endMs": 20121
+    },
+    {
+      "text": "name,",
+      "startMs": 20179,
+      "endMs": 20562
+    },
+    {
+      "text": "one",
+      "startMs": 20689,
+      "endMs": 20922
+    },
+    {
+      "text": "more",
+      "startMs": 20956,
+      "endMs": 21131
+    },
+    {
+      "text": "meeting.",
+      "startMs": 21177,
+      "endMs": 21572
+    },
+    {
+      "text": "Senior",
+      "startMs": 21699,
+      "endMs": 22094
+    },
+    {
+      "text": "people",
+      "startMs": 22152,
+      "endMs": 22454
+    },
+    {
+      "text": "spent",
+      "startMs": 22489,
+      "endMs": 22814
+    },
+    {
+      "text": "hours",
+      "startMs": 22953,
+      "endMs": 23453
+    },
+    {
+      "text": "trying",
+      "startMs": 23557,
+      "endMs": 23940
+    },
+    {
+      "text": "to",
+      "startMs": 23987,
+      "endMs": 24056
+    },
+    {
+      "text": "reconstruct",
+      "startMs": 24149,
+      "endMs": 24660
+    },
+    {
+      "text": "the",
+      "startMs": 24695,
+      "endMs": 24764
+    },
+    {
+      "text": "business",
+      "startMs": 24811,
+      "endMs": 25124
+    },
+    {
+      "text": "reason",
+      "startMs": 25171,
+      "endMs": 25426
+    },
+    {
+      "text": "behind",
+      "startMs": 25484,
+      "endMs": 25821
+    },
+    {
+      "text": "a",
+      "startMs": 25879,
+      "endMs": 25914
+    },
+    {
+      "text": "product",
+      "startMs": 25972,
+      "endMs": 26506
+    },
+    {
+      "text": "that",
+      "startMs": 26634,
+      "endMs": 26796
+    },
+    {
+      "text": "was",
+      "startMs": 26843,
+      "endMs": 26970
+    },
+    {
+      "text": "already",
+      "startMs": 27063,
+      "endMs": 27481
+    },
+    {
+      "text": "finished",
+      "startMs": 27574,
+      "endMs": 28038
+    },
+    {
+      "text": "and",
+      "startMs": 28120,
+      "endMs": 28259
+    },
+    {
+      "text": "ready",
+      "startMs": 28340,
+      "endMs": 28561
+    },
+    {
+      "text": "to",
+      "startMs": 28607,
+      "endMs": 28689
+    },
+    {
+      "text": "ship.",
+      "startMs": 28770,
+      "endMs": 29258
+    }
+  ]
+}

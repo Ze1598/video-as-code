@@ -1,0 +1,291 @@
+{
+  "text": "It started with an instruction: rebuild an old approval workflow, on a new internal platform. Management expected the new version to match the old one exactly, feature for feature. Nobody on the team could say who actually used the workflow, or what it was supposed to accomplish. That wasn't the assignment. The assignment was to rebuild it.",
+  "durationMs": 18994,
+  "words": [
+    {
+      "text": "It",
+      "startMs": 0,
+      "endMs": 151
+    },
+    {
+      "text": "started",
+      "startMs": 197,
+      "endMs": 569
+    },
+    {
+      "text": "with",
+      "startMs": 650,
+      "endMs": 894
+    },
+    {
+      "text": "an",
+      "startMs": 1022,
+      "endMs": 1184
+    },
+    {
+      "text": "instruction:",
+      "startMs": 1242,
+      "endMs": 1927
+    },
+    {
+      "text": "rebuild",
+      "startMs": 2159,
+      "endMs": 2554
+    },
+    {
+      "text": "an",
+      "startMs": 2601,
+      "endMs": 2670
+    },
+    {
+      "text": "old",
+      "startMs": 2798,
+      "endMs": 3019
+    },
+    {
+      "text": "approval",
+      "startMs": 3077,
+      "endMs": 3553
+    },
+    {
+      "text": "workflow,",
+      "startMs": 3634,
+      "endMs": 4203
+    },
+    {
+      "text": "on",
+      "startMs": 4238,
+      "endMs": 4331
+    },
+    {
+      "text": "a",
+      "startMs": 4377,
+      "endMs": 4400
+    },
+    {
+      "text": "new",
+      "startMs": 4458,
+      "endMs": 4586
+    },
+    {
+      "text": "internal",
+      "startMs": 4644,
+      "endMs": 5039
+    },
+    {
+      "text": "platform.",
+      "startMs": 5085,
+      "endMs": 5701
+    },
+    {
+      "text": "Management",
+      "startMs": 5968,
+      "endMs": 6478
+    },
+    {
+      "text": "expected",
+      "startMs": 6525,
+      "endMs": 6978
+    },
+    {
+      "text": "the",
+      "startMs": 7012,
+      "endMs": 7082
+    },
+    {
+      "text": "new",
+      "startMs": 7129,
+      "endMs": 7256
+    },
+    {
+      "text": "version",
+      "startMs": 7314,
+      "endMs": 7581
+    },
+    {
+      "text": "to",
+      "startMs": 7639,
+      "endMs": 7697
+    },
+    {
+      "text": "match",
+      "startMs": 7779,
+      "endMs": 8022
+    },
+    {
+      "text": "the",
+      "startMs": 8069.000000000001,
+      "endMs": 8150
+    },
+    {
+      "text": "old",
+      "startMs": 8208,
+      "endMs": 8382
+    },
+    {
+      "text": "one",
+      "startMs": 8464,
+      "endMs": 8615
+    },
+    {
+      "text": "exactly,",
+      "startMs": 8661,
+      "endMs": 9346
+    },
+    {
+      "text": "feature",
+      "startMs": 9451,
+      "endMs": 9868
+    },
+    {
+      "text": "for",
+      "startMs": 9903,
+      "endMs": 10008
+    },
+    {
+      "text": "feature.",
+      "startMs": 10089,
+      "endMs": 10507
+    },
+    {
+      "text": "Nobody",
+      "startMs": 10553,
+      "endMs": 10913
+    },
+    {
+      "text": "on",
+      "startMs": 10960,
+      "endMs": 11029
+    },
+    {
+      "text": "the",
+      "startMs": 11064,
+      "endMs": 11134
+    },
+    {
+      "text": "team",
+      "startMs": 11169,
+      "endMs": 11378
+    },
+    {
+      "text": "could",
+      "startMs": 11459,
+      "endMs": 11633
+    },
+    {
+      "text": "say",
+      "startMs": 11714,
+      "endMs": 12074
+    },
+    {
+      "text": "who",
+      "startMs": 12423,
+      "endMs": 12620
+    },
+    {
+      "text": "actually",
+      "startMs": 12678,
+      "endMs": 12980
+    },
+    {
+      "text": "used",
+      "startMs": 13026,
+      "endMs": 13224
+    },
+    {
+      "text": "the",
+      "startMs": 13258,
+      "endMs": 13328
+    },
+    {
+      "text": "workflow,",
+      "startMs": 13375,
+      "endMs": 13920
+    },
+    {
+      "text": "or",
+      "startMs": 13955,
+      "endMs": 14106
+    },
+    {
+      "text": "what",
+      "startMs": 14152,
+      "endMs": 14292
+    },
+    {
+      "text": "it",
+      "startMs": 14338,
+      "endMs": 14408
+    },
+    {
+      "text": "was",
+      "startMs": 14443,
+      "endMs": 14547
+    },
+    {
+      "text": "supposed",
+      "startMs": 14582,
+      "endMs": 14942
+    },
+    {
+      "text": "to",
+      "startMs": 14977,
+      "endMs": 15023
+    },
+    {
+      "text": "accomplish.",
+      "startMs": 15070,
+      "endMs": 15720
+    },
+    {
+      "text": "That",
+      "startMs": 15952,
+      "endMs": 16114.999999999998
+    },
+    {
+      "text": "wasn't",
+      "startMs": 16196.000000000002,
+      "endMs": 16463
+    },
+    {
+      "text": "the",
+      "startMs": 16486,
+      "endMs": 16556
+    },
+    {
+      "text": "assignment.",
+      "startMs": 16591,
+      "endMs": 17090
+    },
+    {
+      "text": "The",
+      "startMs": 17125,
+      "endMs": 17206
+    },
+    {
+      "text": "assignment",
+      "startMs": 17252,
+      "endMs": 17717
+    },
+    {
+      "text": "was",
+      "startMs": 17810,
+      "endMs": 17984
+    },
+    {
+      "text": "to",
+      "startMs": 18077,
+      "endMs": 18170
+    },
+    {
+      "text": "rebuild",
+      "startMs": 18251,
+      "endMs": 18622
+    },
+    {
+      "text": "it.",
+      "startMs": 18657,
+      "endMs": 18994
+    }
+  ]
+}

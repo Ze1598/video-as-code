@@ -1,0 +1,121 @@
+{
+  "text": "Somewhere on your team right now — is there a project moving forward that nobody has been able to name a user for?",
+  "durationMs": 7059,
+  "words": [
+    {
+      "text": "Somewhere",
+      "startMs": 0,
+      "endMs": 499
+    },
+    {
+      "text": "on",
+      "startMs": 580,
+      "endMs": 720
+    },
+    {
+      "text": "your",
+      "startMs": 766,
+      "endMs": 882
+    },
+    {
+      "text": "team",
+      "startMs": 929,
+      "endMs": 1115
+    },
+    {
+      "text": "right",
+      "startMs": 1242,
+      "endMs": 1440
+    },
+    {
+      "text": "now",
+      "startMs": 1533,
+      "endMs": 1718
+    },
+    {
+      "text": "—",
+      "startMs": 1846,
+      "endMs": 1997
+    },
+    {
+      "text": "is",
+      "startMs": 2345,
+      "endMs": 2508
+    },
+    {
+      "text": "there",
+      "startMs": 2554,
+      "endMs": 2717
+    },
+    {
+      "text": "a",
+      "startMs": 2752,
+      "endMs": 2775
+    },
+    {
+      "text": "project",
+      "startMs": 2833,
+      "endMs": 3297
+    },
+    {
+      "text": "moving",
+      "startMs": 3379,
+      "endMs": 3692
+    },
+    {
+      "text": "forward",
+      "startMs": 3750,
+      "endMs": 4110
+    },
+    {
+      "text": "that",
+      "startMs": 4156,
+      "endMs": 4342
+    },
+    {
+      "text": "nobody",
+      "startMs": 4447,
+      "endMs": 4888
+    },
+    {
+      "text": "has",
+      "startMs": 4946,
+      "endMs": 5085
+    },
+    {
+      "text": "been",
+      "startMs": 5143,
+      "endMs": 5306
+    },
+    {
+      "text": "able",
+      "startMs": 5364,
+      "endMs": 5631
+    },
+    {
+      "text": "to",
+      "startMs": 5666,
+      "endMs": 5735
+    },
+    {
+      "text": "name",
+      "startMs": 5817,
+      "endMs": 6037
+    },
+    {
+      "text": "a",
+      "startMs": 6072,
+      "endMs": 6095
+    },
+    {
+      "text": "user",
+      "startMs": 6153,
+      "endMs": 6455
+    },
+    {
+      "text": "for?",
+      "startMs": 6548,
+      "endMs": 7059
+    }
+  ]
+}

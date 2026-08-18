@@ -12,14 +12,23 @@ export type NodeId = "design" | "operations" | "engineering";
 // roles across the whole causal chain. Operations and Engineering never
 // connect directly until the Mechanism Reveal — that missing bottom edge of
 // the triangle IS the mechanism this video is about.
+// Widened from the original (960,320)/(560,820)/(1360,820) after
+// fitCameraToFocus's default margin was corrected to cover PersonNode's
+// label (which sits below the circle, not just the circle itself — see
+// frameFit.ts). The original spacing left pair(design, operations) /
+// pair(design, engineering) excluding the third node by a zoom buffer of
+// 0.0095 — razor-thin, not a real margin, and it stopped clearing the
+// (correctly-computed) threshold entirely once the margin fix landed. This
+// layout keeps the same hub/two-spokes shape with real headroom (~0.43
+// zoom buffer, verified in tests/frame-fit.test.ts).
 export const NODES: Record<NodeId, { x: number; y: number; label: string }> = {
-  design: { x: 960, y: 320, label: "Design" },
-  operations: { x: 560, y: 820, label: "Operations" },
-  engineering: { x: 1360, y: 820, label: "Engineering" },
+  design: { x: 960, y: 200, label: "Design" },
+  operations: { x: 300, y: 680, label: "Operations" },
+  engineering: { x: 1620, y: 680, label: "Engineering" },
 };
 
 // Centroid of all three nodes — the wide/reveal camera target.
-export const CENTER = { x: 960, y: 653 };
+export const CENTER = { x: 960, y: 520 };
 
 // Beat 1 — the two connectors that exist for most of the video, in the true
 // order the story forms them: design<->operations first (the initial

@@ -1,0 +1,171 @@
+{
+  "text": "They didn't create value and fail to communicate it. All the team built was bloat. The forms worked. The notifications ran. The approval logic passed every test. None of it had a purpose.",
+  "durationMs": 12074,
+  "words": [
+    {
+      "text": "They",
+      "startMs": 0,
+      "endMs": 174
+    },
+    {
+      "text": "didn't",
+      "startMs": 255,
+      "endMs": 604
+    },
+    {
+      "text": "create",
+      "startMs": 639,
+      "endMs": 964
+    },
+    {
+      "text": "value",
+      "startMs": 1022,
+      "endMs": 1486
+    },
+    {
+      "text": "and",
+      "startMs": 1521,
+      "endMs": 1660
+    },
+    {
+      "text": "fail",
+      "startMs": 1788,
+      "endMs": 2078
+    },
+    {
+      "text": "to",
+      "startMs": 2159,
+      "endMs": 2218
+    },
+    {
+      "text": "communicate",
+      "startMs": 2310,
+      "endMs": 2902
+    },
+    {
+      "text": "it.",
+      "startMs": 2926,
+      "endMs": 3088
+    },
+    {
+      "text": "All",
+      "startMs": 3320,
+      "endMs": 3518
+    },
+    {
+      "text": "the",
+      "startMs": 3553,
+      "endMs": 3622
+    },
+    {
+      "text": "team",
+      "startMs": 3669,
+      "endMs": 3866
+    },
+    {
+      "text": "built",
+      "startMs": 3947,
+      "endMs": 4261
+    },
+    {
+      "text": "was",
+      "startMs": 4354,
+      "endMs": 4528
+    },
+    {
+      "text": "bloat.",
+      "startMs": 4632,
+      "endMs": 5190
+    },
+    {
+      "text": "The",
+      "startMs": 5422,
+      "endMs": 5538
+    },
+    {
+      "text": "forms",
+      "startMs": 5666,
+      "endMs": 6118
+    },
+    {
+      "text": "worked.",
+      "startMs": 6200,
+      "endMs": 6525
+    },
+    {
+      "text": "The",
+      "startMs": 6571,
+      "endMs": 6664
+    },
+    {
+      "text": "notifications",
+      "startMs": 6722,
+      "endMs": 7465
+    },
+    {
+      "text": "ran.",
+      "startMs": 7558,
+      "endMs": 7918
+    },
+    {
+      "text": "The",
+      "startMs": 7953,
+      "endMs": 8057
+    },
+    {
+      "text": "approval",
+      "startMs": 8092.000000000001,
+      "endMs": 8510
+    },
+    {
+      "text": "logic",
+      "startMs": 8568,
+      "endMs": 8882
+    },
+    {
+      "text": "passed",
+      "startMs": 8928,
+      "endMs": 9230
+    },
+    {
+      "text": "every",
+      "startMs": 9358,
+      "endMs": 9683
+    },
+    {
+      "text": "test.",
+      "startMs": 9764,
+      "endMs": 10205
+    },
+    {
+      "text": "None",
+      "startMs": 10507,
+      "endMs": 10728
+    },
+    {
+      "text": "of",
+      "startMs": 10751,
+      "endMs": 10809
+    },
+    {
+      "text": "it",
+      "startMs": 10867,
+      "endMs": 10948
+    },
+    {
+      "text": "had",
+      "startMs": 11029,
+      "endMs": 11157
+    },
+    {
+      "text": "a",
+      "startMs": 11204,
+      "endMs": 11227
+    },
+    {
+      "text": "purpose.",
+      "startMs": 11308,
+      "endMs": 12074
+    }
+  ]
+}

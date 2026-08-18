@@ -3,6 +3,7 @@ import { Composition } from "remotion";
 import { HowToBeUnderstood, HOW_TO_BE_UNDERSTOOD_DURATION } from "./HowToBeUnderstood/index.tsx";
 import { AvoidCommunicationSilos, AVOID_COMMUNICATION_SILOS_DURATION } from "./AvoidCommunicationSilos/index.tsx";
 import { HoldYourStandards, HOLD_YOUR_STANDARDS_DURATION } from "./HoldYourStandards/index.tsx";
+import { BuildSomethingPurposeful, BUILD_SOMETHING_PURPOSEFUL_DURATION } from "./BuildSomethingPurposeful/index.tsx";
 import { LibDemo, LIB_DEMO_DURATION } from "./lib/__demo__/index.tsx";
 
 // Each <Composition> is an entry in the sidebar!
@@ -32,6 +33,15 @@ export const RemotionRoot: React.FC = () => {
         id="HoldYourStandards"
         component={HoldYourStandards}
         durationInFrames={HOLD_YOUR_STANDARDS_DURATION}
+        fps={60}
+        width={1920}
+        height={1080}
+      />
+
+      <Composition
+        id="BuildSomethingPurposeful"
+        component={BuildSomethingPurposeful}
+        durationInFrames={BUILD_SOMETHING_PURPOSEFUL_DURATION}
         fps={60}
         width={1920}
         height={1080}

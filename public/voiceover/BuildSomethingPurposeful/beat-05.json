@@ -1,0 +1,116 @@
+{
+  "text": "Development finished. The release was ready. Then someone asked a simple question: who needs access to this? Nobody had a user list.",
+  "durationMs": 7709,
+  "words": [
+    {
+      "text": "Development",
+      "startMs": 0,
+      "endMs": 604
+    },
+    {
+      "text": "finished.",
+      "startMs": 662,
+      "endMs": 1138
+    },
+    {
+      "text": "The",
+      "startMs": 1265,
+      "endMs": 1393
+    },
+    {
+      "text": "release",
+      "startMs": 1486,
+      "endMs": 1858
+    },
+    {
+      "text": "was",
+      "startMs": 1892,
+      "endMs": 2020
+    },
+    {
+      "text": "ready.",
+      "startMs": 2113,
+      "endMs": 2485
+    },
+    {
+      "text": "Then",
+      "startMs": 2717,
+      "endMs": 2914
+    },
+    {
+      "text": "someone",
+      "startMs": 2995,
+      "endMs": 3309
+    },
+    {
+      "text": "asked",
+      "startMs": 3344,
+      "endMs": 3553
+    },
+    {
+      "text": "a",
+      "startMs": 3587,
+      "endMs": 3622
+    },
+    {
+      "text": "simple",
+      "startMs": 3669,
+      "endMs": 3959
+    },
+    {
+      "text": "question:",
+      "startMs": 3994,
+      "endMs": 4458
+    },
+    {
+      "text": "who",
+      "startMs": 4551,
+      "endMs": 4714
+    },
+    {
+      "text": "needs",
+      "startMs": 4760,
+      "endMs": 4957
+    },
+    {
+      "text": "access",
+      "startMs": 5004,
+      "endMs": 5317
+    },
+    {
+      "text": "to",
+      "startMs": 5352,
+      "endMs": 5422
+    },
+    {
+      "text": "this?",
+      "startMs": 5503,
+      "endMs": 5909
+    },
+    {
+      "text": "Nobody",
+      "startMs": 6002,
+      "endMs": 6397
+    },
+    {
+      "text": "had",
+      "startMs": 6455,
+      "endMs": 6583
+    },
+    {
+      "text": "a",
+      "startMs": 6629,
+      "endMs": 6653
+    },
+    {
+      "text": "user",
+      "startMs": 6734,
+      "endMs": 7001
+    },
+    {
+      "text": "list.",
+      "startMs": 7094,
+      "endMs": 7709
+    }
+  ]
+}

@@ -1,0 +1,321 @@
+{
+  "text": "One person asked a different question: why does this workflow still need to exist? Nobody in the project could answer it. Finding that answer meant tracing a decision back through several managers, reopening a scope that was supposed to be closed, maybe delaying the whole migration. Reproducing the workflow, exactly as it already existed, was the easier path. So that's what they did.",
+  "durationMs": 23359,
+  "words": [
+    {
+      "text": "One",
+      "startMs": 0,
+      "endMs": 174
+    },
+    {
+      "text": "person",
+      "startMs": 209,
+      "endMs": 1312
+    },
+    {
+      "text": "asked",
+      "startMs": 1474,
+      "endMs": 1892
+    },
+    {
+      "text": "a",
+      "startMs": 2020,
+      "endMs": 2101
+    },
+    {
+      "text": "different",
+      "startMs": 2183,
+      "endMs": 2485
+    },
+    {
+      "text": "question:",
+      "startMs": 2519,
+      "endMs": 2937
+    },
+    {
+      "text": "why",
+      "startMs": 3065,
+      "endMs": 3262
+    },
+    {
+      "text": "does",
+      "startMs": 3320,
+      "endMs": 3483
+    },
+    {
+      "text": "this",
+      "startMs": 3506,
+      "endMs": 3634
+    },
+    {
+      "text": "workflow",
+      "startMs": 3715,
+      "endMs": 4156
+    },
+    {
+      "text": "still",
+      "startMs": 4284,
+      "endMs": 4690
+    },
+    {
+      "text": "need",
+      "startMs": 4818,
+      "endMs": 5074
+    },
+    {
+      "text": "to",
+      "startMs": 5155,
+      "endMs": 5248
+    },
+    {
+      "text": "exist?",
+      "startMs": 5352,
+      "endMs": 6002
+    },
+    {
+      "text": "Nobody",
+      "startMs": 6304,
+      "endMs": 6722
+    },
+    {
+      "text": "in",
+      "startMs": 6769,
+      "endMs": 6827
+    },
+    {
+      "text": "the",
+      "startMs": 6861,
+      "endMs": 6931
+    },
+    {
+      "text": "project",
+      "startMs": 6989,
+      "endMs": 7419
+    },
+    {
+      "text": "could",
+      "startMs": 7465,
+      "endMs": 7639
+    },
+    {
+      "text": "answer",
+      "startMs": 7697,
+      "endMs": 8022
+    },
+    {
+      "text": "it.",
+      "startMs": 8080.999999999999,
+      "endMs": 8185.000000000001
+    },
+    {
+      "text": "Finding",
+      "startMs": 8290,
+      "endMs": 8673
+    },
+    {
+      "text": "that",
+      "startMs": 8719,
+      "endMs": 8835
+    },
+    {
+      "text": "answer",
+      "startMs": 8870,
+      "endMs": 9183
+    },
+    {
+      "text": "meant",
+      "startMs": 9265,
+      "endMs": 9497
+    },
+    {
+      "text": "tracing",
+      "startMs": 9532,
+      "endMs": 10031
+    },
+    {
+      "text": "a",
+      "startMs": 10089,
+      "endMs": 10124
+    },
+    {
+      "text": "decision",
+      "startMs": 10170,
+      "endMs": 10612
+    },
+    {
+      "text": "back",
+      "startMs": 10693,
+      "endMs": 10913
+    },
+    {
+      "text": "through",
+      "startMs": 10948,
+      "endMs": 11169
+    },
+    {
+      "text": "several",
+      "startMs": 11227,
+      "endMs": 11587
+    },
+    {
+      "text": "managers,",
+      "startMs": 11645,
+      "endMs": 12341
+    },
+    {
+      "text": "reopening",
+      "startMs": 12608,
+      "endMs": 13247
+    },
+    {
+      "text": "a",
+      "startMs": 13293,
+      "endMs": 13328
+    },
+    {
+      "text": "scope",
+      "startMs": 13386,
+      "endMs": 13746
+    },
+    {
+      "text": "that",
+      "startMs": 13781,
+      "endMs": 13920
+    },
+    {
+      "text": "was",
+      "startMs": 14013,
+      "endMs": 14141
+    },
+    {
+      "text": "supposed",
+      "startMs": 14187,
+      "endMs": 14582
+    },
+    {
+      "text": "to",
+      "startMs": 14605,
+      "endMs": 14652
+    },
+    {
+      "text": "be",
+      "startMs": 14710,
+      "endMs": 14803
+    },
+    {
+      "text": "closed,",
+      "startMs": 14837,
+      "endMs": 15383
+    },
+    {
+      "text": "maybe",
+      "startMs": 15615,
+      "endMs": 15917
+    },
+    {
+      "text": "delaying",
+      "startMs": 15975,
+      "endMs": 16312.000000000002
+    },
+    {
+      "text": "the",
+      "startMs": 16347.000000000002,
+      "endMs": 16416
+    },
+    {
+      "text": "whole",
+      "startMs": 16451,
+      "endMs": 16602
+    },
+    {
+      "text": "migration.",
+      "startMs": 16625,
+      "endMs": 17264
+    },
+    {
+      "text": "Reproducing",
+      "startMs": 17496,
+      "endMs": 18216
+    },
+    {
+      "text": "the",
+      "startMs": 18274,
+      "endMs": 18344
+    },
+    {
+      "text": "workflow,",
+      "startMs": 18378,
+      "endMs": 19017
+    },
+    {
+      "text": "exactly",
+      "startMs": 19075,
+      "endMs": 19632
+    },
+    {
+      "text": "as",
+      "startMs": 19667,
+      "endMs": 19725
+    },
+    {
+      "text": "it",
+      "startMs": 19783,
+      "endMs": 19876
+    },
+    {
+      "text": "already",
+      "startMs": 19934,
+      "endMs": 20294
+    },
+    {
+      "text": "existed,",
+      "startMs": 20329,
+      "endMs": 20956
+    },
+    {
+      "text": "was",
+      "startMs": 21118,
+      "endMs": 21269
+    },
+    {
+      "text": "the",
+      "startMs": 21304,
+      "endMs": 21374
+    },
+    {
+      "text": "easier",
+      "startMs": 21455,
+      "endMs": 21780
+    },
+    {
+      "text": "path.",
+      "startMs": 21861,
+      "endMs": 22140
+    },
+    {
+      "text": "So",
+      "startMs": 22163,
+      "endMs": 22256
+    },
+    {
+      "text": "that's",
+      "startMs": 22314,
+      "endMs": 22512
+    },
+    {
+      "text": "what",
+      "startMs": 22546,
+      "endMs": 22674
+    },
+    {
+      "text": "they",
+      "startMs": 22709,
+      "endMs": 22825
+    },
+    {
+      "text": "did.",
+      "startMs": 22883,
+      "endMs": 23359
+    }
+  ]
+}

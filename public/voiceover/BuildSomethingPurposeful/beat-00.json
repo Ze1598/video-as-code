@@ -1,0 +1,251 @@
+{
+  "text": "A team finished a project. Every test passed. The forms worked, the notifications ran, the approval logic held under every check they threw at it. Then someone in the room asked one question nobody had asked before any of it was built — and the whole thing came apart.",
+  "durationMs": 16207.999999999998,
+  "words": [
+    {
+      "text": "A",
+      "startMs": 0,
+      "endMs": 81
+    },
+    {
+      "text": "team",
+      "startMs": 163,
+      "endMs": 337
+    },
+    {
+      "text": "finished",
+      "startMs": 441,
+      "endMs": 801
+    },
+    {
+      "text": "a",
+      "startMs": 836,
+      "endMs": 859
+    },
+    {
+      "text": "project.",
+      "startMs": 1207,
+      "endMs": 1811
+    },
+    {
+      "text": "Every",
+      "startMs": 1939,
+      "endMs": 2229
+    },
+    {
+      "text": "test",
+      "startMs": 2276,
+      "endMs": 2543
+    },
+    {
+      "text": "passed.",
+      "startMs": 2635,
+      "endMs": 3065
+    },
+    {
+      "text": "The",
+      "startMs": 3193,
+      "endMs": 3297
+    },
+    {
+      "text": "forms",
+      "startMs": 3379,
+      "endMs": 3669
+    },
+    {
+      "text": "worked,",
+      "startMs": 3727,
+      "endMs": 4133
+    },
+    {
+      "text": "the",
+      "startMs": 4296,
+      "endMs": 4389
+    },
+    {
+      "text": "notifications",
+      "startMs": 4447,
+      "endMs": 5120
+    },
+    {
+      "text": "ran,",
+      "startMs": 5201,
+      "endMs": 5468
+    },
+    {
+      "text": "the",
+      "startMs": 5515,
+      "endMs": 5619
+    },
+    {
+      "text": "approval",
+      "startMs": 5666,
+      "endMs": 6084
+    },
+    {
+      "text": "logic",
+      "startMs": 6142,
+      "endMs": 6548
+    },
+    {
+      "text": "held",
+      "startMs": 6850,
+      "endMs": 7210
+    },
+    {
+      "text": "under",
+      "startMs": 7338,
+      "endMs": 7570
+    },
+    {
+      "text": "every",
+      "startMs": 7697,
+      "endMs": 7976
+    },
+    {
+      "text": "check",
+      "startMs": 8022,
+      "endMs": 8243
+    },
+    {
+      "text": "they",
+      "startMs": 8301,
+      "endMs": 8417
+    },
+    {
+      "text": "threw",
+      "startMs": 8464,
+      "endMs": 8696
+    },
+    {
+      "text": "at",
+      "startMs": 8754,
+      "endMs": 8847
+    },
+    {
+      "text": "it.",
+      "startMs": 8893,
+      "endMs": 9091
+    },
+    {
+      "text": "Then",
+      "startMs": 9439,
+      "endMs": 9613
+    },
+    {
+      "text": "someone",
+      "startMs": 9718,
+      "endMs": 10112
+    },
+    {
+      "text": "in",
+      "startMs": 10147,
+      "endMs": 10205
+    },
+    {
+      "text": "the",
+      "startMs": 10240,
+      "endMs": 10310
+    },
+    {
+      "text": "room",
+      "startMs": 10344,
+      "endMs": 10565
+    },
+    {
+      "text": "asked",
+      "startMs": 10670,
+      "endMs": 10960
+    },
+    {
+      "text": "one",
+      "startMs": 11064,
+      "endMs": 11297
+    },
+    {
+      "text": "question",
+      "startMs": 11343,
+      "endMs": 11726
+    },
+    {
+      "text": "nobody",
+      "startMs": 11784,
+      "endMs": 12051
+    },
+    {
+      "text": "had",
+      "startMs": 12109,
+      "endMs": 12260
+    },
+    {
+      "text": "asked",
+      "startMs": 12341,
+      "endMs": 12632
+    },
+    {
+      "text": "before",
+      "startMs": 12690,
+      "endMs": 13015
+    },
+    {
+      "text": "any",
+      "startMs": 13073,
+      "endMs": 13247
+    },
+    {
+      "text": "of",
+      "startMs": 13305,
+      "endMs": 13363
+    },
+    {
+      "text": "it",
+      "startMs": 13421,
+      "endMs": 13502
+    },
+    {
+      "text": "was",
+      "startMs": 13560,
+      "endMs": 13688
+    },
+    {
+      "text": "built",
+      "startMs": 13781,
+      "endMs": 14048
+    },
+    {
+      "text": "—",
+      "startMs": 14176,
+      "endMs": 14292
+    },
+    {
+      "text": "and",
+      "startMs": 14315,
+      "endMs": 14489
+    },
+    {
+      "text": "the",
+      "startMs": 14536,
+      "endMs": 14605
+    },
+    {
+      "text": "whole",
+      "startMs": 14629,
+      "endMs": 14838
+    },
+    {
+      "text": "thing",
+      "startMs": 14884,
+      "endMs": 15093
+    },
+    {
+      "text": "came",
+      "startMs": 15197,
+      "endMs": 15441
+    },
+    {
+      "text": "apart.",
+      "startMs": 15488,
+      "endMs": 16207.999999999998
+    }
+  ]
+}

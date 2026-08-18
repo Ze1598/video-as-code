@@ -1,0 +1,441 @@
+{
+  "text": "Building without a clear purpose doesn't avoid the requirements work. It pushes that work until after the organization pays for design, development, testing, deployment, security, and support. Once the product exists, people have to spend more time deciding whether to own it, maintain it, or remove it. We've always done it this way isn't a requirement. Management asked for it isn't one either. If management can't name the user, the problem, or the outcome, management hasn't provided a requirement. It's passed down an instruction without a purpose.",
+  "durationMs": 35109,
+  "words": [
+    {
+      "text": "Building",
+      "startMs": 0,
+      "endMs": 441
+    },
+    {
+      "text": "without",
+      "startMs": 627,
+      "endMs": 1277
+    },
+    {
+      "text": "a",
+      "startMs": 1382,
+      "endMs": 1440
+    },
+    {
+      "text": "clear",
+      "startMs": 1579,
+      "endMs": 1950
+    },
+    {
+      "text": "purpose",
+      "startMs": 2078,
+      "endMs": 2694
+    },
+    {
+      "text": "doesn't",
+      "startMs": 2821,
+      "endMs": 3239
+    },
+    {
+      "text": "avoid",
+      "startMs": 3320,
+      "endMs": 3855
+    },
+    {
+      "text": "the",
+      "startMs": 3901,
+      "endMs": 3982
+    },
+    {
+      "text": "requirements",
+      "startMs": 4040,
+      "endMs": 4574
+    },
+    {
+      "text": "work.",
+      "startMs": 4621,
+      "endMs": 4899
+    },
+    {
+      "text": "It",
+      "startMs": 5248,
+      "endMs": 5433
+    },
+    {
+      "text": "pushes",
+      "startMs": 5526,
+      "endMs": 5956
+    },
+    {
+      "text": "that",
+      "startMs": 6002,
+      "endMs": 6142
+    },
+    {
+      "text": "work",
+      "startMs": 6223,
+      "endMs": 6467
+    },
+    {
+      "text": "until",
+      "startMs": 6571,
+      "endMs": 6931
+    },
+    {
+      "text": "after",
+      "startMs": 7036,
+      "endMs": 7407
+    },
+    {
+      "text": "the",
+      "startMs": 7465,
+      "endMs": 7546
+    },
+    {
+      "text": "organization",
+      "startMs": 7639,
+      "endMs": 8394
+    },
+    {
+      "text": "pays",
+      "startMs": 8475,
+      "endMs": 8673
+    },
+    {
+      "text": "for",
+      "startMs": 8719,
+      "endMs": 8824
+    },
+    {
+      "text": "design,",
+      "startMs": 8905,
+      "endMs": 9346
+    },
+    {
+      "text": "development,",
+      "startMs": 9381,
+      "endMs": 10054
+    },
+    {
+      "text": "testing,",
+      "startMs": 10089,
+      "endMs": 10693
+    },
+    {
+      "text": "deployment,",
+      "startMs": 10716,
+      "endMs": 11378
+    },
+    {
+      "text": "security,",
+      "startMs": 11401,
+      "endMs": 12074
+    },
+    {
+      "text": "and",
+      "startMs": 12098,
+      "endMs": 12225
+    },
+    {
+      "text": "support.",
+      "startMs": 12318,
+      "endMs": 12922
+    },
+    {
+      "text": "Once",
+      "startMs": 13270,
+      "endMs": 13572
+    },
+    {
+      "text": "the",
+      "startMs": 13607,
+      "endMs": 13677
+    },
+    {
+      "text": "product",
+      "startMs": 13735,
+      "endMs": 14083
+    },
+    {
+      "text": "exists,",
+      "startMs": 14164,
+      "endMs": 14768
+    },
+    {
+      "text": "people",
+      "startMs": 14849,
+      "endMs": 15186
+    },
+    {
+      "text": "have",
+      "startMs": 15221,
+      "endMs": 15360
+    },
+    {
+      "text": "to",
+      "startMs": 15395,
+      "endMs": 15441
+    },
+    {
+      "text": "spend",
+      "startMs": 15523,
+      "endMs": 15859
+    },
+    {
+      "text": "more",
+      "startMs": 15964,
+      "endMs": 16172.999999999998
+    },
+    {
+      "text": "time",
+      "startMs": 16219.000000000002,
+      "endMs": 16684
+    },
+    {
+      "text": "deciding",
+      "startMs": 16869,
+      "endMs": 17404
+    },
+    {
+      "text": "whether",
+      "startMs": 17485,
+      "endMs": 17752
+    },
+    {
+      "text": "to",
+      "startMs": 17810,
+      "endMs": 17880
+    },
+    {
+      "text": "own",
+      "startMs": 18007,
+      "endMs": 18205
+    },
+    {
+      "text": "it,",
+      "startMs": 18251,
+      "endMs": 18379
+    },
+    {
+      "text": "maintain",
+      "startMs": 18437,
+      "endMs": 18820
+    },
+    {
+      "text": "it,",
+      "startMs": 18866,
+      "endMs": 18959
+    },
+    {
+      "text": "or",
+      "startMs": 18994,
+      "endMs": 19087
+    },
+    {
+      "text": "remove",
+      "startMs": 19133,
+      "endMs": 19528
+    },
+    {
+      "text": "it.",
+      "startMs": 19563,
+      "endMs": 19726
+    },
+    {
+      "text": "We've",
+      "startMs": 19911,
+      "endMs": 20109
+    },
+    {
+      "text": "always",
+      "startMs": 20143,
+      "endMs": 20399
+    },
+    {
+      "text": "done",
+      "startMs": 20445,
+      "endMs": 20596
+    },
+    {
+      "text": "it",
+      "startMs": 20619,
+      "endMs": 20701
+    },
+    {
+      "text": "this",
+      "startMs": 20759,
+      "endMs": 20910
+    },
+    {
+      "text": "way",
+      "startMs": 21003,
+      "endMs": 21212
+    },
+    {
+      "text": "isn't",
+      "startMs": 21339,
+      "endMs": 21664
+    },
+    {
+      "text": "a",
+      "startMs": 21711,
+      "endMs": 21734
+    },
+    {
+      "text": "requirement.",
+      "startMs": 21780,
+      "endMs": 22454
+    },
+    {
+      "text": "Management",
+      "startMs": 22686,
+      "endMs": 23220
+    },
+    {
+      "text": "asked",
+      "startMs": 23278,
+      "endMs": 23638
+    },
+    {
+      "text": "for",
+      "startMs": 23685,
+      "endMs": 23847
+    },
+    {
+      "text": "it",
+      "startMs": 23940,
+      "endMs": 24079
+    },
+    {
+      "text": "isn't",
+      "startMs": 24184,
+      "endMs": 24474
+    },
+    {
+      "text": "one",
+      "startMs": 24567,
+      "endMs": 24834
+    },
+    {
+      "text": "either.",
+      "startMs": 24915,
+      "endMs": 25345
+    },
+    {
+      "text": "If",
+      "startMs": 25507,
+      "endMs": 25693
+    },
+    {
+      "text": "management",
+      "startMs": 25798,
+      "endMs": 26262
+    },
+    {
+      "text": "can't",
+      "startMs": 26308,
+      "endMs": 26564
+    },
+    {
+      "text": "name",
+      "startMs": 26668,
+      "endMs": 26924
+    },
+    {
+      "text": "the",
+      "startMs": 26959,
+      "endMs": 27028
+    },
+    {
+      "text": "user,",
+      "startMs": 27109,
+      "endMs": 27620
+    },
+    {
+      "text": "the",
+      "startMs": 27748,
+      "endMs": 27864
+    },
+    {
+      "text": "problem,",
+      "startMs": 27922,
+      "endMs": 28387
+    },
+    {
+      "text": "or",
+      "startMs": 28421,
+      "endMs": 28572
+    },
+    {
+      "text": "the",
+      "startMs": 28654,
+      "endMs": 28735
+    },
+    {
+      "text": "outcome,",
+      "startMs": 28793,
+      "endMs": 29385
+    },
+    {
+      "text": "management",
+      "startMs": 29652,
+      "endMs": 30198
+    },
+    {
+      "text": "hasn't",
+      "startMs": 30279,
+      "endMs": 30685
+    },
+    {
+      "text": "provided",
+      "startMs": 30743,
+      "endMs": 31335
+    },
+    {
+      "text": "a",
+      "startMs": 31417,
+      "endMs": 31452
+    },
+    {
+      "text": "requirement.",
+      "startMs": 31544,
+      "endMs": 32369
+    },
+    {
+      "text": "It's",
+      "startMs": 32450.000000000004,
+      "endMs": 32659
+    },
+    {
+      "text": "passed",
+      "startMs": 32705,
+      "endMs": 32984
+    },
+    {
+      "text": "down",
+      "startMs": 33007,
+      "endMs": 33181
+    },
+    {
+      "text": "an",
+      "startMs": 33228,
+      "endMs": 33298
+    },
+    {
+      "text": "instruction",
+      "startMs": 33379,
+      "endMs": 33901
+    },
+    {
+      "text": "without",
+      "startMs": 33948,
+      "endMs": 34215
+    },
+    {
+      "text": "a",
+      "startMs": 34250,
+      "endMs": 34284
+    },
+    {
+      "text": "purpose.",
+      "startMs": 34342,
+      "endMs": 35109
+    }
+  ]
+}

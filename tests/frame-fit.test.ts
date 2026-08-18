@@ -1,6 +1,6 @@
 import { test } from "node:test";
 import assert from "node:assert/strict";
-import { fitCameraToFocus } from "../src/lib/diagram/frameFit.ts";
+import { DEFAULT_MARGIN, fitCameraToFocus, frameFitMath } from "../src/lib/diagram/frameFit.ts";
 
 // Covers 0/1/2/N-focus cases, plus regression cases reproducing the two
 // real bugs this function exists to prevent: AvoidCommunicationSilos's
@@ -45,19 +45,33 @@ test("4-focus: centers on the centroid of exactly those four, not all nodes", ()
   assert.deepEqual(result.leakingNodeIds, []);
 });
 
-test("regression — AvoidCommunicationSilos's original cramped layout: pair(design, operations) excludes engineering", () => {
-  // The exact coordinates that leaked Engineering into frame at a
-  // hand-picked PAIR_ZOOM of 1.15 before the fix.
+test("regression — AvoidCommunicationSilos's shipped layout: pair(design, operations) and pair(design, engineering) exclude the third node with a real margin", () => {
+  // This video's ORIGINAL layout (design 960,320 / operations 560,820 /
+  // engineering 1360,820, the coordinates this test used to hardcode)
+  // excluded the third node by a zoom buffer of only 0.0095 under the old
+  // symmetric 55px margin — razor-thin, not a real margin. Once the
+  // default margin was corrected to account for a label's real footprint
+  // below its node (see the "asymmetric margin" tests below), that shot
+  // stopped clearing the threshold at all. The layout was widened in
+  // response (see src/AvoidCommunicationSilos/layout.ts) to a real ~0.43
+  // zoom buffer, verified here — a cramped layout that only barely passes
+  // is exactly the kind of case a margin correction should be expected to
+  // break, and the fix is to widen the layout, not loosen the margin.
   const nodes = {
-    design: { x: 960, y: 320 },
-    operations: { x: 560, y: 820 },
-    engineering: { x: 1360, y: 820 },
+    design: { x: 960, y: 200 },
+    operations: { x: 300, y: 680 },
+    engineering: { x: 1620, y: 680 },
   };
-  const result = fitCameraToFocus(nodes, ["design", "operations"]);
-  assert.ok(
-    result.excludesNonFocus,
-    `expected engineering excluded, but leaked: ${result.leakingNodeIds.join(", ")}`,
-  );
+  for (const focusIds of [
+    ["design", "operations"],
+    ["design", "engineering"],
+  ]) {
+    const result = fitCameraToFocus(nodes, focusIds);
+    assert.ok(
+      result.excludesNonFocus,
+      `${JSON.stringify(focusIds)} leaked: ${result.leakingNodeIds.join(", ")}`,
+    );
+  }
 });
 
 test("regression — HoldYourStandards's original cramped layout: tight(teamLead) excludes otherManagers", () => {
@@ -127,6 +141,80 @@ test("genuinely infeasible layout: a node coincident with the focus reports the 
   const result = fitCameraToFocus(nodes, ["focus"]);
   assert.equal(result.excludesNonFocus, false);
   assert.deepEqual(result.leakingNodeIds, ["tooClose"]);
+});
+
+test("regression — BuildSomethingPurposeful's Management/Team pair: default margin protects a focus node's label, not just its circle", () => {
+  // PersonNode's label renders BELOW the circle (radius 54 + a 38px offset
+  // + ~26px of text — see PersonNode.tsx), not symmetrically around it. The
+  // old default margin was a single symmetric 55px, sized for the circle
+  // only. Team sits south of this pair's centroid, so its LABEL — not its
+  // circle — is what actually reaches toward the frame edge here: the old
+  // margin let fitCameraToFocus return a zoom where Team's circle had
+  // margin to spare while its label clipped past the bottom edge
+  // (confirmed by rendering a still of this exact shot before the fix).
+  const nodes = { mgmt: { x: 960, y: 140 }, team: { x: 960, y: 520 } };
+
+  const corrected = fitCameraToFocus(nodes, ["mgmt", "team"]);
+  const naiveSymmetric = fitCameraToFocus(nodes, ["mgmt", "team"], { margin: 55 });
+
+  assert.ok(
+    corrected.zoom < naiveSymmetric.zoom,
+    `expected the label-aware default (zoom ${corrected.zoom}) to be strictly tighter than the old ` +
+      `symmetric 55px margin (zoom ${naiveSymmetric.zoom}) — Team's label needs more room than its circle alone`,
+  );
+
+  const halfH = 540;
+  const teamLabelFootprint = 54 + 38 + 26; // circle radius + label offset + font size, from PersonNode.tsx
+  const teamLabelBottomAtCorrected = (nodes.team.y - corrected.y + teamLabelFootprint) * corrected.zoom;
+  const teamLabelBottomAtNaive = (nodes.team.y - naiveSymmetric.y + teamLabelFootprint) * naiveSymmetric.zoom;
+
+  assert.ok(
+    teamLabelBottomAtCorrected <= halfH,
+    `Team's real label footprint (${teamLabelBottomAtCorrected.toFixed(1)}px) still exceeds the frame's ` +
+      `half-height (${halfH}) at the corrected zoom ${corrected.zoom}`,
+  );
+  assert.ok(
+    teamLabelBottomAtNaive > halfH,
+    `expected the old symmetric margin to actually reproduce the clip (label at ` +
+      `${teamLabelBottomAtNaive.toFixed(1)}px vs half-height ${halfH}) — if this fails, the bug wasn't real`,
+  );
+});
+
+test("asymmetric margin, inclusion side: a focus node SOUTH of center is the binding constraint, because its label points away from center", () => {
+  // Two nodes equidistant from the pair's centroid, one north (negative
+  // dy) and one south (positive dy) — the north node's label points back
+  // TOWARD center (barely extends its "far" edge), the south node's label
+  // points AWAY from center (extends its far edge a full extra
+  // marginBottom). A symmetric margin can't tell these apart; the
+  // corrected one must, and the south node must be the tighter bound.
+  const north = frameFitMath.includeBound(0, -200, DEFAULT_MARGIN, 960, 540);
+  const south = frameFitMath.includeBound(0, 200, DEFAULT_MARGIN, 960, 540);
+  assert.ok(south < north, `expected south (${south}) to be the tighter (smaller) include bound than north (${north})`);
+});
+
+test("asymmetric margin, exclusion side: a non-focus node NORTH of the focus is harder to exclude, because its label points toward center", () => {
+  // This is the second, distinct way the same asymmetry bites: a
+  // NON-focus node sitting north of a tight/pair shot's focus has its
+  // label reaching back down toward that focus, encroaching on the frame
+  // in a way a south-positioned node at the same distance doesn't. This is
+  // exactly what broke BuildSomethingPurposeful's tight(team) shot a
+  // second time (Management, sitting north of Team, leaked in) after the
+  // first fix — the layout needed MORE vertical room north of a focus than
+  // south of it, not just more room in general.
+  const north = frameFitMath.excludeBound(0, -300, DEFAULT_MARGIN, 960, 540);
+  const south = frameFitMath.excludeBound(0, 300, DEFAULT_MARGIN, 960, 540);
+  assert.ok(
+    north > south,
+    `expected north (${north}) to need a HIGHER zoom to exclude than south (${south}) — a north node's label reaches toward center`,
+  );
+});
+
+test("margin as a plain number still applies uniformly on all four edges (backward compatible)", () => {
+  const nodes = { a: { x: 0, y: 0 }, b: { x: 1000, y: 0 } };
+  const uniform = fitCameraToFocus(nodes, ["a"], { margin: 20 });
+  const explicit = fitCameraToFocus(nodes, ["a"], { margin: { top: 20, right: 20, bottom: 20, left: 20 } });
+  assert.equal(uniform.zoom, explicit.zoom);
+  assert.equal(uniform.excludesNonFocus, explicit.excludesNonFocus);
 });
 
 test("zoom is clamped to the provided minZoom/maxZoom bounds", () => {

@@ -1,0 +1,351 @@
+{
+  "text": "Before work begins, ask three questions: Who is this for? What problem does it solve? What changes because it exists? The answers don't need to predict every implementation detail. They need to establish why the work deserves to exist. If nobody can answer them, stop. Don't build faster on a requirement nobody has questioned in years. Purpose isn't something an organization should discover after it's already paid for delivery.",
+  "durationMs": 26842,
+  "words": [
+    {
+      "text": "Before",
+      "startMs": 0,
+      "endMs": 383
+    },
+    {
+      "text": "work",
+      "startMs": 430,
+      "endMs": 604
+    },
+    {
+      "text": "begins,",
+      "startMs": 639,
+      "endMs": 1115
+    },
+    {
+      "text": "ask",
+      "startMs": 1149,
+      "endMs": 1486
+    },
+    {
+      "text": "three",
+      "startMs": 1544,
+      "endMs": 1765
+    },
+    {
+      "text": "questions:",
+      "startMs": 1800,
+      "endMs": 2450
+    },
+    {
+      "text": "Who",
+      "startMs": 2752,
+      "endMs": 2914
+    },
+    {
+      "text": "is",
+      "startMs": 3007,
+      "endMs": 3111
+    },
+    {
+      "text": "this",
+      "startMs": 3170,
+      "endMs": 3344
+    },
+    {
+      "text": "for?",
+      "startMs": 3471,
+      "endMs": 3785
+    },
+    {
+      "text": "What",
+      "startMs": 3820,
+      "endMs": 4017.0000000000005
+    },
+    {
+      "text": "problem",
+      "startMs": 4062.9999999999995,
+      "endMs": 4470
+    },
+    {
+      "text": "does",
+      "startMs": 4551,
+      "endMs": 4714
+    },
+    {
+      "text": "it",
+      "startMs": 4760,
+      "endMs": 4841
+    },
+    {
+      "text": "solve?",
+      "startMs": 4934,
+      "endMs": 5352
+    },
+    {
+      "text": "What",
+      "startMs": 5433,
+      "endMs": 5631
+    },
+    {
+      "text": "changes",
+      "startMs": 5689,
+      "endMs": 6107
+    },
+    {
+      "text": "because",
+      "startMs": 6211,
+      "endMs": 6560
+    },
+    {
+      "text": "it",
+      "startMs": 6594,
+      "endMs": 6664
+    },
+    {
+      "text": "exists?",
+      "startMs": 6722,
+      "endMs": 7500
+    },
+    {
+      "text": "The",
+      "startMs": 7767,
+      "endMs": 7883
+    },
+    {
+      "text": "answers",
+      "startMs": 7941,
+      "endMs": 8301
+    },
+    {
+      "text": "don't",
+      "startMs": 8336,
+      "endMs": 8499
+    },
+    {
+      "text": "need",
+      "startMs": 8522,
+      "endMs": 8684
+    },
+    {
+      "text": "to",
+      "startMs": 8707,
+      "endMs": 8766
+    },
+    {
+      "text": "predict",
+      "startMs": 8847,
+      "endMs": 9276
+    },
+    {
+      "text": "every",
+      "startMs": 9439,
+      "endMs": 9776
+    },
+    {
+      "text": "implementation",
+      "startMs": 9857,
+      "endMs": 10635
+    },
+    {
+      "text": "detail.",
+      "startMs": 10728,
+      "endMs": 11192
+    },
+    {
+      "text": "They",
+      "startMs": 11215,
+      "endMs": 11378
+    },
+    {
+      "text": "need",
+      "startMs": 11436,
+      "endMs": 11610
+    },
+    {
+      "text": "to",
+      "startMs": 11633,
+      "endMs": 11691
+    },
+    {
+      "text": "establish",
+      "startMs": 11773,
+      "endMs": 12237
+    },
+    {
+      "text": "why",
+      "startMs": 12318,
+      "endMs": 12562
+    },
+    {
+      "text": "the",
+      "startMs": 12643,
+      "endMs": 12713
+    },
+    {
+      "text": "work",
+      "startMs": 12759,
+      "endMs": 12945
+    },
+    {
+      "text": "deserves",
+      "startMs": 13003,
+      "endMs": 13433
+    },
+    {
+      "text": "to",
+      "startMs": 13479,
+      "endMs": 13548
+    },
+    {
+      "text": "exist.",
+      "startMs": 13641,
+      "endMs": 14280
+    },
+    {
+      "text": "If",
+      "startMs": 14628,
+      "endMs": 14802
+    },
+    {
+      "text": "nobody",
+      "startMs": 14884,
+      "endMs": 15232
+    },
+    {
+      "text": "can",
+      "startMs": 15290,
+      "endMs": 15418
+    },
+    {
+      "text": "answer",
+      "startMs": 15499,
+      "endMs": 15789
+    },
+    {
+      "text": "them,",
+      "startMs": 15836,
+      "endMs": 16079
+    },
+    {
+      "text": "stop.",
+      "startMs": 16242,
+      "endMs": 16753
+    },
+    {
+      "text": "Don't",
+      "startMs": 16985,
+      "endMs": 17275
+    },
+    {
+      "text": "build",
+      "startMs": 17403,
+      "endMs": 17670
+    },
+    {
+      "text": "faster",
+      "startMs": 17774,
+      "endMs": 18274
+    },
+    {
+      "text": "on",
+      "startMs": 18355,
+      "endMs": 18401
+    },
+    {
+      "text": "a",
+      "startMs": 18483,
+      "endMs": 18506
+    },
+    {
+      "text": "requirement",
+      "startMs": 18599,
+      "endMs": 19388
+    },
+    {
+      "text": "nobody",
+      "startMs": 19516,
+      "endMs": 19969
+    },
+    {
+      "text": "has",
+      "startMs": 20015,
+      "endMs": 20143
+    },
+    {
+      "text": "questioned",
+      "startMs": 20224,
+      "endMs": 20677
+    },
+    {
+      "text": "in",
+      "startMs": 20735,
+      "endMs": 20816
+    },
+    {
+      "text": "years.",
+      "startMs": 20944,
+      "endMs": 21374
+    },
+    {
+      "text": "Purpose",
+      "startMs": 21641,
+      "endMs": 22128
+    },
+    {
+      "text": "isn't",
+      "startMs": 22221,
+      "endMs": 22535
+    },
+    {
+      "text": "something",
+      "startMs": 22593,
+      "endMs": 22953
+    },
+    {
+      "text": "an",
+      "startMs": 22987,
+      "endMs": 23045
+    },
+    {
+      "text": "organization",
+      "startMs": 23103,
+      "endMs": 23754
+    },
+    {
+      "text": "should",
+      "startMs": 23812,
+      "endMs": 24009
+    },
+    {
+      "text": "discover",
+      "startMs": 24032,
+      "endMs": 24520
+    },
+    {
+      "text": "after",
+      "startMs": 24648,
+      "endMs": 24984
+    },
+    {
+      "text": "it's",
+      "startMs": 25031,
+      "endMs": 25182
+    },
+    {
+      "text": "already",
+      "startMs": 25228,
+      "endMs": 25588
+    },
+    {
+      "text": "paid",
+      "startMs": 25646,
+      "endMs": 25843
+    },
+    {
+      "text": "for",
+      "startMs": 25901,
+      "endMs": 26006
+    },
+    {
+      "text": "delivery.",
+      "startMs": 26087,
+      "endMs": 26842
+    }
+  ]
+}
