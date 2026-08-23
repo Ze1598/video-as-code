@@ -1,0 +1,311 @@
+{
+  "text": "Said first, that sentence changes what everything after it is for. The room already knows something has changed before the explanation even starts. Context still matters. People need to know why a decision exists, what it touches, what happens next. Niceness has a place. Thank people when the work deserves it. The mistake wasn't giving context. It was giving it first.",
+  "durationMs": 22616,
+  "words": [
+    {
+      "text": "Said",
+      "startMs": 0,
+      "endMs": 232
+    },
+    {
+      "text": "first,",
+      "startMs": 325,
+      "endMs": 731
+    },
+    {
+      "text": "that",
+      "startMs": 813,
+      "endMs": 1010
+    },
+    {
+      "text": "sentence",
+      "startMs": 1103,
+      "endMs": 1660
+    },
+    {
+      "text": "changes",
+      "startMs": 1707,
+      "endMs": 2287
+    },
+    {
+      "text": "what",
+      "startMs": 2392,
+      "endMs": 2589
+    },
+    {
+      "text": "everything",
+      "startMs": 2670,
+      "endMs": 3135
+    },
+    {
+      "text": "after",
+      "startMs": 3228,
+      "endMs": 3564
+    },
+    {
+      "text": "it",
+      "startMs": 3622,
+      "endMs": 3692
+    },
+    {
+      "text": "is",
+      "startMs": 3738,
+      "endMs": 3831
+    },
+    {
+      "text": "for.",
+      "startMs": 3924,
+      "endMs": 4365
+    },
+    {
+      "text": "The",
+      "startMs": 4598,
+      "endMs": 4702
+    },
+    {
+      "text": "room",
+      "startMs": 4760,
+      "endMs": 4934
+    },
+    {
+      "text": "already",
+      "startMs": 5016,
+      "endMs": 5387
+    },
+    {
+      "text": "knows",
+      "startMs": 5422,
+      "endMs": 5631
+    },
+    {
+      "text": "something",
+      "startMs": 5677,
+      "endMs": 6002
+    },
+    {
+      "text": "has",
+      "startMs": 6049,
+      "endMs": 6142
+    },
+    {
+      "text": "changed",
+      "startMs": 6200,
+      "endMs": 6513
+    },
+    {
+      "text": "before",
+      "startMs": 6548,
+      "endMs": 6803
+    },
+    {
+      "text": "the",
+      "startMs": 6850,
+      "endMs": 6931
+    },
+    {
+      "text": "explanation",
+      "startMs": 6978,
+      "endMs": 7593
+    },
+    {
+      "text": "even",
+      "startMs": 7651,
+      "endMs": 7883
+    },
+    {
+      "text": "starts.",
+      "startMs": 7941,
+      "endMs": 8568
+    },
+    {
+      "text": "Context",
+      "startMs": 8754,
+      "endMs": 9358
+    },
+    {
+      "text": "still",
+      "startMs": 9392,
+      "endMs": 9671
+    },
+    {
+      "text": "matters.",
+      "startMs": 9729,
+      "endMs": 10263
+    },
+    {
+      "text": "People",
+      "startMs": 10495,
+      "endMs": 10820
+    },
+    {
+      "text": "need",
+      "startMs": 10879,
+      "endMs": 11088
+    },
+    {
+      "text": "to",
+      "startMs": 11122,
+      "endMs": 11180
+    },
+    {
+      "text": "know",
+      "startMs": 11238,
+      "endMs": 11436
+    },
+    {
+      "text": "why",
+      "startMs": 11529,
+      "endMs": 11773
+    },
+    {
+      "text": "a",
+      "startMs": 11819,
+      "endMs": 11842
+    },
+    {
+      "text": "decision",
+      "startMs": 11889,
+      "endMs": 12295
+    },
+    {
+      "text": "exists,",
+      "startMs": 12341,
+      "endMs": 12910
+    },
+    {
+      "text": "what",
+      "startMs": 13003,
+      "endMs": 13166
+    },
+    {
+      "text": "it",
+      "startMs": 13212,
+      "endMs": 13293
+    },
+    {
+      "text": "touches,",
+      "startMs": 13328,
+      "endMs": 13746
+    },
+    {
+      "text": "what",
+      "startMs": 13781,
+      "endMs": 13944
+    },
+    {
+      "text": "happens",
+      "startMs": 14025,
+      "endMs": 14373
+    },
+    {
+      "text": "next.",
+      "startMs": 14478,
+      "endMs": 14954
+    },
+    {
+      "text": "Niceness",
+      "startMs": 15302,
+      "endMs": 15894
+    },
+    {
+      "text": "has",
+      "startMs": 15975,
+      "endMs": 16138.000000000002
+    },
+    {
+      "text": "a",
+      "startMs": 16196.000000000002,
+      "endMs": 16231.000000000002
+    },
+    {
+      "text": "place.",
+      "startMs": 16289.000000000002,
+      "endMs": 16823
+    },
+    {
+      "text": "Thank",
+      "startMs": 17171,
+      "endMs": 17461
+    },
+    {
+      "text": "people",
+      "startMs": 17519,
+      "endMs": 17786
+    },
+    {
+      "text": "when",
+      "startMs": 17821,
+      "endMs": 17972
+    },
+    {
+      "text": "the",
+      "startMs": 18007,
+      "endMs": 18077
+    },
+    {
+      "text": "work",
+      "startMs": 18112,
+      "endMs": 18297
+    },
+    {
+      "text": "deserves",
+      "startMs": 18355,
+      "endMs": 18727
+    },
+    {
+      "text": "it.",
+      "startMs": 18773,
+      "endMs": 18913
+    },
+    {
+      "text": "The",
+      "startMs": 18959,
+      "endMs": 19087
+    },
+    {
+      "text": "mistake",
+      "startMs": 19168,
+      "endMs": 19667
+    },
+    {
+      "text": "wasn't",
+      "startMs": 19702,
+      "endMs": 19969
+    },
+    {
+      "text": "giving",
+      "startMs": 20016,
+      "endMs": 20236
+    },
+    {
+      "text": "context.",
+      "startMs": 20317,
+      "endMs": 21061
+    },
+    {
+      "text": "It",
+      "startMs": 21107,
+      "endMs": 21235
+    },
+    {
+      "text": "was",
+      "startMs": 21281,
+      "endMs": 21397
+    },
+    {
+      "text": "giving",
+      "startMs": 21455,
+      "endMs": 21699
+    },
+    {
+      "text": "it",
+      "startMs": 21746,
+      "endMs": 21815
+    },
+    {
+      "text": "first.",
+      "startMs": 21908,
+      "endMs": 22616
+    }
+  ]
+}

@@ -1,0 +1,451 @@
+{
+  "text": "Each lead got better at defending a position that still left the department unable to meet both commitments. The manager chose the release. One lead won the engineer. The other left with a deadline, a staffing gap, and the job of explaining the delay. The first disagreement had settled who got that one engineer, but who could override the allocation, and who owned the consequences of changing priorities, was never decided. The department kept avoiding that trade-off. So the two leads kept fighting it out on the department's behalf.",
+  "durationMs": 32601,
+  "words": [
+    {
+      "text": "Each",
+      "startMs": 0,
+      "endMs": 313
+    },
+    {
+      "text": "lead",
+      "startMs": 546,
+      "endMs": 882
+    },
+    {
+      "text": "got",
+      "startMs": 987,
+      "endMs": 1207
+    },
+    {
+      "text": "better",
+      "startMs": 1289,
+      "endMs": 1672
+    },
+    {
+      "text": "at",
+      "startMs": 1800,
+      "endMs": 1974
+    },
+    {
+      "text": "defending",
+      "startMs": 2067,
+      "endMs": 2717
+    },
+    {
+      "text": "a",
+      "startMs": 2810,
+      "endMs": 2856
+    },
+    {
+      "text": "position",
+      "startMs": 2949,
+      "endMs": 3495
+    },
+    {
+      "text": "that",
+      "startMs": 3553,
+      "endMs": 3738
+    },
+    {
+      "text": "still",
+      "startMs": 3796,
+      "endMs": 4029
+    },
+    {
+      "text": "left",
+      "startMs": 4075,
+      "endMs": 4249
+    },
+    {
+      "text": "the",
+      "startMs": 4284,
+      "endMs": 4354
+    },
+    {
+      "text": "department",
+      "startMs": 4412,
+      "endMs": 4946
+    },
+    {
+      "text": "unable",
+      "startMs": 5074,
+      "endMs": 5538
+    },
+    {
+      "text": "to",
+      "startMs": 5584,
+      "endMs": 5654
+    },
+    {
+      "text": "meet",
+      "startMs": 5735,
+      "endMs": 5921
+    },
+    {
+      "text": "both",
+      "startMs": 6049,
+      "endMs": 6316
+    },
+    {
+      "text": "commitments.",
+      "startMs": 6362,
+      "endMs": 7047
+    },
+    {
+      "text": "The",
+      "startMs": 7314,
+      "endMs": 7442
+    },
+    {
+      "text": "manager",
+      "startMs": 7523,
+      "endMs": 7930
+    },
+    {
+      "text": "chose",
+      "startMs": 8010.999999999999,
+      "endMs": 8359
+    },
+    {
+      "text": "the",
+      "startMs": 8417,
+      "endMs": 8499
+    },
+    {
+      "text": "release.",
+      "startMs": 8580,
+      "endMs": 9056
+    },
+    {
+      "text": "One",
+      "startMs": 9195,
+      "endMs": 9451
+    },
+    {
+      "text": "lead",
+      "startMs": 9497,
+      "endMs": 9706
+    },
+    {
+      "text": "won",
+      "startMs": 9810,
+      "endMs": 9985
+    },
+    {
+      "text": "the",
+      "startMs": 10043,
+      "endMs": 10124
+    },
+    {
+      "text": "engineer.",
+      "startMs": 10182,
+      "endMs": 10728
+    },
+    {
+      "text": "The",
+      "startMs": 11029,
+      "endMs": 11157
+    },
+    {
+      "text": "other",
+      "startMs": 11262,
+      "endMs": 11575
+    },
+    {
+      "text": "left",
+      "startMs": 11680,
+      "endMs": 11889
+    },
+    {
+      "text": "with",
+      "startMs": 11923,
+      "endMs": 12028
+    },
+    {
+      "text": "a",
+      "startMs": 12074,
+      "endMs": 12098
+    },
+    {
+      "text": "deadline,",
+      "startMs": 12144,
+      "endMs": 12597
+    },
+    {
+      "text": "a",
+      "startMs": 12632,
+      "endMs": 12690
+    },
+    {
+      "text": "staffing",
+      "startMs": 12748,
+      "endMs": 13142
+    },
+    {
+      "text": "gap,",
+      "startMs": 13189,
+      "endMs": 13584
+    },
+    {
+      "text": "and",
+      "startMs": 13630,
+      "endMs": 13827
+    },
+    {
+      "text": "the",
+      "startMs": 13886,
+      "endMs": 13967
+    },
+    {
+      "text": "job",
+      "startMs": 14025,
+      "endMs": 14269
+    },
+    {
+      "text": "of",
+      "startMs": 14327,
+      "endMs": 14408
+    },
+    {
+      "text": "explaining",
+      "startMs": 14490,
+      "endMs": 15024
+    },
+    {
+      "text": "the",
+      "startMs": 15082,
+      "endMs": 15151
+    },
+    {
+      "text": "delay.",
+      "startMs": 15198,
+      "endMs": 15674
+    },
+    {
+      "text": "The",
+      "startMs": 16021.999999999998,
+      "endMs": 16149.999999999998
+    },
+    {
+      "text": "first",
+      "startMs": 16207.999999999998,
+      "endMs": 16417
+    },
+    {
+      "text": "disagreement",
+      "startMs": 16463,
+      "endMs": 17113
+    },
+    {
+      "text": "had",
+      "startMs": 17195,
+      "endMs": 17311
+    },
+    {
+      "text": "settled",
+      "startMs": 17369,
+      "endMs": 17717
+    },
+    {
+      "text": "who",
+      "startMs": 17752,
+      "endMs": 17868
+    },
+    {
+      "text": "got",
+      "startMs": 17949,
+      "endMs": 18112
+    },
+    {
+      "text": "that",
+      "startMs": 18147,
+      "endMs": 18286
+    },
+    {
+      "text": "one",
+      "startMs": 18379,
+      "endMs": 18530
+    },
+    {
+      "text": "engineer,",
+      "startMs": 18576,
+      "endMs": 19157
+    },
+    {
+      "text": "but",
+      "startMs": 19261,
+      "endMs": 19459
+    },
+    {
+      "text": "who",
+      "startMs": 19517,
+      "endMs": 19644
+    },
+    {
+      "text": "could",
+      "startMs": 19691,
+      "endMs": 19853
+    },
+    {
+      "text": "override",
+      "startMs": 19935,
+      "endMs": 20562
+    },
+    {
+      "text": "the",
+      "startMs": 20596,
+      "endMs": 20666
+    },
+    {
+      "text": "allocation,",
+      "startMs": 20724,
+      "endMs": 21432
+    },
+    {
+      "text": "and",
+      "startMs": 21490,
+      "endMs": 21665
+    },
+    {
+      "text": "who",
+      "startMs": 21723,
+      "endMs": 21874
+    },
+    {
+      "text": "owned",
+      "startMs": 21978,
+      "endMs": 22233
+    },
+    {
+      "text": "the",
+      "startMs": 22257,
+      "endMs": 22326
+    },
+    {
+      "text": "consequences",
+      "startMs": 22373,
+      "endMs": 23139
+    },
+    {
+      "text": "of",
+      "startMs": 23220,
+      "endMs": 23325
+    },
+    {
+      "text": "changing",
+      "startMs": 23418,
+      "endMs": 23847
+    },
+    {
+      "text": "priorities,",
+      "startMs": 23905,
+      "endMs": 24857
+    },
+    {
+      "text": "was",
+      "startMs": 25043,
+      "endMs": 25194
+    },
+    {
+      "text": "never",
+      "startMs": 25252,
+      "endMs": 25461
+    },
+    {
+      "text": "decided.",
+      "startMs": 25542,
+      "endMs": 26123
+    },
+    {
+      "text": "The",
+      "startMs": 26285,
+      "endMs": 26390
+    },
+    {
+      "text": "department",
+      "startMs": 26448,
+      "endMs": 26936
+    },
+    {
+      "text": "kept",
+      "startMs": 26994,
+      "endMs": 27295
+    },
+    {
+      "text": "avoiding",
+      "startMs": 27342,
+      "endMs": 27864
+    },
+    {
+      "text": "that",
+      "startMs": 27992,
+      "endMs": 28154
+    },
+    {
+      "text": "trade-off.",
+      "startMs": 28189,
+      "endMs": 28793
+    },
+    {
+      "text": "So",
+      "startMs": 28851,
+      "endMs": 29037
+    },
+    {
+      "text": "the",
+      "startMs": 29095,
+      "endMs": 29176
+    },
+    {
+      "text": "two",
+      "startMs": 29211,
+      "endMs": 29385
+    },
+    {
+      "text": "leads",
+      "startMs": 29466,
+      "endMs": 29687
+    },
+    {
+      "text": "kept",
+      "startMs": 29768,
+      "endMs": 30035
+    },
+    {
+      "text": "fighting",
+      "startMs": 30140,
+      "endMs": 30546
+    },
+    {
+      "text": "it",
+      "startMs": 30604,
+      "endMs": 30674
+    },
+    {
+      "text": "out",
+      "startMs": 30720,
+      "endMs": 30883
+    },
+    {
+      "text": "on",
+      "startMs": 30964,
+      "endMs": 31034
+    },
+    {
+      "text": "the",
+      "startMs": 31080,
+      "endMs": 31150
+    },
+    {
+      "text": "department's",
+      "startMs": 31208,
+      "endMs": 31800
+    },
+    {
+      "text": "behalf.",
+      "startMs": 31846,
+      "endMs": 32601
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "text": "Two delivery leads walked into the same meeting, each certain that one senior engineer was already theirs. By the end of the hour, one of them would win completely. The department would lose anyway.",
+  "durationMs": 13142,
+  "words": [
+    {
+      "text": "Two",
+      "startMs": 0,
+      "endMs": 244
+    },
+    {
+      "text": "delivery",
+      "startMs": 998,
+      "endMs": 1440
+    },
+    {
+      "text": "leads",
+      "startMs": 1498,
+      "endMs": 1695
+    },
+    {
+      "text": "walked",
+      "startMs": 1788,
+      "endMs": 2090
+    },
+    {
+      "text": "into",
+      "startMs": 2148,
+      "endMs": 2392
+    },
+    {
+      "text": "the",
+      "startMs": 2473,
+      "endMs": 2543
+    },
+    {
+      "text": "same",
+      "startMs": 2601,
+      "endMs": 2868
+    },
+    {
+      "text": "meeting,",
+      "startMs": 2902,
+      "endMs": 3390
+    },
+    {
+      "text": "each",
+      "startMs": 3483,
+      "endMs": 3692
+    },
+    {
+      "text": "certain",
+      "startMs": 3773,
+      "endMs": 4214
+    },
+    {
+      "text": "that",
+      "startMs": 4296,
+      "endMs": 4493
+    },
+    {
+      "text": "one",
+      "startMs": 4574,
+      "endMs": 4807
+    },
+    {
+      "text": "senior",
+      "startMs": 4853,
+      "endMs": 5259
+    },
+    {
+      "text": "engineer",
+      "startMs": 5306,
+      "endMs": 5712
+    },
+    {
+      "text": "was",
+      "startMs": 5805,
+      "endMs": 5956
+    },
+    {
+      "text": "already",
+      "startMs": 6049,
+      "endMs": 6478
+    },
+    {
+      "text": "theirs.",
+      "startMs": 6536,
+      "endMs": 7024
+    },
+    {
+      "text": "By",
+      "startMs": 7372,
+      "endMs": 7546
+    },
+    {
+      "text": "the",
+      "startMs": 7605,
+      "endMs": 7697
+    },
+    {
+      "text": "end",
+      "startMs": 7790,
+      "endMs": 7976
+    },
+    {
+      "text": "of",
+      "startMs": 8034.000000000001,
+      "endMs": 8103.999999999999
+    },
+    {
+      "text": "the",
+      "startMs": 8162.000000000001,
+      "endMs": 8243
+    },
+    {
+      "text": "hour,",
+      "startMs": 8324,
+      "endMs": 8789
+    },
+    {
+      "text": "one",
+      "startMs": 9021,
+      "endMs": 9207
+    },
+    {
+      "text": "of",
+      "startMs": 9230,
+      "endMs": 9300
+    },
+    {
+      "text": "them",
+      "startMs": 9346,
+      "endMs": 9474
+    },
+    {
+      "text": "would",
+      "startMs": 9532,
+      "endMs": 9694
+    },
+    {
+      "text": "win",
+      "startMs": 9752,
+      "endMs": 9973
+    },
+    {
+      "text": "completely.",
+      "startMs": 10054,
+      "endMs": 10855
+    },
+    {
+      "text": "The",
+      "startMs": 11041,
+      "endMs": 11157
+    },
+    {
+      "text": "department",
+      "startMs": 11215,
+      "endMs": 11796
+    },
+    {
+      "text": "would",
+      "startMs": 11842,
+      "endMs": 12005
+    },
+    {
+      "text": "lose",
+      "startMs": 12086,
+      "endMs": 12330
+    },
+    {
+      "text": "anyway.",
+      "startMs": 12376,
+      "endMs": 13142
+    }
+  ]
+}

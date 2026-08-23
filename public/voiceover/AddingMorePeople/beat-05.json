@@ -1,0 +1,286 @@
+{
+  "text": "Management had added capacity without ever checking how the existing capacity was being spent. The new engineers walked straight into the same meetings, the same repeated investigations, the same shifting priorities. More people also meant more handovers, more coordination, more of the senior engineers' time, the very people already stretched thinnest, now supporting everyone else too.",
+  "durationMs": 26007,
+  "words": [
+    {
+      "text": "Management",
+      "startMs": 0,
+      "endMs": 639
+    },
+    {
+      "text": "had",
+      "startMs": 766,
+      "endMs": 1033
+    },
+    {
+      "text": "added",
+      "startMs": 1126,
+      "endMs": 1486
+    },
+    {
+      "text": "capacity",
+      "startMs": 1579,
+      "endMs": 2403
+    },
+    {
+      "text": "without",
+      "startMs": 2508,
+      "endMs": 2856
+    },
+    {
+      "text": "ever",
+      "startMs": 2949,
+      "endMs": 3181
+    },
+    {
+      "text": "checking",
+      "startMs": 3239,
+      "endMs": 3599
+    },
+    {
+      "text": "how",
+      "startMs": 3704,
+      "endMs": 3889
+    },
+    {
+      "text": "the",
+      "startMs": 3947,
+      "endMs": 4029
+    },
+    {
+      "text": "existing",
+      "startMs": 4075,
+      "endMs": 4621
+    },
+    {
+      "text": "capacity",
+      "startMs": 4702,
+      "endMs": 5317
+    },
+    {
+      "text": "was",
+      "startMs": 5364,
+      "endMs": 5492
+    },
+    {
+      "text": "being",
+      "startMs": 5573,
+      "endMs": 5770
+    },
+    {
+      "text": "spent.",
+      "startMs": 5863,
+      "endMs": 6478
+    },
+    {
+      "text": "The",
+      "startMs": 6780,
+      "endMs": 6896
+    },
+    {
+      "text": "new",
+      "startMs": 6954,
+      "endMs": 7129
+    },
+    {
+      "text": "engineers",
+      "startMs": 7152,
+      "endMs": 7616
+    },
+    {
+      "text": "walked",
+      "startMs": 7721,
+      "endMs": 8069.000000000001
+    },
+    {
+      "text": "straight",
+      "startMs": 8197,
+      "endMs": 8684
+    },
+    {
+      "text": "into",
+      "startMs": 8766,
+      "endMs": 8963
+    },
+    {
+      "text": "the",
+      "startMs": 9044,
+      "endMs": 9125
+    },
+    {
+      "text": "same",
+      "startMs": 9183,
+      "endMs": 9451
+    },
+    {
+      "text": "meetings,",
+      "startMs": 9485,
+      "endMs": 9950
+    },
+    {
+      "text": "the",
+      "startMs": 9985,
+      "endMs": 10101
+    },
+    {
+      "text": "same",
+      "startMs": 10194,
+      "endMs": 10484
+    },
+    {
+      "text": "repeated",
+      "startMs": 10542,
+      "endMs": 10948
+    },
+    {
+      "text": "investigations,",
+      "startMs": 11006,
+      "endMs": 12074
+    },
+    {
+      "text": "the",
+      "startMs": 12307,
+      "endMs": 12423
+    },
+    {
+      "text": "same",
+      "startMs": 12469,
+      "endMs": 12701
+    },
+    {
+      "text": "shifting",
+      "startMs": 12748,
+      "endMs": 13166
+    },
+    {
+      "text": "priorities.",
+      "startMs": 13212,
+      "endMs": 14094
+    },
+    {
+      "text": "More",
+      "startMs": 14443,
+      "endMs": 14675
+    },
+    {
+      "text": "people",
+      "startMs": 14710,
+      "endMs": 15047
+    },
+    {
+      "text": "also",
+      "startMs": 15093,
+      "endMs": 15465
+    },
+    {
+      "text": "meant",
+      "startMs": 15546,
+      "endMs": 15732
+    },
+    {
+      "text": "more",
+      "startMs": 15790,
+      "endMs": 15964
+    },
+    {
+      "text": "handovers,",
+      "startMs": 16021.999999999998,
+      "endMs": 16707
+    },
+    {
+      "text": "more",
+      "startMs": 16835,
+      "endMs": 17125
+    },
+    {
+      "text": "coordination,",
+      "startMs": 17183,
+      "endMs": 18008
+    },
+    {
+      "text": "more",
+      "startMs": 18135,
+      "endMs": 18437
+    },
+    {
+      "text": "of",
+      "startMs": 18495,
+      "endMs": 18600
+    },
+    {
+      "text": "the",
+      "startMs": 18658,
+      "endMs": 18727
+    },
+    {
+      "text": "senior",
+      "startMs": 18809,
+      "endMs": 19203
+    },
+    {
+      "text": "engineers'",
+      "startMs": 19331,
+      "endMs": 19970
+    },
+    {
+      "text": "time,",
+      "startMs": 20004,
+      "endMs": 20364
+    },
+    {
+      "text": "the",
+      "startMs": 20550,
+      "endMs": 20655
+    },
+    {
+      "text": "very",
+      "startMs": 20747,
+      "endMs": 21049
+    },
+    {
+      "text": "people",
+      "startMs": 21131,
+      "endMs": 21537
+    },
+    {
+      "text": "already",
+      "startMs": 21583,
+      "endMs": 22059
+    },
+    {
+      "text": "stretched",
+      "startMs": 22141,
+      "endMs": 22640
+    },
+    {
+      "text": "thinnest,",
+      "startMs": 22768,
+      "endMs": 23476
+    },
+    {
+      "text": "now",
+      "startMs": 23638,
+      "endMs": 23836
+    },
+    {
+      "text": "supporting",
+      "startMs": 23917,
+      "endMs": 24393
+    },
+    {
+      "text": "everyone",
+      "startMs": 24498,
+      "endMs": 24997
+    },
+    {
+      "text": "else",
+      "startMs": 25055,
+      "endMs": 25345
+    },
+    {
+      "text": "too.",
+      "startMs": 25426,
+      "endMs": 26007
+    }
+  ]
+}

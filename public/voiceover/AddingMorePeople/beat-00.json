@@ -1,0 +1,156 @@
+{
+  "text": "Two more engineers joined a team that was already behind. The plan was simple: more hands, less backlog. A few months later, the backlog was bigger than when they started.",
+  "durationMs": 10310,
+  "words": [
+    {
+      "text": "Two",
+      "startMs": 0,
+      "endMs": 186
+    },
+    {
+      "text": "more",
+      "startMs": 244,
+      "endMs": 372
+    },
+    {
+      "text": "engineers",
+      "startMs": 406,
+      "endMs": 859
+    },
+    {
+      "text": "joined",
+      "startMs": 964,
+      "endMs": 1289
+    },
+    {
+      "text": "a",
+      "startMs": 1370,
+      "endMs": 2032
+    },
+    {
+      "text": "team",
+      "startMs": 2125,
+      "endMs": 2368
+    },
+    {
+      "text": "that",
+      "startMs": 2426,
+      "endMs": 2554
+    },
+    {
+      "text": "was",
+      "startMs": 2612,
+      "endMs": 2705
+    },
+    {
+      "text": "already",
+      "startMs": 2763,
+      "endMs": 3042
+    },
+    {
+      "text": "behind.",
+      "startMs": 3100,
+      "endMs": 3599
+    },
+    {
+      "text": "The",
+      "startMs": 3831,
+      "endMs": 3947
+    },
+    {
+      "text": "plan",
+      "startMs": 3994,
+      "endMs": 4214
+    },
+    {
+      "text": "was",
+      "startMs": 4261,
+      "endMs": 4354
+    },
+    {
+      "text": "simple:",
+      "startMs": 4400,
+      "endMs": 4830
+    },
+    {
+      "text": "more",
+      "startMs": 4969,
+      "endMs": 5190
+    },
+    {
+      "text": "hands,",
+      "startMs": 5236,
+      "endMs": 5677
+    },
+    {
+      "text": "less",
+      "startMs": 5759,
+      "endMs": 5979
+    },
+    {
+      "text": "backlog.",
+      "startMs": 6060,
+      "endMs": 6641
+    },
+    {
+      "text": "A",
+      "startMs": 6734,
+      "endMs": 6815
+    },
+    {
+      "text": "few",
+      "startMs": 6896,
+      "endMs": 7036
+    },
+    {
+      "text": "months",
+      "startMs": 7094,
+      "endMs": 7291
+    },
+    {
+      "text": "later,",
+      "startMs": 7326,
+      "endMs": 7546
+    },
+    {
+      "text": "the",
+      "startMs": 7570,
+      "endMs": 7639
+    },
+    {
+      "text": "backlog",
+      "startMs": 7686,
+      "endMs": 8092.000000000001
+    },
+    {
+      "text": "was",
+      "startMs": 8173,
+      "endMs": 8290
+    },
+    {
+      "text": "bigger",
+      "startMs": 8382,
+      "endMs": 8696
+    },
+    {
+      "text": "than",
+      "startMs": 8789,
+      "endMs": 9265
+    },
+    {
+      "text": "when",
+      "startMs": 9323,
+      "endMs": 9451
+    },
+    {
+      "text": "they",
+      "startMs": 9485,
+      "endMs": 9590
+    },
+    {
+      "text": "started.",
+      "startMs": 9625,
+      "endMs": 10310
+    }
+  ]
+}

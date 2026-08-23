@@ -1,0 +1,126 @@
+{
+  "text": "Then the second lead showed up with something just as real: a message from management, promising that same engineer to support an urgent release.",
+  "durationMs": 10310,
+  "words": [
+    {
+      "text": "Then",
+      "startMs": 0,
+      "endMs": 290
+    },
+    {
+      "text": "the",
+      "startMs": 418,
+      "endMs": 546
+    },
+    {
+      "text": "second",
+      "startMs": 639,
+      "endMs": 1161
+    },
+    {
+      "text": "lead",
+      "startMs": 1823,
+      "endMs": 2171
+    },
+    {
+      "text": "showed",
+      "startMs": 2438,
+      "endMs": 2879
+    },
+    {
+      "text": "up",
+      "startMs": 2937,
+      "endMs": 3088
+    },
+    {
+      "text": "with",
+      "startMs": 3216,
+      "endMs": 3425
+    },
+    {
+      "text": "something",
+      "startMs": 3518,
+      "endMs": 3866
+    },
+    {
+      "text": "just",
+      "startMs": 3959,
+      "endMs": 4214
+    },
+    {
+      "text": "as",
+      "startMs": 4261,
+      "endMs": 4354
+    },
+    {
+      "text": "real:",
+      "startMs": 4435,
+      "endMs": 4760
+    },
+    {
+      "text": "a",
+      "startMs": 4992,
+      "endMs": 5050
+    },
+    {
+      "text": "message",
+      "startMs": 5132,
+      "endMs": 5445
+    },
+    {
+      "text": "from",
+      "startMs": 5480,
+      "endMs": 5608
+    },
+    {
+      "text": "management,",
+      "startMs": 5689,
+      "endMs": 6177
+    },
+    {
+      "text": "promising",
+      "startMs": 6223,
+      "endMs": 6711
+    },
+    {
+      "text": "that",
+      "startMs": 6757,
+      "endMs": 6896
+    },
+    {
+      "text": "same",
+      "startMs": 6989,
+      "endMs": 7396
+    },
+    {
+      "text": "engineer",
+      "startMs": 7744,
+      "endMs": 8255
+    },
+    {
+      "text": "to",
+      "startMs": 8336,
+      "endMs": 8417
+    },
+    {
+      "text": "support",
+      "startMs": 8499,
+      "endMs": 8893
+    },
+    {
+      "text": "an",
+      "startMs": 8975,
+      "endMs": 9044
+    },
+    {
+      "text": "urgent",
+      "startMs": 9172,
+      "endMs": 9555
+    },
+    {
+      "text": "release.",
+      "startMs": 9613,
+      "endMs": 10310
+    }
+  ]
+}

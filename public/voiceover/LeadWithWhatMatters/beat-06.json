@@ -1,0 +1,386 @@
+{
+  "text": "The problem wasn't that the team lacked information. Twice now, they'd gotten plenty of it. She lost the room before she ever reached the information that mattered, because people classify communication from its opening. A familiar opener about progress, about pressure, about stakeholder concerns sounds like another update with nothing meaningful behind it. And once a room makes that judgment, it stops listening for a decision. It waits for its name, its task, or the end.",
+  "durationMs": 29908,
+  "words": [
+    {
+      "text": "The",
+      "startMs": 0,
+      "endMs": 139
+    },
+    {
+      "text": "problem",
+      "startMs": 186,
+      "endMs": 488
+    },
+    {
+      "text": "wasn't",
+      "startMs": 534,
+      "endMs": 789
+    },
+    {
+      "text": "that",
+      "startMs": 1672,
+      "endMs": 1997
+    },
+    {
+      "text": "the",
+      "startMs": 2125,
+      "endMs": 2322
+    },
+    {
+      "text": "team",
+      "startMs": 2368,
+      "endMs": 2763
+    },
+    {
+      "text": "lacked",
+      "startMs": 2949,
+      "endMs": 3367
+    },
+    {
+      "text": "information.",
+      "startMs": 3599,
+      "endMs": 4377
+    },
+    {
+      "text": "Twice",
+      "startMs": 4435,
+      "endMs": 4865
+    },
+    {
+      "text": "now,",
+      "startMs": 4911,
+      "endMs": 5062
+    },
+    {
+      "text": "they'd",
+      "startMs": 5085,
+      "endMs": 5306
+    },
+    {
+      "text": "gotten",
+      "startMs": 5352,
+      "endMs": 5666
+    },
+    {
+      "text": "plenty",
+      "startMs": 5759,
+      "endMs": 6153
+    },
+    {
+      "text": "of",
+      "startMs": 6211,
+      "endMs": 6281
+    },
+    {
+      "text": "it.",
+      "startMs": 6362,
+      "endMs": 6583
+    },
+    {
+      "text": "She",
+      "startMs": 6850,
+      "endMs": 7024
+    },
+    {
+      "text": "lost",
+      "startMs": 7117,
+      "endMs": 7372
+    },
+    {
+      "text": "the",
+      "startMs": 7430,
+      "endMs": 7500
+    },
+    {
+      "text": "room",
+      "startMs": 7581,
+      "endMs": 7755
+    },
+    {
+      "text": "before",
+      "startMs": 7802,
+      "endMs": 8069.000000000001
+    },
+    {
+      "text": "she",
+      "startMs": 8092.000000000001,
+      "endMs": 8173
+    },
+    {
+      "text": "ever",
+      "startMs": 8255,
+      "endMs": 8417
+    },
+    {
+      "text": "reached",
+      "startMs": 8510,
+      "endMs": 8835
+    },
+    {
+      "text": "the",
+      "startMs": 8928,
+      "endMs": 9056
+    },
+    {
+      "text": "information",
+      "startMs": 9114,
+      "endMs": 9683
+    },
+    {
+      "text": "that",
+      "startMs": 9729,
+      "endMs": 9868
+    },
+    {
+      "text": "mattered,",
+      "startMs": 9950,
+      "endMs": 10461
+    },
+    {
+      "text": "because",
+      "startMs": 10646,
+      "endMs": 10925
+    },
+    {
+      "text": "people",
+      "startMs": 10960,
+      "endMs": 11296
+    },
+    {
+      "text": "classify",
+      "startMs": 11331,
+      "endMs": 11865
+    },
+    {
+      "text": "communication",
+      "startMs": 11958,
+      "endMs": 12620
+    },
+    {
+      "text": "from",
+      "startMs": 12666,
+      "endMs": 12806
+    },
+    {
+      "text": "its",
+      "startMs": 12852,
+      "endMs": 12980
+    },
+    {
+      "text": "opening.",
+      "startMs": 13038,
+      "endMs": 13514
+    },
+    {
+      "text": "A",
+      "startMs": 13700,
+      "endMs": 13781
+    },
+    {
+      "text": "familiar",
+      "startMs": 13874,
+      "endMs": 14246
+    },
+    {
+      "text": "opener",
+      "startMs": 14339,
+      "endMs": 14733
+    },
+    {
+      "text": "about",
+      "startMs": 14815,
+      "endMs": 15082
+    },
+    {
+      "text": "progress,",
+      "startMs": 15174,
+      "endMs": 15720
+    },
+    {
+      "text": "about",
+      "startMs": 15743,
+      "endMs": 15976
+    },
+    {
+      "text": "pressure,",
+      "startMs": 16068.000000000002,
+      "endMs": 16602
+    },
+    {
+      "text": "about",
+      "startMs": 16637,
+      "endMs": 16904
+    },
+    {
+      "text": "stakeholder",
+      "startMs": 16997,
+      "endMs": 17647
+    },
+    {
+      "text": "concerns",
+      "startMs": 17705,
+      "endMs": 18425
+    },
+    {
+      "text": "sounds",
+      "startMs": 18843,
+      "endMs": 19180
+    },
+    {
+      "text": "like",
+      "startMs": 19215,
+      "endMs": 19354
+    },
+    {
+      "text": "another",
+      "startMs": 19389,
+      "endMs": 19702
+    },
+    {
+      "text": "update",
+      "startMs": 19807,
+      "endMs": 20422
+    },
+    {
+      "text": "with",
+      "startMs": 20585,
+      "endMs": 20782
+    },
+    {
+      "text": "nothing",
+      "startMs": 20863,
+      "endMs": 21165
+    },
+    {
+      "text": "meaningful",
+      "startMs": 21246,
+      "endMs": 21699
+    },
+    {
+      "text": "behind",
+      "startMs": 21781,
+      "endMs": 22199
+    },
+    {
+      "text": "it.",
+      "startMs": 22280,
+      "endMs": 22500
+    },
+    {
+      "text": "And",
+      "startMs": 22733,
+      "endMs": 22872
+    },
+    {
+      "text": "once",
+      "startMs": 22953,
+      "endMs": 23151
+    },
+    {
+      "text": "a",
+      "startMs": 23185,
+      "endMs": 23209
+    },
+    {
+      "text": "room",
+      "startMs": 23290,
+      "endMs": 23499
+    },
+    {
+      "text": "makes",
+      "startMs": 23580,
+      "endMs": 23789
+    },
+    {
+      "text": "that",
+      "startMs": 23824,
+      "endMs": 23963
+    },
+    {
+      "text": "judgment,",
+      "startMs": 24068,
+      "endMs": 24532
+    },
+    {
+      "text": "it",
+      "startMs": 24579,
+      "endMs": 24695
+    },
+    {
+      "text": "stops",
+      "startMs": 24799,
+      "endMs": 25298
+    },
+    {
+      "text": "listening",
+      "startMs": 25426,
+      "endMs": 25821
+    },
+    {
+      "text": "for",
+      "startMs": 25902,
+      "endMs": 26041
+    },
+    {
+      "text": "a",
+      "startMs": 26088,
+      "endMs": 26111
+    },
+    {
+      "text": "decision.",
+      "startMs": 26169,
+      "endMs": 26657
+    },
+    {
+      "text": "It",
+      "startMs": 26924,
+      "endMs": 27086
+    },
+    {
+      "text": "waits",
+      "startMs": 27168,
+      "endMs": 27388
+    },
+    {
+      "text": "for",
+      "startMs": 27446,
+      "endMs": 27562
+    },
+    {
+      "text": "its",
+      "startMs": 27609,
+      "endMs": 27736
+    },
+    {
+      "text": "name,",
+      "startMs": 27818,
+      "endMs": 28050
+    },
+    {
+      "text": "its",
+      "startMs": 28073,
+      "endMs": 28189
+    },
+    {
+      "text": "task,",
+      "startMs": 28294,
+      "endMs": 28921
+    },
+    {
+      "text": "or",
+      "startMs": 29002,
+      "endMs": 29164
+    },
+    {
+      "text": "the",
+      "startMs": 29257,
+      "endMs": 29350
+    },
+    {
+      "text": "end.",
+      "startMs": 29432,
+      "endMs": 29908
+    }
+  ]
+}

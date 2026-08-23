@@ -136,6 +136,106 @@ test("regression — HowToBeUnderstood's hub-spoke layout: tight() on each node 
   }
 });
 
+test("regression — LeadWithWhatMatters's hub-spoke layout: tight() on each node excludes the other three at maxZoom 2.3", () => {
+  // Reuses HowToBeUnderstood's exact spoke spacing (manager/leadA/leadB/
+  // engineers at the same coordinates as lead/eng1/eng2/eng3), including
+  // the close 80-unit vertical gap between the two lower spokes that
+  // motivated the 2.3 maxZoom override there. Coordinates are duplicated
+  // literally rather than imported from src/LeadWithWhatMatters/layout.ts
+  // (same reason the HowToBeUnderstood case above does): that file
+  // transitively imports a .tsx module, which this plain `node --test`
+  // runner can't load.
+  const nodes = {
+    manager: { x: 960, y: 260 },
+    leadA: { x: 460, y: 820 },
+    leadB: { x: 1460, y: 820 },
+    engineers: { x: 960, y: 900 },
+  };
+  for (const focusId of Object.keys(nodes)) {
+    const result = fitCameraToFocus(nodes, [focusId], { maxZoom: 2.3 });
+    assert.ok(
+      result.excludesNonFocus,
+      `tight(${focusId}) leaked: ${result.leakingNodeIds.join(", ")}`,
+    );
+  }
+});
+
+test("regression — WinningTheArgument's three-node hub layout: every shot it actually uses excludes the third node", () => {
+  // Manager is the hub, First Lead and Second Lead fan out below, 1280
+  // world-units apart — wide enough that a pair(manager, oneLead) shot
+  // excludes the OTHER lead at a real zoom margin, not a razor-thin one.
+  const nodes = {
+    manager: { x: 960, y: 220 },
+    firstLead: { x: 320, y: 860 },
+    secondLead: { x: 1600, y: 860 },
+  };
+  const shots: string[][] = [
+    ["manager"],
+    ["firstLead"],
+    ["secondLead"],
+    ["manager", "firstLead"],
+    ["manager", "secondLead"],
+  ];
+  for (const focusIds of shots) {
+    const result = fitCameraToFocus(nodes, focusIds);
+    assert.ok(
+      result.excludesNonFocus,
+      `${JSON.stringify(focusIds)} leaked: ${result.leakingNodeIds.join(", ")}`,
+    );
+  }
+});
+
+test("regression — AddingMorePeople's two-cluster layout: every shot it actually uses excludes the other three nodes with real label-width margin", () => {
+  // Management stands alone at y=150, far above the row at y=700 holding
+  // the two clusters that actually pair up (seniorEngineers/newEngineers;
+  // deliveryLead/stakeholders, the connector that forms in Beat 7).
+  // Stakeholders sits BELOW the row at y=1050, not in line with it — a
+  // same-row placement made Stakeholders, New Engineers, and Senior
+  // Engineers collinear, so the real Stakeholders -> Senior Engineers
+  // connector drew straight through the New Engineers node, misreading as
+  // one continuous chain (found by rendering Beat 5's wide shot — a
+  // connector-legibility problem the camera-exclusion check can't catch,
+  // since every node was still correctly excluded from every shot; it's
+  // about what a shown connector visually implies, not what's in frame).
+  // Every node here also carries a two-word label, and the two same-row
+  // nodes in each cluster sit at the SAME world y — so the binding
+  // exclusion constraint for THOSE shots is horizontal label WIDTH, not
+  // the vertical label-height case DEFAULT_MARGIN's asymmetric bottom
+  // already covers. The generic default (55px left/right, sized for the
+  // circle radius alone) reported this layout's shots as leak-free while a
+  // real still render of tight(newEngineers) at Beat 2 showed "Senior
+  // Engineers"'s label visibly bleeding into frame — the generic check
+  // doesn't model label text width at all. This video overrides margin to
+  // 110px left/right and raises maxZoom to 2.6 (from the hub-spoke
+  // convention's 2.3, since a wider margin makes exclusion HARDER at a
+  // given zoom, not easier) — verified clean here at exactly the values
+  // src/AddingMorePeople/layout.ts actually uses.
+  const nodes = {
+    management: { x: 960, y: 150 },
+    seniorEngineers: { x: 210, y: 700 },
+    newEngineers: { x: 710, y: 700 },
+    stakeholders: { x: 1210, y: 1050 },
+    deliveryLead: { x: 1710, y: 700 },
+  };
+  const margin = { top: 55, right: 110, bottom: 130, left: 110 };
+  const shots: string[][] = [
+    ["management"],
+    ["seniorEngineers"],
+    ["newEngineers"],
+    ["stakeholders"],
+    ["deliveryLead"],
+    ["seniorEngineers", "newEngineers"],
+    ["deliveryLead", "stakeholders"],
+  ];
+  for (const focusIds of shots) {
+    const result = fitCameraToFocus(nodes, focusIds, { maxZoom: 2.6, margin });
+    assert.ok(
+      result.excludesNonFocus,
+      `${JSON.stringify(focusIds)} leaked: ${result.leakingNodeIds.join(", ")}`,
+    );
+  }
+});
+
 test("genuinely infeasible layout: a node coincident with the focus reports the honest failure, not a thrown error", () => {
   const nodes = { focus: { x: 500, y: 500 }, tooClose: { x: 500, y: 500 } };
   const result = fitCameraToFocus(nodes, ["focus"]);

@@ -1,0 +1,86 @@
+{
+  "text": "Think about the last argument you won at work. What was still broken the next morning?",
+  "durationMs": 4226,
+  "words": [
+    {
+      "text": "Think",
+      "startMs": 0,
+      "endMs": 255
+    },
+    {
+      "text": "about",
+      "startMs": 313,
+      "endMs": 534
+    },
+    {
+      "text": "the",
+      "startMs": 569,
+      "endMs": 639
+    },
+    {
+      "text": "last",
+      "startMs": 685,
+      "endMs": 882
+    },
+    {
+      "text": "argument",
+      "startMs": 917,
+      "endMs": 1312
+    },
+    {
+      "text": "you",
+      "startMs": 1393,
+      "endMs": 1486
+    },
+    {
+      "text": "won",
+      "startMs": 1544,
+      "endMs": 1660
+    },
+    {
+      "text": "at",
+      "startMs": 1707,
+      "endMs": 1776
+    },
+    {
+      "text": "work.",
+      "startMs": 1858,
+      "endMs": 2101
+    },
+    {
+      "text": "What",
+      "startMs": 2125,
+      "endMs": 2299
+    },
+    {
+      "text": "was",
+      "startMs": 2345,
+      "endMs": 2450
+    },
+    {
+      "text": "still",
+      "startMs": 2485,
+      "endMs": 2717
+    },
+    {
+      "text": "broken",
+      "startMs": 2775,
+      "endMs": 3135
+    },
+    {
+      "text": "the",
+      "startMs": 3170,
+      "endMs": 3239
+    },
+    {
+      "text": "next",
+      "startMs": 3274,
+      "endMs": 3495
+    },
+    {
+      "text": "morning?",
+      "startMs": 3576,
+      "endMs": 4226
+    }
+  ]
+}

@@ -1,0 +1,236 @@
+{
+  "text": "The delivery lead audited where the team's time actually went. The status meetings that produced nothing disappeared. A shared troubleshooting record meant engineers stopped repeating each other's investigations. Stakeholders had to prioritize instead of declaring everything urgent. Only then could anyone see the real capacity gap.",
+  "durationMs": 20945,
+  "words": [
+    {
+      "text": "The",
+      "startMs": 0,
+      "endMs": 151
+    },
+    {
+      "text": "delivery",
+      "startMs": 244,
+      "endMs": 743
+    },
+    {
+      "text": "lead",
+      "startMs": 789,
+      "endMs": 975
+    },
+    {
+      "text": "audited",
+      "startMs": 1161,
+      "endMs": 1765
+    },
+    {
+      "text": "where",
+      "startMs": 1858,
+      "endMs": 2218
+    },
+    {
+      "text": "the",
+      "startMs": 2403,
+      "endMs": 2531
+    },
+    {
+      "text": "team's",
+      "startMs": 2577,
+      "endMs": 2891
+    },
+    {
+      "text": "time",
+      "startMs": 2995,
+      "endMs": 3425
+    },
+    {
+      "text": "actually",
+      "startMs": 3529,
+      "endMs": 4040
+    },
+    {
+      "text": "went.",
+      "startMs": 4098,
+      "endMs": 4493
+    },
+    {
+      "text": "The",
+      "startMs": 4656,
+      "endMs": 4760
+    },
+    {
+      "text": "status",
+      "startMs": 4818,
+      "endMs": 5236
+    },
+    {
+      "text": "meetings",
+      "startMs": 5294,
+      "endMs": 5584
+    },
+    {
+      "text": "that",
+      "startMs": 5619,
+      "endMs": 5747
+    },
+    {
+      "text": "produced",
+      "startMs": 5782,
+      "endMs": 6165
+    },
+    {
+      "text": "nothing",
+      "startMs": 6223,
+      "endMs": 6583
+    },
+    {
+      "text": "disappeared.",
+      "startMs": 6769,
+      "endMs": 7477
+    },
+    {
+      "text": "A",
+      "startMs": 7779,
+      "endMs": 7872
+    },
+    {
+      "text": "shared",
+      "startMs": 7976,
+      "endMs": 8359
+    },
+    {
+      "text": "troubleshooting",
+      "startMs": 8382,
+      "endMs": 9021
+    },
+    {
+      "text": "record",
+      "startMs": 9079,
+      "endMs": 9520
+    },
+    {
+      "text": "meant",
+      "startMs": 9648,
+      "endMs": 9950
+    },
+    {
+      "text": "engineers",
+      "startMs": 10136,
+      "endMs": 10716
+    },
+    {
+      "text": "stopped",
+      "startMs": 10797,
+      "endMs": 11250
+    },
+    {
+      "text": "repeating",
+      "startMs": 11331,
+      "endMs": 11749
+    },
+    {
+      "text": "each",
+      "startMs": 11796,
+      "endMs": 11947
+    },
+    {
+      "text": "other's",
+      "startMs": 11993,
+      "endMs": 12237
+    },
+    {
+      "text": "investigations.",
+      "startMs": 12272,
+      "endMs": 13328
+    },
+    {
+      "text": "Stakeholders",
+      "startMs": 13804,
+      "endMs": 14652
+    },
+    {
+      "text": "had",
+      "startMs": 14745,
+      "endMs": 14954
+    },
+    {
+      "text": "to",
+      "startMs": 15000,
+      "endMs": 15070
+    },
+    {
+      "text": "prioritize",
+      "startMs": 15151,
+      "endMs": 16056.999999999998
+    },
+    {
+      "text": "instead",
+      "startMs": 16103.000000000002,
+      "endMs": 16486
+    },
+    {
+      "text": "of",
+      "startMs": 16521,
+      "endMs": 16579
+    },
+    {
+      "text": "declaring",
+      "startMs": 16637,
+      "endMs": 16962
+    },
+    {
+      "text": "everything",
+      "startMs": 17055,
+      "endMs": 17473
+    },
+    {
+      "text": "urgent.",
+      "startMs": 17636,
+      "endMs": 18123
+    },
+    {
+      "text": "Only",
+      "startMs": 18309,
+      "endMs": 18576
+    },
+    {
+      "text": "then",
+      "startMs": 18623,
+      "endMs": 18762
+    },
+    {
+      "text": "could",
+      "startMs": 18820,
+      "endMs": 18971
+    },
+    {
+      "text": "anyone",
+      "startMs": 19006,
+      "endMs": 19284
+    },
+    {
+      "text": "see",
+      "startMs": 19319,
+      "endMs": 19482
+    },
+    {
+      "text": "the",
+      "startMs": 19517,
+      "endMs": 19586
+    },
+    {
+      "text": "real",
+      "startMs": 19644,
+      "endMs": 19818
+    },
+    {
+      "text": "capacity",
+      "startMs": 19877,
+      "endMs": 20399
+    },
+    {
+      "text": "gap.",
+      "startMs": 20457,
+      "endMs": 20945
+    }
+  ]
+}

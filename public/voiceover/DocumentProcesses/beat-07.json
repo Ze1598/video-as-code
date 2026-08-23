@@ -1,0 +1,396 @@
+{
+  "text": "The team had a process. It just did not have documentation. It had one person's memory, and a collection of second-hand explanations. A process that passes through word of mouth changes every time someone repeats it. A step gets dropped. A shortcut gets added. Someone follows instructions that were true six months ago. By the time a request reaches the person who has to act on it, nobody can tell whether it was ignored, or just received wrong.",
+  "durationMs": 24242,
+  "words": [
+    {
+      "text": "The",
+      "startMs": 0,
+      "endMs": 139
+    },
+    {
+      "text": "team",
+      "startMs": 197,
+      "endMs": 395
+    },
+    {
+      "text": "had",
+      "startMs": 453,
+      "endMs": 557
+    },
+    {
+      "text": "a",
+      "startMs": 592,
+      "endMs": 615
+    },
+    {
+      "text": "process.",
+      "startMs": 662,
+      "endMs": 1184
+    },
+    {
+      "text": "It",
+      "startMs": 1231,
+      "endMs": 1324
+    },
+    {
+      "text": "just",
+      "startMs": 1370,
+      "endMs": 1544
+    },
+    {
+      "text": "did",
+      "startMs": 1579,
+      "endMs": 1695
+    },
+    {
+      "text": "not",
+      "startMs": 1730,
+      "endMs": 1846
+    },
+    {
+      "text": "have",
+      "startMs": 1892,
+      "endMs": 1997
+    },
+    {
+      "text": "documentation.",
+      "startMs": 2020,
+      "endMs": 2798
+    },
+    {
+      "text": "It",
+      "startMs": 2833,
+      "endMs": 2902
+    },
+    {
+      "text": "had",
+      "startMs": 2961,
+      "endMs": 3088
+    },
+    {
+      "text": "one",
+      "startMs": 3193,
+      "endMs": 3379
+    },
+    {
+      "text": "person's",
+      "startMs": 3425,
+      "endMs": 3808
+    },
+    {
+      "text": "memory,",
+      "startMs": 3889,
+      "endMs": 4354
+    },
+    {
+      "text": "and",
+      "startMs": 4458,
+      "endMs": 4586
+    },
+    {
+      "text": "a",
+      "startMs": 4644,
+      "endMs": 4667
+    },
+    {
+      "text": "collection",
+      "startMs": 4714,
+      "endMs": 5132
+    },
+    {
+      "text": "of",
+      "startMs": 5166,
+      "endMs": 5224
+    },
+    {
+      "text": "second-hand",
+      "startMs": 5317,
+      "endMs": 5793
+    },
+    {
+      "text": "explanations.",
+      "startMs": 5875,
+      "endMs": 6571
+    },
+    {
+      "text": "A",
+      "startMs": 6606,
+      "endMs": 6653
+    },
+    {
+      "text": "process",
+      "startMs": 6757,
+      "endMs": 7233
+    },
+    {
+      "text": "that",
+      "startMs": 7268,
+      "endMs": 7512
+    },
+    {
+      "text": "passes",
+      "startMs": 8069.000000000001,
+      "endMs": 8452
+    },
+    {
+      "text": "through",
+      "startMs": 8533,
+      "endMs": 8789
+    },
+    {
+      "text": "word",
+      "startMs": 8882,
+      "endMs": 9091
+    },
+    {
+      "text": "of",
+      "startMs": 9125,
+      "endMs": 9195
+    },
+    {
+      "text": "mouth",
+      "startMs": 9288,
+      "endMs": 9532
+    },
+    {
+      "text": "changes",
+      "startMs": 9659,
+      "endMs": 10217
+    },
+    {
+      "text": "every",
+      "startMs": 10356,
+      "endMs": 10588
+    },
+    {
+      "text": "time",
+      "startMs": 10635,
+      "endMs": 10844
+    },
+    {
+      "text": "someone",
+      "startMs": 10879,
+      "endMs": 11157
+    },
+    {
+      "text": "repeats",
+      "startMs": 11192,
+      "endMs": 11529
+    },
+    {
+      "text": "it.",
+      "startMs": 11564,
+      "endMs": 11680
+    },
+    {
+      "text": "A",
+      "startMs": 11703,
+      "endMs": 11738
+    },
+    {
+      "text": "step",
+      "startMs": 11831,
+      "endMs": 12074
+    },
+    {
+      "text": "gets",
+      "startMs": 12156,
+      "endMs": 12342
+    },
+    {
+      "text": "dropped.",
+      "startMs": 12388,
+      "endMs": 12713
+    },
+    {
+      "text": "A",
+      "startMs": 12737,
+      "endMs": 12783
+    },
+    {
+      "text": "shortcut",
+      "startMs": 12876,
+      "endMs": 13329
+    },
+    {
+      "text": "gets",
+      "startMs": 13410,
+      "endMs": 13631
+    },
+    {
+      "text": "added.",
+      "startMs": 13758,
+      "endMs": 14188
+    },
+    {
+      "text": "Someone",
+      "startMs": 14374,
+      "endMs": 14722
+    },
+    {
+      "text": "follows",
+      "startMs": 14757,
+      "endMs": 15012
+    },
+    {
+      "text": "instructions",
+      "startMs": 15070,
+      "endMs": 15627
+    },
+    {
+      "text": "that",
+      "startMs": 15662,
+      "endMs": 15790
+    },
+    {
+      "text": "were",
+      "startMs": 15836,
+      "endMs": 15976
+    },
+    {
+      "text": "true",
+      "startMs": 16021.999999999998,
+      "endMs": 16312.000000000002
+    },
+    {
+      "text": "six",
+      "startMs": 16370.000000000002,
+      "endMs": 16638
+    },
+    {
+      "text": "months",
+      "startMs": 16742,
+      "endMs": 16963
+    },
+    {
+      "text": "ago.",
+      "startMs": 16997,
+      "endMs": 17288
+    },
+    {
+      "text": "By",
+      "startMs": 17590,
+      "endMs": 17729
+    },
+    {
+      "text": "the",
+      "startMs": 17775,
+      "endMs": 17845
+    },
+    {
+      "text": "time",
+      "startMs": 17891,
+      "endMs": 18077
+    },
+    {
+      "text": "a",
+      "startMs": 18112,
+      "endMs": 18147
+    },
+    {
+      "text": "request",
+      "startMs": 18228,
+      "endMs": 18588
+    },
+    {
+      "text": "reaches",
+      "startMs": 18669,
+      "endMs": 18971
+    },
+    {
+      "text": "the",
+      "startMs": 19006,
+      "endMs": 19076
+    },
+    {
+      "text": "person",
+      "startMs": 19122,
+      "endMs": 19424
+    },
+    {
+      "text": "who",
+      "startMs": 19459,
+      "endMs": 19552
+    },
+    {
+      "text": "has",
+      "startMs": 19586,
+      "endMs": 19703
+    },
+    {
+      "text": "to",
+      "startMs": 19761,
+      "endMs": 19819
+    },
+    {
+      "text": "act",
+      "startMs": 19900,
+      "endMs": 20121
+    },
+    {
+      "text": "on",
+      "startMs": 20179,
+      "endMs": 20260
+    },
+    {
+      "text": "it,",
+      "startMs": 20306,
+      "endMs": 20457
+    },
+    {
+      "text": "nobody",
+      "startMs": 20585,
+      "endMs": 20968
+    },
+    {
+      "text": "can",
+      "startMs": 21003,
+      "endMs": 21131
+    },
+    {
+      "text": "tell",
+      "startMs": 21189,
+      "endMs": 21409
+    },
+    {
+      "text": "whether",
+      "startMs": 21490,
+      "endMs": 21758
+    },
+    {
+      "text": "it",
+      "startMs": 21839,
+      "endMs": 21932
+    },
+    {
+      "text": "was",
+      "startMs": 21978,
+      "endMs": 22106
+    },
+    {
+      "text": "ignored,",
+      "startMs": 22164,
+      "endMs": 22756
+    },
+    {
+      "text": "or",
+      "startMs": 22802,
+      "endMs": 22965
+    },
+    {
+      "text": "just",
+      "startMs": 23011,
+      "endMs": 23232
+    },
+    {
+      "text": "received",
+      "startMs": 23290,
+      "endMs": 23662
+    },
+    {
+      "text": "wrong.",
+      "startMs": 23720,
+      "endMs": 24242
+    }
+  ]
+}

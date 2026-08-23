@@ -1,0 +1,61 @@
+{
+  "text": "You can't nag someone out of behavior your environment keeps rewarding.",
+  "durationMs": 3994,
+  "words": [
+    {
+      "text": "You",
+      "startMs": 0,
+      "endMs": 151
+    },
+    {
+      "text": "can't",
+      "startMs": 197,
+      "endMs": 406
+    },
+    {
+      "text": "nag",
+      "startMs": 488,
+      "endMs": 720
+    },
+    {
+      "text": "someone",
+      "startMs": 778,
+      "endMs": 1115
+    },
+    {
+      "text": "out",
+      "startMs": 1149,
+      "endMs": 1300
+    },
+    {
+      "text": "of",
+      "startMs": 1382,
+      "endMs": 1463
+    },
+    {
+      "text": "behavior",
+      "startMs": 1544,
+      "endMs": 2090
+    },
+    {
+      "text": "your",
+      "startMs": 2218,
+      "endMs": 2345
+    },
+    {
+      "text": "environment",
+      "startMs": 2403,
+      "endMs": 2891
+    },
+    {
+      "text": "keeps",
+      "startMs": 2937,
+      "endMs": 3170
+    },
+    {
+      "text": "rewarding.",
+      "startMs": 3216,
+      "endMs": 3994
+    }
+  ]
+}

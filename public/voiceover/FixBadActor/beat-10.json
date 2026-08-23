@@ -1,0 +1,111 @@
+{
+  "text": "But passing feedback along without changing the system is weak leadership. The manager was asking for teamwork while rewarding individual competition.",
+  "durationMs": 9242,
+  "words": [
+    {
+      "text": "But",
+      "startMs": 0,
+      "endMs": 174
+    },
+    {
+      "text": "passing",
+      "startMs": 267,
+      "endMs": 639
+    },
+    {
+      "text": "feedback",
+      "startMs": 720,
+      "endMs": 1265
+    },
+    {
+      "text": "along",
+      "startMs": 1428,
+      "endMs": 1788
+    },
+    {
+      "text": "without",
+      "startMs": 1834,
+      "endMs": 2101
+    },
+    {
+      "text": "changing",
+      "startMs": 2136,
+      "endMs": 2485
+    },
+    {
+      "text": "the",
+      "startMs": 2531,
+      "endMs": 2601
+    },
+    {
+      "text": "system",
+      "startMs": 2659,
+      "endMs": 3042
+    },
+    {
+      "text": "is",
+      "startMs": 3146,
+      "endMs": 3320
+    },
+    {
+      "text": "weak",
+      "startMs": 3425,
+      "endMs": 3634
+    },
+    {
+      "text": "leadership.",
+      "startMs": 3762,
+      "endMs": 4342
+    },
+    {
+      "text": "The",
+      "startMs": 4609,
+      "endMs": 4725
+    },
+    {
+      "text": "manager",
+      "startMs": 4783,
+      "endMs": 5155
+    },
+    {
+      "text": "was",
+      "startMs": 5213,
+      "endMs": 5341
+    },
+    {
+      "text": "asking",
+      "startMs": 5445,
+      "endMs": 5898
+    },
+    {
+      "text": "for",
+      "startMs": 5944,
+      "endMs": 6072
+    },
+    {
+      "text": "teamwork",
+      "startMs": 6153,
+      "endMs": 6583
+    },
+    {
+      "text": "while",
+      "startMs": 6676,
+      "endMs": 6931
+    },
+    {
+      "text": "rewarding",
+      "startMs": 6978,
+      "endMs": 7442
+    },
+    {
+      "text": "individual",
+      "startMs": 7546,
+      "endMs": 8162.000000000001
+    },
+    {
+      "text": "competition.",
+      "startMs": 8243,
+      "endMs": 9242
+    }
+  ]
+}

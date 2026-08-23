@@ -1,0 +1,321 @@
+{
+  "text": "Sending a reminder does not fix that. Neither does asking her to explain the process again. The same gap shows up anywhere a task has to produce the same result every time: a sales team that needs to cover the same terms, developers who need to format code the same way, any approval path an employee has to follow to get something done.",
+  "durationMs": 20620,
+  "words": [
+    {
+      "text": "Sending",
+      "startMs": 0,
+      "endMs": 383
+    },
+    {
+      "text": "a",
+      "startMs": 441,
+      "endMs": 476
+    },
+    {
+      "text": "reminder",
+      "startMs": 534,
+      "endMs": 1010
+    },
+    {
+      "text": "does",
+      "startMs": 1115,
+      "endMs": 1300
+    },
+    {
+      "text": "not",
+      "startMs": 1358,
+      "endMs": 1498
+    },
+    {
+      "text": "fix",
+      "startMs": 1556,
+      "endMs": 1800
+    },
+    {
+      "text": "that.",
+      "startMs": 1858,
+      "endMs": 2183
+    },
+    {
+      "text": "Neither",
+      "startMs": 2485,
+      "endMs": 2775
+    },
+    {
+      "text": "does",
+      "startMs": 2833,
+      "endMs": 3053
+    },
+    {
+      "text": "asking",
+      "startMs": 3181,
+      "endMs": 3622
+    },
+    {
+      "text": "her",
+      "startMs": 3704,
+      "endMs": 3820
+    },
+    {
+      "text": "to",
+      "startMs": 3913,
+      "endMs": 3982
+    },
+    {
+      "text": "explain",
+      "startMs": 4040,
+      "endMs": 4481
+    },
+    {
+      "text": "the",
+      "startMs": 4540,
+      "endMs": 4609
+    },
+    {
+      "text": "process",
+      "startMs": 4656,
+      "endMs": 5155
+    },
+    {
+      "text": "again.",
+      "startMs": 5190,
+      "endMs": 5573
+    },
+    {
+      "text": "The",
+      "startMs": 5921,
+      "endMs": 6037
+    },
+    {
+      "text": "same",
+      "startMs": 6095,
+      "endMs": 6327
+    },
+    {
+      "text": "gap",
+      "startMs": 6362,
+      "endMs": 6583
+    },
+    {
+      "text": "shows",
+      "startMs": 6629,
+      "endMs": 6850
+    },
+    {
+      "text": "up",
+      "startMs": 6896,
+      "endMs": 7012
+    },
+    {
+      "text": "anywhere",
+      "startMs": 7094,
+      "endMs": 7581
+    },
+    {
+      "text": "a",
+      "startMs": 7628,
+      "endMs": 7686
+    },
+    {
+      "text": "task",
+      "startMs": 7779,
+      "endMs": 8173
+    },
+    {
+      "text": "has",
+      "startMs": 8266,
+      "endMs": 8429
+    },
+    {
+      "text": "to",
+      "startMs": 8487,
+      "endMs": 8557
+    },
+    {
+      "text": "produce",
+      "startMs": 8649,
+      "endMs": 9056
+    },
+    {
+      "text": "the",
+      "startMs": 9091,
+      "endMs": 9160
+    },
+    {
+      "text": "same",
+      "startMs": 9218,
+      "endMs": 9451
+    },
+    {
+      "text": "result",
+      "startMs": 9509,
+      "endMs": 9950
+    },
+    {
+      "text": "every",
+      "startMs": 10112,
+      "endMs": 10414
+    },
+    {
+      "text": "time:",
+      "startMs": 10472,
+      "endMs": 10762
+    },
+    {
+      "text": "a",
+      "startMs": 11111,
+      "endMs": 11157
+    },
+    {
+      "text": "sales",
+      "startMs": 11262,
+      "endMs": 11587
+    },
+    {
+      "text": "team",
+      "startMs": 11645,
+      "endMs": 11842
+    },
+    {
+      "text": "that",
+      "startMs": 11923,
+      "endMs": 12028
+    },
+    {
+      "text": "needs",
+      "startMs": 12063,
+      "endMs": 12260
+    },
+    {
+      "text": "to",
+      "startMs": 12307,
+      "endMs": 12365
+    },
+    {
+      "text": "cover",
+      "startMs": 12446,
+      "endMs": 12690
+    },
+    {
+      "text": "the",
+      "startMs": 12748,
+      "endMs": 12817
+    },
+    {
+      "text": "same",
+      "startMs": 12864,
+      "endMs": 13119
+    },
+    {
+      "text": "terms,",
+      "startMs": 13154,
+      "endMs": 13642
+    },
+    {
+      "text": "developers",
+      "startMs": 13944,
+      "endMs": 14536
+    },
+    {
+      "text": "who",
+      "startMs": 14571,
+      "endMs": 14687
+    },
+    {
+      "text": "need",
+      "startMs": 14745,
+      "endMs": 14931
+    },
+    {
+      "text": "to",
+      "startMs": 14954,
+      "endMs": 15000
+    },
+    {
+      "text": "format",
+      "startMs": 15082,
+      "endMs": 15558
+    },
+    {
+      "text": "code",
+      "startMs": 15639,
+      "endMs": 15894
+    },
+    {
+      "text": "the",
+      "startMs": 15929,
+      "endMs": 16010.000000000002
+    },
+    {
+      "text": "same",
+      "startMs": 16056.999999999998,
+      "endMs": 16277.999999999998
+    },
+    {
+      "text": "way,",
+      "startMs": 16312.000000000002,
+      "endMs": 16649
+    },
+    {
+      "text": "any",
+      "startMs": 16812,
+      "endMs": 17090
+    },
+    {
+      "text": "approval",
+      "startMs": 17137,
+      "endMs": 17508
+    },
+    {
+      "text": "path",
+      "startMs": 17601,
+      "endMs": 17868
+    },
+    {
+      "text": "an",
+      "startMs": 17915,
+      "endMs": 17973
+    },
+    {
+      "text": "employee",
+      "startMs": 18019,
+      "endMs": 18391
+    },
+    {
+      "text": "has",
+      "startMs": 18472,
+      "endMs": 18692
+    },
+    {
+      "text": "to",
+      "startMs": 18750,
+      "endMs": 18820
+    },
+    {
+      "text": "follow",
+      "startMs": 18913,
+      "endMs": 19250
+    },
+    {
+      "text": "to",
+      "startMs": 19377,
+      "endMs": 19482
+    },
+    {
+      "text": "get",
+      "startMs": 19563,
+      "endMs": 19737
+    },
+    {
+      "text": "something",
+      "startMs": 19784,
+      "endMs": 20109
+    },
+    {
+      "text": "done.",
+      "startMs": 20155,
+      "endMs": 20620
+    }
+  ]
+}

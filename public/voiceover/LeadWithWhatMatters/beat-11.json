@@ -1,0 +1,121 @@
+{
+  "text": "The last message you sent your team, how far into it did they have to read before they knew something had actually changed?",
+  "durationMs": 7291,
+  "words": [
+    {
+      "text": "The",
+      "startMs": 0,
+      "endMs": 139
+    },
+    {
+      "text": "last",
+      "startMs": 221,
+      "endMs": 592
+    },
+    {
+      "text": "message",
+      "startMs": 778,
+      "endMs": 1149
+    },
+    {
+      "text": "you",
+      "startMs": 1173,
+      "endMs": 1242
+    },
+    {
+      "text": "sent",
+      "startMs": 1324,
+      "endMs": 1509
+    },
+    {
+      "text": "your",
+      "startMs": 1533,
+      "endMs": 1660
+    },
+    {
+      "text": "team,",
+      "startMs": 1707,
+      "endMs": 2043.0000000000002
+    },
+    {
+      "text": "how",
+      "startMs": 2392,
+      "endMs": 2577
+    },
+    {
+      "text": "far",
+      "startMs": 2682,
+      "endMs": 2902
+    },
+    {
+      "text": "into",
+      "startMs": 2995,
+      "endMs": 3228
+    },
+    {
+      "text": "it",
+      "startMs": 3309,
+      "endMs": 3390
+    },
+    {
+      "text": "did",
+      "startMs": 3425,
+      "endMs": 3553
+    },
+    {
+      "text": "they",
+      "startMs": 3576,
+      "endMs": 3680
+    },
+    {
+      "text": "have",
+      "startMs": 3727,
+      "endMs": 3866
+    },
+    {
+      "text": "to",
+      "startMs": 3901,
+      "endMs": 3959
+    },
+    {
+      "text": "read",
+      "startMs": 4086.9999999999995,
+      "endMs": 4307
+    },
+    {
+      "text": "before",
+      "startMs": 4389,
+      "endMs": 4702
+    },
+    {
+      "text": "they",
+      "startMs": 4748,
+      "endMs": 4876
+    },
+    {
+      "text": "knew",
+      "startMs": 4934,
+      "endMs": 5132
+    },
+    {
+      "text": "something",
+      "startMs": 5213,
+      "endMs": 5561
+    },
+    {
+      "text": "had",
+      "startMs": 5619,
+      "endMs": 5770
+    },
+    {
+      "text": "actually",
+      "startMs": 5875,
+      "endMs": 6351
+    },
+    {
+      "text": "changed?",
+      "startMs": 6409,
+      "endMs": 7291
+    }
+  ]
+}

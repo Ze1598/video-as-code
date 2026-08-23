@@ -1,0 +1,306 @@
+{
+  "text": "Before your next meeting, your next announcement, your next written update, finish this sentence: the one thing I need you to know is. If you can't complete it with one clear decision, request, or conclusion, you haven't decided what the communication is for. If you complete it and then add three competing priorities, you lied about there being one thing.",
+  "durationMs": 22941,
+  "words": [
+    {
+      "text": "Before",
+      "startMs": 0,
+      "endMs": 673
+    },
+    {
+      "text": "your",
+      "startMs": 1556,
+      "endMs": 1660
+    },
+    {
+      "text": "next",
+      "startMs": 1718,
+      "endMs": 1939
+    },
+    {
+      "text": "meeting,",
+      "startMs": 2032,
+      "endMs": 2392
+    },
+    {
+      "text": "your",
+      "startMs": 2415,
+      "endMs": 2543
+    },
+    {
+      "text": "next",
+      "startMs": 2624,
+      "endMs": 2879
+    },
+    {
+      "text": "announcement,",
+      "startMs": 2926,
+      "endMs": 3483
+    },
+    {
+      "text": "your",
+      "startMs": 3506,
+      "endMs": 3611
+    },
+    {
+      "text": "next",
+      "startMs": 3692,
+      "endMs": 3889
+    },
+    {
+      "text": "written",
+      "startMs": 3936,
+      "endMs": 4307
+    },
+    {
+      "text": "update,",
+      "startMs": 4470,
+      "endMs": 5085
+    },
+    {
+      "text": "finish",
+      "startMs": 5387,
+      "endMs": 5759
+    },
+    {
+      "text": "this",
+      "startMs": 5840,
+      "endMs": 6060
+    },
+    {
+      "text": "sentence:",
+      "startMs": 6223,
+      "endMs": 6920
+    },
+    {
+      "text": "the",
+      "startMs": 7187,
+      "endMs": 7291
+    },
+    {
+      "text": "one",
+      "startMs": 7372,
+      "endMs": 7523
+    },
+    {
+      "text": "thing",
+      "startMs": 7570,
+      "endMs": 7755
+    },
+    {
+      "text": "I",
+      "startMs": 7837,
+      "endMs": 7860
+    },
+    {
+      "text": "need",
+      "startMs": 7988,
+      "endMs": 8173
+    },
+    {
+      "text": "you",
+      "startMs": 8208,
+      "endMs": 8278
+    },
+    {
+      "text": "to",
+      "startMs": 8359,
+      "endMs": 8440
+    },
+    {
+      "text": "know",
+      "startMs": 8487,
+      "endMs": 8742
+    },
+    {
+      "text": "is.",
+      "startMs": 8882,
+      "endMs": 9276
+    },
+    {
+      "text": "If",
+      "startMs": 9462,
+      "endMs": 9625
+    },
+    {
+      "text": "you",
+      "startMs": 9683,
+      "endMs": 9776
+    },
+    {
+      "text": "can't",
+      "startMs": 9880,
+      "endMs": 10217
+    },
+    {
+      "text": "complete",
+      "startMs": 10321,
+      "endMs": 10786
+    },
+    {
+      "text": "it",
+      "startMs": 10820,
+      "endMs": 10890
+    },
+    {
+      "text": "with",
+      "startMs": 10937,
+      "endMs": 11088
+    },
+    {
+      "text": "one",
+      "startMs": 11215,
+      "endMs": 11482
+    },
+    {
+      "text": "clear",
+      "startMs": 11540,
+      "endMs": 11784
+    },
+    {
+      "text": "decision,",
+      "startMs": 11842,
+      "endMs": 12399
+    },
+    {
+      "text": "request,",
+      "startMs": 12481,
+      "endMs": 13003
+    },
+    {
+      "text": "or",
+      "startMs": 13050,
+      "endMs": 13224
+    },
+    {
+      "text": "conclusion,",
+      "startMs": 13317,
+      "endMs": 14025
+    },
+    {
+      "text": "you",
+      "startMs": 14257,
+      "endMs": 14350
+    },
+    {
+      "text": "haven't",
+      "startMs": 14408,
+      "endMs": 14640
+    },
+    {
+      "text": "decided",
+      "startMs": 14687,
+      "endMs": 15174
+    },
+    {
+      "text": "what",
+      "startMs": 15209,
+      "endMs": 15337
+    },
+    {
+      "text": "the",
+      "startMs": 15360,
+      "endMs": 15430
+    },
+    {
+      "text": "communication",
+      "startMs": 15476,
+      "endMs": 16126.000000000002
+    },
+    {
+      "text": "is",
+      "startMs": 16161.000000000002,
+      "endMs": 16242
+    },
+    {
+      "text": "for.",
+      "startMs": 16335,
+      "endMs": 16649
+    },
+    {
+      "text": "If",
+      "startMs": 16695,
+      "endMs": 16846
+    },
+    {
+      "text": "you",
+      "startMs": 16893,
+      "endMs": 16985
+    },
+    {
+      "text": "complete",
+      "startMs": 17078,
+      "endMs": 17531
+    },
+    {
+      "text": "it",
+      "startMs": 17566,
+      "endMs": 17659
+    },
+    {
+      "text": "and",
+      "startMs": 17740,
+      "endMs": 17879
+    },
+    {
+      "text": "then",
+      "startMs": 17914,
+      "endMs": 18065
+    },
+    {
+      "text": "add",
+      "startMs": 18146,
+      "endMs": 18390
+    },
+    {
+      "text": "three",
+      "startMs": 18495,
+      "endMs": 19040
+    },
+    {
+      "text": "competing",
+      "startMs": 19273,
+      "endMs": 19853
+    },
+    {
+      "text": "priorities,",
+      "startMs": 19934,
+      "endMs": 20701
+    },
+    {
+      "text": "you",
+      "startMs": 20886,
+      "endMs": 21014
+    },
+    {
+      "text": "lied",
+      "startMs": 21119,
+      "endMs": 21397
+    },
+    {
+      "text": "about",
+      "startMs": 21432,
+      "endMs": 21664
+    },
+    {
+      "text": "there",
+      "startMs": 21711,
+      "endMs": 21862
+    },
+    {
+      "text": "being",
+      "startMs": 21908,
+      "endMs": 22105
+    },
+    {
+      "text": "one",
+      "startMs": 22198,
+      "endMs": 22384
+    },
+    {
+      "text": "thing.",
+      "startMs": 22419,
+      "endMs": 22941
+    }
+  ]
+}

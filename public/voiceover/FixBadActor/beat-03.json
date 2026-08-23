@@ -1,0 +1,306 @@
+{
+  "text": "Then he went back to the same performance dashboard he always had. Every developer on the team was measured the same way: by tickets closed. His manager praised his output in team meetings. Senior leaders pointed to his numbers as proof the department could move faster. When promotion talks started, his name carried the strongest case anyone could point to.",
+  "durationMs": 20201,
+  "words": [
+    {
+      "text": "Then",
+      "startMs": 0,
+      "endMs": 337
+    },
+    {
+      "text": "he",
+      "startMs": 441,
+      "endMs": 580
+    },
+    {
+      "text": "went",
+      "startMs": 615,
+      "endMs": 848
+    },
+    {
+      "text": "back",
+      "startMs": 940,
+      "endMs": 1115
+    },
+    {
+      "text": "to",
+      "startMs": 1161,
+      "endMs": 1231
+    },
+    {
+      "text": "the",
+      "startMs": 1289,
+      "endMs": 1370
+    },
+    {
+      "text": "same",
+      "startMs": 1416,
+      "endMs": 1637
+    },
+    {
+      "text": "performance",
+      "startMs": 1683,
+      "endMs": 2229
+    },
+    {
+      "text": "dashboard",
+      "startMs": 2264,
+      "endMs": 2694
+    },
+    {
+      "text": "he",
+      "startMs": 2752,
+      "endMs": 2833
+    },
+    {
+      "text": "always",
+      "startMs": 2891,
+      "endMs": 3146
+    },
+    {
+      "text": "had.",
+      "startMs": 3204,
+      "endMs": 3622
+    },
+    {
+      "text": "Every",
+      "startMs": 4098,
+      "endMs": 4365
+    },
+    {
+      "text": "developer",
+      "startMs": 4423,
+      "endMs": 4946
+    },
+    {
+      "text": "on",
+      "startMs": 4992,
+      "endMs": 5050
+    },
+    {
+      "text": "the",
+      "startMs": 5097,
+      "endMs": 5166
+    },
+    {
+      "text": "team",
+      "startMs": 5213,
+      "endMs": 5399
+    },
+    {
+      "text": "was",
+      "startMs": 5457,
+      "endMs": 5584
+    },
+    {
+      "text": "measured",
+      "startMs": 5666,
+      "endMs": 5944
+    },
+    {
+      "text": "the",
+      "startMs": 5968,
+      "endMs": 6037
+    },
+    {
+      "text": "same",
+      "startMs": 6072,
+      "endMs": 6327
+    },
+    {
+      "text": "way:",
+      "startMs": 6374,
+      "endMs": 6769
+    },
+    {
+      "text": "by",
+      "startMs": 6954,
+      "endMs": 7105
+    },
+    {
+      "text": "tickets",
+      "startMs": 7187,
+      "endMs": 7477
+    },
+    {
+      "text": "closed.",
+      "startMs": 7535,
+      "endMs": 8045.999999999999
+    },
+    {
+      "text": "His",
+      "startMs": 8092.000000000001,
+      "endMs": 8231
+    },
+    {
+      "text": "manager",
+      "startMs": 8290,
+      "endMs": 8661
+    },
+    {
+      "text": "praised",
+      "startMs": 8766,
+      "endMs": 9125
+    },
+    {
+      "text": "his",
+      "startMs": 9172,
+      "endMs": 9276
+    },
+    {
+      "text": "output",
+      "startMs": 9381,
+      "endMs": 9950
+    },
+    {
+      "text": "in",
+      "startMs": 10008,
+      "endMs": 10089
+    },
+    {
+      "text": "team",
+      "startMs": 10147,
+      "endMs": 10344
+    },
+    {
+      "text": "meetings.",
+      "startMs": 10391,
+      "endMs": 11018
+    },
+    {
+      "text": "Senior",
+      "startMs": 11366,
+      "endMs": 11738
+    },
+    {
+      "text": "leaders",
+      "startMs": 11784,
+      "endMs": 12179
+    },
+    {
+      "text": "pointed",
+      "startMs": 12307,
+      "endMs": 12643
+    },
+    {
+      "text": "to",
+      "startMs": 12678,
+      "endMs": 12748
+    },
+    {
+      "text": "his",
+      "startMs": 12806,
+      "endMs": 12910
+    },
+    {
+      "text": "numbers",
+      "startMs": 13003,
+      "endMs": 13421
+    },
+    {
+      "text": "as",
+      "startMs": 13502,
+      "endMs": 13676
+    },
+    {
+      "text": "proof",
+      "startMs": 13758,
+      "endMs": 14036
+    },
+    {
+      "text": "the",
+      "startMs": 14164,
+      "endMs": 14269
+    },
+    {
+      "text": "department",
+      "startMs": 14350,
+      "endMs": 14884
+    },
+    {
+      "text": "could",
+      "startMs": 14930,
+      "endMs": 15081
+    },
+    {
+      "text": "move",
+      "startMs": 15128,
+      "endMs": 15290
+    },
+    {
+      "text": "faster.",
+      "startMs": 15313,
+      "endMs": 15836
+    },
+    {
+      "text": "When",
+      "startMs": 15894,
+      "endMs": 16033.000000000002
+    },
+    {
+      "text": "promotion",
+      "startMs": 16091.000000000002,
+      "endMs": 16474
+    },
+    {
+      "text": "talks",
+      "startMs": 16532,
+      "endMs": 16741
+    },
+    {
+      "text": "started,",
+      "startMs": 16776,
+      "endMs": 17276
+    },
+    {
+      "text": "his",
+      "startMs": 17357,
+      "endMs": 17484
+    },
+    {
+      "text": "name",
+      "startMs": 17566,
+      "endMs": 17763
+    },
+    {
+      "text": "carried",
+      "startMs": 17810,
+      "endMs": 18123
+    },
+    {
+      "text": "the",
+      "startMs": 18146,
+      "endMs": 18216
+    },
+    {
+      "text": "strongest",
+      "startMs": 18274,
+      "endMs": 18727
+    },
+    {
+      "text": "case",
+      "startMs": 18762,
+      "endMs": 18994
+    },
+    {
+      "text": "anyone",
+      "startMs": 19029,
+      "endMs": 19412
+    },
+    {
+      "text": "could",
+      "startMs": 19447,
+      "endMs": 19598
+    },
+    {
+      "text": "point",
+      "startMs": 19644,
+      "endMs": 19853
+    },
+    {
+      "text": "to.",
+      "startMs": 19888,
+      "endMs": 20201
+    }
+  ]
+}

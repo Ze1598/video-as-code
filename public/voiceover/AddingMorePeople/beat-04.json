@@ -1,0 +1,311 @@
+{
+  "text": "Because the team was still burning hours every week in status meetings that ended without a single decision. Engineers kept investigating the same incidents, over and over, because nobody had written down what the last person found. And every time a stakeholder called something urgent, the team dropped what it was doing and switched, so everything was urgent, all the time.",
+  "durationMs": 22291,
+  "words": [
+    {
+      "text": "Because",
+      "startMs": 0,
+      "endMs": 441
+    },
+    {
+      "text": "the",
+      "startMs": 522,
+      "endMs": 650
+    },
+    {
+      "text": "team",
+      "startMs": 708,
+      "endMs": 940
+    },
+    {
+      "text": "was",
+      "startMs": 998,
+      "endMs": 1115
+    },
+    {
+      "text": "still",
+      "startMs": 1161,
+      "endMs": 1382
+    },
+    {
+      "text": "burning",
+      "startMs": 1440,
+      "endMs": 1741
+    },
+    {
+      "text": "hours",
+      "startMs": 1834,
+      "endMs": 2229
+    },
+    {
+      "text": "every",
+      "startMs": 2322,
+      "endMs": 2566
+    },
+    {
+      "text": "week",
+      "startMs": 2624,
+      "endMs": 2879
+    },
+    {
+      "text": "in",
+      "startMs": 3007,
+      "endMs": 3146
+    },
+    {
+      "text": "status",
+      "startMs": 3228,
+      "endMs": 3564
+    },
+    {
+      "text": "meetings",
+      "startMs": 3646,
+      "endMs": 3971
+    },
+    {
+      "text": "that",
+      "startMs": 4029,
+      "endMs": 4214
+    },
+    {
+      "text": "ended",
+      "startMs": 4319,
+      "endMs": 4783
+    },
+    {
+      "text": "without",
+      "startMs": 4911,
+      "endMs": 5317
+    },
+    {
+      "text": "a",
+      "startMs": 5445,
+      "endMs": 5550
+    },
+    {
+      "text": "single",
+      "startMs": 5712,
+      "endMs": 6339
+    },
+    {
+      "text": "decision.",
+      "startMs": 6478,
+      "endMs": 7175
+    },
+    {
+      "text": "Engineers",
+      "startMs": 7593,
+      "endMs": 8080.999999999999
+    },
+    {
+      "text": "kept",
+      "startMs": 8138.999999999999,
+      "endMs": 8336
+    },
+    {
+      "text": "investigating",
+      "startMs": 8382,
+      "endMs": 9044
+    },
+    {
+      "text": "the",
+      "startMs": 9091,
+      "endMs": 9160
+    },
+    {
+      "text": "same",
+      "startMs": 9207,
+      "endMs": 9427
+    },
+    {
+      "text": "incidents,",
+      "startMs": 9474,
+      "endMs": 9915
+    },
+    {
+      "text": "over",
+      "startMs": 10043,
+      "endMs": 10391
+    },
+    {
+      "text": "and",
+      "startMs": 10472,
+      "endMs": 10565
+    },
+    {
+      "text": "over,",
+      "startMs": 10658,
+      "endMs": 10937
+    },
+    {
+      "text": "because",
+      "startMs": 10960,
+      "endMs": 11250
+    },
+    {
+      "text": "nobody",
+      "startMs": 11308,
+      "endMs": 11622
+    },
+    {
+      "text": "had",
+      "startMs": 11656,
+      "endMs": 11761
+    },
+    {
+      "text": "written",
+      "startMs": 11842,
+      "endMs": 12144
+    },
+    {
+      "text": "down",
+      "startMs": 12202,
+      "endMs": 12411
+    },
+    {
+      "text": "what",
+      "startMs": 12469,
+      "endMs": 12608
+    },
+    {
+      "text": "the",
+      "startMs": 12643,
+      "endMs": 12713
+    },
+    {
+      "text": "last",
+      "startMs": 12794,
+      "endMs": 13119
+    },
+    {
+      "text": "person",
+      "startMs": 13201,
+      "endMs": 13560
+    },
+    {
+      "text": "found.",
+      "startMs": 13641,
+      "endMs": 14071
+    },
+    {
+      "text": "And",
+      "startMs": 14303,
+      "endMs": 14442
+    },
+    {
+      "text": "every",
+      "startMs": 14524,
+      "endMs": 14733
+    },
+    {
+      "text": "time",
+      "startMs": 14767,
+      "endMs": 14953
+    },
+    {
+      "text": "a",
+      "startMs": 14976,
+      "endMs": 15000
+    },
+    {
+      "text": "stakeholder",
+      "startMs": 15058,
+      "endMs": 15627
+    },
+    {
+      "text": "called",
+      "startMs": 15708,
+      "endMs": 15963
+    },
+    {
+      "text": "something",
+      "startMs": 16010.000000000002,
+      "endMs": 16358
+    },
+    {
+      "text": "urgent,",
+      "startMs": 16462,
+      "endMs": 16904
+    },
+    {
+      "text": "the",
+      "startMs": 16939,
+      "endMs": 17008
+    },
+    {
+      "text": "team",
+      "startMs": 17043,
+      "endMs": 17264
+    },
+    {
+      "text": "dropped",
+      "startMs": 17345,
+      "endMs": 17740
+    },
+    {
+      "text": "what",
+      "startMs": 17798,
+      "endMs": 17960
+    },
+    {
+      "text": "it",
+      "startMs": 17995,
+      "endMs": 18065
+    },
+    {
+      "text": "was",
+      "startMs": 18111,
+      "endMs": 18227
+    },
+    {
+      "text": "doing",
+      "startMs": 18320,
+      "endMs": 18645
+    },
+    {
+      "text": "and",
+      "startMs": 18947,
+      "endMs": 19191
+    },
+    {
+      "text": "switched,",
+      "startMs": 19319,
+      "endMs": 19945
+    },
+    {
+      "text": "so",
+      "startMs": 20027,
+      "endMs": 20213
+    },
+    {
+      "text": "everything",
+      "startMs": 20305,
+      "endMs": 20665
+    },
+    {
+      "text": "was",
+      "startMs": 20712,
+      "endMs": 20828
+    },
+    {
+      "text": "urgent,",
+      "startMs": 20921,
+      "endMs": 21374
+    },
+    {
+      "text": "all",
+      "startMs": 21397,
+      "endMs": 21548
+    },
+    {
+      "text": "the",
+      "startMs": 21594,
+      "endMs": 21664
+    },
+    {
+      "text": "time.",
+      "startMs": 21710,
+      "endMs": 22291
+    }
+  ]
+}

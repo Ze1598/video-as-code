@@ -1,0 +1,111 @@
+{
+  "text": "Look at your own team's scorecard. What does it actually reward — and is there someone getting away with exactly that?",
+  "durationMs": 6641,
+  "words": [
+    {
+      "text": "Look",
+      "startMs": 0,
+      "endMs": 209
+    },
+    {
+      "text": "at",
+      "startMs": 255,
+      "endMs": 325
+    },
+    {
+      "text": "your",
+      "startMs": 372,
+      "endMs": 511
+    },
+    {
+      "text": "own",
+      "startMs": 569,
+      "endMs": 731
+    },
+    {
+      "text": "team's",
+      "startMs": 813,
+      "endMs": 1115
+    },
+    {
+      "text": "scorecard.",
+      "startMs": 1277,
+      "endMs": 1927
+    },
+    {
+      "text": "What",
+      "startMs": 1950,
+      "endMs": 2159
+    },
+    {
+      "text": "does",
+      "startMs": 2194,
+      "endMs": 2334
+    },
+    {
+      "text": "it",
+      "startMs": 2380,
+      "endMs": 2461
+    },
+    {
+      "text": "actually",
+      "startMs": 2508,
+      "endMs": 2902
+    },
+    {
+      "text": "reward",
+      "startMs": 2984,
+      "endMs": 3460
+    },
+    {
+      "text": "—",
+      "startMs": 3518,
+      "endMs": 3576
+    },
+    {
+      "text": "and",
+      "startMs": 3704,
+      "endMs": 3843
+    },
+    {
+      "text": "is",
+      "startMs": 3901,
+      "endMs": 3971
+    },
+    {
+      "text": "there",
+      "startMs": 4005,
+      "endMs": 4156
+    },
+    {
+      "text": "someone",
+      "startMs": 4214,
+      "endMs": 4632
+    },
+    {
+      "text": "getting",
+      "startMs": 4679,
+      "endMs": 4969
+    },
+    {
+      "text": "away",
+      "startMs": 5097,
+      "endMs": 5375
+    },
+    {
+      "text": "with",
+      "startMs": 5422,
+      "endMs": 5561
+    },
+    {
+      "text": "exactly",
+      "startMs": 5619,
+      "endMs": 6072
+    },
+    {
+      "text": "that?",
+      "startMs": 6130,
+      "endMs": 6641
+    }
+  ]
+}

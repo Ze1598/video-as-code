@@ -1,0 +1,191 @@
+{
+  "text": "A growing backlog proves that demand exceeds output. It doesn't tell you why. Before adding people, identify the constraint: missing capability, wasted time, or insufficient capacity. Otherwise, you aren't fixing overload. You're hiring more people into it.",
+  "durationMs": 16904,
+  "words": [
+    {
+      "text": "A",
+      "startMs": 0,
+      "endMs": 70
+    },
+    {
+      "text": "growing",
+      "startMs": 151,
+      "endMs": 395
+    },
+    {
+      "text": "backlog",
+      "startMs": 453,
+      "endMs": 836
+    },
+    {
+      "text": "proves",
+      "startMs": 964,
+      "endMs": 1347
+    },
+    {
+      "text": "that",
+      "startMs": 1428,
+      "endMs": 1579
+    },
+    {
+      "text": "demand",
+      "startMs": 1660,
+      "endMs": 2009
+    },
+    {
+      "text": "exceeds",
+      "startMs": 2067,
+      "endMs": 2473
+    },
+    {
+      "text": "output.",
+      "startMs": 2566,
+      "endMs": 3170
+    },
+    {
+      "text": "It",
+      "startMs": 3297,
+      "endMs": 3425
+    },
+    {
+      "text": "doesn't",
+      "startMs": 3471,
+      "endMs": 3715
+    },
+    {
+      "text": "tell",
+      "startMs": 3738,
+      "endMs": 3913
+    },
+    {
+      "text": "you",
+      "startMs": 3959,
+      "endMs": 4051.9999999999995
+    },
+    {
+      "text": "why.",
+      "startMs": 4110,
+      "endMs": 4481
+    },
+    {
+      "text": "Before",
+      "startMs": 4748,
+      "endMs": 5155
+    },
+    {
+      "text": "adding",
+      "startMs": 5213,
+      "endMs": 5503
+    },
+    {
+      "text": "people,",
+      "startMs": 5584,
+      "endMs": 6049
+    },
+    {
+      "text": "identify",
+      "startMs": 6177,
+      "endMs": 6815
+    },
+    {
+      "text": "the",
+      "startMs": 6920,
+      "endMs": 6989
+    },
+    {
+      "text": "constraint:",
+      "startMs": 7036,
+      "endMs": 7779
+    },
+    {
+      "text": "missing",
+      "startMs": 8045.999999999999,
+      "endMs": 8394
+    },
+    {
+      "text": "capability,",
+      "startMs": 8440,
+      "endMs": 9334
+    },
+    {
+      "text": "wasted",
+      "startMs": 9520,
+      "endMs": 9985
+    },
+    {
+      "text": "time,",
+      "startMs": 10019,
+      "endMs": 10333
+    },
+    {
+      "text": "or",
+      "startMs": 10437,
+      "endMs": 10612
+    },
+    {
+      "text": "insufficient",
+      "startMs": 10716,
+      "endMs": 11436
+    },
+    {
+      "text": "capacity.",
+      "startMs": 11482,
+      "endMs": 12225
+    },
+    {
+      "text": "Otherwise,",
+      "startMs": 12574,
+      "endMs": 13201
+    },
+    {
+      "text": "you",
+      "startMs": 13305,
+      "endMs": 13444
+    },
+    {
+      "text": "aren't",
+      "startMs": 13502,
+      "endMs": 13723
+    },
+    {
+      "text": "fixing",
+      "startMs": 13804,
+      "endMs": 14176
+    },
+    {
+      "text": "overload.",
+      "startMs": 14280,
+      "endMs": 14861
+    },
+    {
+      "text": "You're",
+      "startMs": 14919,
+      "endMs": 15139
+    },
+    {
+      "text": "hiring",
+      "startMs": 15174,
+      "endMs": 15546
+    },
+    {
+      "text": "more",
+      "startMs": 15604,
+      "endMs": 15778
+    },
+    {
+      "text": "people",
+      "startMs": 15813,
+      "endMs": 16114.999999999998
+    },
+    {
+      "text": "into",
+      "startMs": 16161.000000000002,
+      "endMs": 16416
+    },
+    {
+      "text": "it.",
+      "startMs": 16521,
+      "endMs": 16904
+    }
+  ]
+}

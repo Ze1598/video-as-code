@@ -1,0 +1,216 @@
+{
+  "text": "The team had missed another delivery deadline. The backlog kept growing, and the engineers said they were stretched too thin. Management looked at the numbers and approved two new hires. More people, they reasoned, meant more capacity to get through the work.",
+  "durationMs": 16068.000000000002,
+  "words": [
+    {
+      "text": "The",
+      "startMs": 0,
+      "endMs": 151
+    },
+    {
+      "text": "team",
+      "startMs": 209,
+      "endMs": 395
+    },
+    {
+      "text": "had",
+      "startMs": 476,
+      "endMs": 604
+    },
+    {
+      "text": "missed",
+      "startMs": 697,
+      "endMs": 940
+    },
+    {
+      "text": "another",
+      "startMs": 975,
+      "endMs": 1869
+    },
+    {
+      "text": "delivery",
+      "startMs": 2345,
+      "endMs": 2775
+    },
+    {
+      "text": "deadline.",
+      "startMs": 2833,
+      "endMs": 3332
+    },
+    {
+      "text": "The",
+      "startMs": 3599,
+      "endMs": 3715
+    },
+    {
+      "text": "backlog",
+      "startMs": 3773,
+      "endMs": 4180
+    },
+    {
+      "text": "kept",
+      "startMs": 4272,
+      "endMs": 4516
+    },
+    {
+      "text": "growing,",
+      "startMs": 4598,
+      "endMs": 4969
+    },
+    {
+      "text": "and",
+      "startMs": 5155,
+      "endMs": 5317
+    },
+    {
+      "text": "the",
+      "startMs": 5375,
+      "endMs": 5445
+    },
+    {
+      "text": "engineers",
+      "startMs": 5526,
+      "endMs": 5991
+    },
+    {
+      "text": "said",
+      "startMs": 6037,
+      "endMs": 6281
+    },
+    {
+      "text": "they",
+      "startMs": 6339,
+      "endMs": 6478
+    },
+    {
+      "text": "were",
+      "startMs": 6513,
+      "endMs": 6641
+    },
+    {
+      "text": "stretched",
+      "startMs": 6699,
+      "endMs": 7233
+    },
+    {
+      "text": "too",
+      "startMs": 7396,
+      "endMs": 7674
+    },
+    {
+      "text": "thin.",
+      "startMs": 7767,
+      "endMs": 8208
+    },
+    {
+      "text": "Management",
+      "startMs": 8557,
+      "endMs": 9044
+    },
+    {
+      "text": "looked",
+      "startMs": 9102,
+      "endMs": 9323
+    },
+    {
+      "text": "at",
+      "startMs": 9346,
+      "endMs": 9416
+    },
+    {
+      "text": "the",
+      "startMs": 9451,
+      "endMs": 9520
+    },
+    {
+      "text": "numbers",
+      "startMs": 9578,
+      "endMs": 9985
+    },
+    {
+      "text": "and",
+      "startMs": 10031,
+      "endMs": 10159
+    },
+    {
+      "text": "approved",
+      "startMs": 10205,
+      "endMs": 10612
+    },
+    {
+      "text": "two",
+      "startMs": 10646,
+      "endMs": 10855
+    },
+    {
+      "text": "new",
+      "startMs": 10937,
+      "endMs": 11064
+    },
+    {
+      "text": "hires.",
+      "startMs": 11146,
+      "endMs": 11726
+    },
+    {
+      "text": "More",
+      "startMs": 12028,
+      "endMs": 12272
+    },
+    {
+      "text": "people,",
+      "startMs": 12307,
+      "endMs": 12632
+    },
+    {
+      "text": "they",
+      "startMs": 12655,
+      "endMs": 12783
+    },
+    {
+      "text": "reasoned,",
+      "startMs": 12841,
+      "endMs": 13293
+    },
+    {
+      "text": "meant",
+      "startMs": 13421,
+      "endMs": 13595
+    },
+    {
+      "text": "more",
+      "startMs": 13677,
+      "endMs": 13851
+    },
+    {
+      "text": "capacity",
+      "startMs": 13932,
+      "endMs": 14582
+    },
+    {
+      "text": "to",
+      "startMs": 14640,
+      "endMs": 14698
+    },
+    {
+      "text": "get",
+      "startMs": 14756,
+      "endMs": 14977
+    },
+    {
+      "text": "through",
+      "startMs": 15070,
+      "endMs": 15348
+    },
+    {
+      "text": "the",
+      "startMs": 15383,
+      "endMs": 15453
+    },
+    {
+      "text": "work.",
+      "startMs": 15499,
+      "endMs": 16068.000000000002
+    }
+  ]
+}

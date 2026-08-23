@@ -1,0 +1,146 @@
+{
+  "text": "He asked a colleague, and she pointed him to someone in IT. IT sent him back to his manager. The approval had to come from somewhere else first.",
+  "durationMs": 9613,
+  "words": [
+    {
+      "text": "He",
+      "startMs": 0,
+      "endMs": 163
+    },
+    {
+      "text": "asked",
+      "startMs": 267,
+      "endMs": 534
+    },
+    {
+      "text": "a",
+      "startMs": 580,
+      "endMs": 604
+    },
+    {
+      "text": "colleague,",
+      "startMs": 662,
+      "endMs": 1126
+    },
+    {
+      "text": "and",
+      "startMs": 1161,
+      "endMs": 1312
+    },
+    {
+      "text": "she",
+      "startMs": 1347,
+      "endMs": 1463
+    },
+    {
+      "text": "pointed",
+      "startMs": 1567,
+      "endMs": 1939
+    },
+    {
+      "text": "him",
+      "startMs": 1997,
+      "endMs": 2113
+    },
+    {
+      "text": "to",
+      "startMs": 2171,
+      "endMs": 2252
+    },
+    {
+      "text": "someone",
+      "startMs": 2334,
+      "endMs": 2682
+    },
+    {
+      "text": "in",
+      "startMs": 2717,
+      "endMs": 2786
+    },
+    {
+      "text": "IT.",
+      "startMs": 2972,
+      "endMs": 3587
+    },
+    {
+      "text": "IT",
+      "startMs": 3936,
+      "endMs": 4156
+    },
+    {
+      "text": "sent",
+      "startMs": 4214,
+      "endMs": 4435
+    },
+    {
+      "text": "him",
+      "startMs": 4470,
+      "endMs": 4563
+    },
+    {
+      "text": "back",
+      "startMs": 4609,
+      "endMs": 4795
+    },
+    {
+      "text": "to",
+      "startMs": 4841,
+      "endMs": 4899
+    },
+    {
+      "text": "his",
+      "startMs": 4981,
+      "endMs": 5062
+    },
+    {
+      "text": "manager.",
+      "startMs": 5143,
+      "endMs": 5735
+    },
+    {
+      "text": "The",
+      "startMs": 6153,
+      "endMs": 6281
+    },
+    {
+      "text": "approval",
+      "startMs": 6327,
+      "endMs": 6873
+    },
+    {
+      "text": "had",
+      "startMs": 7036,
+      "endMs": 7314
+    },
+    {
+      "text": "to",
+      "startMs": 7361,
+      "endMs": 7419
+    },
+    {
+      "text": "come",
+      "startMs": 7512,
+      "endMs": 7686
+    },
+    {
+      "text": "from",
+      "startMs": 7732,
+      "endMs": 7872
+    },
+    {
+      "text": "somewhere",
+      "startMs": 7964,
+      "endMs": 8382
+    },
+    {
+      "text": "else",
+      "startMs": 8440,
+      "endMs": 8742
+    },
+    {
+      "text": "first.",
+      "startMs": 8835,
+      "endMs": 9613
+    }
+  ]
+}

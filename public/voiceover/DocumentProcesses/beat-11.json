@@ -1,0 +1,351 @@
+{
+  "text": "Required fields could stop incomplete submissions before they happen. Links could show the available license types and the approval rules. One named owner could update the instructions the moment those rules changed. That is enough. Not a twenty-page policy. Not another training session. Just clear instructions at the point where the work begins. Don't call something a process when people have to ask around to discover how it works.",
+  "durationMs": 25728,
+  "words": [
+    {
+      "text": "Required",
+      "startMs": 0,
+      "endMs": 650
+    },
+    {
+      "text": "fields",
+      "startMs": 697,
+      "endMs": 1057
+    },
+    {
+      "text": "could",
+      "startMs": 1184,
+      "endMs": 1405
+    },
+    {
+      "text": "stop",
+      "startMs": 1486,
+      "endMs": 1858
+    },
+    {
+      "text": "incomplete",
+      "startMs": 1985,
+      "endMs": 2612
+    },
+    {
+      "text": "submissions",
+      "startMs": 2647,
+      "endMs": 3216
+    },
+    {
+      "text": "before",
+      "startMs": 3344,
+      "endMs": 3738
+    },
+    {
+      "text": "they",
+      "startMs": 3785,
+      "endMs": 3913
+    },
+    {
+      "text": "happen.",
+      "startMs": 3994,
+      "endMs": 4365
+    },
+    {
+      "text": "Links",
+      "startMs": 4493,
+      "endMs": 4865
+    },
+    {
+      "text": "could",
+      "startMs": 4946,
+      "endMs": 5120
+    },
+    {
+      "text": "show",
+      "startMs": 5178,
+      "endMs": 5410
+    },
+    {
+      "text": "the",
+      "startMs": 5503,
+      "endMs": 5573
+    },
+    {
+      "text": "available",
+      "startMs": 5619,
+      "endMs": 6026
+    },
+    {
+      "text": "license",
+      "startMs": 6072,
+      "endMs": 6490
+    },
+    {
+      "text": "types",
+      "startMs": 6513,
+      "endMs": 6838
+    },
+    {
+      "text": "and",
+      "startMs": 7105,
+      "endMs": 7314
+    },
+    {
+      "text": "the",
+      "startMs": 7361,
+      "endMs": 7430
+    },
+    {
+      "text": "approval",
+      "startMs": 7465,
+      "endMs": 7906
+    },
+    {
+      "text": "rules.",
+      "startMs": 7964,
+      "endMs": 8382
+    },
+    {
+      "text": "One",
+      "startMs": 8649,
+      "endMs": 8905
+    },
+    {
+      "text": "named",
+      "startMs": 8951,
+      "endMs": 9172
+    },
+    {
+      "text": "owner",
+      "startMs": 9253,
+      "endMs": 9543
+    },
+    {
+      "text": "could",
+      "startMs": 9625,
+      "endMs": 9787
+    },
+    {
+      "text": "update",
+      "startMs": 9892,
+      "endMs": 10403
+    },
+    {
+      "text": "the",
+      "startMs": 10461,
+      "endMs": 10577
+    },
+    {
+      "text": "instructions",
+      "startMs": 10623,
+      "endMs": 11343
+    },
+    {
+      "text": "the",
+      "startMs": 11436,
+      "endMs": 11529
+    },
+    {
+      "text": "moment",
+      "startMs": 11610,
+      "endMs": 11923
+    },
+    {
+      "text": "those",
+      "startMs": 11970,
+      "endMs": 12190
+    },
+    {
+      "text": "rules",
+      "startMs": 12225,
+      "endMs": 12458
+    },
+    {
+      "text": "changed.",
+      "startMs": 12516,
+      "endMs": 13026
+    },
+    {
+      "text": "That",
+      "startMs": 13328,
+      "endMs": 13537
+    },
+    {
+      "text": "is",
+      "startMs": 13584,
+      "endMs": 13665
+    },
+    {
+      "text": "enough.",
+      "startMs": 13746,
+      "endMs": 14129
+    },
+    {
+      "text": "Not",
+      "startMs": 14361,
+      "endMs": 14605
+    },
+    {
+      "text": "a",
+      "startMs": 14652,
+      "endMs": 14687
+    },
+    {
+      "text": "twenty-page",
+      "startMs": 14733,
+      "endMs": 15406
+    },
+    {
+      "text": "policy.",
+      "startMs": 15453,
+      "endMs": 15975
+    },
+    {
+      "text": "Not",
+      "startMs": 16033.000000000002,
+      "endMs": 16300
+    },
+    {
+      "text": "another",
+      "startMs": 16358,
+      "endMs": 16672
+    },
+    {
+      "text": "training",
+      "startMs": 16718,
+      "endMs": 17055
+    },
+    {
+      "text": "session.",
+      "startMs": 17113,
+      "endMs": 17589
+    },
+    {
+      "text": "Just",
+      "startMs": 17821,
+      "endMs": 18030
+    },
+    {
+      "text": "clear",
+      "startMs": 18065,
+      "endMs": 18262
+    },
+    {
+      "text": "instructions",
+      "startMs": 18320,
+      "endMs": 18913
+    },
+    {
+      "text": "at",
+      "startMs": 18947,
+      "endMs": 19029
+    },
+    {
+      "text": "the",
+      "startMs": 19063,
+      "endMs": 19133
+    },
+    {
+      "text": "point",
+      "startMs": 19214,
+      "endMs": 19493
+    },
+    {
+      "text": "where",
+      "startMs": 19539,
+      "endMs": 19714
+    },
+    {
+      "text": "the",
+      "startMs": 19737,
+      "endMs": 19807
+    },
+    {
+      "text": "work",
+      "startMs": 19853,
+      "endMs": 20097
+    },
+    {
+      "text": "begins.",
+      "startMs": 20155,
+      "endMs": 20654
+    },
+    {
+      "text": "Don't",
+      "startMs": 20921,
+      "endMs": 21165
+    },
+    {
+      "text": "call",
+      "startMs": 21211,
+      "endMs": 21385
+    },
+    {
+      "text": "something",
+      "startMs": 21478,
+      "endMs": 21769
+    },
+    {
+      "text": "a",
+      "startMs": 21827,
+      "endMs": 21850
+    },
+    {
+      "text": "process",
+      "startMs": 21896,
+      "endMs": 22337
+    },
+    {
+      "text": "when",
+      "startMs": 22372,
+      "endMs": 22488
+    },
+    {
+      "text": "people",
+      "startMs": 22546,
+      "endMs": 22837
+    },
+    {
+      "text": "have",
+      "startMs": 22895,
+      "endMs": 23057
+    },
+    {
+      "text": "to",
+      "startMs": 23081,
+      "endMs": 23139
+    },
+    {
+      "text": "ask",
+      "startMs": 23231,
+      "endMs": 23580
+    },
+    {
+      "text": "around",
+      "startMs": 23661,
+      "endMs": 24009
+    },
+    {
+      "text": "to",
+      "startMs": 24056,
+      "endMs": 24114
+    },
+    {
+      "text": "discover",
+      "startMs": 24172,
+      "endMs": 24648
+    },
+    {
+      "text": "how",
+      "startMs": 24729,
+      "endMs": 24880
+    },
+    {
+      "text": "it",
+      "startMs": 24938,
+      "endMs": 25019
+    },
+    {
+      "text": "works.",
+      "startMs": 25077,
+      "endMs": 25728
+    }
+  ]
+}

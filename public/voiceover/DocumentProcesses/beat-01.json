@@ -1,0 +1,241 @@
+{
+  "text": "A new analyst needed access to the company's reporting software on his first morning. His manager told him to submit a ticket. The form asked for a license type, a cost centre, a business justification, and evidence of approval. Nobody told him what any of it meant.",
+  "durationMs": 17926,
+  "words": [
+    {
+      "text": "A",
+      "startMs": 0,
+      "endMs": 81
+    },
+    {
+      "text": "new",
+      "startMs": 209,
+      "endMs": 372
+    },
+    {
+      "text": "analyst",
+      "startMs": 534,
+      "endMs": 2090
+    },
+    {
+      "text": "needed",
+      "startMs": 2392,
+      "endMs": 2786
+    },
+    {
+      "text": "access",
+      "startMs": 2879,
+      "endMs": 3355
+    },
+    {
+      "text": "to",
+      "startMs": 3437,
+      "endMs": 3611
+    },
+    {
+      "text": "the",
+      "startMs": 3715,
+      "endMs": 3796
+    },
+    {
+      "text": "company's",
+      "startMs": 3843,
+      "endMs": 4284
+    },
+    {
+      "text": "reporting",
+      "startMs": 4342,
+      "endMs": 4772
+    },
+    {
+      "text": "software",
+      "startMs": 4830,
+      "endMs": 5317
+    },
+    {
+      "text": "on",
+      "startMs": 5399,
+      "endMs": 5573
+    },
+    {
+      "text": "his",
+      "startMs": 5619,
+      "endMs": 5724
+    },
+    {
+      "text": "first",
+      "startMs": 5782,
+      "endMs": 6002
+    },
+    {
+      "text": "morning.",
+      "startMs": 6060,
+      "endMs": 6409
+    },
+    {
+      "text": "His",
+      "startMs": 6676,
+      "endMs": 6815
+    },
+    {
+      "text": "manager",
+      "startMs": 6873,
+      "endMs": 7198
+    },
+    {
+      "text": "told",
+      "startMs": 7256,
+      "endMs": 7430
+    },
+    {
+      "text": "him",
+      "startMs": 7465,
+      "endMs": 7558
+    },
+    {
+      "text": "to",
+      "startMs": 7605,
+      "endMs": 7663
+    },
+    {
+      "text": "submit",
+      "startMs": 7744,
+      "endMs": 8103.999999999999
+    },
+    {
+      "text": "a",
+      "startMs": 8162.000000000001,
+      "endMs": 8185.000000000001
+    },
+    {
+      "text": "ticket.",
+      "startMs": 8231,
+      "endMs": 8603
+    },
+    {
+      "text": "The",
+      "startMs": 8905,
+      "endMs": 9021
+    },
+    {
+      "text": "form",
+      "startMs": 9125,
+      "endMs": 9416
+    },
+    {
+      "text": "asked",
+      "startMs": 9509,
+      "endMs": 9764
+    },
+    {
+      "text": "for",
+      "startMs": 9799,
+      "endMs": 9892
+    },
+    {
+      "text": "a",
+      "startMs": 9938,
+      "endMs": 9961
+    },
+    {
+      "text": "license",
+      "startMs": 10008,
+      "endMs": 10403
+    },
+    {
+      "text": "type,",
+      "startMs": 10437,
+      "endMs": 10820
+    },
+    {
+      "text": "a",
+      "startMs": 11053,
+      "endMs": 11134
+    },
+    {
+      "text": "cost",
+      "startMs": 11227,
+      "endMs": 11587
+    },
+    {
+      "text": "centre,",
+      "startMs": 11691,
+      "endMs": 12225
+    },
+    {
+      "text": "a",
+      "startMs": 12411,
+      "endMs": 12504
+    },
+    {
+      "text": "business",
+      "startMs": 12585,
+      "endMs": 12922
+    },
+    {
+      "text": "justification,",
+      "startMs": 12968,
+      "endMs": 14036
+    },
+    {
+      "text": "and",
+      "startMs": 14164,
+      "endMs": 14327
+    },
+    {
+      "text": "evidence",
+      "startMs": 14408,
+      "endMs": 14768
+    },
+    {
+      "text": "of",
+      "startMs": 14803,
+      "endMs": 14861
+    },
+    {
+      "text": "approval.",
+      "startMs": 14907,
+      "endMs": 15511
+    },
+    {
+      "text": "Nobody",
+      "startMs": 15813,
+      "endMs": 16172.999999999998
+    },
+    {
+      "text": "told",
+      "startMs": 16231.000000000002,
+      "endMs": 16440
+    },
+    {
+      "text": "him",
+      "startMs": 16486,
+      "endMs": 16567
+    },
+    {
+      "text": "what",
+      "startMs": 16602,
+      "endMs": 16753
+    },
+    {
+      "text": "any",
+      "startMs": 16834,
+      "endMs": 17032
+    },
+    {
+      "text": "of",
+      "startMs": 17078,
+      "endMs": 17125
+    },
+    {
+      "text": "it",
+      "startMs": 17171,
+      "endMs": 17252
+    },
+    {
+      "text": "meant.",
+      "startMs": 17310,
+      "endMs": 17926
+    }
+  ]
+}

@@ -1,0 +1,491 @@
+{
+  "text": "A delivery manager walked into Monday's release meeting already knowing what needed to happen: engineering was going to stop building new features for the week and fix defects instead. She didn't open with that. She thanked the team for the work they'd already done. She walked through the previous sprint, acknowledged the pressure everyone already felt around the release, and explained the stakeholder feedback and the defects testing had turned up. She wanted people to have context before she asked them to change direction, and she didn't want the release to sound worse than it already was.",
+  "durationMs": 33901,
+  "words": [
+    {
+      "text": "A",
+      "startMs": 0,
+      "endMs": 70
+    },
+    {
+      "text": "delivery",
+      "startMs": 174,
+      "endMs": 592
+    },
+    {
+      "text": "manager",
+      "startMs": 650,
+      "endMs": 1045
+    },
+    {
+      "text": "walked",
+      "startMs": 1173,
+      "endMs": 1602
+    },
+    {
+      "text": "into",
+      "startMs": 1730,
+      "endMs": 2078
+    },
+    {
+      "text": "Monday's",
+      "startMs": 2171,
+      "endMs": 2577
+    },
+    {
+      "text": "release",
+      "startMs": 2659,
+      "endMs": 2972
+    },
+    {
+      "text": "meeting",
+      "startMs": 3019,
+      "endMs": 3367
+    },
+    {
+      "text": "already",
+      "startMs": 3715,
+      "endMs": 4249
+    },
+    {
+      "text": "knowing",
+      "startMs": 4307,
+      "endMs": 4598
+    },
+    {
+      "text": "what",
+      "startMs": 4656,
+      "endMs": 4830
+    },
+    {
+      "text": "needed",
+      "startMs": 4911,
+      "endMs": 5178
+    },
+    {
+      "text": "to",
+      "startMs": 5224,
+      "endMs": 5306
+    },
+    {
+      "text": "happen:",
+      "startMs": 5410,
+      "endMs": 5886
+    },
+    {
+      "text": "engineering",
+      "startMs": 6118,
+      "endMs": 6699
+    },
+    {
+      "text": "was",
+      "startMs": 6745,
+      "endMs": 6850
+    },
+    {
+      "text": "going",
+      "startMs": 6908,
+      "endMs": 7117
+    },
+    {
+      "text": "to",
+      "startMs": 7163,
+      "endMs": 7221
+    },
+    {
+      "text": "stop",
+      "startMs": 7279,
+      "endMs": 7628
+    },
+    {
+      "text": "building",
+      "startMs": 7721,
+      "endMs": 8103.999999999999
+    },
+    {
+      "text": "new",
+      "startMs": 8162.000000000001,
+      "endMs": 8324
+    },
+    {
+      "text": "features",
+      "startMs": 8417,
+      "endMs": 8800
+    },
+    {
+      "text": "for",
+      "startMs": 8858,
+      "endMs": 8975
+    },
+    {
+      "text": "the",
+      "startMs": 9021,
+      "endMs": 9091
+    },
+    {
+      "text": "week",
+      "startMs": 9125,
+      "endMs": 9334
+    },
+    {
+      "text": "and",
+      "startMs": 9567,
+      "endMs": 9787
+    },
+    {
+      "text": "fix",
+      "startMs": 9880,
+      "endMs": 10147
+    },
+    {
+      "text": "defects",
+      "startMs": 10228,
+      "endMs": 10704
+    },
+    {
+      "text": "instead.",
+      "startMs": 10751,
+      "endMs": 11343
+    },
+    {
+      "text": "She",
+      "startMs": 11645,
+      "endMs": 11784
+    },
+    {
+      "text": "didn't",
+      "startMs": 11842,
+      "endMs": 12132
+    },
+    {
+      "text": "open",
+      "startMs": 12225,
+      "endMs": 12516
+    },
+    {
+      "text": "with",
+      "startMs": 12562,
+      "endMs": 12701
+    },
+    {
+      "text": "that.",
+      "startMs": 12736,
+      "endMs": 12934
+    },
+    {
+      "text": "She",
+      "startMs": 13026,
+      "endMs": 13166
+    },
+    {
+      "text": "thanked",
+      "startMs": 13293,
+      "endMs": 13618
+    },
+    {
+      "text": "the",
+      "startMs": 13653,
+      "endMs": 13723
+    },
+    {
+      "text": "team",
+      "startMs": 13770,
+      "endMs": 13955
+    },
+    {
+      "text": "for",
+      "startMs": 14037,
+      "endMs": 14141
+    },
+    {
+      "text": "the",
+      "startMs": 14188,
+      "endMs": 14257
+    },
+    {
+      "text": "work",
+      "startMs": 14292,
+      "endMs": 14478
+    },
+    {
+      "text": "they'd",
+      "startMs": 14536,
+      "endMs": 14722
+    },
+    {
+      "text": "already",
+      "startMs": 14780,
+      "endMs": 15221
+    },
+    {
+      "text": "done.",
+      "startMs": 15302,
+      "endMs": 15616
+    },
+    {
+      "text": "She",
+      "startMs": 15801,
+      "endMs": 15941
+    },
+    {
+      "text": "walked",
+      "startMs": 15999,
+      "endMs": 16231.000000000002
+    },
+    {
+      "text": "through",
+      "startMs": 16254.000000000002,
+      "endMs": 16475
+    },
+    {
+      "text": "the",
+      "startMs": 16510,
+      "endMs": 16579
+    },
+    {
+      "text": "previous",
+      "startMs": 16707,
+      "endMs": 17148
+    },
+    {
+      "text": "sprint,",
+      "startMs": 17171,
+      "endMs": 17566
+    },
+    {
+      "text": "acknowledged",
+      "startMs": 17601,
+      "endMs": 18193
+    },
+    {
+      "text": "the",
+      "startMs": 18216,
+      "endMs": 18286
+    },
+    {
+      "text": "pressure",
+      "startMs": 18367,
+      "endMs": 18785
+    },
+    {
+      "text": "everyone",
+      "startMs": 18832,
+      "endMs": 19273
+    },
+    {
+      "text": "already",
+      "startMs": 19319,
+      "endMs": 19737
+    },
+    {
+      "text": "felt",
+      "startMs": 19818,
+      "endMs": 20109
+    },
+    {
+      "text": "around",
+      "startMs": 20167,
+      "endMs": 20457
+    },
+    {
+      "text": "the",
+      "startMs": 20492,
+      "endMs": 20561
+    },
+    {
+      "text": "release,",
+      "startMs": 20643,
+      "endMs": 21096
+    },
+    {
+      "text": "and",
+      "startMs": 21281,
+      "endMs": 21432
+    },
+    {
+      "text": "explained",
+      "startMs": 21514,
+      "endMs": 22048
+    },
+    {
+      "text": "the",
+      "startMs": 22071,
+      "endMs": 22140
+    },
+    {
+      "text": "stakeholder",
+      "startMs": 22175,
+      "endMs": 22733
+    },
+    {
+      "text": "feedback",
+      "startMs": 22814,
+      "endMs": 23301
+    },
+    {
+      "text": "and",
+      "startMs": 23383,
+      "endMs": 23487
+    },
+    {
+      "text": "the",
+      "startMs": 23534,
+      "endMs": 23603
+    },
+    {
+      "text": "defects",
+      "startMs": 23661,
+      "endMs": 24137
+    },
+    {
+      "text": "testing",
+      "startMs": 24195,
+      "endMs": 24567
+    },
+    {
+      "text": "had",
+      "startMs": 24602,
+      "endMs": 24706
+    },
+    {
+      "text": "turned",
+      "startMs": 24741,
+      "endMs": 25055
+    },
+    {
+      "text": "up.",
+      "startMs": 25113,
+      "endMs": 25345
+    },
+    {
+      "text": "She",
+      "startMs": 25577,
+      "endMs": 25716
+    },
+    {
+      "text": "wanted",
+      "startMs": 25774,
+      "endMs": 26041
+    },
+    {
+      "text": "people",
+      "startMs": 26076,
+      "endMs": 26343
+    },
+    {
+      "text": "to",
+      "startMs": 26378,
+      "endMs": 26424
+    },
+    {
+      "text": "have",
+      "startMs": 26506,
+      "endMs": 26657
+    },
+    {
+      "text": "context",
+      "startMs": 26715,
+      "endMs": 27353
+    },
+    {
+      "text": "before",
+      "startMs": 27620,
+      "endMs": 28108
+    },
+    {
+      "text": "she",
+      "startMs": 28154,
+      "endMs": 28270
+    },
+    {
+      "text": "asked",
+      "startMs": 28352,
+      "endMs": 28572
+    },
+    {
+      "text": "them",
+      "startMs": 28596,
+      "endMs": 28723
+    },
+    {
+      "text": "to",
+      "startMs": 28805,
+      "endMs": 28990
+    },
+    {
+      "text": "change",
+      "startMs": 29130,
+      "endMs": 29513
+    },
+    {
+      "text": "direction,",
+      "startMs": 29571,
+      "endMs": 30186
+    },
+    {
+      "text": "and",
+      "startMs": 30418,
+      "endMs": 30558
+    },
+    {
+      "text": "she",
+      "startMs": 30604,
+      "endMs": 30685
+    },
+    {
+      "text": "didn't",
+      "startMs": 30732,
+      "endMs": 30999
+    },
+    {
+      "text": "want",
+      "startMs": 31057,
+      "endMs": 31231
+    },
+    {
+      "text": "the",
+      "startMs": 31266,
+      "endMs": 31347
+    },
+    {
+      "text": "release",
+      "startMs": 31394,
+      "endMs": 31719
+    },
+    {
+      "text": "to",
+      "startMs": 31742,
+      "endMs": 31800
+    },
+    {
+      "text": "sound",
+      "startMs": 31858,
+      "endMs": 32067
+    },
+    {
+      "text": "worse",
+      "startMs": 32148.000000000004,
+      "endMs": 32438.000000000004
+    },
+    {
+      "text": "than",
+      "startMs": 32473,
+      "endMs": 32613
+    },
+    {
+      "text": "it",
+      "startMs": 32659,
+      "endMs": 32740.000000000004
+    },
+    {
+      "text": "already",
+      "startMs": 32822,
+      "endMs": 33356
+    },
+    {
+      "text": "was.",
+      "startMs": 33460,
+      "endMs": 33901
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "text": "The last time your team asked for more people, did anyone check whether the constraint was headcount, or something the headcount was covering up?",
+  "durationMs": 8591,
+  "words": [
+    {
+      "text": "The",
+      "startMs": 0,
+      "endMs": 139
+    },
+    {
+      "text": "last",
+      "startMs": 186,
+      "endMs": 372
+    },
+    {
+      "text": "time",
+      "startMs": 418,
+      "endMs": 604
+    },
+    {
+      "text": "your",
+      "startMs": 650,
+      "endMs": 766
+    },
+    {
+      "text": "team",
+      "startMs": 824,
+      "endMs": 1091
+    },
+    {
+      "text": "asked",
+      "startMs": 1277,
+      "endMs": 1567
+    },
+    {
+      "text": "for",
+      "startMs": 1602,
+      "endMs": 1730
+    },
+    {
+      "text": "more",
+      "startMs": 1811,
+      "endMs": 1997
+    },
+    {
+      "text": "people,",
+      "startMs": 2043.0000000000002,
+      "endMs": 2519
+    },
+    {
+      "text": "did",
+      "startMs": 2647,
+      "endMs": 2821
+    },
+    {
+      "text": "anyone",
+      "startMs": 2902,
+      "endMs": 3309
+    },
+    {
+      "text": "check",
+      "startMs": 3355,
+      "endMs": 3657
+    },
+    {
+      "text": "whether",
+      "startMs": 3738,
+      "endMs": 4040
+    },
+    {
+      "text": "the",
+      "startMs": 4168,
+      "endMs": 4272
+    },
+    {
+      "text": "constraint",
+      "startMs": 4331,
+      "endMs": 4899
+    },
+    {
+      "text": "was",
+      "startMs": 4981,
+      "endMs": 5236
+    },
+    {
+      "text": "headcount,",
+      "startMs": 5584,
+      "endMs": 6246
+    },
+    {
+      "text": "or",
+      "startMs": 6281,
+      "endMs": 6374
+    },
+    {
+      "text": "something",
+      "startMs": 6420,
+      "endMs": 6722
+    },
+    {
+      "text": "the",
+      "startMs": 6769,
+      "endMs": 6838
+    },
+    {
+      "text": "headcount",
+      "startMs": 6885,
+      "endMs": 7326
+    },
+    {
+      "text": "was",
+      "startMs": 7372,
+      "endMs": 7488
+    },
+    {
+      "text": "covering",
+      "startMs": 7593,
+      "endMs": 8034.000000000001
+    },
+    {
+      "text": "up?",
+      "startMs": 8115,
+      "endMs": 8591
+    }
+  ]
+}

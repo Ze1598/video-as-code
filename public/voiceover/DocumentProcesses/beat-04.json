@@ -1,0 +1,166 @@
+{
+  "text": "IT rejected it. The approval needed to come from the department head, not his manager. The justification needed to name the client project. And he had selected the wrong license type entirely.",
+  "durationMs": 12028,
+  "words": [
+    {
+      "text": "IT",
+      "startMs": 0,
+      "endMs": 511
+    },
+    {
+      "text": "rejected",
+      "startMs": 743,
+      "endMs": 1265
+    },
+    {
+      "text": "it.",
+      "startMs": 1312,
+      "endMs": 1416
+    },
+    {
+      "text": "The",
+      "startMs": 1451,
+      "endMs": 1567
+    },
+    {
+      "text": "approval",
+      "startMs": 1625,
+      "endMs": 2125
+    },
+    {
+      "text": "needed",
+      "startMs": 2206,
+      "endMs": 2473
+    },
+    {
+      "text": "to",
+      "startMs": 2519,
+      "endMs": 2589
+    },
+    {
+      "text": "come",
+      "startMs": 2682,
+      "endMs": 2868
+    },
+    {
+      "text": "from",
+      "startMs": 2902,
+      "endMs": 3042
+    },
+    {
+      "text": "the",
+      "startMs": 3088,
+      "endMs": 3158
+    },
+    {
+      "text": "department",
+      "startMs": 3216,
+      "endMs": 3866
+    },
+    {
+      "text": "head,",
+      "startMs": 4005,
+      "endMs": 4493
+    },
+    {
+      "text": "not",
+      "startMs": 4841,
+      "endMs": 5062
+    },
+    {
+      "text": "his",
+      "startMs": 5143,
+      "endMs": 5259
+    },
+    {
+      "text": "manager.",
+      "startMs": 5352,
+      "endMs": 5840
+    },
+    {
+      "text": "The",
+      "startMs": 5875,
+      "endMs": 5991
+    },
+    {
+      "text": "justification",
+      "startMs": 6072,
+      "endMs": 6827
+    },
+    {
+      "text": "needed",
+      "startMs": 6885,
+      "endMs": 7175
+    },
+    {
+      "text": "to",
+      "startMs": 7221,
+      "endMs": 7279
+    },
+    {
+      "text": "name",
+      "startMs": 7361,
+      "endMs": 7546
+    },
+    {
+      "text": "the",
+      "startMs": 7581,
+      "endMs": 7651
+    },
+    {
+      "text": "client",
+      "startMs": 7686,
+      "endMs": 7999
+    },
+    {
+      "text": "project.",
+      "startMs": 8057,
+      "endMs": 8615
+    },
+    {
+      "text": "And",
+      "startMs": 8847,
+      "endMs": 9033
+    },
+    {
+      "text": "he",
+      "startMs": 9125,
+      "endMs": 9218
+    },
+    {
+      "text": "had",
+      "startMs": 9265,
+      "endMs": 9346
+    },
+    {
+      "text": "selected",
+      "startMs": 9392,
+      "endMs": 9810
+    },
+    {
+      "text": "the",
+      "startMs": 9845,
+      "endMs": 9915
+    },
+    {
+      "text": "wrong",
+      "startMs": 9950,
+      "endMs": 10147
+    },
+    {
+      "text": "license",
+      "startMs": 10205,
+      "endMs": 10577
+    },
+    {
+      "text": "type",
+      "startMs": 10612,
+      "endMs": 10960
+    },
+    {
+      "text": "entirely.",
+      "startMs": 10995,
+      "endMs": 12028
+    }
+  ]
+}

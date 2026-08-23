@@ -1,0 +1,211 @@
+{
+  "text": "The license request needed a short checklist inside the ticket form. Select the license that matches your role. Name the project that requires it. Add the correct cost centre. Attach approval from the department head. Submit the request through this form.",
+  "durationMs": 14396,
+  "words": [
+    {
+      "text": "The",
+      "startMs": 0,
+      "endMs": 128
+    },
+    {
+      "text": "license",
+      "startMs": 221,
+      "endMs": 604
+    },
+    {
+      "text": "request",
+      "startMs": 639,
+      "endMs": 1022
+    },
+    {
+      "text": "needed",
+      "startMs": 1080,
+      "endMs": 1335
+    },
+    {
+      "text": "a",
+      "startMs": 1428,
+      "endMs": 1474
+    },
+    {
+      "text": "short",
+      "startMs": 1556,
+      "endMs": 1811
+    },
+    {
+      "text": "checklist",
+      "startMs": 1846,
+      "endMs": 2426
+    },
+    {
+      "text": "inside",
+      "startMs": 2531,
+      "endMs": 2949
+    },
+    {
+      "text": "the",
+      "startMs": 2972,
+      "endMs": 3042
+    },
+    {
+      "text": "ticket",
+      "startMs": 3088,
+      "endMs": 3367
+    },
+    {
+      "text": "form.",
+      "startMs": 3425,
+      "endMs": 3796
+    },
+    {
+      "text": "Select",
+      "startMs": 4062.9999999999995,
+      "endMs": 4435
+    },
+    {
+      "text": "the",
+      "startMs": 4458,
+      "endMs": 4528
+    },
+    {
+      "text": "license",
+      "startMs": 4609,
+      "endMs": 5016
+    },
+    {
+      "text": "that",
+      "startMs": 5050,
+      "endMs": 5166
+    },
+    {
+      "text": "matches",
+      "startMs": 5248,
+      "endMs": 5654
+    },
+    {
+      "text": "your",
+      "startMs": 5712,
+      "endMs": 5851
+    },
+    {
+      "text": "role.",
+      "startMs": 5898,
+      "endMs": 6246
+    },
+    {
+      "text": "Name",
+      "startMs": 6513,
+      "endMs": 6792
+    },
+    {
+      "text": "the",
+      "startMs": 6815,
+      "endMs": 6885
+    },
+    {
+      "text": "project",
+      "startMs": 6931,
+      "endMs": 7279
+    },
+    {
+      "text": "that",
+      "startMs": 7303,
+      "endMs": 7407
+    },
+    {
+      "text": "requires",
+      "startMs": 7454,
+      "endMs": 7953
+    },
+    {
+      "text": "it.",
+      "startMs": 7999,
+      "endMs": 8173
+    },
+    {
+      "text": "Add",
+      "startMs": 8278,
+      "endMs": 8487
+    },
+    {
+      "text": "the",
+      "startMs": 8522,
+      "endMs": 8591
+    },
+    {
+      "text": "correct",
+      "startMs": 8638,
+      "endMs": 8893
+    },
+    {
+      "text": "cost",
+      "startMs": 8940,
+      "endMs": 9230
+    },
+    {
+      "text": "centre.",
+      "startMs": 9253,
+      "endMs": 9752
+    },
+    {
+      "text": "Attach",
+      "startMs": 9985,
+      "endMs": 10414
+    },
+    {
+      "text": "approval",
+      "startMs": 10449,
+      "endMs": 10855
+    },
+    {
+      "text": "from",
+      "startMs": 10937,
+      "endMs": 11076
+    },
+    {
+      "text": "the",
+      "startMs": 11111,
+      "endMs": 11180
+    },
+    {
+      "text": "department",
+      "startMs": 11227,
+      "endMs": 11761
+    },
+    {
+      "text": "head.",
+      "startMs": 11854,
+      "endMs": 12156
+    },
+    {
+      "text": "Submit",
+      "startMs": 12457,
+      "endMs": 12887
+    },
+    {
+      "text": "the",
+      "startMs": 12922,
+      "endMs": 12992
+    },
+    {
+      "text": "request",
+      "startMs": 13038,
+      "endMs": 13351
+    },
+    {
+      "text": "through",
+      "startMs": 13386,
+      "endMs": 13584
+    },
+    {
+      "text": "this",
+      "startMs": 13607,
+      "endMs": 13746
+    },
+    {
+      "text": "form.",
+      "startMs": 13839,
+      "endMs": 14396
+    }
+  ]
+}

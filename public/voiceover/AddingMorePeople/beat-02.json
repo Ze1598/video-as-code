@@ -1,0 +1,416 @@
+{
+  "text": "The new engineers showed up ready to help. But they had no system access yet, barely knew the product, and had never seen how the architecture fit together. So the senior engineers stepped in, setting up environments, walking through domain rules, reviewing every early change, catching mistakes before they shipped. Delivery slowed even further. But that cost alone didn't make the decision wrong. New people need support before they can contribute, a few difficult months could still buy a real gain later.",
+  "durationMs": 32461,
+  "words": [
+    {
+      "text": "The",
+      "startMs": 0,
+      "endMs": 151
+    },
+    {
+      "text": "new",
+      "startMs": 232,
+      "endMs": 383
+    },
+    {
+      "text": "engineers",
+      "startMs": 418,
+      "endMs": 952
+    },
+    {
+      "text": "showed",
+      "startMs": 1080,
+      "endMs": 1405
+    },
+    {
+      "text": "up",
+      "startMs": 1463,
+      "endMs": 1544
+    },
+    {
+      "text": "ready",
+      "startMs": 1683,
+      "endMs": 1939
+    },
+    {
+      "text": "to",
+      "startMs": 2020,
+      "endMs": 2101
+    },
+    {
+      "text": "help.",
+      "startMs": 2194,
+      "endMs": 2508
+    },
+    {
+      "text": "But",
+      "startMs": 2566,
+      "endMs": 2763
+    },
+    {
+      "text": "they",
+      "startMs": 2798,
+      "endMs": 2926
+    },
+    {
+      "text": "had",
+      "startMs": 2961,
+      "endMs": 3100
+    },
+    {
+      "text": "no",
+      "startMs": 3204,
+      "endMs": 3379
+    },
+    {
+      "text": "system",
+      "startMs": 3483,
+      "endMs": 3878
+    },
+    {
+      "text": "access",
+      "startMs": 3971,
+      "endMs": 4389
+    },
+    {
+      "text": "yet,",
+      "startMs": 4470,
+      "endMs": 4934
+    },
+    {
+      "text": "barely",
+      "startMs": 5120,
+      "endMs": 5480
+    },
+    {
+      "text": "knew",
+      "startMs": 5526,
+      "endMs": 5654
+    },
+    {
+      "text": "the",
+      "startMs": 5700,
+      "endMs": 5770
+    },
+    {
+      "text": "product,",
+      "startMs": 5817,
+      "endMs": 6235
+    },
+    {
+      "text": "and",
+      "startMs": 6258,
+      "endMs": 6374
+    },
+    {
+      "text": "had",
+      "startMs": 6455,
+      "endMs": 6594
+    },
+    {
+      "text": "never",
+      "startMs": 6722,
+      "endMs": 6989
+    },
+    {
+      "text": "seen",
+      "startMs": 7082,
+      "endMs": 7372
+    },
+    {
+      "text": "how",
+      "startMs": 7454,
+      "endMs": 7593
+    },
+    {
+      "text": "the",
+      "startMs": 7651,
+      "endMs": 7721
+    },
+    {
+      "text": "architecture",
+      "startMs": 7779,
+      "endMs": 8440
+    },
+    {
+      "text": "fit",
+      "startMs": 8522,
+      "endMs": 8719
+    },
+    {
+      "text": "together.",
+      "startMs": 8777,
+      "endMs": 9300
+    },
+    {
+      "text": "So",
+      "startMs": 9648,
+      "endMs": 9810
+    },
+    {
+      "text": "the",
+      "startMs": 9868,
+      "endMs": 9938
+    },
+    {
+      "text": "senior",
+      "startMs": 9985,
+      "endMs": 10310
+    },
+    {
+      "text": "engineers",
+      "startMs": 10391,
+      "endMs": 10960
+    },
+    {
+      "text": "stepped",
+      "startMs": 11122,
+      "endMs": 11471
+    },
+    {
+      "text": "in,",
+      "startMs": 11517,
+      "endMs": 11784
+    },
+    {
+      "text": "setting",
+      "startMs": 11970,
+      "endMs": 12330
+    },
+    {
+      "text": "up",
+      "startMs": 12376,
+      "endMs": 12481
+    },
+    {
+      "text": "environments,",
+      "startMs": 12562,
+      "endMs": 13259
+    },
+    {
+      "text": "walking",
+      "startMs": 13363,
+      "endMs": 13746
+    },
+    {
+      "text": "through",
+      "startMs": 13781,
+      "endMs": 13967
+    },
+    {
+      "text": "domain",
+      "startMs": 14001,
+      "endMs": 14338
+    },
+    {
+      "text": "rules,",
+      "startMs": 14396,
+      "endMs": 14861
+    },
+    {
+      "text": "reviewing",
+      "startMs": 15046,
+      "endMs": 15487
+    },
+    {
+      "text": "every",
+      "startMs": 15627,
+      "endMs": 15964
+    },
+    {
+      "text": "early",
+      "startMs": 16149,
+      "endMs": 16463
+    },
+    {
+      "text": "change,",
+      "startMs": 16544,
+      "endMs": 17008
+    },
+    {
+      "text": "catching",
+      "startMs": 17066,
+      "endMs": 17519
+    },
+    {
+      "text": "mistakes",
+      "startMs": 17577,
+      "endMs": 18111
+    },
+    {
+      "text": "before",
+      "startMs": 18216,
+      "endMs": 18669
+    },
+    {
+      "text": "they",
+      "startMs": 18715,
+      "endMs": 18843
+    },
+    {
+      "text": "shipped.",
+      "startMs": 18924,
+      "endMs": 19330
+    },
+    {
+      "text": "Delivery",
+      "startMs": 19679,
+      "endMs": 20155
+    },
+    {
+      "text": "slowed",
+      "startMs": 20248,
+      "endMs": 20642
+    },
+    {
+      "text": "even",
+      "startMs": 20782,
+      "endMs": 21130
+    },
+    {
+      "text": "further.",
+      "startMs": 21223,
+      "endMs": 21803
+    },
+    {
+      "text": "But",
+      "startMs": 22036,
+      "endMs": 22186
+    },
+    {
+      "text": "that",
+      "startMs": 22221,
+      "endMs": 22372
+    },
+    {
+      "text": "cost",
+      "startMs": 22465,
+      "endMs": 22825
+    },
+    {
+      "text": "alone",
+      "startMs": 22883,
+      "endMs": 23440
+    },
+    {
+      "text": "didn't",
+      "startMs": 23522,
+      "endMs": 23835
+    },
+    {
+      "text": "make",
+      "startMs": 23916,
+      "endMs": 24125
+    },
+    {
+      "text": "the",
+      "startMs": 24160,
+      "endMs": 24230
+    },
+    {
+      "text": "decision",
+      "startMs": 24288,
+      "endMs": 24752
+    },
+    {
+      "text": "wrong.",
+      "startMs": 24845,
+      "endMs": 25298
+    },
+    {
+      "text": "New",
+      "startMs": 25646,
+      "endMs": 25878
+    },
+    {
+      "text": "people",
+      "startMs": 25971,
+      "endMs": 26296
+    },
+    {
+      "text": "need",
+      "startMs": 26331,
+      "endMs": 26494
+    },
+    {
+      "text": "support",
+      "startMs": 26540,
+      "endMs": 26981
+    },
+    {
+      "text": "before",
+      "startMs": 27039,
+      "endMs": 27527
+    },
+    {
+      "text": "they",
+      "startMs": 27573,
+      "endMs": 27701
+    },
+    {
+      "text": "can",
+      "startMs": 27759,
+      "endMs": 27887
+    },
+    {
+      "text": "contribute,",
+      "startMs": 27968,
+      "endMs": 28630
+    },
+    {
+      "text": "a",
+      "startMs": 28676,
+      "endMs": 28734
+    },
+    {
+      "text": "few",
+      "startMs": 28827,
+      "endMs": 29001
+    },
+    {
+      "text": "difficult",
+      "startMs": 29048,
+      "endMs": 29454
+    },
+    {
+      "text": "months",
+      "startMs": 29512,
+      "endMs": 29768
+    },
+    {
+      "text": "could",
+      "startMs": 29826,
+      "endMs": 29988
+    },
+    {
+      "text": "still",
+      "startMs": 30035,
+      "endMs": 30325
+    },
+    {
+      "text": "buy",
+      "startMs": 30430,
+      "endMs": 30708
+    },
+    {
+      "text": "a",
+      "startMs": 30801,
+      "endMs": 30859
+    },
+    {
+      "text": "real",
+      "startMs": 30987,
+      "endMs": 31242
+    },
+    {
+      "text": "gain",
+      "startMs": 31323,
+      "endMs": 31591
+    },
+    {
+      "text": "later.",
+      "startMs": 31695,
+      "endMs": 32461
+    }
+  ]
+}

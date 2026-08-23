@@ -1,0 +1,161 @@
+{
+  "text": "It started with a staffing plan. The first lead had already assigned a senior engineer to her project for the next month, a commitment that was part of an approved plan.",
+  "durationMs": 10913,
+  "words": [
+    {
+      "text": "It",
+      "startMs": 0,
+      "endMs": 163
+    },
+    {
+      "text": "started",
+      "startMs": 255,
+      "endMs": 755
+    },
+    {
+      "text": "with",
+      "startMs": 836,
+      "endMs": 987
+    },
+    {
+      "text": "a",
+      "startMs": 1033,
+      "endMs": 1057
+    },
+    {
+      "text": "staffing",
+      "startMs": 1149,
+      "endMs": 1672
+    },
+    {
+      "text": "plan.",
+      "startMs": 1765,
+      "endMs": 2136
+    },
+    {
+      "text": "The",
+      "startMs": 2368,
+      "endMs": 2485
+    },
+    {
+      "text": "first",
+      "startMs": 2566,
+      "endMs": 2810
+    },
+    {
+      "text": "lead",
+      "startMs": 2856,
+      "endMs": 3030
+    },
+    {
+      "text": "had",
+      "startMs": 3111,
+      "endMs": 3251
+    },
+    {
+      "text": "already",
+      "startMs": 3309,
+      "endMs": 3611
+    },
+    {
+      "text": "assigned",
+      "startMs": 3657,
+      "endMs": 4062.9999999999995
+    },
+    {
+      "text": "a",
+      "startMs": 4098,
+      "endMs": 4133
+    },
+    {
+      "text": "senior",
+      "startMs": 4180,
+      "endMs": 4598
+    },
+    {
+      "text": "engineer",
+      "startMs": 4690,
+      "endMs": 5271
+    },
+    {
+      "text": "to",
+      "startMs": 5375,
+      "endMs": 6095
+    },
+    {
+      "text": "her",
+      "startMs": 6235,
+      "endMs": 6420
+    },
+    {
+      "text": "project",
+      "startMs": 6525,
+      "endMs": 7024
+    },
+    {
+      "text": "for",
+      "startMs": 7070,
+      "endMs": 7187
+    },
+    {
+      "text": "the",
+      "startMs": 7233,
+      "endMs": 7303
+    },
+    {
+      "text": "next",
+      "startMs": 7361,
+      "endMs": 7593
+    },
+    {
+      "text": "month,",
+      "startMs": 7651,
+      "endMs": 7941
+    },
+    {
+      "text": "a",
+      "startMs": 8173,
+      "endMs": 8255
+    },
+    {
+      "text": "commitment",
+      "startMs": 8336,
+      "endMs": 8893
+    },
+    {
+      "text": "that",
+      "startMs": 8940,
+      "endMs": 9091
+    },
+    {
+      "text": "was",
+      "startMs": 9149,
+      "endMs": 9276
+    },
+    {
+      "text": "part",
+      "startMs": 9381,
+      "endMs": 9601
+    },
+    {
+      "text": "of",
+      "startMs": 9648,
+      "endMs": 9694
+    },
+    {
+      "text": "an",
+      "startMs": 9752,
+      "endMs": 9810
+    },
+    {
+      "text": "approved",
+      "startMs": 9845,
+      "endMs": 10228
+    },
+    {
+      "text": "plan.",
+      "startMs": 10310,
+      "endMs": 10913
+    }
+  ]
+}

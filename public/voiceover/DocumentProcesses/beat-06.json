@@ -1,0 +1,371 @@
+{
+  "text": "Then she went on leave. Requests started arriving with missing cost centres, invalid approvals, vague justifications like needed for work. Some employees messaged IT directly. Others copied instructions from old tickets. One manager approved a license the department did not even purchase anymore. IT rejected the tickets. Employees waited. Managers answered the same questions in separate conversations. And the coordinator came back to a backlog built by a process everyone had followed differently.",
+  "durationMs": 31579,
+  "words": [
+    {
+      "text": "Then",
+      "startMs": 0,
+      "endMs": 592
+    },
+    {
+      "text": "she",
+      "startMs": 778,
+      "endMs": 1881
+    },
+    {
+      "text": "went",
+      "startMs": 1916,
+      "endMs": 2090
+    },
+    {
+      "text": "on",
+      "startMs": 2136,
+      "endMs": 2218
+    },
+    {
+      "text": "leave.",
+      "startMs": 2345,
+      "endMs": 2717
+    },
+    {
+      "text": "Requests",
+      "startMs": 2879,
+      "endMs": 3541
+    },
+    {
+      "text": "started",
+      "startMs": 3704,
+      "endMs": 4133
+    },
+    {
+      "text": "arriving",
+      "startMs": 4180,
+      "endMs": 4690
+    },
+    {
+      "text": "with",
+      "startMs": 4748,
+      "endMs": 4899
+    },
+    {
+      "text": "missing",
+      "startMs": 4934,
+      "endMs": 5190
+    },
+    {
+      "text": "cost",
+      "startMs": 5248,
+      "endMs": 5619
+    },
+    {
+      "text": "centres,",
+      "startMs": 5677,
+      "endMs": 6235
+    },
+    {
+      "text": "invalid",
+      "startMs": 6316,
+      "endMs": 6861
+    },
+    {
+      "text": "approvals,",
+      "startMs": 6896,
+      "endMs": 7639
+    },
+    {
+      "text": "vague",
+      "startMs": 7872,
+      "endMs": 8173
+    },
+    {
+      "text": "justifications",
+      "startMs": 8220,
+      "endMs": 9067
+    },
+    {
+      "text": "like",
+      "startMs": 9114,
+      "endMs": 9288
+    },
+    {
+      "text": "needed",
+      "startMs": 9369,
+      "endMs": 9648
+    },
+    {
+      "text": "for",
+      "startMs": 9694,
+      "endMs": 9834
+    },
+    {
+      "text": "work.",
+      "startMs": 9892,
+      "endMs": 10263
+    },
+    {
+      "text": "Some",
+      "startMs": 10495,
+      "endMs": 10728
+    },
+    {
+      "text": "employees",
+      "startMs": 10751,
+      "endMs": 11169
+    },
+    {
+      "text": "messaged",
+      "startMs": 11250,
+      "endMs": 11680
+    },
+    {
+      "text": "IT",
+      "startMs": 11819,
+      "endMs": 12132
+    },
+    {
+      "text": "directly.",
+      "startMs": 12365,
+      "endMs": 13131
+    },
+    {
+      "text": "Others",
+      "startMs": 13398,
+      "endMs": 13735
+    },
+    {
+      "text": "copied",
+      "startMs": 13827,
+      "endMs": 14187
+    },
+    {
+      "text": "instructions",
+      "startMs": 14222,
+      "endMs": 14791
+    },
+    {
+      "text": "from",
+      "startMs": 14826,
+      "endMs": 14977
+    },
+    {
+      "text": "old",
+      "startMs": 15058,
+      "endMs": 15244
+    },
+    {
+      "text": "tickets.",
+      "startMs": 15267,
+      "endMs": 15836
+    },
+    {
+      "text": "One",
+      "startMs": 16068.000000000002,
+      "endMs": 16300
+    },
+    {
+      "text": "manager",
+      "startMs": 16346,
+      "endMs": 16706
+    },
+    {
+      "text": "approved",
+      "startMs": 16753,
+      "endMs": 17136
+    },
+    {
+      "text": "a",
+      "startMs": 17171,
+      "endMs": 17194
+    },
+    {
+      "text": "license",
+      "startMs": 17275,
+      "endMs": 17693
+    },
+    {
+      "text": "the",
+      "startMs": 17728,
+      "endMs": 17798
+    },
+    {
+      "text": "department",
+      "startMs": 17856,
+      "endMs": 18332
+    },
+    {
+      "text": "did",
+      "startMs": 18390,
+      "endMs": 18587
+    },
+    {
+      "text": "not",
+      "startMs": 18645,
+      "endMs": 18773
+    },
+    {
+      "text": "even",
+      "startMs": 18854,
+      "endMs": 19086
+    },
+    {
+      "text": "purchase",
+      "startMs": 19144,
+      "endMs": 19528
+    },
+    {
+      "text": "anymore.",
+      "startMs": 19586,
+      "endMs": 20073
+    },
+    {
+      "text": "IT",
+      "startMs": 20201,
+      "endMs": 20491
+    },
+    {
+      "text": "rejected",
+      "startMs": 20584,
+      "endMs": 21072
+    },
+    {
+      "text": "the",
+      "startMs": 21107,
+      "endMs": 21176
+    },
+    {
+      "text": "tickets.",
+      "startMs": 21211,
+      "endMs": 21792
+    },
+    {
+      "text": "Employees",
+      "startMs": 21977,
+      "endMs": 22523
+    },
+    {
+      "text": "waited.",
+      "startMs": 22627,
+      "endMs": 23034
+    },
+    {
+      "text": "Managers",
+      "startMs": 23161,
+      "endMs": 23638
+    },
+    {
+      "text": "answered",
+      "startMs": 23730,
+      "endMs": 24114
+    },
+    {
+      "text": "the",
+      "startMs": 24137,
+      "endMs": 24206
+    },
+    {
+      "text": "same",
+      "startMs": 24241,
+      "endMs": 24404
+    },
+    {
+      "text": "questions",
+      "startMs": 24439,
+      "endMs": 24880
+    },
+    {
+      "text": "in",
+      "startMs": 24926,
+      "endMs": 24984
+    },
+    {
+      "text": "separate",
+      "startMs": 25042,
+      "endMs": 25472
+    },
+    {
+      "text": "conversations.",
+      "startMs": 25507,
+      "endMs": 26354
+    },
+    {
+      "text": "And",
+      "startMs": 26540,
+      "endMs": 26679
+    },
+    {
+      "text": "the",
+      "startMs": 26714,
+      "endMs": 26784
+    },
+    {
+      "text": "coordinator",
+      "startMs": 26830,
+      "endMs": 27411
+    },
+    {
+      "text": "came",
+      "startMs": 27469,
+      "endMs": 27655
+    },
+    {
+      "text": "back",
+      "startMs": 27678,
+      "endMs": 27864
+    },
+    {
+      "text": "to",
+      "startMs": 27922,
+      "endMs": 27980
+    },
+    {
+      "text": "a",
+      "startMs": 28038,
+      "endMs": 28073
+    },
+    {
+      "text": "backlog",
+      "startMs": 28119,
+      "endMs": 28549
+    },
+    {
+      "text": "built",
+      "startMs": 28630,
+      "endMs": 28874
+    },
+    {
+      "text": "by",
+      "startMs": 28920,
+      "endMs": 29048
+    },
+    {
+      "text": "a",
+      "startMs": 29071,
+      "endMs": 29094
+    },
+    {
+      "text": "process",
+      "startMs": 29141,
+      "endMs": 29675
+    },
+    {
+      "text": "everyone",
+      "startMs": 29756,
+      "endMs": 30186
+    },
+    {
+      "text": "had",
+      "startMs": 30220,
+      "endMs": 30325
+    },
+    {
+      "text": "followed",
+      "startMs": 30383,
+      "endMs": 30685
+    },
+    {
+      "text": "differently.",
+      "startMs": 30708,
+      "endMs": 31579
+    }
+  ]
+}

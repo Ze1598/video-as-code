@@ -1,0 +1,211 @@
+{
+  "text": "The first correction: stop treating tickets closed as an individual performance score. A raw count says nothing about difficulty, quality, customer value, defects created, or work it enabled elsewhere. It turns dangerous the moment it starts carrying status, promotion, and protection.",
+  "durationMs": 18437,
+  "words": [
+    {
+      "text": "The",
+      "startMs": 0,
+      "endMs": 139
+    },
+    {
+      "text": "first",
+      "startMs": 186,
+      "endMs": 372
+    },
+    {
+      "text": "correction:",
+      "startMs": 418,
+      "endMs": 894
+    },
+    {
+      "text": "stop",
+      "startMs": 952,
+      "endMs": 1219
+    },
+    {
+      "text": "treating",
+      "startMs": 1265,
+      "endMs": 1579
+    },
+    {
+      "text": "tickets",
+      "startMs": 1625,
+      "endMs": 1985
+    },
+    {
+      "text": "closed",
+      "startMs": 2032,
+      "endMs": 2415
+    },
+    {
+      "text": "as",
+      "startMs": 2473,
+      "endMs": 2577
+    },
+    {
+      "text": "an",
+      "startMs": 2635,
+      "endMs": 2705
+    },
+    {
+      "text": "individual",
+      "startMs": 2833,
+      "endMs": 3495
+    },
+    {
+      "text": "performance",
+      "startMs": 3587,
+      "endMs": 4214
+    },
+    {
+      "text": "score.",
+      "startMs": 4238,
+      "endMs": 4702
+    },
+    {
+      "text": "A",
+      "startMs": 4934,
+      "endMs": 5027
+    },
+    {
+      "text": "raw",
+      "startMs": 5132,
+      "endMs": 5317
+    },
+    {
+      "text": "count",
+      "startMs": 5364,
+      "endMs": 5550
+    },
+    {
+      "text": "says",
+      "startMs": 5584,
+      "endMs": 5770
+    },
+    {
+      "text": "nothing",
+      "startMs": 5875,
+      "endMs": 6177
+    },
+    {
+      "text": "about",
+      "startMs": 6223,
+      "endMs": 6467
+    },
+    {
+      "text": "difficulty,",
+      "startMs": 6513,
+      "endMs": 7221
+    },
+    {
+      "text": "quality,",
+      "startMs": 7303,
+      "endMs": 8069.000000000001
+    },
+    {
+      "text": "customer",
+      "startMs": 8150,
+      "endMs": 8603
+    },
+    {
+      "text": "value,",
+      "startMs": 8684,
+      "endMs": 9125
+    },
+    {
+      "text": "defects",
+      "startMs": 9207,
+      "endMs": 9764
+    },
+    {
+      "text": "created,",
+      "startMs": 9892,
+      "endMs": 10565
+    },
+    {
+      "text": "or",
+      "startMs": 10751,
+      "endMs": 10937
+    },
+    {
+      "text": "work",
+      "startMs": 11018,
+      "endMs": 11262
+    },
+    {
+      "text": "it",
+      "startMs": 11320,
+      "endMs": 11401
+    },
+    {
+      "text": "enabled",
+      "startMs": 11505,
+      "endMs": 12051
+    },
+    {
+      "text": "elsewhere.",
+      "startMs": 12179,
+      "endMs": 12794
+    },
+    {
+      "text": "It",
+      "startMs": 13212,
+      "endMs": 13363
+    },
+    {
+      "text": "turns",
+      "startMs": 13386,
+      "endMs": 13653
+    },
+    {
+      "text": "dangerous",
+      "startMs": 13711,
+      "endMs": 14129
+    },
+    {
+      "text": "the",
+      "startMs": 14187,
+      "endMs": 14280
+    },
+    {
+      "text": "moment",
+      "startMs": 14362,
+      "endMs": 14768
+    },
+    {
+      "text": "it",
+      "startMs": 14849,
+      "endMs": 14942
+    },
+    {
+      "text": "starts",
+      "startMs": 15023,
+      "endMs": 15430
+    },
+    {
+      "text": "carrying",
+      "startMs": 15511,
+      "endMs": 15882
+    },
+    {
+      "text": "status,",
+      "startMs": 15964,
+      "endMs": 16591
+    },
+    {
+      "text": "promotion,",
+      "startMs": 16718,
+      "endMs": 17345
+    },
+    {
+      "text": "and",
+      "startMs": 17380,
+      "endMs": 17508
+    },
+    {
+      "text": "protection.",
+      "startMs": 17589,
+      "endMs": 18437
+    }
+  ]
+}

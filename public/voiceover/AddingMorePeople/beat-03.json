@@ -1,0 +1,106 @@
+{
+  "text": "The new engineers settled in. They stopped needing hand-holding, started shipping on their own. And the backlog kept growing anyway.",
+  "durationMs": 8638,
+  "words": [
+    {
+      "text": "The",
+      "startMs": 0,
+      "endMs": 151
+    },
+    {
+      "text": "new",
+      "startMs": 232,
+      "endMs": 372
+    },
+    {
+      "text": "engineers",
+      "startMs": 929,
+      "endMs": 1556
+    },
+    {
+      "text": "settled",
+      "startMs": 1718,
+      "endMs": 2148
+    },
+    {
+      "text": "in.",
+      "startMs": 2194,
+      "endMs": 2403
+    },
+    {
+      "text": "They",
+      "startMs": 2670,
+      "endMs": 2844
+    },
+    {
+      "text": "stopped",
+      "startMs": 2902,
+      "endMs": 3251
+    },
+    {
+      "text": "needing",
+      "startMs": 3344,
+      "endMs": 3657
+    },
+    {
+      "text": "hand-holding,",
+      "startMs": 3750,
+      "endMs": 4493
+    },
+    {
+      "text": "started",
+      "startMs": 4516,
+      "endMs": 4946
+    },
+    {
+      "text": "shipping",
+      "startMs": 4992,
+      "endMs": 5341
+    },
+    {
+      "text": "on",
+      "startMs": 5399,
+      "endMs": 5480
+    },
+    {
+      "text": "their",
+      "startMs": 5526,
+      "endMs": 5700
+    },
+    {
+      "text": "own.",
+      "startMs": 5782,
+      "endMs": 6153
+    },
+    {
+      "text": "And",
+      "startMs": 6339,
+      "endMs": 6490
+    },
+    {
+      "text": "the",
+      "startMs": 6525,
+      "endMs": 6594
+    },
+    {
+      "text": "backlog",
+      "startMs": 6676,
+      "endMs": 7187
+    },
+    {
+      "text": "kept",
+      "startMs": 7233,
+      "endMs": 7430
+    },
+    {
+      "text": "growing",
+      "startMs": 7523,
+      "endMs": 7814
+    },
+    {
+      "text": "anyway.",
+      "startMs": 7918,
+      "endMs": 8638
+    }
+  ]
+}

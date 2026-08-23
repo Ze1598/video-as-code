@@ -1,0 +1,366 @@
+{
+  "text": "Over the next few days, the gap held, and nobody noticed it. Some engineers kept building features. One team lead understood the defects now carried higher priority, but not that feature work had stopped entirely. Another assumed the instruction only applied to the engineers already assigned to the release. The manager believed she'd issued a clear decision. The team had heard another adjustment to a list of priorities they'd already been juggling.",
+  "durationMs": 28421,
+  "words": [
+    {
+      "text": "Over",
+      "startMs": 0,
+      "endMs": 836
+    },
+    {
+      "text": "the",
+      "startMs": 964,
+      "endMs": 1068
+    },
+    {
+      "text": "next",
+      "startMs": 1173,
+      "endMs": 1498
+    },
+    {
+      "text": "few",
+      "startMs": 1916,
+      "endMs": 2125
+    },
+    {
+      "text": "days,",
+      "startMs": 2183,
+      "endMs": 2635
+    },
+    {
+      "text": "the",
+      "startMs": 2775,
+      "endMs": 2879
+    },
+    {
+      "text": "gap",
+      "startMs": 2961,
+      "endMs": 3204
+    },
+    {
+      "text": "held,",
+      "startMs": 3286,
+      "endMs": 3657
+    },
+    {
+      "text": "and",
+      "startMs": 3704,
+      "endMs": 3947
+    },
+    {
+      "text": "nobody",
+      "startMs": 4075,
+      "endMs": 4458
+    },
+    {
+      "text": "noticed",
+      "startMs": 5120,
+      "endMs": 5515
+    },
+    {
+      "text": "it.",
+      "startMs": 5561,
+      "endMs": 5724
+    },
+    {
+      "text": "Some",
+      "startMs": 5956,
+      "endMs": 6246
+    },
+    {
+      "text": "engineers",
+      "startMs": 6293,
+      "endMs": 6757
+    },
+    {
+      "text": "kept",
+      "startMs": 6815,
+      "endMs": 7001
+    },
+    {
+      "text": "building",
+      "startMs": 7047,
+      "endMs": 7372
+    },
+    {
+      "text": "features.",
+      "startMs": 7465,
+      "endMs": 8069.000000000001
+    },
+    {
+      "text": "One",
+      "startMs": 8173,
+      "endMs": 8429
+    },
+    {
+      "text": "team",
+      "startMs": 8475,
+      "endMs": 8719
+    },
+    {
+      "text": "lead",
+      "startMs": 8800,
+      "endMs": 8951
+    },
+    {
+      "text": "understood",
+      "startMs": 9009,
+      "endMs": 9497
+    },
+    {
+      "text": "the",
+      "startMs": 9520,
+      "endMs": 9590
+    },
+    {
+      "text": "defects",
+      "startMs": 9636,
+      "endMs": 10136
+    },
+    {
+      "text": "now",
+      "startMs": 10217,
+      "endMs": 10379
+    },
+    {
+      "text": "carried",
+      "startMs": 10472,
+      "endMs": 10820
+    },
+    {
+      "text": "higher",
+      "startMs": 10879,
+      "endMs": 11146
+    },
+    {
+      "text": "priority,",
+      "startMs": 11227,
+      "endMs": 11993
+    },
+    {
+      "text": "but",
+      "startMs": 12225,
+      "endMs": 12411
+    },
+    {
+      "text": "not",
+      "startMs": 12457,
+      "endMs": 12643
+    },
+    {
+      "text": "that",
+      "startMs": 12678,
+      "endMs": 12794
+    },
+    {
+      "text": "feature",
+      "startMs": 12852,
+      "endMs": 13166
+    },
+    {
+      "text": "work",
+      "startMs": 13201,
+      "endMs": 13386
+    },
+    {
+      "text": "had",
+      "startMs": 13444,
+      "endMs": 13572
+    },
+    {
+      "text": "stopped",
+      "startMs": 13630,
+      "endMs": 14013
+    },
+    {
+      "text": "entirely.",
+      "startMs": 14048,
+      "endMs": 14675
+    },
+    {
+      "text": "Another",
+      "startMs": 14733,
+      "endMs": 15151
+    },
+    {
+      "text": "assumed",
+      "startMs": 15197,
+      "endMs": 15638
+    },
+    {
+      "text": "the",
+      "startMs": 15662,
+      "endMs": 15731
+    },
+    {
+      "text": "instruction",
+      "startMs": 15789,
+      "endMs": 16358
+    },
+    {
+      "text": "only",
+      "startMs": 16463,
+      "endMs": 16730
+    },
+    {
+      "text": "applied",
+      "startMs": 16776,
+      "endMs": 17148
+    },
+    {
+      "text": "to",
+      "startMs": 17171,
+      "endMs": 17252
+    },
+    {
+      "text": "the",
+      "startMs": 17287,
+      "endMs": 17357
+    },
+    {
+      "text": "engineers",
+      "startMs": 17484,
+      "endMs": 18042
+    },
+    {
+      "text": "already",
+      "startMs": 18169,
+      "endMs": 18680
+    },
+    {
+      "text": "assigned",
+      "startMs": 18738,
+      "endMs": 19261
+    },
+    {
+      "text": "to",
+      "startMs": 19307,
+      "endMs": 19388
+    },
+    {
+      "text": "the",
+      "startMs": 19447,
+      "endMs": 19516
+    },
+    {
+      "text": "release.",
+      "startMs": 19574,
+      "endMs": 20143
+    },
+    {
+      "text": "The",
+      "startMs": 20329,
+      "endMs": 20457
+    },
+    {
+      "text": "manager",
+      "startMs": 20549,
+      "endMs": 21014
+    },
+    {
+      "text": "believed",
+      "startMs": 21072,
+      "endMs": 21467
+    },
+    {
+      "text": "she'd",
+      "startMs": 21548,
+      "endMs": 21734
+    },
+    {
+      "text": "issued",
+      "startMs": 21792,
+      "endMs": 22175
+    },
+    {
+      "text": "a",
+      "startMs": 22233,
+      "endMs": 22268
+    },
+    {
+      "text": "clear",
+      "startMs": 22372,
+      "endMs": 22651
+    },
+    {
+      "text": "decision.",
+      "startMs": 22709,
+      "endMs": 23220
+    },
+    {
+      "text": "The",
+      "startMs": 23406,
+      "endMs": 23533
+    },
+    {
+      "text": "team",
+      "startMs": 23591,
+      "endMs": 23823
+    },
+    {
+      "text": "had",
+      "startMs": 23882,
+      "endMs": 23998
+    },
+    {
+      "text": "heard",
+      "startMs": 24125,
+      "endMs": 24416
+    },
+    {
+      "text": "another",
+      "startMs": 24508,
+      "endMs": 24950
+    },
+    {
+      "text": "adjustment",
+      "startMs": 25008,
+      "endMs": 25495
+    },
+    {
+      "text": "to",
+      "startMs": 25542,
+      "endMs": 25611
+    },
+    {
+      "text": "a",
+      "startMs": 25704,
+      "endMs": 25728
+    },
+    {
+      "text": "list",
+      "startMs": 25786,
+      "endMs": 25995
+    },
+    {
+      "text": "of",
+      "startMs": 26041,
+      "endMs": 26099
+    },
+    {
+      "text": "priorities",
+      "startMs": 26192,
+      "endMs": 26819
+    },
+    {
+      "text": "they'd",
+      "startMs": 26877,
+      "endMs": 27074
+    },
+    {
+      "text": "already",
+      "startMs": 27121,
+      "endMs": 27446
+    },
+    {
+      "text": "been",
+      "startMs": 27504,
+      "endMs": 27655
+    },
+    {
+      "text": "juggling.",
+      "startMs": 27701,
+      "endMs": 28421
+    }
+  ]
+}

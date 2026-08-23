@@ -1,0 +1,291 @@
+{
+  "text": "Helping a colleague meant stepping away from his own work. Pairing meant splitting credit for one ticket instead of closing two alone. A careful review took longer than typing 'looks good.' His manager kept asking him to collaborate — but every visible reward in the building told him to protect his time and maximize his own output.",
+  "durationMs": 20945,
+  "words": [
+    {
+      "text": "Helping",
+      "startMs": 0,
+      "endMs": 441
+    },
+    {
+      "text": "a",
+      "startMs": 546,
+      "endMs": 1022
+    },
+    {
+      "text": "colleague",
+      "startMs": 1126,
+      "endMs": 1486
+    },
+    {
+      "text": "meant",
+      "startMs": 1533,
+      "endMs": 1753
+    },
+    {
+      "text": "stepping",
+      "startMs": 1834,
+      "endMs": 2218
+    },
+    {
+      "text": "away",
+      "startMs": 2264,
+      "endMs": 2450
+    },
+    {
+      "text": "from",
+      "startMs": 2496,
+      "endMs": 2635
+    },
+    {
+      "text": "his",
+      "startMs": 2717,
+      "endMs": 2833
+    },
+    {
+      "text": "own",
+      "startMs": 2879,
+      "endMs": 3030
+    },
+    {
+      "text": "work.",
+      "startMs": 3088,
+      "endMs": 3506
+    },
+    {
+      "text": "Pairing",
+      "startMs": 3855,
+      "endMs": 4168
+    },
+    {
+      "text": "meant",
+      "startMs": 4249,
+      "endMs": 4447
+    },
+    {
+      "text": "splitting",
+      "startMs": 4574,
+      "endMs": 5190
+    },
+    {
+      "text": "credit",
+      "startMs": 5352,
+      "endMs": 5700
+    },
+    {
+      "text": "for",
+      "startMs": 5759,
+      "endMs": 5875
+    },
+    {
+      "text": "one",
+      "startMs": 5968,
+      "endMs": 6118
+    },
+    {
+      "text": "ticket",
+      "startMs": 6153,
+      "endMs": 6536
+    },
+    {
+      "text": "instead",
+      "startMs": 6618,
+      "endMs": 6978
+    },
+    {
+      "text": "of",
+      "startMs": 7012,
+      "endMs": 7059
+    },
+    {
+      "text": "closing",
+      "startMs": 7140,
+      "endMs": 7709
+    },
+    {
+      "text": "two",
+      "startMs": 8371,
+      "endMs": 8673
+    },
+    {
+      "text": "alone.",
+      "startMs": 8800,
+      "endMs": 9323
+    },
+    {
+      "text": "A",
+      "startMs": 9590,
+      "endMs": 9683
+    },
+    {
+      "text": "careful",
+      "startMs": 9776,
+      "endMs": 10101
+    },
+    {
+      "text": "review",
+      "startMs": 10159,
+      "endMs": 10449
+    },
+    {
+      "text": "took",
+      "startMs": 10530,
+      "endMs": 10762
+    },
+    {
+      "text": "longer",
+      "startMs": 10844,
+      "endMs": 11122
+    },
+    {
+      "text": "than",
+      "startMs": 11157,
+      "endMs": 11285
+    },
+    {
+      "text": "typing",
+      "startMs": 11343,
+      "endMs": 11796
+    },
+    {
+      "text": "'looks",
+      "startMs": 11923,
+      "endMs": 12330
+    },
+    {
+      "text": "good.'",
+      "startMs": 12411,
+      "endMs": 12794
+    },
+    {
+      "text": "His",
+      "startMs": 13026,
+      "endMs": 13224
+    },
+    {
+      "text": "manager",
+      "startMs": 13305,
+      "endMs": 13711
+    },
+    {
+      "text": "kept",
+      "startMs": 13793,
+      "endMs": 13990
+    },
+    {
+      "text": "asking",
+      "startMs": 14025,
+      "endMs": 14338
+    },
+    {
+      "text": "him",
+      "startMs": 14396,
+      "endMs": 14489
+    },
+    {
+      "text": "to",
+      "startMs": 14547,
+      "endMs": 14606
+    },
+    {
+      "text": "collaborate",
+      "startMs": 14687,
+      "endMs": 15279
+    },
+    {
+      "text": "—",
+      "startMs": 15314,
+      "endMs": 15465
+    },
+    {
+      "text": "but",
+      "startMs": 15558,
+      "endMs": 15720
+    },
+    {
+      "text": "every",
+      "startMs": 15778,
+      "endMs": 16079.999999999998
+    },
+    {
+      "text": "visible",
+      "startMs": 16126.999999999998,
+      "endMs": 16487
+    },
+    {
+      "text": "reward",
+      "startMs": 16533,
+      "endMs": 16881
+    },
+    {
+      "text": "in",
+      "startMs": 16916,
+      "endMs": 16974
+    },
+    {
+      "text": "the",
+      "startMs": 17009,
+      "endMs": 17079
+    },
+    {
+      "text": "building",
+      "startMs": 17125,
+      "endMs": 17439
+    },
+    {
+      "text": "told",
+      "startMs": 17566,
+      "endMs": 17926
+    },
+    {
+      "text": "him",
+      "startMs": 17973,
+      "endMs": 18066
+    },
+    {
+      "text": "to",
+      "startMs": 18124,
+      "endMs": 18182
+    },
+    {
+      "text": "protect",
+      "startMs": 18240,
+      "endMs": 18588
+    },
+    {
+      "text": "his",
+      "startMs": 18623,
+      "endMs": 18727
+    },
+    {
+      "text": "time",
+      "startMs": 18774,
+      "endMs": 19052
+    },
+    {
+      "text": "and",
+      "startMs": 19099,
+      "endMs": 19203
+    },
+    {
+      "text": "maximize",
+      "startMs": 19285,
+      "endMs": 19795
+    },
+    {
+      "text": "his",
+      "startMs": 19819,
+      "endMs": 19912
+    },
+    {
+      "text": "own",
+      "startMs": 19970,
+      "endMs": 20121
+    },
+    {
+      "text": "output.",
+      "startMs": 20155,
+      "endMs": 20945
+    }
+  ]
+}

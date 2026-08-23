@@ -1,0 +1,136 @@
+{
+  "text": "A manager gave the same feedback three times. Three times, nothing changed. Whatever was making the behavior worth it, it wasn't anything said in that room.",
+  "durationMs": 9613,
+  "words": [
+    {
+      "text": "A",
+      "startMs": 0,
+      "endMs": 81
+    },
+    {
+      "text": "manager",
+      "startMs": 186,
+      "endMs": 569
+    },
+    {
+      "text": "gave",
+      "startMs": 627,
+      "endMs": 894
+    },
+    {
+      "text": "the",
+      "startMs": 929,
+      "endMs": 1010
+    },
+    {
+      "text": "same",
+      "startMs": 1057,
+      "endMs": 1231
+    },
+    {
+      "text": "feedback",
+      "startMs": 1289,
+      "endMs": 1765
+    },
+    {
+      "text": "three",
+      "startMs": 1846,
+      "endMs": 2055
+    },
+    {
+      "text": "times.",
+      "startMs": 2113,
+      "endMs": 2612
+    },
+    {
+      "text": "Three",
+      "startMs": 2844,
+      "endMs": 3065
+    },
+    {
+      "text": "times,",
+      "startMs": 3111,
+      "endMs": 3425
+    },
+    {
+      "text": "nothing",
+      "startMs": 3471,
+      "endMs": 3762
+    },
+    {
+      "text": "changed.",
+      "startMs": 3843,
+      "endMs": 4400
+    },
+    {
+      "text": "Whatever",
+      "startMs": 4667,
+      "endMs": 5062
+    },
+    {
+      "text": "was",
+      "startMs": 5120,
+      "endMs": 5236
+    },
+    {
+      "text": "making",
+      "startMs": 5317,
+      "endMs": 5596
+    },
+    {
+      "text": "the",
+      "startMs": 5642,
+      "endMs": 5712
+    },
+    {
+      "text": "behavior",
+      "startMs": 5759,
+      "endMs": 6223
+    },
+    {
+      "text": "worth",
+      "startMs": 6304,
+      "endMs": 6571
+    },
+    {
+      "text": "it,",
+      "startMs": 6653,
+      "endMs": 6861
+    },
+    {
+      "text": "it",
+      "startMs": 6920,
+      "endMs": 7059
+    },
+    {
+      "text": "wasn't",
+      "startMs": 7140,
+      "endMs": 7558
+    },
+    {
+      "text": "anything",
+      "startMs": 7744,
+      "endMs": 8324
+    },
+    {
+      "text": "said",
+      "startMs": 8429,
+      "endMs": 8707
+    },
+    {
+      "text": "in",
+      "startMs": 8766,
+      "endMs": 8824
+    },
+    {
+      "text": "that",
+      "startMs": 8870,
+      "endMs": 9056
+    },
+    {
+      "text": "room.",
+      "startMs": 9160,
+      "endMs": 9613
+    }
+  ]
+}

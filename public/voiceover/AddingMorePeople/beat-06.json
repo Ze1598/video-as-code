@@ -1,0 +1,361 @@
+{
+  "text": "The team didn't have one capacity problem. It had three, and nobody had ever separated them. People can lack the skills the work requires. They can have the skills and still lose their time to waste. Or the work itself can simply exceed what a capable, focused team can do. Each one needs a different fix, and this team had been treating all three as if they were the same problem.",
+  "durationMs": 21966,
+  "words": [
+    {
+      "text": "The",
+      "startMs": 0,
+      "endMs": 151
+    },
+    {
+      "text": "team",
+      "startMs": 209,
+      "endMs": 406
+    },
+    {
+      "text": "didn't",
+      "startMs": 511,
+      "endMs": 836
+    },
+    {
+      "text": "have",
+      "startMs": 964,
+      "endMs": 1335
+    },
+    {
+      "text": "one",
+      "startMs": 1474,
+      "endMs": 1707
+    },
+    {
+      "text": "capacity",
+      "startMs": 1741,
+      "endMs": 2287
+    },
+    {
+      "text": "problem.",
+      "startMs": 2380,
+      "endMs": 2775
+    },
+    {
+      "text": "It",
+      "startMs": 2798,
+      "endMs": 2891
+    },
+    {
+      "text": "had",
+      "startMs": 2937,
+      "endMs": 3088
+    },
+    {
+      "text": "three,",
+      "startMs": 3170,
+      "endMs": 3518
+    },
+    {
+      "text": "and",
+      "startMs": 3541,
+      "endMs": 3680
+    },
+    {
+      "text": "nobody",
+      "startMs": 3762,
+      "endMs": 4110
+    },
+    {
+      "text": "had",
+      "startMs": 4168,
+      "endMs": 4284
+    },
+    {
+      "text": "ever",
+      "startMs": 4342,
+      "endMs": 4505
+    },
+    {
+      "text": "separated",
+      "startMs": 4563,
+      "endMs": 5062
+    },
+    {
+      "text": "them.",
+      "startMs": 5085,
+      "endMs": 5271
+    },
+    {
+      "text": "People",
+      "startMs": 5306,
+      "endMs": 5631
+    },
+    {
+      "text": "can",
+      "startMs": 5677,
+      "endMs": 5805
+    },
+    {
+      "text": "lack",
+      "startMs": 5933,
+      "endMs": 6188
+    },
+    {
+      "text": "the",
+      "startMs": 6246,
+      "endMs": 6316
+    },
+    {
+      "text": "skills",
+      "startMs": 6351,
+      "endMs": 6641
+    },
+    {
+      "text": "the",
+      "startMs": 6664,
+      "endMs": 6734
+    },
+    {
+      "text": "work",
+      "startMs": 6792,
+      "endMs": 6989
+    },
+    {
+      "text": "requires.",
+      "startMs": 7047,
+      "endMs": 7721
+    },
+    {
+      "text": "They",
+      "startMs": 7953,
+      "endMs": 8115
+    },
+    {
+      "text": "can",
+      "startMs": 8150,
+      "endMs": 8278
+    },
+    {
+      "text": "have",
+      "startMs": 8359,
+      "endMs": 8533
+    },
+    {
+      "text": "the",
+      "startMs": 8568,
+      "endMs": 8638
+    },
+    {
+      "text": "skills",
+      "startMs": 8673,
+      "endMs": 9044
+    },
+    {
+      "text": "and",
+      "startMs": 9102,
+      "endMs": 9218
+    },
+    {
+      "text": "still",
+      "startMs": 9276,
+      "endMs": 9497
+    },
+    {
+      "text": "lose",
+      "startMs": 9601,
+      "endMs": 9857
+    },
+    {
+      "text": "their",
+      "startMs": 9892,
+      "endMs": 10043
+    },
+    {
+      "text": "time",
+      "startMs": 10101,
+      "endMs": 10403
+    },
+    {
+      "text": "to",
+      "startMs": 10461,
+      "endMs": 10565
+    },
+    {
+      "text": "waste.",
+      "startMs": 10670,
+      "endMs": 11192
+    },
+    {
+      "text": "Or",
+      "startMs": 11540,
+      "endMs": 11761
+    },
+    {
+      "text": "the",
+      "startMs": 11807,
+      "endMs": 11889
+    },
+    {
+      "text": "work",
+      "startMs": 11935,
+      "endMs": 12167
+    },
+    {
+      "text": "itself",
+      "startMs": 12225,
+      "endMs": 12632
+    },
+    {
+      "text": "can",
+      "startMs": 12713,
+      "endMs": 12852
+    },
+    {
+      "text": "simply",
+      "startMs": 12933,
+      "endMs": 13293
+    },
+    {
+      "text": "exceed",
+      "startMs": 13351,
+      "endMs": 13757
+    },
+    {
+      "text": "what",
+      "startMs": 13885,
+      "endMs": 14106
+    },
+    {
+      "text": "a",
+      "startMs": 14164,
+      "endMs": 14199
+    },
+    {
+      "text": "capable,",
+      "startMs": 14257,
+      "endMs": 14767
+    },
+    {
+      "text": "focused",
+      "startMs": 14802,
+      "endMs": 15302
+    },
+    {
+      "text": "team",
+      "startMs": 15394,
+      "endMs": 15580
+    },
+    {
+      "text": "can",
+      "startMs": 15638,
+      "endMs": 15766
+    },
+    {
+      "text": "do.",
+      "startMs": 15824,
+      "endMs": 16079
+    },
+    {
+      "text": "Each",
+      "startMs": 16172,
+      "endMs": 16393
+    },
+    {
+      "text": "one",
+      "startMs": 16474,
+      "endMs": 16637
+    },
+    {
+      "text": "needs",
+      "startMs": 16683,
+      "endMs": 16880
+    },
+    {
+      "text": "a",
+      "startMs": 16915,
+      "endMs": 16950
+    },
+    {
+      "text": "different",
+      "startMs": 17008,
+      "endMs": 17322
+    },
+    {
+      "text": "fix,",
+      "startMs": 17368,
+      "endMs": 17705
+    },
+    {
+      "text": "and",
+      "startMs": 17751,
+      "endMs": 17867
+    },
+    {
+      "text": "this",
+      "startMs": 17902,
+      "endMs": 18053
+    },
+    {
+      "text": "team",
+      "startMs": 18100,
+      "endMs": 18285
+    },
+    {
+      "text": "had",
+      "startMs": 18343,
+      "endMs": 18448
+    },
+    {
+      "text": "been",
+      "startMs": 18494,
+      "endMs": 18645
+    },
+    {
+      "text": "treating",
+      "startMs": 18680,
+      "endMs": 19028
+    },
+    {
+      "text": "all",
+      "startMs": 19121,
+      "endMs": 19261
+    },
+    {
+      "text": "three",
+      "startMs": 19319,
+      "endMs": 19609
+    },
+    {
+      "text": "as",
+      "startMs": 19876,
+      "endMs": 20085
+    },
+    {
+      "text": "if",
+      "startMs": 20143,
+      "endMs": 20247
+    },
+    {
+      "text": "they",
+      "startMs": 20294,
+      "endMs": 20422
+    },
+    {
+      "text": "were",
+      "startMs": 20468,
+      "endMs": 20619
+    },
+    {
+      "text": "the",
+      "startMs": 20665,
+      "endMs": 20747
+    },
+    {
+      "text": "same",
+      "startMs": 20828,
+      "endMs": 21153
+    },
+    {
+      "text": "problem.",
+      "startMs": 21211,
+      "endMs": 21966
+    }
+  ]
+}

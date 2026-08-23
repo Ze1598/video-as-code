@@ -1,0 +1,306 @@
+{
+  "text": "When the manager saw feature work still moving, she did the only thing that made sense from where she was standing. She sent more context: a follow-up message explaining the release risk, summarizing the defects, repeating the need for flexibility. The decision was in there. It was buried in there exactly the same way it had been the first time.",
+  "durationMs": 19690,
+  "words": [
+    {
+      "text": "When",
+      "startMs": 0,
+      "endMs": 255
+    },
+    {
+      "text": "the",
+      "startMs": 313,
+      "endMs": 418
+    },
+    {
+      "text": "manager",
+      "startMs": 476,
+      "endMs": 789
+    },
+    {
+      "text": "saw",
+      "startMs": 871,
+      "endMs": 1057
+    },
+    {
+      "text": "feature",
+      "startMs": 1184,
+      "endMs": 1567
+    },
+    {
+      "text": "work",
+      "startMs": 1625,
+      "endMs": 1800
+    },
+    {
+      "text": "still",
+      "startMs": 1881,
+      "endMs": 2171
+    },
+    {
+      "text": "moving,",
+      "startMs": 2276,
+      "endMs": 2740
+    },
+    {
+      "text": "she",
+      "startMs": 2775,
+      "endMs": 2902
+    },
+    {
+      "text": "did",
+      "startMs": 2961,
+      "endMs": 3088
+    },
+    {
+      "text": "the",
+      "startMs": 3123,
+      "endMs": 3193
+    },
+    {
+      "text": "only",
+      "startMs": 3228,
+      "endMs": 3402
+    },
+    {
+      "text": "thing",
+      "startMs": 3437,
+      "endMs": 3576
+    },
+    {
+      "text": "that",
+      "startMs": 3622,
+      "endMs": 3750
+    },
+    {
+      "text": "made",
+      "startMs": 3843,
+      "endMs": 4029
+    },
+    {
+      "text": "sense",
+      "startMs": 4122,
+      "endMs": 4528
+    },
+    {
+      "text": "from",
+      "startMs": 4586,
+      "endMs": 4748
+    },
+    {
+      "text": "where",
+      "startMs": 4795,
+      "endMs": 4981
+    },
+    {
+      "text": "she",
+      "startMs": 5016,
+      "endMs": 5108
+    },
+    {
+      "text": "was",
+      "startMs": 5155,
+      "endMs": 5259
+    },
+    {
+      "text": "standing.",
+      "startMs": 5306,
+      "endMs": 5886
+    },
+    {
+      "text": "She",
+      "startMs": 6118,
+      "endMs": 6246
+    },
+    {
+      "text": "sent",
+      "startMs": 6327,
+      "endMs": 6560
+    },
+    {
+      "text": "more",
+      "startMs": 6594,
+      "endMs": 6734
+    },
+    {
+      "text": "context:",
+      "startMs": 6792,
+      "endMs": 7407
+    },
+    {
+      "text": "a",
+      "startMs": 7465,
+      "endMs": 7523
+    },
+    {
+      "text": "follow-up",
+      "startMs": 7651,
+      "endMs": 8045.999999999999
+    },
+    {
+      "text": "message",
+      "startMs": 8127.000000000001,
+      "endMs": 8742
+    },
+    {
+      "text": "explaining",
+      "startMs": 8870,
+      "endMs": 9532
+    },
+    {
+      "text": "the",
+      "startMs": 9590,
+      "endMs": 9660
+    },
+    {
+      "text": "release",
+      "startMs": 9718,
+      "endMs": 10101
+    },
+    {
+      "text": "risk,",
+      "startMs": 10182,
+      "endMs": 10635
+    },
+    {
+      "text": "summarizing",
+      "startMs": 10820,
+      "endMs": 11575
+    },
+    {
+      "text": "the",
+      "startMs": 11622,
+      "endMs": 11691
+    },
+    {
+      "text": "defects,",
+      "startMs": 11738,
+      "endMs": 12411
+    },
+    {
+      "text": "repeating",
+      "startMs": 12492,
+      "endMs": 12922
+    },
+    {
+      "text": "the",
+      "startMs": 12957,
+      "endMs": 13026
+    },
+    {
+      "text": "need",
+      "startMs": 13061,
+      "endMs": 13212
+    },
+    {
+      "text": "for",
+      "startMs": 13258,
+      "endMs": 13386
+    },
+    {
+      "text": "flexibility.",
+      "startMs": 13444,
+      "endMs": 14350
+    },
+    {
+      "text": "The",
+      "startMs": 14617,
+      "endMs": 14733
+    },
+    {
+      "text": "decision",
+      "startMs": 14791,
+      "endMs": 15267
+    },
+    {
+      "text": "was",
+      "startMs": 15325,
+      "endMs": 15464
+    },
+    {
+      "text": "in",
+      "startMs": 15546,
+      "endMs": 15615
+    },
+    {
+      "text": "there.",
+      "startMs": 15697,
+      "endMs": 15964
+    },
+    {
+      "text": "It",
+      "startMs": 15998,
+      "endMs": 16079.999999999998
+    },
+    {
+      "text": "was",
+      "startMs": 16138.000000000002,
+      "endMs": 16254.000000000002
+    },
+    {
+      "text": "buried",
+      "startMs": 16382.000000000002,
+      "endMs": 16788
+    },
+    {
+      "text": "in",
+      "startMs": 16823,
+      "endMs": 16881
+    },
+    {
+      "text": "there",
+      "startMs": 16927,
+      "endMs": 17125
+    },
+    {
+      "text": "exactly",
+      "startMs": 17183,
+      "endMs": 17751
+    },
+    {
+      "text": "the",
+      "startMs": 17786,
+      "endMs": 17856
+    },
+    {
+      "text": "same",
+      "startMs": 17902,
+      "endMs": 18135
+    },
+    {
+      "text": "way",
+      "startMs": 18181,
+      "endMs": 18297
+    },
+    {
+      "text": "it",
+      "startMs": 18355,
+      "endMs": 18425
+    },
+    {
+      "text": "had",
+      "startMs": 18460,
+      "endMs": 18553
+    },
+    {
+      "text": "been",
+      "startMs": 18587,
+      "endMs": 18738
+    },
+    {
+      "text": "the",
+      "startMs": 18773,
+      "endMs": 18843
+    },
+    {
+      "text": "first",
+      "startMs": 18901,
+      "endMs": 19145
+    },
+    {
+      "text": "time.",
+      "startMs": 19180,
+      "endMs": 19690
+    }
+  ]
+}

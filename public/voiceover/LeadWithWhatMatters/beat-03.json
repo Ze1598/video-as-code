@@ -1,0 +1,361 @@
+{
+  "text": "Then she said it. We need to prioritize the release defects this week. And the meeting kept working. Team leads asked about severity, about ownership, about deadlines, and she answered every question. Everyone left with more information than they'd walked in with. It looked, in the room, like it had landed. What none of those questions ever tested was whether people understood something had actually changed, instead of just been adjusted.",
+  "durationMs": 29768,
+  "words": [
+    {
+      "text": "Then",
+      "startMs": 0,
+      "endMs": 546
+    },
+    {
+      "text": "she",
+      "startMs": 708,
+      "endMs": 940
+    },
+    {
+      "text": "said",
+      "startMs": 1022,
+      "endMs": 1219
+    },
+    {
+      "text": "it.",
+      "startMs": 1265,
+      "endMs": 1440
+    },
+    {
+      "text": "We",
+      "startMs": 1741,
+      "endMs": 1858
+    },
+    {
+      "text": "need",
+      "startMs": 1904,
+      "endMs": 2078
+    },
+    {
+      "text": "to",
+      "startMs": 2113,
+      "endMs": 2183
+    },
+    {
+      "text": "prioritize",
+      "startMs": 2264,
+      "endMs": 3158
+    },
+    {
+      "text": "the",
+      "startMs": 3251,
+      "endMs": 3379
+    },
+    {
+      "text": "release",
+      "startMs": 3437,
+      "endMs": 3785
+    },
+    {
+      "text": "defects",
+      "startMs": 3831,
+      "endMs": 4319
+    },
+    {
+      "text": "this",
+      "startMs": 4377,
+      "endMs": 4551
+    },
+    {
+      "text": "week.",
+      "startMs": 4644,
+      "endMs": 5016
+    },
+    {
+      "text": "And",
+      "startMs": 5364,
+      "endMs": 5550
+    },
+    {
+      "text": "the",
+      "startMs": 5608,
+      "endMs": 5689
+    },
+    {
+      "text": "meeting",
+      "startMs": 5770,
+      "endMs": 6177
+    },
+    {
+      "text": "kept",
+      "startMs": 6269,
+      "endMs": 6560
+    },
+    {
+      "text": "working.",
+      "startMs": 6653,
+      "endMs": 7221
+    },
+    {
+      "text": "Team",
+      "startMs": 7883,
+      "endMs": 8255
+    },
+    {
+      "text": "leads",
+      "startMs": 8382,
+      "endMs": 8731
+    },
+    {
+      "text": "asked",
+      "startMs": 8835,
+      "endMs": 9183
+    },
+    {
+      "text": "about",
+      "startMs": 9218,
+      "endMs": 9439
+    },
+    {
+      "text": "severity,",
+      "startMs": 9497,
+      "endMs": 10275
+    },
+    {
+      "text": "about",
+      "startMs": 10298,
+      "endMs": 10646
+    },
+    {
+      "text": "ownership,",
+      "startMs": 10739,
+      "endMs": 11413
+    },
+    {
+      "text": "about",
+      "startMs": 11447,
+      "endMs": 11749
+    },
+    {
+      "text": "deadlines,",
+      "startMs": 11831,
+      "endMs": 12643
+    },
+    {
+      "text": "and",
+      "startMs": 12829,
+      "endMs": 12968
+    },
+    {
+      "text": "she",
+      "startMs": 13026,
+      "endMs": 13131
+    },
+    {
+      "text": "answered",
+      "startMs": 13212,
+      "endMs": 13572
+    },
+    {
+      "text": "every",
+      "startMs": 13665,
+      "endMs": 13955
+    },
+    {
+      "text": "question.",
+      "startMs": 14036,
+      "endMs": 14663
+    },
+    {
+      "text": "Everyone",
+      "startMs": 14756,
+      "endMs": 15290
+    },
+    {
+      "text": "left",
+      "startMs": 15395,
+      "endMs": 15801
+    },
+    {
+      "text": "with",
+      "startMs": 16068.000000000002,
+      "endMs": 16277.000000000002
+    },
+    {
+      "text": "more",
+      "startMs": 16358,
+      "endMs": 16591
+    },
+    {
+      "text": "information",
+      "startMs": 16672,
+      "endMs": 17357
+    },
+    {
+      "text": "than",
+      "startMs": 17404,
+      "endMs": 17531
+    },
+    {
+      "text": "they'd",
+      "startMs": 17566,
+      "endMs": 17729
+    },
+    {
+      "text": "walked",
+      "startMs": 17787,
+      "endMs": 18112
+    },
+    {
+      "text": "in",
+      "startMs": 18147,
+      "endMs": 18216
+    },
+    {
+      "text": "with.",
+      "startMs": 18298,
+      "endMs": 18623
+    },
+    {
+      "text": "It",
+      "startMs": 18890,
+      "endMs": 19064
+    },
+    {
+      "text": "looked,",
+      "startMs": 19145,
+      "endMs": 19447
+    },
+    {
+      "text": "in",
+      "startMs": 19482,
+      "endMs": 19633
+    },
+    {
+      "text": "the",
+      "startMs": 19679,
+      "endMs": 19749
+    },
+    {
+      "text": "room,",
+      "startMs": 19807,
+      "endMs": 20028
+    },
+    {
+      "text": "like",
+      "startMs": 20109,
+      "endMs": 20295
+    },
+    {
+      "text": "it",
+      "startMs": 20329,
+      "endMs": 20399
+    },
+    {
+      "text": "had",
+      "startMs": 20446,
+      "endMs": 20562
+    },
+    {
+      "text": "landed.",
+      "startMs": 20655,
+      "endMs": 21235
+    },
+    {
+      "text": "What",
+      "startMs": 21421,
+      "endMs": 21595
+    },
+    {
+      "text": "none",
+      "startMs": 21653,
+      "endMs": 21816
+    },
+    {
+      "text": "of",
+      "startMs": 21850,
+      "endMs": 21908
+    },
+    {
+      "text": "those",
+      "startMs": 21955,
+      "endMs": 22164
+    },
+    {
+      "text": "questions",
+      "startMs": 22222,
+      "endMs": 22826
+    },
+    {
+      "text": "ever",
+      "startMs": 22930,
+      "endMs": 23186
+    },
+    {
+      "text": "tested",
+      "startMs": 23244,
+      "endMs": 23731
+    },
+    {
+      "text": "was",
+      "startMs": 23824,
+      "endMs": 23987
+    },
+    {
+      "text": "whether",
+      "startMs": 24079,
+      "endMs": 24393
+    },
+    {
+      "text": "people",
+      "startMs": 24486,
+      "endMs": 25043
+    },
+    {
+      "text": "understood",
+      "startMs": 25229,
+      "endMs": 25833
+    },
+    {
+      "text": "something",
+      "startMs": 25914,
+      "endMs": 26285
+    },
+    {
+      "text": "had",
+      "startMs": 26367,
+      "endMs": 26494
+    },
+    {
+      "text": "actually",
+      "startMs": 26552,
+      "endMs": 26936
+    },
+    {
+      "text": "changed,",
+      "startMs": 27017,
+      "endMs": 27632
+    },
+    {
+      "text": "instead",
+      "startMs": 27864,
+      "endMs": 28282
+    },
+    {
+      "text": "of",
+      "startMs": 28317,
+      "endMs": 28375
+    },
+    {
+      "text": "just",
+      "startMs": 28468,
+      "endMs": 28665
+    },
+    {
+      "text": "been",
+      "startMs": 28700,
+      "endMs": 28840
+    },
+    {
+      "text": "adjusted.",
+      "startMs": 28886,
+      "endMs": 29768
+    }
+  ]
+}

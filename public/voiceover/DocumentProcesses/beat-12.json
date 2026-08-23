@@ -1,0 +1,86 @@
+{
+  "text": "Is there a step on your team that only works because one specific person remembers it?",
+  "durationMs": 4319,
+  "words": [
+    {
+      "text": "Is",
+      "startMs": 0,
+      "endMs": 139
+    },
+    {
+      "text": "there",
+      "startMs": 174,
+      "endMs": 325
+    },
+    {
+      "text": "a",
+      "startMs": 372,
+      "endMs": 395
+    },
+    {
+      "text": "step",
+      "startMs": 441,
+      "endMs": 673
+    },
+    {
+      "text": "on",
+      "startMs": 720,
+      "endMs": 789
+    },
+    {
+      "text": "your",
+      "startMs": 836,
+      "endMs": 940
+    },
+    {
+      "text": "team",
+      "startMs": 987,
+      "endMs": 1184
+    },
+    {
+      "text": "that",
+      "startMs": 1265,
+      "endMs": 1416
+    },
+    {
+      "text": "only",
+      "startMs": 1474,
+      "endMs": 1707
+    },
+    {
+      "text": "works",
+      "startMs": 1788,
+      "endMs": 2078
+    },
+    {
+      "text": "because",
+      "startMs": 2136,
+      "endMs": 2438
+    },
+    {
+      "text": "one",
+      "startMs": 2485,
+      "endMs": 2635
+    },
+    {
+      "text": "specific",
+      "startMs": 2670,
+      "endMs": 3135
+    },
+    {
+      "text": "person",
+      "startMs": 3193,
+      "endMs": 3483
+    },
+    {
+      "text": "remembers",
+      "startMs": 3529,
+      "endMs": 3913
+    },
+    {
+      "text": "it?",
+      "startMs": 3959,
+      "endMs": 4319
+    }
+  ]
+}

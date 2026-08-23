@@ -1,0 +1,86 @@
+{
+  "text": "Key change needed for this week: stop feature development today and work on the release defects.",
+  "durationMs": 5759,
+  "words": [
+    {
+      "text": "Key",
+      "startMs": 0,
+      "endMs": 267
+    },
+    {
+      "text": "change",
+      "startMs": 372,
+      "endMs": 685
+    },
+    {
+      "text": "needed",
+      "startMs": 766,
+      "endMs": 1033
+    },
+    {
+      "text": "for",
+      "startMs": 1126,
+      "endMs": 1277
+    },
+    {
+      "text": "this",
+      "startMs": 1358,
+      "endMs": 1509
+    },
+    {
+      "text": "week:",
+      "startMs": 1602,
+      "endMs": 1846
+    },
+    {
+      "text": "stop",
+      "startMs": 1927,
+      "endMs": 2264
+    },
+    {
+      "text": "feature",
+      "startMs": 2392,
+      "endMs": 2798
+    },
+    {
+      "text": "development",
+      "startMs": 2833,
+      "endMs": 3344
+    },
+    {
+      "text": "today",
+      "startMs": 3379,
+      "endMs": 3646
+    },
+    {
+      "text": "and",
+      "startMs": 3727,
+      "endMs": 3831
+    },
+    {
+      "text": "work",
+      "startMs": 3913,
+      "endMs": 4145
+    },
+    {
+      "text": "on",
+      "startMs": 4238,
+      "endMs": 4319
+    },
+    {
+      "text": "the",
+      "startMs": 4365,
+      "endMs": 4435
+    },
+    {
+      "text": "release",
+      "startMs": 4493,
+      "endMs": 4876
+    },
+    {
+      "text": "defects.",
+      "startMs": 4934,
+      "endMs": 5759
+    }
+  ]
+}

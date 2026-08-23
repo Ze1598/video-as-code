@@ -1,0 +1,31 @@
+{
+  "text": "So the feedback changed nothing.",
+  "durationMs": 1950,
+  "words": [
+    {
+      "text": "So",
+      "startMs": 0,
+      "endMs": 151
+    },
+    {
+      "text": "the",
+      "startMs": 232,
+      "endMs": 302
+    },
+    {
+      "text": "feedback",
+      "startMs": 348,
+      "endMs": 778
+    },
+    {
+      "text": "changed",
+      "startMs": 836,
+      "endMs": 1184
+    },
+    {
+      "text": "nothing.",
+      "startMs": 1312,
+      "endMs": 1950
+    }
+  ]
+}

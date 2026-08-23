@@ -1,0 +1,296 @@
+{
+  "text": "That's not carelessness. A room that's sat through dozens of status updates does exactly what those updates trained it to do: check messages, scan the agenda, wait for the part that's theirs. By the time she actually reached the decision, several people were already answering emails. Others were just waiting for the discussion to reach whatever involved them.",
+  "durationMs": 19691,
+  "words": [
+    {
+      "text": "That's",
+      "startMs": 0,
+      "endMs": 279
+    },
+    {
+      "text": "not",
+      "startMs": 337,
+      "endMs": 476
+    },
+    {
+      "text": "carelessness.",
+      "startMs": 522,
+      "endMs": 1207
+    },
+    {
+      "text": "A",
+      "startMs": 1231,
+      "endMs": 1289
+    },
+    {
+      "text": "room",
+      "startMs": 1347,
+      "endMs": 1509
+    },
+    {
+      "text": "that's",
+      "startMs": 1556,
+      "endMs": 1741
+    },
+    {
+      "text": "sat",
+      "startMs": 1776,
+      "endMs": 2043.0000000000002
+    },
+    {
+      "text": "through",
+      "startMs": 2101,
+      "endMs": 2380
+    },
+    {
+      "text": "dozens",
+      "startMs": 2473,
+      "endMs": 2879
+    },
+    {
+      "text": "of",
+      "startMs": 2926,
+      "endMs": 2984
+    },
+    {
+      "text": "status",
+      "startMs": 3042,
+      "endMs": 3425
+    },
+    {
+      "text": "updates",
+      "startMs": 3506,
+      "endMs": 4040
+    },
+    {
+      "text": "does",
+      "startMs": 4307,
+      "endMs": 4528
+    },
+    {
+      "text": "exactly",
+      "startMs": 4586,
+      "endMs": 5108
+    },
+    {
+      "text": "what",
+      "startMs": 5143,
+      "endMs": 5271
+    },
+    {
+      "text": "those",
+      "startMs": 5294,
+      "endMs": 5457
+    },
+    {
+      "text": "updates",
+      "startMs": 5503,
+      "endMs": 5898
+    },
+    {
+      "text": "trained",
+      "startMs": 5944,
+      "endMs": 6177
+    },
+    {
+      "text": "it",
+      "startMs": 6211,
+      "endMs": 6269
+    },
+    {
+      "text": "to",
+      "startMs": 6304,
+      "endMs": 6374
+    },
+    {
+      "text": "do:",
+      "startMs": 6432,
+      "endMs": 6653
+    },
+    {
+      "text": "check",
+      "startMs": 6920,
+      "endMs": 7175
+    },
+    {
+      "text": "messages,",
+      "startMs": 7256,
+      "endMs": 7953
+    },
+    {
+      "text": "scan",
+      "startMs": 8115,
+      "endMs": 8417
+    },
+    {
+      "text": "the",
+      "startMs": 8475,
+      "endMs": 8545
+    },
+    {
+      "text": "agenda,",
+      "startMs": 8603,
+      "endMs": 9218
+    },
+    {
+      "text": "wait",
+      "startMs": 9381,
+      "endMs": 9590
+    },
+    {
+      "text": "for",
+      "startMs": 9636,
+      "endMs": 9752
+    },
+    {
+      "text": "the",
+      "startMs": 9799,
+      "endMs": 9868
+    },
+    {
+      "text": "part",
+      "startMs": 9915,
+      "endMs": 10194
+    },
+    {
+      "text": "that's",
+      "startMs": 10217,
+      "endMs": 10461
+    },
+    {
+      "text": "theirs.",
+      "startMs": 10553,
+      "endMs": 10983
+    },
+    {
+      "text": "By",
+      "startMs": 11250,
+      "endMs": 11389
+    },
+    {
+      "text": "the",
+      "startMs": 11436,
+      "endMs": 11505
+    },
+    {
+      "text": "time",
+      "startMs": 11552,
+      "endMs": 11807
+    },
+    {
+      "text": "she",
+      "startMs": 11831,
+      "endMs": 11935
+    },
+    {
+      "text": "actually",
+      "startMs": 12016,
+      "endMs": 12365
+    },
+    {
+      "text": "reached",
+      "startMs": 12411,
+      "endMs": 12632
+    },
+    {
+      "text": "the",
+      "startMs": 12655,
+      "endMs": 12725
+    },
+    {
+      "text": "decision,",
+      "startMs": 12771,
+      "endMs": 13387
+    },
+    {
+      "text": "several",
+      "startMs": 13573,
+      "endMs": 13921
+    },
+    {
+      "text": "people",
+      "startMs": 13979,
+      "endMs": 14269
+    },
+    {
+      "text": "were",
+      "startMs": 14304,
+      "endMs": 14455
+    },
+    {
+      "text": "already",
+      "startMs": 14501,
+      "endMs": 14896
+    },
+    {
+      "text": "answering",
+      "startMs": 14931,
+      "endMs": 15244
+    },
+    {
+      "text": "emails.",
+      "startMs": 15326,
+      "endMs": 15802
+    },
+    {
+      "text": "Others",
+      "startMs": 15987,
+      "endMs": 16289.000000000002
+    },
+    {
+      "text": "were",
+      "startMs": 16335.999999999998,
+      "endMs": 16498
+    },
+    {
+      "text": "just",
+      "startMs": 16556,
+      "endMs": 16858
+    },
+    {
+      "text": "waiting",
+      "startMs": 16916,
+      "endMs": 17206
+    },
+    {
+      "text": "for",
+      "startMs": 17253,
+      "endMs": 17357
+    },
+    {
+      "text": "the",
+      "startMs": 17392,
+      "endMs": 17462
+    },
+    {
+      "text": "discussion",
+      "startMs": 17508,
+      "endMs": 17949
+    },
+    {
+      "text": "to",
+      "startMs": 18008,
+      "endMs": 18077
+    },
+    {
+      "text": "reach",
+      "startMs": 18158,
+      "endMs": 18356
+    },
+    {
+      "text": "whatever",
+      "startMs": 18391,
+      "endMs": 18774
+    },
+    {
+      "text": "involved",
+      "startMs": 18820,
+      "endMs": 19215
+    },
+    {
+      "text": "them.",
+      "startMs": 19250,
+      "endMs": 19691
+    }
+  ]
+}

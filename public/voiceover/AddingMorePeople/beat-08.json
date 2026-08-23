@@ -1,0 +1,276 @@
+{
+  "text": "Some teams genuinely need more people. If the real work still exceeds what skilled people have time for, hiring is the right call, onboarding cost and all. Management was right to worry about the backlog. The mistake was assuming more headcount would fix it without first checking where the existing capacity was actually going.",
+  "durationMs": 22941,
+  "words": [
+    {
+      "text": "Some",
+      "startMs": 0,
+      "endMs": 255
+    },
+    {
+      "text": "teams",
+      "startMs": 302,
+      "endMs": 650
+    },
+    {
+      "text": "genuinely",
+      "startMs": 813,
+      "endMs": 1486
+    },
+    {
+      "text": "need",
+      "startMs": 1567,
+      "endMs": 1753
+    },
+    {
+      "text": "more",
+      "startMs": 1834,
+      "endMs": 1997
+    },
+    {
+      "text": "people.",
+      "startMs": 2055,
+      "endMs": 2508
+    },
+    {
+      "text": "If",
+      "startMs": 2810,
+      "endMs": 2995
+    },
+    {
+      "text": "the",
+      "startMs": 3042,
+      "endMs": 3135
+    },
+    {
+      "text": "real",
+      "startMs": 3239,
+      "endMs": 3483
+    },
+    {
+      "text": "work",
+      "startMs": 3576,
+      "endMs": 3808
+    },
+    {
+      "text": "still",
+      "startMs": 3866,
+      "endMs": 4238
+    },
+    {
+      "text": "exceeds",
+      "startMs": 4365,
+      "endMs": 5155
+    },
+    {
+      "text": "what",
+      "startMs": 5387,
+      "endMs": 5735
+    },
+    {
+      "text": "skilled",
+      "startMs": 5898,
+      "endMs": 6444
+    },
+    {
+      "text": "people",
+      "startMs": 6571,
+      "endMs": 6943
+    },
+    {
+      "text": "have",
+      "startMs": 7001,
+      "endMs": 7187
+    },
+    {
+      "text": "time",
+      "startMs": 7221,
+      "endMs": 7442
+    },
+    {
+      "text": "for,",
+      "startMs": 7488,
+      "endMs": 7848
+    },
+    {
+      "text": "hiring",
+      "startMs": 8080.999999999999,
+      "endMs": 8510
+    },
+    {
+      "text": "is",
+      "startMs": 8557,
+      "endMs": 8638
+    },
+    {
+      "text": "the",
+      "startMs": 8684,
+      "endMs": 8754
+    },
+    {
+      "text": "right",
+      "startMs": 8835,
+      "endMs": 9079
+    },
+    {
+      "text": "call,",
+      "startMs": 9172,
+      "endMs": 9555
+    },
+    {
+      "text": "onboarding",
+      "startMs": 9590,
+      "endMs": 10205
+    },
+    {
+      "text": "cost",
+      "startMs": 10310,
+      "endMs": 10762
+    },
+    {
+      "text": "and",
+      "startMs": 10995,
+      "endMs": 11250
+    },
+    {
+      "text": "all.",
+      "startMs": 11343,
+      "endMs": 11726
+    },
+    {
+      "text": "Management",
+      "startMs": 12074,
+      "endMs": 12655
+    },
+    {
+      "text": "was",
+      "startMs": 12748,
+      "endMs": 12992
+    },
+    {
+      "text": "right",
+      "startMs": 13154,
+      "endMs": 13410
+    },
+    {
+      "text": "to",
+      "startMs": 13456,
+      "endMs": 13549
+    },
+    {
+      "text": "worry",
+      "startMs": 13653,
+      "endMs": 13932
+    },
+    {
+      "text": "about",
+      "startMs": 13990,
+      "endMs": 14211
+    },
+    {
+      "text": "the",
+      "startMs": 14245,
+      "endMs": 14315
+    },
+    {
+      "text": "backlog.",
+      "startMs": 14362,
+      "endMs": 14977
+    },
+    {
+      "text": "The",
+      "startMs": 15116,
+      "endMs": 15244
+    },
+    {
+      "text": "mistake",
+      "startMs": 15337,
+      "endMs": 15871
+    },
+    {
+      "text": "was",
+      "startMs": 15929,
+      "endMs": 16103.000000000002
+    },
+    {
+      "text": "assuming",
+      "startMs": 16161.000000000002,
+      "endMs": 16637
+    },
+    {
+      "text": "more",
+      "startMs": 16765,
+      "endMs": 17043
+    },
+    {
+      "text": "headcount",
+      "startMs": 17125,
+      "endMs": 17670
+    },
+    {
+      "text": "would",
+      "startMs": 17728,
+      "endMs": 17891
+    },
+    {
+      "text": "fix",
+      "startMs": 17972,
+      "endMs": 18227
+    },
+    {
+      "text": "it",
+      "startMs": 18309,
+      "endMs": 18413
+    },
+    {
+      "text": "without",
+      "startMs": 18494,
+      "endMs": 19017
+    },
+    {
+      "text": "first",
+      "startMs": 19203,
+      "endMs": 19505
+    },
+    {
+      "text": "checking",
+      "startMs": 19563,
+      "endMs": 19946
+    },
+    {
+      "text": "where",
+      "startMs": 20085,
+      "endMs": 20375
+    },
+    {
+      "text": "the",
+      "startMs": 20433,
+      "endMs": 20515
+    },
+    {
+      "text": "existing",
+      "startMs": 20573,
+      "endMs": 21142
+    },
+    {
+      "text": "capacity",
+      "startMs": 21188,
+      "endMs": 21815
+    },
+    {
+      "text": "was",
+      "startMs": 21873,
+      "endMs": 22012
+    },
+    {
+      "text": "actually",
+      "startMs": 22105,
+      "endMs": 22477
+    },
+    {
+      "text": "going.",
+      "startMs": 22512,
+      "endMs": 22941
+    }
+  ]
+}

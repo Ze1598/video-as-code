@@ -1,0 +1,81 @@
+{
+  "text": "But start with the point you're trying to make. Then earn the context that follows.",
+  "durationMs": 4180,
+  "words": [
+    {
+      "text": "But",
+      "startMs": 0,
+      "endMs": 197
+    },
+    {
+      "text": "start",
+      "startMs": 255,
+      "endMs": 522
+    },
+    {
+      "text": "with",
+      "startMs": 569,
+      "endMs": 697
+    },
+    {
+      "text": "the",
+      "startMs": 731,
+      "endMs": 801
+    },
+    {
+      "text": "point",
+      "startMs": 882,
+      "endMs": 1103
+    },
+    {
+      "text": "you're",
+      "startMs": 1138,
+      "endMs": 1324
+    },
+    {
+      "text": "trying",
+      "startMs": 1347,
+      "endMs": 1567
+    },
+    {
+      "text": "to",
+      "startMs": 1625,
+      "endMs": 1683
+    },
+    {
+      "text": "make.",
+      "startMs": 1741,
+      "endMs": 2032
+    },
+    {
+      "text": "Then",
+      "startMs": 2090,
+      "endMs": 2310
+    },
+    {
+      "text": "earn",
+      "startMs": 2438,
+      "endMs": 2659
+    },
+    {
+      "text": "the",
+      "startMs": 2694,
+      "endMs": 2763
+    },
+    {
+      "text": "context",
+      "startMs": 2810,
+      "endMs": 3251
+    },
+    {
+      "text": "that",
+      "startMs": 3274,
+      "endMs": 3413
+    },
+    {
+      "text": "follows.",
+      "startMs": 3471,
+      "endMs": 4180
+    }
+  ]
+}

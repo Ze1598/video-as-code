@@ -1,0 +1,151 @@
+{
+  "text": "His manager approved the request over a Teams message. The analyst attached a screenshot of that approval and submitted the ticket. It looked like the request was finally moving.",
+  "durationMs": 12353,
+  "words": [
+    {
+      "text": "His",
+      "startMs": 0,
+      "endMs": 221
+    },
+    {
+      "text": "manager",
+      "startMs": 313,
+      "endMs": 882
+    },
+    {
+      "text": "approved",
+      "startMs": 1765,
+      "endMs": 2241
+    },
+    {
+      "text": "the",
+      "startMs": 2276,
+      "endMs": 2357
+    },
+    {
+      "text": "request",
+      "startMs": 2415,
+      "endMs": 2914
+    },
+    {
+      "text": "over",
+      "startMs": 3019,
+      "endMs": 3286
+    },
+    {
+      "text": "a",
+      "startMs": 3367,
+      "endMs": 3390
+    },
+    {
+      "text": "Teams",
+      "startMs": 3448,
+      "endMs": 3727
+    },
+    {
+      "text": "message.",
+      "startMs": 3820,
+      "endMs": 4272
+    },
+    {
+      "text": "The",
+      "startMs": 4574,
+      "endMs": 4725
+    },
+    {
+      "text": "analyst",
+      "startMs": 4807,
+      "endMs": 5352
+    },
+    {
+      "text": "attached",
+      "startMs": 5410,
+      "endMs": 5805
+    },
+    {
+      "text": "a",
+      "startMs": 5840,
+      "endMs": 5863
+    },
+    {
+      "text": "screenshot",
+      "startMs": 5909,
+      "endMs": 6536
+    },
+    {
+      "text": "of",
+      "startMs": 6641,
+      "endMs": 6873
+    },
+    {
+      "text": "that",
+      "startMs": 7001,
+      "endMs": 7187
+    },
+    {
+      "text": "approval",
+      "startMs": 7221,
+      "endMs": 7802
+    },
+    {
+      "text": "and",
+      "startMs": 7930,
+      "endMs": 8080.999999999999
+    },
+    {
+      "text": "submitted",
+      "startMs": 8138.999999999999,
+      "endMs": 8638
+    },
+    {
+      "text": "the",
+      "startMs": 8673,
+      "endMs": 8742
+    },
+    {
+      "text": "ticket.",
+      "startMs": 8789,
+      "endMs": 9334
+    },
+    {
+      "text": "It",
+      "startMs": 9601,
+      "endMs": 9752
+    },
+    {
+      "text": "looked",
+      "startMs": 9799,
+      "endMs": 10031
+    },
+    {
+      "text": "like",
+      "startMs": 10077,
+      "endMs": 10263
+    },
+    {
+      "text": "the",
+      "startMs": 10310,
+      "endMs": 10379
+    },
+    {
+      "text": "request",
+      "startMs": 10437,
+      "endMs": 10925
+    },
+    {
+      "text": "was",
+      "startMs": 11018,
+      "endMs": 11180
+    },
+    {
+      "text": "finally",
+      "startMs": 11285,
+      "endMs": 11668
+    },
+    {
+      "text": "moving.",
+      "startMs": 11714,
+      "endMs": 12353
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "text": "The manager needed to interrupt the debate with a different question: what problem would remain if either of you won?",
+  "durationMs": 7105,
+  "words": [
+    {
+      "text": "The",
+      "startMs": 0,
+      "endMs": 139
+    },
+    {
+      "text": "manager",
+      "startMs": 186,
+      "endMs": 557
+    },
+    {
+      "text": "needed",
+      "startMs": 650,
+      "endMs": 1091
+    },
+    {
+      "text": "to",
+      "startMs": 1219,
+      "endMs": 1579
+    },
+    {
+      "text": "interrupt",
+      "startMs": 1765,
+      "endMs": 2287
+    },
+    {
+      "text": "the",
+      "startMs": 2310,
+      "endMs": 2380
+    },
+    {
+      "text": "debate",
+      "startMs": 2426,
+      "endMs": 2879
+    },
+    {
+      "text": "with",
+      "startMs": 2961,
+      "endMs": 3170
+    },
+    {
+      "text": "a",
+      "startMs": 3216,
+      "endMs": 3239
+    },
+    {
+      "text": "different",
+      "startMs": 3297,
+      "endMs": 3587
+    },
+    {
+      "text": "question:",
+      "startMs": 3634,
+      "endMs": 4191
+    },
+    {
+      "text": "what",
+      "startMs": 4377,
+      "endMs": 4574
+    },
+    {
+      "text": "problem",
+      "startMs": 4621,
+      "endMs": 4957
+    },
+    {
+      "text": "would",
+      "startMs": 5004,
+      "endMs": 5155
+    },
+    {
+      "text": "remain",
+      "startMs": 5213,
+      "endMs": 5573
+    },
+    {
+      "text": "if",
+      "startMs": 5666,
+      "endMs": 5770
+    },
+    {
+      "text": "either",
+      "startMs": 5933,
+      "endMs": 6235
+    },
+    {
+      "text": "of",
+      "startMs": 6293,
+      "endMs": 6351
+    },
+    {
+      "text": "you",
+      "startMs": 6409,
+      "endMs": 6490
+    },
+    {
+      "text": "won?",
+      "startMs": 6571,
+      "endMs": 7105
+    }
+  ]
+}

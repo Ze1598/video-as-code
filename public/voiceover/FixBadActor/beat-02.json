@@ -1,0 +1,71 @@
+{
+  "text": "His manager sat him down and asked him to be a team player.",
+  "durationMs": 3297,
+  "words": [
+    {
+      "text": "His",
+      "startMs": 0,
+      "endMs": 186
+    },
+    {
+      "text": "manager",
+      "startMs": 279,
+      "endMs": 673
+    },
+    {
+      "text": "sat",
+      "startMs": 766,
+      "endMs": 1033
+    },
+    {
+      "text": "him",
+      "startMs": 1080,
+      "endMs": 1184
+    },
+    {
+      "text": "down",
+      "startMs": 1242,
+      "endMs": 1463
+    },
+    {
+      "text": "and",
+      "startMs": 1544,
+      "endMs": 1660
+    },
+    {
+      "text": "asked",
+      "startMs": 1718,
+      "endMs": 1904
+    },
+    {
+      "text": "him",
+      "startMs": 1939,
+      "endMs": 2032
+    },
+    {
+      "text": "to",
+      "startMs": 2078,
+      "endMs": 2136
+    },
+    {
+      "text": "be",
+      "startMs": 2218,
+      "endMs": 2310
+    },
+    {
+      "text": "a",
+      "startMs": 2357,
+      "endMs": 2380
+    },
+    {
+      "text": "team",
+      "startMs": 2438,
+      "endMs": 2635
+    },
+    {
+      "text": "player.",
+      "startMs": 2717,
+      "endMs": 3297
+    }
+  ]
+}

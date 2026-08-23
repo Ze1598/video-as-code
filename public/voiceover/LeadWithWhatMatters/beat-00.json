@@ -1,0 +1,151 @@
+{
+  "text": "By the end of the meeting, every person in the room had heard everything the manager said. Almost none of them had heard the one sentence that actually mattered.",
+  "durationMs": 9381,
+  "words": [
+    {
+      "text": "By",
+      "startMs": 0,
+      "endMs": 186
+    },
+    {
+      "text": "the",
+      "startMs": 279,
+      "endMs": 372
+    },
+    {
+      "text": "end",
+      "startMs": 499,
+      "endMs": 685
+    },
+    {
+      "text": "of",
+      "startMs": 731,
+      "endMs": 789
+    },
+    {
+      "text": "the",
+      "startMs": 836,
+      "endMs": 917
+    },
+    {
+      "text": "meeting,",
+      "startMs": 964,
+      "endMs": 1370
+    },
+    {
+      "text": "every",
+      "startMs": 1498,
+      "endMs": 1811
+    },
+    {
+      "text": "person",
+      "startMs": 1892,
+      "endMs": 2218
+    },
+    {
+      "text": "in",
+      "startMs": 2264,
+      "endMs": 2322
+    },
+    {
+      "text": "the",
+      "startMs": 2368,
+      "endMs": 2438
+    },
+    {
+      "text": "room",
+      "startMs": 2485,
+      "endMs": 2682
+    },
+    {
+      "text": "had",
+      "startMs": 2810,
+      "endMs": 3053
+    },
+    {
+      "text": "heard",
+      "startMs": 3146,
+      "endMs": 3379
+    },
+    {
+      "text": "everything",
+      "startMs": 3506,
+      "endMs": 3959
+    },
+    {
+      "text": "the",
+      "startMs": 4005,
+      "endMs": 4075
+    },
+    {
+      "text": "manager",
+      "startMs": 4122,
+      "endMs": 4493
+    },
+    {
+      "text": "said.",
+      "startMs": 4551,
+      "endMs": 4888
+    },
+    {
+      "text": "Almost",
+      "startMs": 5190,
+      "endMs": 5561
+    },
+    {
+      "text": "none",
+      "startMs": 5666,
+      "endMs": 5898
+    },
+    {
+      "text": "of",
+      "startMs": 5933,
+      "endMs": 5979
+    },
+    {
+      "text": "them",
+      "startMs": 6026,
+      "endMs": 6177
+    },
+    {
+      "text": "had",
+      "startMs": 6258,
+      "endMs": 6409
+    },
+    {
+      "text": "heard",
+      "startMs": 6502,
+      "endMs": 6827
+    },
+    {
+      "text": "the",
+      "startMs": 6885,
+      "endMs": 6978
+    },
+    {
+      "text": "one",
+      "startMs": 7070,
+      "endMs": 7279
+    },
+    {
+      "text": "sentence",
+      "startMs": 7326,
+      "endMs": 7779
+    },
+    {
+      "text": "that",
+      "startMs": 7814,
+      "endMs": 7999
+    },
+    {
+      "text": "actually",
+      "startMs": 8092.000000000001,
+      "endMs": 8638
+    },
+    {
+      "text": "mattered.",
+      "startMs": 8719,
+      "endMs": 9381
+    }
+  ]
+}

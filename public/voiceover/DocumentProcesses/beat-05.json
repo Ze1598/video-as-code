@@ -1,0 +1,261 @@
+{
+  "text": "None of this was new. An operations coordinator already knew the answers: which license matched which role, who could approve which cost, what IT expected on every ticket. Employees asked her directly. For as long as the department stayed small, and she stayed available, that was faster than looking anything up.",
+  "durationMs": 18205,
+  "words": [
+    {
+      "text": "None",
+      "startMs": 0,
+      "endMs": 267
+    },
+    {
+      "text": "of",
+      "startMs": 290,
+      "endMs": 383
+    },
+    {
+      "text": "this",
+      "startMs": 464,
+      "endMs": 650
+    },
+    {
+      "text": "was",
+      "startMs": 778,
+      "endMs": 975
+    },
+    {
+      "text": "new.",
+      "startMs": 1103,
+      "endMs": 1347
+    },
+    {
+      "text": "An",
+      "startMs": 1533,
+      "endMs": 1672
+    },
+    {
+      "text": "operations",
+      "startMs": 1730,
+      "endMs": 2229
+    },
+    {
+      "text": "coordinator",
+      "startMs": 2310,
+      "endMs": 2937
+    },
+    {
+      "text": "already",
+      "startMs": 3019,
+      "endMs": 3367
+    },
+    {
+      "text": "knew",
+      "startMs": 3413,
+      "endMs": 3564
+    },
+    {
+      "text": "the",
+      "startMs": 3622,
+      "endMs": 3692
+    },
+    {
+      "text": "answers:",
+      "startMs": 3773,
+      "endMs": 4331
+    },
+    {
+      "text": "which",
+      "startMs": 4493,
+      "endMs": 4737
+    },
+    {
+      "text": "license",
+      "startMs": 4795,
+      "endMs": 5224
+    },
+    {
+      "text": "matched",
+      "startMs": 5271,
+      "endMs": 5550
+    },
+    {
+      "text": "which",
+      "startMs": 5584,
+      "endMs": 5805
+    },
+    {
+      "text": "role,",
+      "startMs": 5886,
+      "endMs": 6293
+    },
+    {
+      "text": "who",
+      "startMs": 6420,
+      "endMs": 6583
+    },
+    {
+      "text": "could",
+      "startMs": 6629,
+      "endMs": 6803
+    },
+    {
+      "text": "approve",
+      "startMs": 6850,
+      "endMs": 7256
+    },
+    {
+      "text": "which",
+      "startMs": 7303,
+      "endMs": 7488
+    },
+    {
+      "text": "cost,",
+      "startMs": 7570,
+      "endMs": 7964
+    },
+    {
+      "text": "what",
+      "startMs": 7999,
+      "endMs": 8208
+    },
+    {
+      "text": "IT",
+      "startMs": 8290,
+      "endMs": 8545
+    },
+    {
+      "text": "expected",
+      "startMs": 8649,
+      "endMs": 9288
+    },
+    {
+      "text": "on",
+      "startMs": 9392,
+      "endMs": 9532
+    },
+    {
+      "text": "every",
+      "startMs": 9625,
+      "endMs": 9868
+    },
+    {
+      "text": "ticket.",
+      "startMs": 9915,
+      "endMs": 10321
+    },
+    {
+      "text": "Employees",
+      "startMs": 10553,
+      "endMs": 11180
+    },
+    {
+      "text": "asked",
+      "startMs": 11273,
+      "endMs": 11529
+    },
+    {
+      "text": "her",
+      "startMs": 11552,
+      "endMs": 11633
+    },
+    {
+      "text": "directly.",
+      "startMs": 11691,
+      "endMs": 12307
+    },
+    {
+      "text": "For",
+      "startMs": 12492,
+      "endMs": 12666
+    },
+    {
+      "text": "as",
+      "startMs": 12713,
+      "endMs": 12783
+    },
+    {
+      "text": "long",
+      "startMs": 12887,
+      "endMs": 13096
+    },
+    {
+      "text": "as",
+      "startMs": 13142,
+      "endMs": 13224
+    },
+    {
+      "text": "the",
+      "startMs": 13270,
+      "endMs": 13340
+    },
+    {
+      "text": "department",
+      "startMs": 13398,
+      "endMs": 13909
+    },
+    {
+      "text": "stayed",
+      "startMs": 13932,
+      "endMs": 14211
+    },
+    {
+      "text": "small,",
+      "startMs": 14257,
+      "endMs": 14699
+    },
+    {
+      "text": "and",
+      "startMs": 14722,
+      "endMs": 14838
+    },
+    {
+      "text": "she",
+      "startMs": 14884,
+      "endMs": 14966
+    },
+    {
+      "text": "stayed",
+      "startMs": 15024,
+      "endMs": 15291
+    },
+    {
+      "text": "available,",
+      "startMs": 15337,
+      "endMs": 15929
+    },
+    {
+      "text": "that",
+      "startMs": 15964,
+      "endMs": 16138.000000000002
+    },
+    {
+      "text": "was",
+      "startMs": 16184.999999999998,
+      "endMs": 16289.000000000002
+    },
+    {
+      "text": "faster",
+      "startMs": 16394,
+      "endMs": 16870
+    },
+    {
+      "text": "than",
+      "startMs": 16928,
+      "endMs": 17055
+    },
+    {
+      "text": "looking",
+      "startMs": 17113,
+      "endMs": 17404
+    },
+    {
+      "text": "anything",
+      "startMs": 17462,
+      "endMs": 17822
+    },
+    {
+      "text": "up.",
+      "startMs": 17903,
+      "endMs": 18205
+    }
+  ]
+}
