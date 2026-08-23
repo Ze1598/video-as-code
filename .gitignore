@@ -3,7 +3,13 @@ dist
 .DS_Store
 .env
 
+# Ignore future project subfolders in src/ but persist the shared library and its related files.
+src/*
+!src/lib
+!src/index.css
+!src/index.ts
+!src/Root.tsx
 # Ignore the output video from Git but not videos you import into src/.
 out/*
-!out/CompetenceMovementVertical.mp4
 !out/CompetenceMovement.mp4
+!out/CompetenceMovementVertical.mp4
