@@ -1,0 +1,396 @@
+{
+  "text": "At the next review, the architect didn't begin with the target architecture. He began with the prototype. The discussion changed. Delivery asked which sources could use the same components. Operations asked what they would need to monitor. Finance asked what it would cost to extend the prototype. The room moved from debating whether the idea could work to deciding whether the result justified further investment. The diagram was the same, and now there was evidence to support it.",
+  "durationMs": 33622,
+  "words": [
+    {
+      "text": "At",
+      "startMs": 0,
+      "endMs": 255
+    },
+    {
+      "text": "the",
+      "startMs": 279,
+      "endMs": 372
+    },
+    {
+      "text": "next",
+      "startMs": 453,
+      "endMs": 743
+    },
+    {
+      "text": "review,",
+      "startMs": 848,
+      "endMs": 1370
+    },
+    {
+      "text": "the",
+      "startMs": 1463,
+      "endMs": 1579
+    },
+    {
+      "text": "architect",
+      "startMs": 1637,
+      "endMs": 2183
+    },
+    {
+      "text": "didn't",
+      "startMs": 2206,
+      "endMs": 2531
+    },
+    {
+      "text": "begin",
+      "startMs": 2624,
+      "endMs": 3019
+    },
+    {
+      "text": "with",
+      "startMs": 3111,
+      "endMs": 3309
+    },
+    {
+      "text": "the",
+      "startMs": 3344,
+      "endMs": 3413
+    },
+    {
+      "text": "target",
+      "startMs": 3471,
+      "endMs": 3913
+    },
+    {
+      "text": "architecture.",
+      "startMs": 4005,
+      "endMs": 4865
+    },
+    {
+      "text": "He",
+      "startMs": 4946,
+      "endMs": 5085
+    },
+    {
+      "text": "began",
+      "startMs": 5166,
+      "endMs": 5584
+    },
+    {
+      "text": "with",
+      "startMs": 5666,
+      "endMs": 5840
+    },
+    {
+      "text": "the",
+      "startMs": 5886,
+      "endMs": 5956
+    },
+    {
+      "text": "prototype.",
+      "startMs": 6014,
+      "endMs": 6745
+    },
+    {
+      "text": "The",
+      "startMs": 6908,
+      "endMs": 7024
+    },
+    {
+      "text": "discussion",
+      "startMs": 7082,
+      "endMs": 7744
+    },
+    {
+      "text": "changed.",
+      "startMs": 7825,
+      "endMs": 8394
+    },
+    {
+      "text": "Delivery",
+      "startMs": 8499,
+      "endMs": 9114
+    },
+    {
+      "text": "asked",
+      "startMs": 9195,
+      "endMs": 9741
+    },
+    {
+      "text": "which",
+      "startMs": 9868,
+      "endMs": 10217
+    },
+    {
+      "text": "sources",
+      "startMs": 10449,
+      "endMs": 11122
+    },
+    {
+      "text": "could",
+      "startMs": 11215,
+      "endMs": 11413
+    },
+    {
+      "text": "use",
+      "startMs": 11505,
+      "endMs": 11738
+    },
+    {
+      "text": "the",
+      "startMs": 11773,
+      "endMs": 11865
+    },
+    {
+      "text": "same",
+      "startMs": 11923,
+      "endMs": 12214
+    },
+    {
+      "text": "components.",
+      "startMs": 12260,
+      "endMs": 13050
+    },
+    {
+      "text": "Operations",
+      "startMs": 13177,
+      "endMs": 13920
+    },
+    {
+      "text": "asked",
+      "startMs": 14002,
+      "endMs": 14489
+    },
+    {
+      "text": "what",
+      "startMs": 14571,
+      "endMs": 14768
+    },
+    {
+      "text": "they",
+      "startMs": 14814,
+      "endMs": 14919
+    },
+    {
+      "text": "would",
+      "startMs": 14954,
+      "endMs": 15139
+    },
+    {
+      "text": "need",
+      "startMs": 15197,
+      "endMs": 15418
+    },
+    {
+      "text": "to",
+      "startMs": 15476,
+      "endMs": 15557
+    },
+    {
+      "text": "monitor.",
+      "startMs": 15639,
+      "endMs": 16300
+    },
+    {
+      "text": "Finance",
+      "startMs": 16463,
+      "endMs": 17101
+    },
+    {
+      "text": "asked",
+      "startMs": 17159,
+      "endMs": 17612
+    },
+    {
+      "text": "what",
+      "startMs": 17659,
+      "endMs": 17844
+    },
+    {
+      "text": "it",
+      "startMs": 17937,
+      "endMs": 18077
+    },
+    {
+      "text": "would",
+      "startMs": 18123,
+      "endMs": 18309
+    },
+    {
+      "text": "cost",
+      "startMs": 18390,
+      "endMs": 18820
+    },
+    {
+      "text": "to",
+      "startMs": 18901,
+      "endMs": 19029
+    },
+    {
+      "text": "extend",
+      "startMs": 19110,
+      "endMs": 19609
+    },
+    {
+      "text": "the",
+      "startMs": 19714,
+      "endMs": 19830
+    },
+    {
+      "text": "prototype.",
+      "startMs": 19888,
+      "endMs": 20573
+    },
+    {
+      "text": "The",
+      "startMs": 20654,
+      "endMs": 20793
+    },
+    {
+      "text": "room",
+      "startMs": 20875,
+      "endMs": 21107
+    },
+    {
+      "text": "moved",
+      "startMs": 21235,
+      "endMs": 21629
+    },
+    {
+      "text": "from",
+      "startMs": 21722,
+      "endMs": 21920
+    },
+    {
+      "text": "debating",
+      "startMs": 22012,
+      "endMs": 22593
+    },
+    {
+      "text": "whether",
+      "startMs": 22686,
+      "endMs": 23069
+    },
+    {
+      "text": "the",
+      "startMs": 23232,
+      "endMs": 23371
+    },
+    {
+      "text": "idea",
+      "startMs": 23464,
+      "endMs": 23986
+    },
+    {
+      "text": "could",
+      "startMs": 24091,
+      "endMs": 24276
+    },
+    {
+      "text": "work",
+      "startMs": 24381,
+      "endMs": 24764
+    },
+    {
+      "text": "to",
+      "startMs": 24869,
+      "endMs": 24961
+    },
+    {
+      "text": "deciding",
+      "startMs": 25043,
+      "endMs": 25646
+    },
+    {
+      "text": "whether",
+      "startMs": 25704,
+      "endMs": 26076
+    },
+    {
+      "text": "the",
+      "startMs": 26204,
+      "endMs": 26378
+    },
+    {
+      "text": "result",
+      "startMs": 26540,
+      "endMs": 27074
+    },
+    {
+      "text": "justified",
+      "startMs": 27214,
+      "endMs": 27922
+    },
+    {
+      "text": "further",
+      "startMs": 28003,
+      "endMs": 28433
+    },
+    {
+      "text": "investment.",
+      "startMs": 28537,
+      "endMs": 29327
+    },
+    {
+      "text": "The",
+      "startMs": 29373,
+      "endMs": 29466
+    },
+    {
+      "text": "diagram",
+      "startMs": 29524,
+      "endMs": 30000
+    },
+    {
+      "text": "was",
+      "startMs": 30081,
+      "endMs": 30221
+    },
+    {
+      "text": "the",
+      "startMs": 30302,
+      "endMs": 30383
+    },
+    {
+      "text": "same,",
+      "startMs": 30441,
+      "endMs": 30848
+    },
+    {
+      "text": "and",
+      "startMs": 30882,
+      "endMs": 30987
+    },
+    {
+      "text": "now",
+      "startMs": 31068,
+      "endMs": 31335
+    },
+    {
+      "text": "there",
+      "startMs": 31463,
+      "endMs": 31649
+    },
+    {
+      "text": "was",
+      "startMs": 31684,
+      "endMs": 31811
+    },
+    {
+      "text": "evidence",
+      "startMs": 31939,
+      "endMs": 32485
+    },
+    {
+      "text": "to",
+      "startMs": 32543,
+      "endMs": 32647
+    },
+    {
+      "text": "support",
+      "startMs": 32705,
+      "endMs": 33216
+    },
+    {
+      "text": "it.",
+      "startMs": 33263,
+      "endMs": 33622
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "text": "One sprint, this team finished everything on the board, and then some. The very next sprint, they were behind on almost everything they'd promised. In between, nothing about the team had changed.",
+  "durationMs": 12353,
+  "words": [
+    {
+      "text": "One",
+      "startMs": 0,
+      "endMs": 186
+    },
+    {
+      "text": "sprint,",
+      "startMs": 209,
+      "endMs": 836
+    },
+    {
+      "text": "this",
+      "startMs": 894,
+      "endMs": 1103
+    },
+    {
+      "text": "team",
+      "startMs": 1196,
+      "endMs": 1405
+    },
+    {
+      "text": "finished",
+      "startMs": 1533,
+      "endMs": 1974
+    },
+    {
+      "text": "everything",
+      "startMs": 2055,
+      "endMs": 2554
+    },
+    {
+      "text": "on",
+      "startMs": 2717,
+      "endMs": 2891
+    },
+    {
+      "text": "the",
+      "startMs": 2937,
+      "endMs": 3030
+    },
+    {
+      "text": "board,",
+      "startMs": 3088,
+      "endMs": 3471
+    },
+    {
+      "text": "and",
+      "startMs": 3529,
+      "endMs": 3715
+    },
+    {
+      "text": "then",
+      "startMs": 3796,
+      "endMs": 3994
+    },
+    {
+      "text": "some.",
+      "startMs": 4122,
+      "endMs": 4505
+    },
+    {
+      "text": "The",
+      "startMs": 4551,
+      "endMs": 4679
+    },
+    {
+      "text": "very",
+      "startMs": 4737,
+      "endMs": 4981
+    },
+    {
+      "text": "next",
+      "startMs": 5074,
+      "endMs": 5422
+    },
+    {
+      "text": "sprint,",
+      "startMs": 5445,
+      "endMs": 5968
+    },
+    {
+      "text": "they",
+      "startMs": 6014,
+      "endMs": 6188
+    },
+    {
+      "text": "were",
+      "startMs": 6235,
+      "endMs": 6409
+    },
+    {
+      "text": "behind",
+      "startMs": 6467,
+      "endMs": 6954
+    },
+    {
+      "text": "on",
+      "startMs": 7059,
+      "endMs": 7221
+    },
+    {
+      "text": "almost",
+      "startMs": 7349,
+      "endMs": 7837
+    },
+    {
+      "text": "everything",
+      "startMs": 7918,
+      "endMs": 8359
+    },
+    {
+      "text": "they'd",
+      "startMs": 8406,
+      "endMs": 8603
+    },
+    {
+      "text": "promised.",
+      "startMs": 8638,
+      "endMs": 9218
+    },
+    {
+      "text": "In",
+      "startMs": 9242,
+      "endMs": 9381
+    },
+    {
+      "text": "between,",
+      "startMs": 9462,
+      "endMs": 10008
+    },
+    {
+      "text": "nothing",
+      "startMs": 10136,
+      "endMs": 10519
+    },
+    {
+      "text": "about",
+      "startMs": 10600,
+      "endMs": 10995
+    },
+    {
+      "text": "the",
+      "startMs": 11076,
+      "endMs": 11192
+    },
+    {
+      "text": "team",
+      "startMs": 11250,
+      "endMs": 11471
+    },
+    {
+      "text": "had",
+      "startMs": 11564,
+      "endMs": 11738
+    },
+    {
+      "text": "changed.",
+      "startMs": 11819,
+      "endMs": 12353
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "text": "Paul and Scott became close friends. Going for drinks didn't damage the work. The problem was the new mood that settled in the room: don't make your friend uncomfortable.",
+  "durationMs": 11471,
+  "words": [
+    {
+      "text": "Paul",
+      "startMs": 0,
+      "endMs": 395
+    },
+    {
+      "text": "and",
+      "startMs": 522,
+      "endMs": 755
+    },
+    {
+      "text": "Scott",
+      "startMs": 882,
+      "endMs": 1428
+    },
+    {
+      "text": "became",
+      "startMs": 1591,
+      "endMs": 2101
+    },
+    {
+      "text": "close",
+      "startMs": 2159,
+      "endMs": 2566
+    },
+    {
+      "text": "friends.",
+      "startMs": 2624,
+      "endMs": 3123
+    },
+    {
+      "text": "Going",
+      "startMs": 3181,
+      "endMs": 3518
+    },
+    {
+      "text": "for",
+      "startMs": 3611,
+      "endMs": 3796
+    },
+    {
+      "text": "drinks",
+      "startMs": 3855,
+      "endMs": 4226
+    },
+    {
+      "text": "didn't",
+      "startMs": 4354,
+      "endMs": 4690
+    },
+    {
+      "text": "damage",
+      "startMs": 4748,
+      "endMs": 5155
+    },
+    {
+      "text": "the",
+      "startMs": 5213,
+      "endMs": 5306
+    },
+    {
+      "text": "work.",
+      "startMs": 5364,
+      "endMs": 5782
+    },
+    {
+      "text": "The",
+      "startMs": 5921,
+      "endMs": 6049
+    },
+    {
+      "text": "problem",
+      "startMs": 6130,
+      "endMs": 6641
+    },
+    {
+      "text": "was",
+      "startMs": 6745,
+      "endMs": 6966
+    },
+    {
+      "text": "the",
+      "startMs": 7059,
+      "endMs": 7152
+    },
+    {
+      "text": "new",
+      "startMs": 7245,
+      "endMs": 7442
+    },
+    {
+      "text": "mood",
+      "startMs": 7500,
+      "endMs": 7767
+    },
+    {
+      "text": "that",
+      "startMs": 7802,
+      "endMs": 7988
+    },
+    {
+      "text": "settled",
+      "startMs": 8115,
+      "endMs": 8638
+    },
+    {
+      "text": "in",
+      "startMs": 8731,
+      "endMs": 8824
+    },
+    {
+      "text": "the",
+      "startMs": 8858,
+      "endMs": 8928
+    },
+    {
+      "text": "room:",
+      "startMs": 8986,
+      "endMs": 9300
+    },
+    {
+      "text": "don't",
+      "startMs": 9404,
+      "endMs": 9636
+    },
+    {
+      "text": "make",
+      "startMs": 9718,
+      "endMs": 9938
+    },
+    {
+      "text": "your",
+      "startMs": 9985,
+      "endMs": 10112
+    },
+    {
+      "text": "friend",
+      "startMs": 10170,
+      "endMs": 10426
+    },
+    {
+      "text": "uncomfortable.",
+      "startMs": 10519,
+      "endMs": 11471
+    }
+  ]
+}

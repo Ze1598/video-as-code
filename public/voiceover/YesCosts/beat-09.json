@@ -1,0 +1,271 @@
+{
+  "text": "Before approving the request, the manager needed to state the choice to the people involved. Preparing this demo means moving the client report. Can we accept that? If the report couldn't move, the demo needed a smaller scope, a different date, or even a different person. Fit it in didn't resolve that choice.",
+  "durationMs": 20388,
+  "words": [
+    {
+      "text": "Before",
+      "startMs": 0,
+      "endMs": 348
+    },
+    {
+      "text": "approving",
+      "startMs": 383,
+      "endMs": 929
+    },
+    {
+      "text": "the",
+      "startMs": 1010,
+      "endMs": 1091
+    },
+    {
+      "text": "request,",
+      "startMs": 1138,
+      "endMs": 1823
+    },
+    {
+      "text": "the",
+      "startMs": 1881,
+      "endMs": 1974
+    },
+    {
+      "text": "manager",
+      "startMs": 2032,
+      "endMs": 2508
+    },
+    {
+      "text": "needed",
+      "startMs": 2589,
+      "endMs": 2949
+    },
+    {
+      "text": "to",
+      "startMs": 3007,
+      "endMs": 3111
+    },
+    {
+      "text": "state",
+      "startMs": 3170,
+      "endMs": 3576
+    },
+    {
+      "text": "the",
+      "startMs": 3611,
+      "endMs": 3715
+    },
+    {
+      "text": "choice",
+      "startMs": 3773,
+      "endMs": 4296
+    },
+    {
+      "text": "to",
+      "startMs": 4389,
+      "endMs": 4528
+    },
+    {
+      "text": "the",
+      "startMs": 4586,
+      "endMs": 4656
+    },
+    {
+      "text": "people",
+      "startMs": 4714,
+      "endMs": 5097
+    },
+    {
+      "text": "involved.",
+      "startMs": 5155,
+      "endMs": 5759
+    },
+    {
+      "text": "Preparing",
+      "startMs": 5863,
+      "endMs": 6444
+    },
+    {
+      "text": "this",
+      "startMs": 6525,
+      "endMs": 6722
+    },
+    {
+      "text": "demo",
+      "startMs": 6850,
+      "endMs": 7245
+    },
+    {
+      "text": "means",
+      "startMs": 7372,
+      "endMs": 7663
+    },
+    {
+      "text": "moving",
+      "startMs": 7767,
+      "endMs": 8173
+    },
+    {
+      "text": "the",
+      "startMs": 8266,
+      "endMs": 8348
+    },
+    {
+      "text": "client",
+      "startMs": 8382,
+      "endMs": 8905
+    },
+    {
+      "text": "report.",
+      "startMs": 9033,
+      "endMs": 9671
+    },
+    {
+      "text": "Can",
+      "startMs": 9857,
+      "endMs": 10031
+    },
+    {
+      "text": "we",
+      "startMs": 10089,
+      "endMs": 10205
+    },
+    {
+      "text": "accept",
+      "startMs": 10263,
+      "endMs": 10728
+    },
+    {
+      "text": "that?",
+      "startMs": 10809,
+      "endMs": 11146
+    },
+    {
+      "text": "If",
+      "startMs": 11180,
+      "endMs": 11331
+    },
+    {
+      "text": "the",
+      "startMs": 11378,
+      "endMs": 11459
+    },
+    {
+      "text": "report",
+      "startMs": 11517,
+      "endMs": 11912
+    },
+    {
+      "text": "couldn't",
+      "startMs": 11970,
+      "endMs": 12272
+    },
+    {
+      "text": "move,",
+      "startMs": 12353,
+      "endMs": 12759
+    },
+    {
+      "text": "the",
+      "startMs": 12899,
+      "endMs": 13003
+    },
+    {
+      "text": "demo",
+      "startMs": 13061,
+      "endMs": 13363
+    },
+    {
+      "text": "needed",
+      "startMs": 13444,
+      "endMs": 13839
+    },
+    {
+      "text": "a",
+      "startMs": 13967,
+      "endMs": 14060
+    },
+    {
+      "text": "smaller",
+      "startMs": 14153,
+      "endMs": 14640
+    },
+    {
+      "text": "scope,",
+      "startMs": 14745,
+      "endMs": 15256
+    },
+    {
+      "text": "a",
+      "startMs": 15314,
+      "endMs": 15407
+    },
+    {
+      "text": "different",
+      "startMs": 15488,
+      "endMs": 15848
+    },
+    {
+      "text": "date,",
+      "startMs": 15894,
+      "endMs": 16219.999999999998
+    },
+    {
+      "text": "or",
+      "startMs": 16324.000000000002,
+      "endMs": 16510
+    },
+    {
+      "text": "even",
+      "startMs": 16591,
+      "endMs": 16870
+    },
+    {
+      "text": "a",
+      "startMs": 16928,
+      "endMs": 16951
+    },
+    {
+      "text": "different",
+      "startMs": 17032,
+      "endMs": 17392
+    },
+    {
+      "text": "person.",
+      "startMs": 17427,
+      "endMs": 17949
+    },
+    {
+      "text": "Fit",
+      "startMs": 18008,
+      "endMs": 18240
+    },
+    {
+      "text": "it",
+      "startMs": 18321,
+      "endMs": 18414
+    },
+    {
+      "text": "in",
+      "startMs": 18518,
+      "endMs": 18588
+    },
+    {
+      "text": "didn't",
+      "startMs": 18693,
+      "endMs": 19018
+    },
+    {
+      "text": "resolve",
+      "startMs": 19110,
+      "endMs": 19610
+    },
+    {
+      "text": "that",
+      "startMs": 19645,
+      "endMs": 19807
+    },
+    {
+      "text": "choice.",
+      "startMs": 19854,
+      "endMs": 20388
+    }
+  ]
+}

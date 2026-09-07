@@ -1,0 +1,146 @@
+{
+  "text": "It started with one strong sprint. The team closed out every ticket on the board, then pulled in extra work from the backlog before the sprint even ended.",
+  "durationMs": 10635,
+  "words": [
+    {
+      "text": "It",
+      "startMs": 0,
+      "endMs": 151
+    },
+    {
+      "text": "started",
+      "startMs": 209,
+      "endMs": 906
+    },
+    {
+      "text": "with",
+      "startMs": 1068,
+      "endMs": 1358
+    },
+    {
+      "text": "one",
+      "startMs": 1451,
+      "endMs": 1649
+    },
+    {
+      "text": "strong",
+      "startMs": 1695,
+      "endMs": 2055
+    },
+    {
+      "text": "sprint.",
+      "startMs": 2148,
+      "endMs": 2740
+    },
+    {
+      "text": "The",
+      "startMs": 2798,
+      "endMs": 2891
+    },
+    {
+      "text": "team",
+      "startMs": 2949,
+      "endMs": 3193
+    },
+    {
+      "text": "closed",
+      "startMs": 3274,
+      "endMs": 3692
+    },
+    {
+      "text": "out",
+      "startMs": 3785,
+      "endMs": 4086.9999999999995
+    },
+    {
+      "text": "every",
+      "startMs": 4191,
+      "endMs": 4505
+    },
+    {
+      "text": "ticket",
+      "startMs": 4598,
+      "endMs": 5027
+    },
+    {
+      "text": "on",
+      "startMs": 5120,
+      "endMs": 5283
+    },
+    {
+      "text": "the",
+      "startMs": 5329,
+      "endMs": 5399
+    },
+    {
+      "text": "board,",
+      "startMs": 5480,
+      "endMs": 5898
+    },
+    {
+      "text": "then",
+      "startMs": 5921,
+      "endMs": 6095
+    },
+    {
+      "text": "pulled",
+      "startMs": 6177,
+      "endMs": 6478
+    },
+    {
+      "text": "in",
+      "startMs": 6525,
+      "endMs": 6606
+    },
+    {
+      "text": "extra",
+      "startMs": 6711,
+      "endMs": 7047
+    },
+    {
+      "text": "work",
+      "startMs": 7105,
+      "endMs": 7349
+    },
+    {
+      "text": "from",
+      "startMs": 7407,
+      "endMs": 7558
+    },
+    {
+      "text": "the",
+      "startMs": 7616,
+      "endMs": 7686
+    },
+    {
+      "text": "backlog",
+      "startMs": 7744,
+      "endMs": 8394
+    },
+    {
+      "text": "before",
+      "startMs": 8475,
+      "endMs": 8824
+    },
+    {
+      "text": "the",
+      "startMs": 8858,
+      "endMs": 8940
+    },
+    {
+      "text": "sprint",
+      "startMs": 8998,
+      "endMs": 9485
+    },
+    {
+      "text": "even",
+      "startMs": 9590,
+      "endMs": 9915
+    },
+    {
+      "text": "ended.",
+      "startMs": 10043,
+      "endMs": 10635
+    }
+  ]
+}

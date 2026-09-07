@@ -1,0 +1,126 @@
+{
+  "text": "Every ticket closed. The report stayed green. Weeks later, the client asked what any of it had accomplished. Nobody could point to a result.",
+  "durationMs": 11099,
+  "words": [
+    {
+      "text": "Every",
+      "startMs": 0,
+      "endMs": 290
+    },
+    {
+      "text": "ticket",
+      "startMs": 337,
+      "endMs": 859
+    },
+    {
+      "text": "closed.",
+      "startMs": 964,
+      "endMs": 1591
+    },
+    {
+      "text": "The",
+      "startMs": 1672,
+      "endMs": 1800
+    },
+    {
+      "text": "report",
+      "startMs": 1904,
+      "endMs": 2461
+    },
+    {
+      "text": "stayed",
+      "startMs": 2589,
+      "endMs": 3053
+    },
+    {
+      "text": "green.",
+      "startMs": 3181,
+      "endMs": 3587
+    },
+    {
+      "text": "Weeks",
+      "startMs": 3680,
+      "endMs": 4017.0000000000005
+    },
+    {
+      "text": "later,",
+      "startMs": 4145,
+      "endMs": 4702
+    },
+    {
+      "text": "the",
+      "startMs": 4760,
+      "endMs": 4865
+    },
+    {
+      "text": "client",
+      "startMs": 4923,
+      "endMs": 5515
+    },
+    {
+      "text": "asked",
+      "startMs": 5619,
+      "endMs": 6072
+    },
+    {
+      "text": "what",
+      "startMs": 6177,
+      "endMs": 6420
+    },
+    {
+      "text": "any",
+      "startMs": 6502,
+      "endMs": 6769
+    },
+    {
+      "text": "of",
+      "startMs": 6850,
+      "endMs": 6943
+    },
+    {
+      "text": "it",
+      "startMs": 7036,
+      "endMs": 7175
+    },
+    {
+      "text": "had",
+      "startMs": 7268,
+      "endMs": 7535
+    },
+    {
+      "text": "accomplished.",
+      "startMs": 7616,
+      "endMs": 8533
+    },
+    {
+      "text": "Nobody",
+      "startMs": 8591,
+      "endMs": 9033
+    },
+    {
+      "text": "could",
+      "startMs": 9114,
+      "endMs": 9288
+    },
+    {
+      "text": "point",
+      "startMs": 9381,
+      "endMs": 9787
+    },
+    {
+      "text": "to",
+      "startMs": 9915,
+      "endMs": 10124
+    },
+    {
+      "text": "a",
+      "startMs": 10252,
+      "endMs": 10310
+    },
+    {
+      "text": "result.",
+      "startMs": 10414,
+      "endMs": 11099
+    }
+  ]
+}

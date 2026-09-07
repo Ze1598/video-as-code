@@ -1,0 +1,206 @@
+{
+  "text": "Every answer just created another question. Would Tuesday clash with the next delivery cycle? Would Thursday be too late in the week to catch a problem before it grew? What happened the next time someone landed a last-minute client meeting?",
+  "durationMs": 17136,
+  "words": [
+    {
+      "text": "Every",
+      "startMs": 0,
+      "endMs": 360
+    },
+    {
+      "text": "answer",
+      "startMs": 522,
+      "endMs": 1115
+    },
+    {
+      "text": "just",
+      "startMs": 1347,
+      "endMs": 1800
+    },
+    {
+      "text": "created",
+      "startMs": 1985,
+      "endMs": 2577
+    },
+    {
+      "text": "another",
+      "startMs": 2682,
+      "endMs": 3170
+    },
+    {
+      "text": "question.",
+      "startMs": 3274,
+      "endMs": 3866
+    },
+    {
+      "text": "Would",
+      "startMs": 3947,
+      "endMs": 4168
+    },
+    {
+      "text": "Tuesday",
+      "startMs": 4191,
+      "endMs": 4690
+    },
+    {
+      "text": "clash",
+      "startMs": 4748,
+      "endMs": 5224
+    },
+    {
+      "text": "with",
+      "startMs": 5329,
+      "endMs": 5526
+    },
+    {
+      "text": "the",
+      "startMs": 5573,
+      "endMs": 5654
+    },
+    {
+      "text": "next",
+      "startMs": 5712,
+      "endMs": 6002
+    },
+    {
+      "text": "delivery",
+      "startMs": 6095,
+      "endMs": 6606
+    },
+    {
+      "text": "cycle?",
+      "startMs": 6664,
+      "endMs": 7210
+    },
+    {
+      "text": "Would",
+      "startMs": 7338,
+      "endMs": 7570
+    },
+    {
+      "text": "Thursday",
+      "startMs": 7651,
+      "endMs": 8185.000000000001
+    },
+    {
+      "text": "be",
+      "startMs": 8266,
+      "endMs": 8510
+    },
+    {
+      "text": "too",
+      "startMs": 8638,
+      "endMs": 8847
+    },
+    {
+      "text": "late",
+      "startMs": 8928,
+      "endMs": 9207
+    },
+    {
+      "text": "in",
+      "startMs": 9265,
+      "endMs": 9358
+    },
+    {
+      "text": "the",
+      "startMs": 9404,
+      "endMs": 9474
+    },
+    {
+      "text": "week",
+      "startMs": 9555,
+      "endMs": 9764
+    },
+    {
+      "text": "to",
+      "startMs": 9868,
+      "endMs": 10008
+    },
+    {
+      "text": "catch",
+      "startMs": 10101,
+      "endMs": 10391
+    },
+    {
+      "text": "a",
+      "startMs": 10449,
+      "endMs": 10484
+    },
+    {
+      "text": "problem",
+      "startMs": 10565,
+      "endMs": 11029
+    },
+    {
+      "text": "before",
+      "startMs": 11122,
+      "endMs": 11459
+    },
+    {
+      "text": "it",
+      "startMs": 11517,
+      "endMs": 11645
+    },
+    {
+      "text": "grew?",
+      "startMs": 11726,
+      "endMs": 12051
+    },
+    {
+      "text": "What",
+      "startMs": 12144,
+      "endMs": 12399
+    },
+    {
+      "text": "happened",
+      "startMs": 12481,
+      "endMs": 12922
+    },
+    {
+      "text": "the",
+      "startMs": 13050,
+      "endMs": 13154
+    },
+    {
+      "text": "next",
+      "startMs": 13235,
+      "endMs": 13502
+    },
+    {
+      "text": "time",
+      "startMs": 13549,
+      "endMs": 13816
+    },
+    {
+      "text": "someone",
+      "startMs": 13874,
+      "endMs": 14443
+    },
+    {
+      "text": "landed",
+      "startMs": 14571,
+      "endMs": 15023
+    },
+    {
+      "text": "a",
+      "startMs": 15128,
+      "endMs": 15209
+    },
+    {
+      "text": "last-minute",
+      "startMs": 15314,
+      "endMs": 15929
+    },
+    {
+      "text": "client",
+      "startMs": 15975,
+      "endMs": 16451
+    },
+    {
+      "text": "meeting?",
+      "startMs": 16544,
+      "endMs": 17136
+    }
+  ]
+}

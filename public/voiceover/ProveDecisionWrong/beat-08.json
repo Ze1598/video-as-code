@@ -1,0 +1,321 @@
+{
+  "text": "He didn't need another person to approve his work. He needed someone capable of breaking it before implementation did. Who had solved this problem before? What went wrong? Which constraint would force the design to change? Those questions could have led him to the other architect before the delivery team ever started building. Instead, he found the contradiction already halfway through the build.",
+  "durationMs": 26378,
+  "words": [
+    {
+      "text": "He",
+      "startMs": 0,
+      "endMs": 139
+    },
+    {
+      "text": "didn't",
+      "startMs": 221,
+      "endMs": 557
+    },
+    {
+      "text": "need",
+      "startMs": 650,
+      "endMs": 859
+    },
+    {
+      "text": "another",
+      "startMs": 952,
+      "endMs": 1358
+    },
+    {
+      "text": "person",
+      "startMs": 1463,
+      "endMs": 1950
+    },
+    {
+      "text": "to",
+      "startMs": 2032,
+      "endMs": 2218
+    },
+    {
+      "text": "approve",
+      "startMs": 2322,
+      "endMs": 2763
+    },
+    {
+      "text": "his",
+      "startMs": 2844,
+      "endMs": 3030
+    },
+    {
+      "text": "work.",
+      "startMs": 3123,
+      "endMs": 3460
+    },
+    {
+      "text": "He",
+      "startMs": 3506,
+      "endMs": 3611
+    },
+    {
+      "text": "needed",
+      "startMs": 3669,
+      "endMs": 3959
+    },
+    {
+      "text": "someone",
+      "startMs": 4051.9999999999995,
+      "endMs": 4563
+    },
+    {
+      "text": "capable",
+      "startMs": 4609,
+      "endMs": 5224
+    },
+    {
+      "text": "of",
+      "startMs": 5306,
+      "endMs": 5445
+    },
+    {
+      "text": "breaking",
+      "startMs": 5550,
+      "endMs": 6014
+    },
+    {
+      "text": "it",
+      "startMs": 6118,
+      "endMs": 6258
+    },
+    {
+      "text": "before",
+      "startMs": 6339,
+      "endMs": 6745
+    },
+    {
+      "text": "implementation",
+      "startMs": 6838,
+      "endMs": 7802
+    },
+    {
+      "text": "did.",
+      "startMs": 7895,
+      "endMs": 8185.000000000001
+    },
+    {
+      "text": "Who",
+      "startMs": 8208,
+      "endMs": 8324
+    },
+    {
+      "text": "had",
+      "startMs": 8382,
+      "endMs": 8533
+    },
+    {
+      "text": "solved",
+      "startMs": 8615,
+      "endMs": 8963
+    },
+    {
+      "text": "this",
+      "startMs": 8986,
+      "endMs": 9137
+    },
+    {
+      "text": "problem",
+      "startMs": 9230,
+      "endMs": 9671
+    },
+    {
+      "text": "before?",
+      "startMs": 9752,
+      "endMs": 10275
+    },
+    {
+      "text": "What",
+      "startMs": 10333,
+      "endMs": 10553
+    },
+    {
+      "text": "went",
+      "startMs": 10635,
+      "endMs": 10902
+    },
+    {
+      "text": "wrong?",
+      "startMs": 10983,
+      "endMs": 11343
+    },
+    {
+      "text": "Which",
+      "startMs": 11378,
+      "endMs": 11587
+    },
+    {
+      "text": "constraint",
+      "startMs": 11645,
+      "endMs": 12156
+    },
+    {
+      "text": "would",
+      "startMs": 12202,
+      "endMs": 12365
+    },
+    {
+      "text": "force",
+      "startMs": 12411,
+      "endMs": 12783
+    },
+    {
+      "text": "the",
+      "startMs": 12817,
+      "endMs": 12899
+    },
+    {
+      "text": "design",
+      "startMs": 12957,
+      "endMs": 13375
+    },
+    {
+      "text": "to",
+      "startMs": 13421,
+      "endMs": 13502
+    },
+    {
+      "text": "change?",
+      "startMs": 13595,
+      "endMs": 14094
+    },
+    {
+      "text": "Those",
+      "startMs": 14234,
+      "endMs": 14513
+    },
+    {
+      "text": "questions",
+      "startMs": 14559,
+      "endMs": 15117
+    },
+    {
+      "text": "could",
+      "startMs": 15221,
+      "endMs": 15442
+    },
+    {
+      "text": "have",
+      "startMs": 15523,
+      "endMs": 15685
+    },
+    {
+      "text": "led",
+      "startMs": 15743,
+      "endMs": 15976
+    },
+    {
+      "text": "him",
+      "startMs": 16056.999999999998,
+      "endMs": 16242.999999999998
+    },
+    {
+      "text": "to",
+      "startMs": 16370.000000000002,
+      "endMs": 16556
+    },
+    {
+      "text": "the",
+      "startMs": 16649,
+      "endMs": 16730
+    },
+    {
+      "text": "other",
+      "startMs": 16823,
+      "endMs": 17195
+    },
+    {
+      "text": "architect",
+      "startMs": 17322,
+      "endMs": 17973
+    },
+    {
+      "text": "before",
+      "startMs": 18054,
+      "endMs": 18391
+    },
+    {
+      "text": "the",
+      "startMs": 18437,
+      "endMs": 18518
+    },
+    {
+      "text": "delivery",
+      "startMs": 18576,
+      "endMs": 19076
+    },
+    {
+      "text": "team",
+      "startMs": 19180,
+      "endMs": 19528
+    },
+    {
+      "text": "ever",
+      "startMs": 19668,
+      "endMs": 19958
+    },
+    {
+      "text": "started",
+      "startMs": 20039,
+      "endMs": 20724
+    },
+    {
+      "text": "building.",
+      "startMs": 20852,
+      "endMs": 21374
+    },
+    {
+      "text": "Instead,",
+      "startMs": 21502,
+      "endMs": 22117
+    },
+    {
+      "text": "he",
+      "startMs": 22199,
+      "endMs": 22326
+    },
+    {
+      "text": "found",
+      "startMs": 22419,
+      "endMs": 22686
+    },
+    {
+      "text": "the",
+      "startMs": 22744,
+      "endMs": 22814
+    },
+    {
+      "text": "contradiction",
+      "startMs": 22860,
+      "endMs": 23685
+    },
+    {
+      "text": "already",
+      "startMs": 23778,
+      "endMs": 24370
+    },
+    {
+      "text": "halfway",
+      "startMs": 24509,
+      "endMs": 25206
+    },
+    {
+      "text": "through",
+      "startMs": 25333,
+      "endMs": 25670
+    },
+    {
+      "text": "the",
+      "startMs": 25763,
+      "endMs": 25879
+    },
+    {
+      "text": "build.",
+      "startMs": 25960,
+      "endMs": 26378
+    }
+  ]
+}

@@ -1,0 +1,371 @@
+{
+  "text": "A presentation can help people understand an idea. It cannot make them experience its value. Until something works, your audience must accept your assumptions about the problem, the design, and the expected result. Every claimed benefit remains open to doubt. The prototype removed that doubt from the central claim. It didn't prove every component, migration step, or long-term saving. It proved the proposed architecture could solve the real delivery problem to justify commitment.",
+  "durationMs": 31951,
+  "words": [
+    {
+      "text": "A",
+      "startMs": 0,
+      "endMs": 81
+    },
+    {
+      "text": "presentation",
+      "startMs": 186,
+      "endMs": 824
+    },
+    {
+      "text": "can",
+      "startMs": 906,
+      "endMs": 1091
+    },
+    {
+      "text": "help",
+      "startMs": 1173,
+      "endMs": 1393
+    },
+    {
+      "text": "people",
+      "startMs": 1428,
+      "endMs": 1811
+    },
+    {
+      "text": "understand",
+      "startMs": 1869,
+      "endMs": 2577
+    },
+    {
+      "text": "an",
+      "startMs": 2670,
+      "endMs": 2798
+    },
+    {
+      "text": "idea.",
+      "startMs": 2879,
+      "endMs": 3379
+    },
+    {
+      "text": "It",
+      "startMs": 3437,
+      "endMs": 3587
+    },
+    {
+      "text": "cannot",
+      "startMs": 3634,
+      "endMs": 3924
+    },
+    {
+      "text": "make",
+      "startMs": 4017.0000000000005,
+      "endMs": 4284
+    },
+    {
+      "text": "them",
+      "startMs": 4319,
+      "endMs": 4540
+    },
+    {
+      "text": "experience",
+      "startMs": 4679,
+      "endMs": 5375
+    },
+    {
+      "text": "its",
+      "startMs": 5433,
+      "endMs": 5584
+    },
+    {
+      "text": "value.",
+      "startMs": 5666,
+      "endMs": 6142
+    },
+    {
+      "text": "Until",
+      "startMs": 6269,
+      "endMs": 6571
+    },
+    {
+      "text": "something",
+      "startMs": 6629,
+      "endMs": 6989
+    },
+    {
+      "text": "works,",
+      "startMs": 7070,
+      "endMs": 7605
+    },
+    {
+      "text": "your",
+      "startMs": 7663,
+      "endMs": 7837
+    },
+    {
+      "text": "audience",
+      "startMs": 7918,
+      "endMs": 8464
+    },
+    {
+      "text": "must",
+      "startMs": 8522,
+      "endMs": 8800
+    },
+    {
+      "text": "accept",
+      "startMs": 8858,
+      "endMs": 9300
+    },
+    {
+      "text": "your",
+      "startMs": 9358,
+      "endMs": 9520
+    },
+    {
+      "text": "assumptions",
+      "startMs": 9578,
+      "endMs": 10298
+    },
+    {
+      "text": "about",
+      "startMs": 10391,
+      "endMs": 10704
+    },
+    {
+      "text": "the",
+      "startMs": 10739,
+      "endMs": 10809
+    },
+    {
+      "text": "problem,",
+      "startMs": 10855,
+      "endMs": 11424
+    },
+    {
+      "text": "the",
+      "startMs": 11552,
+      "endMs": 11656
+    },
+    {
+      "text": "design,",
+      "startMs": 11714,
+      "endMs": 12260
+    },
+    {
+      "text": "and",
+      "startMs": 12283,
+      "endMs": 12446
+    },
+    {
+      "text": "the",
+      "startMs": 12504,
+      "endMs": 12585
+    },
+    {
+      "text": "expected",
+      "startMs": 12666,
+      "endMs": 13305
+    },
+    {
+      "text": "result.",
+      "startMs": 13468,
+      "endMs": 14083
+    },
+    {
+      "text": "Every",
+      "startMs": 14315,
+      "endMs": 14617
+    },
+    {
+      "text": "claimed",
+      "startMs": 14663,
+      "endMs": 14965
+    },
+    {
+      "text": "benefit",
+      "startMs": 15046,
+      "endMs": 15604
+    },
+    {
+      "text": "remains",
+      "startMs": 15836,
+      "endMs": 16242
+    },
+    {
+      "text": "open",
+      "startMs": 16370.000000000002,
+      "endMs": 16695
+    },
+    {
+      "text": "to",
+      "startMs": 16742,
+      "endMs": 16823
+    },
+    {
+      "text": "doubt.",
+      "startMs": 16904,
+      "endMs": 17334
+    },
+    {
+      "text": "The",
+      "startMs": 17461,
+      "endMs": 17543
+    },
+    {
+      "text": "prototype",
+      "startMs": 17589,
+      "endMs": 18355
+    },
+    {
+      "text": "removed",
+      "startMs": 18448,
+      "endMs": 18866
+    },
+    {
+      "text": "that",
+      "startMs": 18913,
+      "endMs": 19122
+    },
+    {
+      "text": "doubt",
+      "startMs": 19214,
+      "endMs": 19540
+    },
+    {
+      "text": "from",
+      "startMs": 19644,
+      "endMs": 19830
+    },
+    {
+      "text": "the",
+      "startMs": 19888,
+      "endMs": 19969
+    },
+    {
+      "text": "central",
+      "startMs": 20016,
+      "endMs": 20445
+    },
+    {
+      "text": "claim.",
+      "startMs": 20503,
+      "endMs": 20910
+    },
+    {
+      "text": "It",
+      "startMs": 20956,
+      "endMs": 21119
+    },
+    {
+      "text": "didn't",
+      "startMs": 21165,
+      "endMs": 21432
+    },
+    {
+      "text": "prove",
+      "startMs": 21525,
+      "endMs": 21908
+    },
+    {
+      "text": "every",
+      "startMs": 21966,
+      "endMs": 22256
+    },
+    {
+      "text": "component,",
+      "startMs": 22338,
+      "endMs": 23162
+    },
+    {
+      "text": "migration",
+      "startMs": 23290,
+      "endMs": 23905
+    },
+    {
+      "text": "step,",
+      "startMs": 23986,
+      "endMs": 24439
+    },
+    {
+      "text": "or",
+      "startMs": 24520,
+      "endMs": 24660
+    },
+    {
+      "text": "long-term",
+      "startMs": 24718,
+      "endMs": 25228
+    },
+    {
+      "text": "saving.",
+      "startMs": 25321,
+      "endMs": 25786
+    },
+    {
+      "text": "It",
+      "startMs": 25913,
+      "endMs": 26076
+    },
+    {
+      "text": "proved",
+      "startMs": 26134,
+      "endMs": 26471
+    },
+    {
+      "text": "the",
+      "startMs": 26517,
+      "endMs": 26610
+    },
+    {
+      "text": "proposed",
+      "startMs": 26668,
+      "endMs": 27179
+    },
+    {
+      "text": "architecture",
+      "startMs": 27237,
+      "endMs": 27957
+    },
+    {
+      "text": "could",
+      "startMs": 28038,
+      "endMs": 28212
+    },
+    {
+      "text": "solve",
+      "startMs": 28293,
+      "endMs": 28630
+    },
+    {
+      "text": "the",
+      "startMs": 28688,
+      "endMs": 28804
+    },
+    {
+      "text": "real",
+      "startMs": 28897,
+      "endMs": 29129
+    },
+    {
+      "text": "delivery",
+      "startMs": 29234,
+      "endMs": 29721
+    },
+    {
+      "text": "problem",
+      "startMs": 29780,
+      "endMs": 30139
+    },
+    {
+      "text": "to",
+      "startMs": 30232,
+      "endMs": 30325
+    },
+    {
+      "text": "justify",
+      "startMs": 30418,
+      "endMs": 31068
+    },
+    {
+      "text": "commitment.",
+      "startMs": 31161,
+      "endMs": 31951
+    }
+  ]
+}

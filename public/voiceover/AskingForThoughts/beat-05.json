@@ -1,0 +1,291 @@
+{
+  "text": "If you don't say that, the other person has to guess. Most people won't reconstruct your goals, assess every part of your performance, rank the problems, and design your next improvement. They will give you whichever observation comes first to mind. Then you will complain that the feedback wasn't useful, after asking a question with no direction.",
+  "durationMs": 22802,
+  "words": [
+    {
+      "text": "If",
+      "startMs": 0,
+      "endMs": 186
+    },
+    {
+      "text": "you",
+      "startMs": 232,
+      "endMs": 313
+    },
+    {
+      "text": "don't",
+      "startMs": 372,
+      "endMs": 592
+    },
+    {
+      "text": "say",
+      "startMs": 639,
+      "endMs": 824
+    },
+    {
+      "text": "that,",
+      "startMs": 906,
+      "endMs": 1161
+    },
+    {
+      "text": "the",
+      "startMs": 1207,
+      "endMs": 1324
+    },
+    {
+      "text": "other",
+      "startMs": 1416,
+      "endMs": 1672
+    },
+    {
+      "text": "person",
+      "startMs": 1776,
+      "endMs": 2264
+    },
+    {
+      "text": "has",
+      "startMs": 2345,
+      "endMs": 2531
+    },
+    {
+      "text": "to",
+      "startMs": 2612,
+      "endMs": 2682
+    },
+    {
+      "text": "guess.",
+      "startMs": 2775,
+      "endMs": 3286
+    },
+    {
+      "text": "Most",
+      "startMs": 3425,
+      "endMs": 3715
+    },
+    {
+      "text": "people",
+      "startMs": 3808,
+      "endMs": 4261
+    },
+    {
+      "text": "won't",
+      "startMs": 4354,
+      "endMs": 4667
+    },
+    {
+      "text": "reconstruct",
+      "startMs": 4795,
+      "endMs": 5666
+    },
+    {
+      "text": "your",
+      "startMs": 5747,
+      "endMs": 5898
+    },
+    {
+      "text": "goals,",
+      "startMs": 5979,
+      "endMs": 6502
+    },
+    {
+      "text": "assess",
+      "startMs": 6525,
+      "endMs": 7070
+    },
+    {
+      "text": "every",
+      "startMs": 7198,
+      "endMs": 7500
+    },
+    {
+      "text": "part",
+      "startMs": 7558,
+      "endMs": 7825
+    },
+    {
+      "text": "of",
+      "startMs": 7883,
+      "endMs": 7964
+    },
+    {
+      "text": "your",
+      "startMs": 8022,
+      "endMs": 8138.999999999999
+    },
+    {
+      "text": "performance,",
+      "startMs": 8220,
+      "endMs": 8998
+    },
+    {
+      "text": "rank",
+      "startMs": 9091,
+      "endMs": 9288
+    },
+    {
+      "text": "the",
+      "startMs": 9334,
+      "endMs": 9404
+    },
+    {
+      "text": "problems,",
+      "startMs": 9462,
+      "endMs": 10170
+    },
+    {
+      "text": "and",
+      "startMs": 10217,
+      "endMs": 10379
+    },
+    {
+      "text": "design",
+      "startMs": 10472,
+      "endMs": 10867
+    },
+    {
+      "text": "your",
+      "startMs": 10913,
+      "endMs": 11041
+    },
+    {
+      "text": "next",
+      "startMs": 11099,
+      "endMs": 11378
+    },
+    {
+      "text": "improvement.",
+      "startMs": 11424,
+      "endMs": 12214
+    },
+    {
+      "text": "They",
+      "startMs": 12249,
+      "endMs": 12388
+    },
+    {
+      "text": "will",
+      "startMs": 12411,
+      "endMs": 12562
+    },
+    {
+      "text": "give",
+      "startMs": 12608,
+      "endMs": 12783
+    },
+    {
+      "text": "you",
+      "startMs": 12841,
+      "endMs": 12945
+    },
+    {
+      "text": "whichever",
+      "startMs": 13038,
+      "endMs": 13677
+    },
+    {
+      "text": "observation",
+      "startMs": 13769,
+      "endMs": 14710
+    },
+    {
+      "text": "comes",
+      "startMs": 14803,
+      "endMs": 15128
+    },
+    {
+      "text": "first",
+      "startMs": 15256,
+      "endMs": 15569
+    },
+    {
+      "text": "to",
+      "startMs": 15604,
+      "endMs": 15674
+    },
+    {
+      "text": "mind.",
+      "startMs": 15755,
+      "endMs": 16161.999999999998
+    },
+    {
+      "text": "Then",
+      "startMs": 16254.000000000002,
+      "endMs": 16510
+    },
+    {
+      "text": "you",
+      "startMs": 16638,
+      "endMs": 16754
+    },
+    {
+      "text": "will",
+      "startMs": 16788,
+      "endMs": 16928
+    },
+    {
+      "text": "complain",
+      "startMs": 16986,
+      "endMs": 17404
+    },
+    {
+      "text": "that",
+      "startMs": 17508,
+      "endMs": 17729
+    },
+    {
+      "text": "the",
+      "startMs": 17810,
+      "endMs": 17915
+    },
+    {
+      "text": "feedback",
+      "startMs": 17996,
+      "endMs": 18634
+    },
+    {
+      "text": "wasn't",
+      "startMs": 18762,
+      "endMs": 19145
+    },
+    {
+      "text": "useful,",
+      "startMs": 19203,
+      "endMs": 19853
+    },
+    {
+      "text": "after",
+      "startMs": 19888,
+      "endMs": 20260
+    },
+    {
+      "text": "asking",
+      "startMs": 20353,
+      "endMs": 20782
+    },
+    {
+      "text": "a",
+      "startMs": 20875,
+      "endMs": 20922
+    },
+    {
+      "text": "question",
+      "startMs": 21003,
+      "endMs": 21572
+    },
+    {
+      "text": "with",
+      "startMs": 21653,
+      "endMs": 21839
+    },
+    {
+      "text": "no",
+      "startMs": 21920,
+      "endMs": 22048
+    },
+    {
+      "text": "direction.",
+      "startMs": 22106,
+      "endMs": 22802
+    }
+  ]
+}

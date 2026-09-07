@@ -1,0 +1,126 @@
+{
+  "text": "It was a sound data model. It answered every requirement in that email. The team had every reason to trust it, and started building.",
+  "durationMs": 9845,
+  "words": [
+    {
+      "text": "It",
+      "startMs": 0,
+      "endMs": 255
+    },
+    {
+      "text": "was",
+      "startMs": 383,
+      "endMs": 685
+    },
+    {
+      "text": "a",
+      "startMs": 789,
+      "endMs": 871
+    },
+    {
+      "text": "sound",
+      "startMs": 998,
+      "endMs": 1300
+    },
+    {
+      "text": "data",
+      "startMs": 1463,
+      "endMs": 1800
+    },
+    {
+      "text": "model.",
+      "startMs": 1846,
+      "endMs": 2299
+    },
+    {
+      "text": "It",
+      "startMs": 2322,
+      "endMs": 2496
+    },
+    {
+      "text": "answered",
+      "startMs": 2624,
+      "endMs": 3262
+    },
+    {
+      "text": "every",
+      "startMs": 3448,
+      "endMs": 3796
+    },
+    {
+      "text": "requirement",
+      "startMs": 3889,
+      "endMs": 4632
+    },
+    {
+      "text": "in",
+      "startMs": 4725,
+      "endMs": 4865
+    },
+    {
+      "text": "that",
+      "startMs": 4911,
+      "endMs": 5085
+    },
+    {
+      "text": "email.",
+      "startMs": 5190,
+      "endMs": 5759
+    },
+    {
+      "text": "The",
+      "startMs": 5840,
+      "endMs": 5944
+    },
+    {
+      "text": "team",
+      "startMs": 6002,
+      "endMs": 6246
+    },
+    {
+      "text": "had",
+      "startMs": 6374,
+      "endMs": 6525
+    },
+    {
+      "text": "every",
+      "startMs": 6606,
+      "endMs": 6931
+    },
+    {
+      "text": "reason",
+      "startMs": 7012,
+      "endMs": 7338
+    },
+    {
+      "text": "to",
+      "startMs": 7419,
+      "endMs": 7512
+    },
+    {
+      "text": "trust",
+      "startMs": 7593,
+      "endMs": 7964
+    },
+    {
+      "text": "it,",
+      "startMs": 8045.999999999999,
+      "endMs": 8208
+    },
+    {
+      "text": "and",
+      "startMs": 8231,
+      "endMs": 8382
+    },
+    {
+      "text": "started",
+      "startMs": 8440,
+      "endMs": 8951
+    },
+    {
+      "text": "building.",
+      "startMs": 9079,
+      "endMs": 9845
+    }
+  ]
+}

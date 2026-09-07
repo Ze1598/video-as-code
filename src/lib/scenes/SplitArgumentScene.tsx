@@ -1,6 +1,6 @@
 import { AbsoluteFill, Easing, interpolate, useCurrentFrame } from "remotion";
 import type { Beat } from "../timeline.ts";
-import { ACCENT, DIM_TEXT, FONT, LINE_INACTIVE, TEXT } from "../palette.ts";
+import { ACCENT, BG, DIM_TEXT, FONT, LINE_INACTIVE, TEXT } from "../palette.ts";
 import { wordsToText } from "../sentences.ts";
 
 const EASE = Easing.bezier(0.16, 1, 0.3, 1);
@@ -102,6 +102,7 @@ export const SplitArgumentScene: React.FC<SplitArgumentSceneProps> = ({
   return (
     <AbsoluteFill
       style={{
+        backgroundColor: BG,
         display: "flex",
         flexDirection: "column",
         alignItems: "center",

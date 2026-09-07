@@ -1,0 +1,181 @@
+{
+  "text": "She built the demo, checked the figures, and helped the sales lead prepare for questions. The prospect saw what it needed, and the sales conversation moved forward. The manager thanked her for making it happen.",
+  "durationMs": 13468,
+  "words": [
+    {
+      "text": "She",
+      "startMs": 0,
+      "endMs": 209
+    },
+    {
+      "text": "built",
+      "startMs": 290,
+      "endMs": 592
+    },
+    {
+      "text": "the",
+      "startMs": 673,
+      "endMs": 789
+    },
+    {
+      "text": "demo,",
+      "startMs": 848,
+      "endMs": 1289
+    },
+    {
+      "text": "checked",
+      "startMs": 1347,
+      "endMs": 1707
+    },
+    {
+      "text": "the",
+      "startMs": 1741,
+      "endMs": 1823
+    },
+    {
+      "text": "figures,",
+      "startMs": 1904,
+      "endMs": 2357
+    },
+    {
+      "text": "and",
+      "startMs": 2403,
+      "endMs": 2589
+    },
+    {
+      "text": "helped",
+      "startMs": 2717,
+      "endMs": 3077
+    },
+    {
+      "text": "the",
+      "startMs": 3204,
+      "endMs": 3320
+    },
+    {
+      "text": "sales",
+      "startMs": 3413,
+      "endMs": 3692
+    },
+    {
+      "text": "lead",
+      "startMs": 3820,
+      "endMs": 4029
+    },
+    {
+      "text": "prepare",
+      "startMs": 4122,
+      "endMs": 4667
+    },
+    {
+      "text": "for",
+      "startMs": 4714,
+      "endMs": 4865
+    },
+    {
+      "text": "questions.",
+      "startMs": 4946,
+      "endMs": 5677
+    },
+    {
+      "text": "The",
+      "startMs": 5700,
+      "endMs": 5805
+    },
+    {
+      "text": "prospect",
+      "startMs": 5886,
+      "endMs": 6548
+    },
+    {
+      "text": "saw",
+      "startMs": 6629,
+      "endMs": 6885
+    },
+    {
+      "text": "what",
+      "startMs": 6989,
+      "endMs": 7163
+    },
+    {
+      "text": "it",
+      "startMs": 7221,
+      "endMs": 7349
+    },
+    {
+      "text": "needed,",
+      "startMs": 7442,
+      "endMs": 7906
+    },
+    {
+      "text": "and",
+      "startMs": 7941,
+      "endMs": 8080.999999999999
+    },
+    {
+      "text": "the",
+      "startMs": 8138.999999999999,
+      "endMs": 8208
+    },
+    {
+      "text": "sales",
+      "startMs": 8290,
+      "endMs": 8568
+    },
+    {
+      "text": "conversation",
+      "startMs": 8649,
+      "endMs": 9532
+    },
+    {
+      "text": "moved",
+      "startMs": 9694,
+      "endMs": 10031
+    },
+    {
+      "text": "forward.",
+      "startMs": 10136,
+      "endMs": 10704
+    },
+    {
+      "text": "The",
+      "startMs": 10762,
+      "endMs": 10855
+    },
+    {
+      "text": "manager",
+      "startMs": 10913,
+      "endMs": 11343
+    },
+    {
+      "text": "thanked",
+      "startMs": 11424,
+      "endMs": 11726
+    },
+    {
+      "text": "her",
+      "startMs": 11784,
+      "endMs": 11912
+    },
+    {
+      "text": "for",
+      "startMs": 12005,
+      "endMs": 12144
+    },
+    {
+      "text": "making",
+      "startMs": 12225,
+      "endMs": 12550
+    },
+    {
+      "text": "it",
+      "startMs": 12608,
+      "endMs": 12678
+    },
+    {
+      "text": "happen.",
+      "startMs": 12771,
+      "endMs": 13468
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "text": "The junior consultant finished rehearsing her presentation before the client demo. She turned to the architect and asked: any thoughts about the presentation?",
+  "durationMs": 11749,
+  "words": [
+    {
+      "text": "The",
+      "startMs": 0,
+      "endMs": 174
+    },
+    {
+      "text": "junior",
+      "startMs": 267,
+      "endMs": 627
+    },
+    {
+      "text": "consultant",
+      "startMs": 708,
+      "endMs": 1451
+    },
+    {
+      "text": "finished",
+      "startMs": 1579,
+      "endMs": 2101
+    },
+    {
+      "text": "rehearsing",
+      "startMs": 2229,
+      "endMs": 2810
+    },
+    {
+      "text": "her",
+      "startMs": 2914,
+      "endMs": 3088
+    },
+    {
+      "text": "presentation",
+      "startMs": 3170,
+      "endMs": 4017.0000000000005
+    },
+    {
+      "text": "before",
+      "startMs": 4180,
+      "endMs": 4563
+    },
+    {
+      "text": "the",
+      "startMs": 4609,
+      "endMs": 4679
+    },
+    {
+      "text": "client",
+      "startMs": 4737,
+      "endMs": 5236
+    },
+    {
+      "text": "demo.",
+      "startMs": 5364,
+      "endMs": 5909
+    },
+    {
+      "text": "She",
+      "startMs": 6211,
+      "endMs": 6420
+    },
+    {
+      "text": "turned",
+      "startMs": 6502,
+      "endMs": 6815
+    },
+    {
+      "text": "to",
+      "startMs": 6873,
+      "endMs": 6978
+    },
+    {
+      "text": "the",
+      "startMs": 7105,
+      "endMs": 7221
+    },
+    {
+      "text": "architect",
+      "startMs": 7326,
+      "endMs": 7976
+    },
+    {
+      "text": "and",
+      "startMs": 8057,
+      "endMs": 8243
+    },
+    {
+      "text": "asked:",
+      "startMs": 8371,
+      "endMs": 8940
+    },
+    {
+      "text": "any",
+      "startMs": 9102,
+      "endMs": 9369
+    },
+    {
+      "text": "thoughts",
+      "startMs": 9451,
+      "endMs": 9857
+    },
+    {
+      "text": "about",
+      "startMs": 9985,
+      "endMs": 10344
+    },
+    {
+      "text": "the",
+      "startMs": 10379,
+      "endMs": 10461
+    },
+    {
+      "text": "presentation?",
+      "startMs": 10542,
+      "endMs": 11749
+    }
+  ]
+}

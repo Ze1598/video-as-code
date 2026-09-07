@@ -1,0 +1,271 @@
+{
+  "text": "The manager presented the closed tickets as proof that the team had remained productive. The client asked which task had resolved the blocked decision, or prepared the team for the revised work. He had no answer. The team could have done nothing and produced the same result. Doing nothing would have cost less.",
+  "durationMs": 20016,
+  "words": [
+    {
+      "text": "The",
+      "startMs": 0,
+      "endMs": 163
+    },
+    {
+      "text": "manager",
+      "startMs": 255,
+      "endMs": 755
+    },
+    {
+      "text": "presented",
+      "startMs": 882,
+      "endMs": 1591
+    },
+    {
+      "text": "the",
+      "startMs": 1718,
+      "endMs": 1846
+    },
+    {
+      "text": "closed",
+      "startMs": 1904,
+      "endMs": 2415
+    },
+    {
+      "text": "tickets",
+      "startMs": 2577,
+      "endMs": 3262
+    },
+    {
+      "text": "as",
+      "startMs": 3367,
+      "endMs": 3541
+    },
+    {
+      "text": "proof",
+      "startMs": 3669,
+      "endMs": 3971
+    },
+    {
+      "text": "that",
+      "startMs": 4062.9999999999995,
+      "endMs": 4249
+    },
+    {
+      "text": "the",
+      "startMs": 4272,
+      "endMs": 4342
+    },
+    {
+      "text": "team",
+      "startMs": 4400,
+      "endMs": 4714
+    },
+    {
+      "text": "had",
+      "startMs": 4853,
+      "endMs": 5062
+    },
+    {
+      "text": "remained",
+      "startMs": 5143,
+      "endMs": 5550
+    },
+    {
+      "text": "productive.",
+      "startMs": 5677,
+      "endMs": 6409
+    },
+    {
+      "text": "The",
+      "startMs": 6536,
+      "endMs": 6641
+    },
+    {
+      "text": "client",
+      "startMs": 6687,
+      "endMs": 7094
+    },
+    {
+      "text": "asked",
+      "startMs": 7198,
+      "endMs": 7558
+    },
+    {
+      "text": "which",
+      "startMs": 7639,
+      "endMs": 7883
+    },
+    {
+      "text": "task",
+      "startMs": 7964,
+      "endMs": 8394
+    },
+    {
+      "text": "had",
+      "startMs": 8487,
+      "endMs": 8673
+    },
+    {
+      "text": "resolved",
+      "startMs": 8731,
+      "endMs": 9242
+    },
+    {
+      "text": "the",
+      "startMs": 9369,
+      "endMs": 9474
+    },
+    {
+      "text": "blocked",
+      "startMs": 9520,
+      "endMs": 9868
+    },
+    {
+      "text": "decision,",
+      "startMs": 10008,
+      "endMs": 10681
+    },
+    {
+      "text": "or",
+      "startMs": 10774,
+      "endMs": 10948
+    },
+    {
+      "text": "prepared",
+      "startMs": 11053,
+      "endMs": 11656
+    },
+    {
+      "text": "the",
+      "startMs": 11738,
+      "endMs": 11842
+    },
+    {
+      "text": "team",
+      "startMs": 11900,
+      "endMs": 12167
+    },
+    {
+      "text": "for",
+      "startMs": 12249,
+      "endMs": 12376
+    },
+    {
+      "text": "the",
+      "startMs": 12423,
+      "endMs": 12492
+    },
+    {
+      "text": "revised",
+      "startMs": 12550,
+      "endMs": 13061
+    },
+    {
+      "text": "work.",
+      "startMs": 13119,
+      "endMs": 13468
+    },
+    {
+      "text": "He",
+      "startMs": 13514,
+      "endMs": 13665
+    },
+    {
+      "text": "had",
+      "startMs": 13758,
+      "endMs": 13932
+    },
+    {
+      "text": "no",
+      "startMs": 14013,
+      "endMs": 14141
+    },
+    {
+      "text": "answer.",
+      "startMs": 14234,
+      "endMs": 14768
+    },
+    {
+      "text": "The",
+      "startMs": 14803,
+      "endMs": 14907
+    },
+    {
+      "text": "team",
+      "startMs": 14954,
+      "endMs": 15139
+    },
+    {
+      "text": "could",
+      "startMs": 15221,
+      "endMs": 15360
+    },
+    {
+      "text": "have",
+      "startMs": 15407,
+      "endMs": 15523
+    },
+    {
+      "text": "done",
+      "startMs": 15569,
+      "endMs": 15744
+    },
+    {
+      "text": "nothing",
+      "startMs": 15802,
+      "endMs": 16149.999999999998
+    },
+    {
+      "text": "and",
+      "startMs": 16231.000000000002,
+      "endMs": 16335.999999999998
+    },
+    {
+      "text": "produced",
+      "startMs": 16417,
+      "endMs": 16905
+    },
+    {
+      "text": "the",
+      "startMs": 16951,
+      "endMs": 17044
+    },
+    {
+      "text": "same",
+      "startMs": 17102,
+      "endMs": 17323
+    },
+    {
+      "text": "result.",
+      "startMs": 17381,
+      "endMs": 17868
+    },
+    {
+      "text": "Doing",
+      "startMs": 17903,
+      "endMs": 18147
+    },
+    {
+      "text": "nothing",
+      "startMs": 18193,
+      "endMs": 18518
+    },
+    {
+      "text": "would",
+      "startMs": 18646,
+      "endMs": 18878
+    },
+    {
+      "text": "have",
+      "startMs": 18913,
+      "endMs": 19041
+    },
+    {
+      "text": "cost",
+      "startMs": 19076,
+      "endMs": 19424
+    },
+    {
+      "text": "less.",
+      "startMs": 19528,
+      "endMs": 20016
+    }
+  ]
+}

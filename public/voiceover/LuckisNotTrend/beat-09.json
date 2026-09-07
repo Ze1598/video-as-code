@@ -1,0 +1,256 @@
+{
+  "text": "The manager had counted what came out of the sprint without asking what made it possible. A sprint with better-than-usual results became evidence of a team that could handle more, permanently. But the new commitments depended on another quiet sprint, and nobody controlled whether the next one would be quiet.",
+  "durationMs": 21641,
+  "words": [
+    {
+      "text": "The",
+      "startMs": 0,
+      "endMs": 151
+    },
+    {
+      "text": "manager",
+      "startMs": 209,
+      "endMs": 789
+    },
+    {
+      "text": "had",
+      "startMs": 917,
+      "endMs": 1138
+    },
+    {
+      "text": "counted",
+      "startMs": 1242,
+      "endMs": 1800
+    },
+    {
+      "text": "what",
+      "startMs": 1985,
+      "endMs": 2159
+    },
+    {
+      "text": "came",
+      "startMs": 2206,
+      "endMs": 2473
+    },
+    {
+      "text": "out",
+      "startMs": 2519,
+      "endMs": 2752
+    },
+    {
+      "text": "of",
+      "startMs": 2833,
+      "endMs": 2914
+    },
+    {
+      "text": "the",
+      "startMs": 2972,
+      "endMs": 3042
+    },
+    {
+      "text": "sprint",
+      "startMs": 3088,
+      "endMs": 3564
+    },
+    {
+      "text": "without",
+      "startMs": 3704,
+      "endMs": 4284
+    },
+    {
+      "text": "asking",
+      "startMs": 4447,
+      "endMs": 4969
+    },
+    {
+      "text": "what",
+      "startMs": 5155,
+      "endMs": 5410
+    },
+    {
+      "text": "made",
+      "startMs": 5503,
+      "endMs": 5700
+    },
+    {
+      "text": "it",
+      "startMs": 5735,
+      "endMs": 5805
+    },
+    {
+      "text": "possible.",
+      "startMs": 5851,
+      "endMs": 6444
+    },
+    {
+      "text": "A",
+      "startMs": 6536,
+      "endMs": 6629
+    },
+    {
+      "text": "sprint",
+      "startMs": 6734,
+      "endMs": 7187
+    },
+    {
+      "text": "with",
+      "startMs": 7314,
+      "endMs": 7535
+    },
+    {
+      "text": "better-than-usual",
+      "startMs": 7581,
+      "endMs": 8533
+    },
+    {
+      "text": "results",
+      "startMs": 8626,
+      "endMs": 9067
+    },
+    {
+      "text": "became",
+      "startMs": 9230,
+      "endMs": 9671
+    },
+    {
+      "text": "evidence",
+      "startMs": 9764,
+      "endMs": 10403
+    },
+    {
+      "text": "of",
+      "startMs": 10530,
+      "endMs": 10693
+    },
+    {
+      "text": "a",
+      "startMs": 10751,
+      "endMs": 10774
+    },
+    {
+      "text": "team",
+      "startMs": 10855,
+      "endMs": 11157
+    },
+    {
+      "text": "that",
+      "startMs": 11297,
+      "endMs": 11505
+    },
+    {
+      "text": "could",
+      "startMs": 11564,
+      "endMs": 11738
+    },
+    {
+      "text": "handle",
+      "startMs": 11796,
+      "endMs": 12249
+    },
+    {
+      "text": "more,",
+      "startMs": 12353,
+      "endMs": 12783
+    },
+    {
+      "text": "permanently.",
+      "startMs": 12887,
+      "endMs": 13700
+    },
+    {
+      "text": "But",
+      "startMs": 13781,
+      "endMs": 13955
+    },
+    {
+      "text": "the",
+      "startMs": 13990,
+      "endMs": 14060
+    },
+    {
+      "text": "new",
+      "startMs": 14106,
+      "endMs": 14234
+    },
+    {
+      "text": "commitments",
+      "startMs": 14292,
+      "endMs": 15023
+    },
+    {
+      "text": "depended",
+      "startMs": 15256,
+      "endMs": 15882
+    },
+    {
+      "text": "on",
+      "startMs": 16010.000000000002,
+      "endMs": 16219.000000000002
+    },
+    {
+      "text": "another",
+      "startMs": 16300.999999999998,
+      "endMs": 16777
+    },
+    {
+      "text": "quiet",
+      "startMs": 16939,
+      "endMs": 17369
+    },
+    {
+      "text": "sprint,",
+      "startMs": 17415,
+      "endMs": 17938
+    },
+    {
+      "text": "and",
+      "startMs": 18077,
+      "endMs": 18286
+    },
+    {
+      "text": "nobody",
+      "startMs": 18414,
+      "endMs": 18774
+    },
+    {
+      "text": "controlled",
+      "startMs": 18832,
+      "endMs": 19319
+    },
+    {
+      "text": "whether",
+      "startMs": 19377,
+      "endMs": 19726
+    },
+    {
+      "text": "the",
+      "startMs": 19865,
+      "endMs": 19993
+    },
+    {
+      "text": "next",
+      "startMs": 20074,
+      "endMs": 20387
+    },
+    {
+      "text": "one",
+      "startMs": 20469,
+      "endMs": 20678
+    },
+    {
+      "text": "would",
+      "startMs": 20713,
+      "endMs": 20921
+    },
+    {
+      "text": "be",
+      "startMs": 20956,
+      "endMs": 21038
+    },
+    {
+      "text": "quiet.",
+      "startMs": 21096,
+      "endMs": 21641
+    }
+  ]
+}

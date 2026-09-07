@@ -1,6 +1,6 @@
 import { AbsoluteFill, Easing, interpolate, useCurrentFrame } from "remotion";
 import type { Beat } from "../timeline.ts";
-import { ACCENT, FONT, TEXT } from "../palette.ts";
+import { ACCENT, BG, FONT, TEXT } from "../palette.ts";
 import { wordsToText } from "../sentences.ts";
 
 const EASE = Easing.bezier(0.16, 1, 0.3, 1);
@@ -47,6 +47,7 @@ export const HookScene: React.FC<HookSceneProps> = ({ beatId, beats, setupRange,
   return (
     <AbsoluteFill
       style={{
+        backgroundColor: BG,
         display: "flex",
         flexDirection: "column",
         alignItems: "center",

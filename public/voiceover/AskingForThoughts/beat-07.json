@@ -1,0 +1,96 @@
+{
+  "text": "Which part of my explanation was hardest to follow, and what should I change before the client demo?",
+  "durationMs": 6734,
+  "words": [
+    {
+      "text": "Which",
+      "startMs": 0,
+      "endMs": 255
+    },
+    {
+      "text": "part",
+      "startMs": 337,
+      "endMs": 627
+    },
+    {
+      "text": "of",
+      "startMs": 708,
+      "endMs": 801
+    },
+    {
+      "text": "my",
+      "startMs": 906,
+      "endMs": 998
+    },
+    {
+      "text": "explanation",
+      "startMs": 1091,
+      "endMs": 1916
+    },
+    {
+      "text": "was",
+      "startMs": 2043.0000000000002,
+      "endMs": 2229
+    },
+    {
+      "text": "hardest",
+      "startMs": 2322,
+      "endMs": 2821
+    },
+    {
+      "text": "to",
+      "startMs": 2844,
+      "endMs": 2926
+    },
+    {
+      "text": "follow,",
+      "startMs": 3007,
+      "endMs": 3460
+    },
+    {
+      "text": "and",
+      "startMs": 3541,
+      "endMs": 3692
+    },
+    {
+      "text": "what",
+      "startMs": 3773,
+      "endMs": 3936
+    },
+    {
+      "text": "should",
+      "startMs": 3971,
+      "endMs": 4168
+    },
+    {
+      "text": "I",
+      "startMs": 4214,
+      "endMs": 4261
+    },
+    {
+      "text": "change",
+      "startMs": 4389,
+      "endMs": 4841
+    },
+    {
+      "text": "before",
+      "startMs": 4899,
+      "endMs": 5306
+    },
+    {
+      "text": "the",
+      "startMs": 5387,
+      "endMs": 5480
+    },
+    {
+      "text": "client",
+      "startMs": 5526,
+      "endMs": 6060
+    },
+    {
+      "text": "demo?",
+      "startMs": 6188,
+      "endMs": 6734
+    }
+  ]
+}

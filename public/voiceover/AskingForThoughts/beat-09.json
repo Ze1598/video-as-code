@@ -1,0 +1,131 @@
+{
+  "text": "Think about the last time you asked someone: any thoughts? What did you actually want to know, and did you ever say it out loud?",
+  "durationMs": 8870,
+  "words": [
+    {
+      "text": "Think",
+      "startMs": 0,
+      "endMs": 406
+    },
+    {
+      "text": "about",
+      "startMs": 534,
+      "endMs": 998
+    },
+    {
+      "text": "the",
+      "startMs": 1126,
+      "endMs": 1231
+    },
+    {
+      "text": "last",
+      "startMs": 1312,
+      "endMs": 1533
+    },
+    {
+      "text": "time",
+      "startMs": 1591,
+      "endMs": 1881
+    },
+    {
+      "text": "you",
+      "startMs": 1939,
+      "endMs": 2055
+    },
+    {
+      "text": "asked",
+      "startMs": 2183,
+      "endMs": 2670
+    },
+    {
+      "text": "someone:",
+      "startMs": 2763,
+      "endMs": 3413
+    },
+    {
+      "text": "any",
+      "startMs": 3541,
+      "endMs": 3796
+    },
+    {
+      "text": "thoughts?",
+      "startMs": 3843,
+      "endMs": 4354
+    },
+    {
+      "text": "What",
+      "startMs": 4447,
+      "endMs": 4656
+    },
+    {
+      "text": "did",
+      "startMs": 4702,
+      "endMs": 4853
+    },
+    {
+      "text": "you",
+      "startMs": 4899,
+      "endMs": 4992
+    },
+    {
+      "text": "actually",
+      "startMs": 5085,
+      "endMs": 5573
+    },
+    {
+      "text": "want",
+      "startMs": 5654,
+      "endMs": 5886
+    },
+    {
+      "text": "to",
+      "startMs": 5921,
+      "endMs": 5991
+    },
+    {
+      "text": "know,",
+      "startMs": 6049,
+      "endMs": 6397
+    },
+    {
+      "text": "and",
+      "startMs": 6420,
+      "endMs": 6583
+    },
+    {
+      "text": "did",
+      "startMs": 6664,
+      "endMs": 6838
+    },
+    {
+      "text": "you",
+      "startMs": 6885,
+      "endMs": 7012
+    },
+    {
+      "text": "ever",
+      "startMs": 7152,
+      "endMs": 7430
+    },
+    {
+      "text": "say",
+      "startMs": 7523,
+      "endMs": 7779
+    },
+    {
+      "text": "it",
+      "startMs": 7860,
+      "endMs": 7988
+    },
+    {
+      "text": "out",
+      "startMs": 8069.000000000001,
+      "endMs": 8266
+    },
+    {
+      "text": "loud?",
+      "startMs": 8371,
+      "endMs": 8870
+    }
+  ]
+}

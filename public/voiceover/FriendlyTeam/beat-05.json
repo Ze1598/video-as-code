@@ -1,0 +1,106 @@
+{
+  "text": "The work still passed through the team, beat by beat, project by project. It just stopped facing an honest review.",
+  "durationMs": 8220,
+  "words": [
+    {
+      "text": "The",
+      "startMs": 0,
+      "endMs": 163
+    },
+    {
+      "text": "work",
+      "startMs": 255,
+      "endMs": 441
+    },
+    {
+      "text": "still",
+      "startMs": 534,
+      "endMs": 813
+    },
+    {
+      "text": "passed",
+      "startMs": 917,
+      "endMs": 1335
+    },
+    {
+      "text": "through",
+      "startMs": 1428,
+      "endMs": 1718
+    },
+    {
+      "text": "the",
+      "startMs": 1753,
+      "endMs": 1834
+    },
+    {
+      "text": "team,",
+      "startMs": 1916,
+      "endMs": 2229
+    },
+    {
+      "text": "beat",
+      "startMs": 2287,
+      "endMs": 2566
+    },
+    {
+      "text": "by",
+      "startMs": 2659,
+      "endMs": 2798
+    },
+    {
+      "text": "beat,",
+      "startMs": 2891,
+      "endMs": 3228
+    },
+    {
+      "text": "project",
+      "startMs": 3274,
+      "endMs": 3785
+    },
+    {
+      "text": "by",
+      "startMs": 3866,
+      "endMs": 4017.0000000000005
+    },
+    {
+      "text": "project.",
+      "startMs": 4110,
+      "endMs": 4702
+    },
+    {
+      "text": "It",
+      "startMs": 4830,
+      "endMs": 5016
+    },
+    {
+      "text": "just",
+      "startMs": 5108,
+      "endMs": 5503
+    },
+    {
+      "text": "stopped",
+      "startMs": 5666,
+      "endMs": 6118
+    },
+    {
+      "text": "facing",
+      "startMs": 6258,
+      "endMs": 6815
+    },
+    {
+      "text": "an",
+      "startMs": 6943,
+      "endMs": 7105
+    },
+    {
+      "text": "honest",
+      "startMs": 7163,
+      "endMs": 7581
+    },
+    {
+      "text": "review.",
+      "startMs": 7686,
+      "endMs": 8220
+    }
+  ]
+}

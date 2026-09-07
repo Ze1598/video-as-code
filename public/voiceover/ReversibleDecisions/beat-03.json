@@ -1,0 +1,266 @@
+{
+  "text": "He waited for those answers, then asked one more question: would mornings or afternoons cause fewer interruptions? Somewhere in that question, the goal had quietly shifted, from finding a day that worked, to finding a day that would suit everyone, across every project, every deadline, and commitments that hadn't even happened yet.",
+  "durationMs": 21920,
+  "words": [
+    {
+      "text": "He",
+      "startMs": 0,
+      "endMs": 186
+    },
+    {
+      "text": "waited",
+      "startMs": 244,
+      "endMs": 708
+    },
+    {
+      "text": "for",
+      "startMs": 801,
+      "endMs": 1010
+    },
+    {
+      "text": "those",
+      "startMs": 1103,
+      "endMs": 1393
+    },
+    {
+      "text": "answers,",
+      "startMs": 1451,
+      "endMs": 2148
+    },
+    {
+      "text": "then",
+      "startMs": 2276,
+      "endMs": 2543
+    },
+    {
+      "text": "asked",
+      "startMs": 2670,
+      "endMs": 3088
+    },
+    {
+      "text": "one",
+      "startMs": 3193,
+      "endMs": 3425
+    },
+    {
+      "text": "more",
+      "startMs": 3460,
+      "endMs": 3634
+    },
+    {
+      "text": "question:",
+      "startMs": 3692,
+      "endMs": 4307
+    },
+    {
+      "text": "would",
+      "startMs": 4365,
+      "endMs": 4574
+    },
+    {
+      "text": "mornings",
+      "startMs": 4667,
+      "endMs": 5120
+    },
+    {
+      "text": "or",
+      "startMs": 5213,
+      "endMs": 5352
+    },
+    {
+      "text": "afternoons",
+      "startMs": 5410,
+      "endMs": 5979
+    },
+    {
+      "text": "cause",
+      "startMs": 6060,
+      "endMs": 6409
+    },
+    {
+      "text": "fewer",
+      "startMs": 6490,
+      "endMs": 6931
+    },
+    {
+      "text": "interruptions?",
+      "startMs": 7024,
+      "endMs": 7895
+    },
+    {
+      "text": "Somewhere",
+      "startMs": 7930,
+      "endMs": 8348
+    },
+    {
+      "text": "in",
+      "startMs": 8394,
+      "endMs": 8464
+    },
+    {
+      "text": "that",
+      "startMs": 8522,
+      "endMs": 8673
+    },
+    {
+      "text": "question,",
+      "startMs": 8731,
+      "endMs": 9311
+    },
+    {
+      "text": "the",
+      "startMs": 9346,
+      "endMs": 9451
+    },
+    {
+      "text": "goal",
+      "startMs": 9532,
+      "endMs": 9799
+    },
+    {
+      "text": "had",
+      "startMs": 9892,
+      "endMs": 10066
+    },
+    {
+      "text": "quietly",
+      "startMs": 10159,
+      "endMs": 10716
+    },
+    {
+      "text": "shifted,",
+      "startMs": 10774,
+      "endMs": 11297
+    },
+    {
+      "text": "from",
+      "startMs": 11343,
+      "endMs": 11517
+    },
+    {
+      "text": "finding",
+      "startMs": 11610,
+      "endMs": 12109
+    },
+    {
+      "text": "a",
+      "startMs": 12237,
+      "endMs": 12318
+    },
+    {
+      "text": "day",
+      "startMs": 12411,
+      "endMs": 12585
+    },
+    {
+      "text": "that",
+      "startMs": 12632,
+      "endMs": 12794
+    },
+    {
+      "text": "worked,",
+      "startMs": 12887,
+      "endMs": 13282
+    },
+    {
+      "text": "to",
+      "startMs": 13340,
+      "endMs": 13444
+    },
+    {
+      "text": "finding",
+      "startMs": 13549,
+      "endMs": 13909
+    },
+    {
+      "text": "a",
+      "startMs": 13990,
+      "endMs": 14036
+    },
+    {
+      "text": "day",
+      "startMs": 14164,
+      "endMs": 14431
+    },
+    {
+      "text": "that",
+      "startMs": 14512,
+      "endMs": 14675
+    },
+    {
+      "text": "would",
+      "startMs": 14721,
+      "endMs": 14907
+    },
+    {
+      "text": "suit",
+      "startMs": 14942,
+      "endMs": 15197
+    },
+    {
+      "text": "everyone,",
+      "startMs": 15302,
+      "endMs": 15929
+    },
+    {
+      "text": "across",
+      "startMs": 15975,
+      "endMs": 16521
+    },
+    {
+      "text": "every",
+      "startMs": 16602,
+      "endMs": 16846
+    },
+    {
+      "text": "project,",
+      "startMs": 16939,
+      "endMs": 17566
+    },
+    {
+      "text": "every",
+      "startMs": 17647,
+      "endMs": 17937
+    },
+    {
+      "text": "deadline,",
+      "startMs": 18019,
+      "endMs": 18657
+    },
+    {
+      "text": "and",
+      "startMs": 18704,
+      "endMs": 18889
+    },
+    {
+      "text": "commitments",
+      "startMs": 18982,
+      "endMs": 19760
+    },
+    {
+      "text": "that",
+      "startMs": 19841,
+      "endMs": 20085
+    },
+    {
+      "text": "hadn't",
+      "startMs": 20190,
+      "endMs": 20584
+    },
+    {
+      "text": "even",
+      "startMs": 20677,
+      "endMs": 20979
+    },
+    {
+      "text": "happened",
+      "startMs": 21060,
+      "endMs": 21478
+    },
+    {
+      "text": "yet.",
+      "startMs": 21525,
+      "endMs": 21920
+    }
+  ]
+}

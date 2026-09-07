@@ -1,0 +1,261 @@
+{
+  "text": "The answers came in, and every one of them made sense. One person preferred Tuesday. Another thought Thursday would give projects more room to move. Someone flagged a client call that might turn into a recurring commitment. Someone else wanted to check with their project lead before committing to either day.",
+  "durationMs": 20712,
+  "words": [
+    {
+      "text": "The",
+      "startMs": 0,
+      "endMs": 209
+    },
+    {
+      "text": "answers",
+      "startMs": 290,
+      "endMs": 917
+    },
+    {
+      "text": "came",
+      "startMs": 1057,
+      "endMs": 1335
+    },
+    {
+      "text": "in,",
+      "startMs": 1428,
+      "endMs": 1695
+    },
+    {
+      "text": "and",
+      "startMs": 1718,
+      "endMs": 1904
+    },
+    {
+      "text": "every",
+      "startMs": 1985,
+      "endMs": 2252
+    },
+    {
+      "text": "one",
+      "startMs": 2310,
+      "endMs": 2496
+    },
+    {
+      "text": "of",
+      "startMs": 2531,
+      "endMs": 2612
+    },
+    {
+      "text": "them",
+      "startMs": 2705,
+      "endMs": 2914
+    },
+    {
+      "text": "made",
+      "startMs": 3042,
+      "endMs": 3320
+    },
+    {
+      "text": "sense.",
+      "startMs": 3448,
+      "endMs": 4017.0000000000005
+    },
+    {
+      "text": "One",
+      "startMs": 4180,
+      "endMs": 4435
+    },
+    {
+      "text": "person",
+      "startMs": 4481,
+      "endMs": 4899
+    },
+    {
+      "text": "preferred",
+      "startMs": 4992,
+      "endMs": 5492
+    },
+    {
+      "text": "Tuesday.",
+      "startMs": 5550,
+      "endMs": 6223
+    },
+    {
+      "text": "Another",
+      "startMs": 6269,
+      "endMs": 6711
+    },
+    {
+      "text": "thought",
+      "startMs": 6792,
+      "endMs": 7082
+    },
+    {
+      "text": "Thursday",
+      "startMs": 7175,
+      "endMs": 7686
+    },
+    {
+      "text": "would",
+      "startMs": 7790,
+      "endMs": 7964
+    },
+    {
+      "text": "give",
+      "startMs": 8022,
+      "endMs": 8185.000000000001
+    },
+    {
+      "text": "projects",
+      "startMs": 8231,
+      "endMs": 8847
+    },
+    {
+      "text": "more",
+      "startMs": 8940,
+      "endMs": 9172
+    },
+    {
+      "text": "room",
+      "startMs": 9253,
+      "endMs": 9497
+    },
+    {
+      "text": "to",
+      "startMs": 9590,
+      "endMs": 9683
+    },
+    {
+      "text": "move.",
+      "startMs": 9776,
+      "endMs": 10182
+    },
+    {
+      "text": "Someone",
+      "startMs": 10414,
+      "endMs": 10948
+    },
+    {
+      "text": "flagged",
+      "startMs": 10995,
+      "endMs": 11459
+    },
+    {
+      "text": "a",
+      "startMs": 11517,
+      "endMs": 11552
+    },
+    {
+      "text": "client",
+      "startMs": 11645,
+      "endMs": 12051
+    },
+    {
+      "text": "call",
+      "startMs": 12109,
+      "endMs": 12423
+    },
+    {
+      "text": "that",
+      "startMs": 12527,
+      "endMs": 12748
+    },
+    {
+      "text": "might",
+      "startMs": 12841,
+      "endMs": 13096
+    },
+    {
+      "text": "turn",
+      "startMs": 13177,
+      "endMs": 13456
+    },
+    {
+      "text": "into",
+      "startMs": 13549,
+      "endMs": 13816
+    },
+    {
+      "text": "a",
+      "startMs": 13920,
+      "endMs": 13955
+    },
+    {
+      "text": "recurring",
+      "startMs": 14060,
+      "endMs": 14559
+    },
+    {
+      "text": "commitment.",
+      "startMs": 14640,
+      "endMs": 15337
+    },
+    {
+      "text": "Someone",
+      "startMs": 15465,
+      "endMs": 15918
+    },
+    {
+      "text": "else",
+      "startMs": 15976,
+      "endMs": 16289.000000000002
+    },
+    {
+      "text": "wanted",
+      "startMs": 16347.000000000002,
+      "endMs": 16753
+    },
+    {
+      "text": "to",
+      "startMs": 16800,
+      "endMs": 16858
+    },
+    {
+      "text": "check",
+      "startMs": 16939,
+      "endMs": 17195
+    },
+    {
+      "text": "with",
+      "startMs": 17288,
+      "endMs": 17473
+    },
+    {
+      "text": "their",
+      "startMs": 17531,
+      "endMs": 17694
+    },
+    {
+      "text": "project",
+      "startMs": 17775,
+      "endMs": 18263
+    },
+    {
+      "text": "lead",
+      "startMs": 18402,
+      "endMs": 18681
+    },
+    {
+      "text": "before",
+      "startMs": 18808,
+      "endMs": 19203
+    },
+    {
+      "text": "committing",
+      "startMs": 19261,
+      "endMs": 19726
+    },
+    {
+      "text": "to",
+      "startMs": 19830,
+      "endMs": 19935
+    },
+    {
+      "text": "either",
+      "startMs": 20027,
+      "endMs": 20306
+    },
+    {
+      "text": "day.",
+      "startMs": 20387,
+      "endMs": 20712
+    }
+  ]
+}

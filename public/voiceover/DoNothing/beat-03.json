@@ -1,0 +1,136 @@
+{
+  "text": "The tickets moved. The status report stayed green. Everyone looked busy. From the manager's view, the pause no longer looked like lost productivity. It looked controlled.",
+  "durationMs": 11842,
+  "words": [
+    {
+      "text": "The",
+      "startMs": 0,
+      "endMs": 163
+    },
+    {
+      "text": "tickets",
+      "startMs": 244,
+      "endMs": 848
+    },
+    {
+      "text": "moved.",
+      "startMs": 1033,
+      "endMs": 1533
+    },
+    {
+      "text": "The",
+      "startMs": 1591,
+      "endMs": 1695
+    },
+    {
+      "text": "status",
+      "startMs": 1753,
+      "endMs": 2159
+    },
+    {
+      "text": "report",
+      "startMs": 2287,
+      "endMs": 2810
+    },
+    {
+      "text": "stayed",
+      "startMs": 2891,
+      "endMs": 3286
+    },
+    {
+      "text": "green.",
+      "startMs": 3448,
+      "endMs": 4017.0000000000005
+    },
+    {
+      "text": "Everyone",
+      "startMs": 4203,
+      "endMs": 4818
+    },
+    {
+      "text": "looked",
+      "startMs": 4899,
+      "endMs": 5166
+    },
+    {
+      "text": "busy.",
+      "startMs": 5259,
+      "endMs": 5700
+    },
+    {
+      "text": "From",
+      "startMs": 5747,
+      "endMs": 5956
+    },
+    {
+      "text": "the",
+      "startMs": 5991,
+      "endMs": 6060
+    },
+    {
+      "text": "manager's",
+      "startMs": 6107,
+      "endMs": 6618
+    },
+    {
+      "text": "view,",
+      "startMs": 6745,
+      "endMs": 7140
+    },
+    {
+      "text": "the",
+      "startMs": 7187,
+      "endMs": 7291
+    },
+    {
+      "text": "pause",
+      "startMs": 7349,
+      "endMs": 7651
+    },
+    {
+      "text": "no",
+      "startMs": 7686,
+      "endMs": 7779
+    },
+    {
+      "text": "longer",
+      "startMs": 7860,
+      "endMs": 8197
+    },
+    {
+      "text": "looked",
+      "startMs": 8290,
+      "endMs": 8591
+    },
+    {
+      "text": "like",
+      "startMs": 8719,
+      "endMs": 8963
+    },
+    {
+      "text": "lost",
+      "startMs": 9044,
+      "endMs": 9392
+    },
+    {
+      "text": "productivity.",
+      "startMs": 9485,
+      "endMs": 10495
+    },
+    {
+      "text": "It",
+      "startMs": 10519,
+      "endMs": 10681
+    },
+    {
+      "text": "looked",
+      "startMs": 10774,
+      "endMs": 11041
+    },
+    {
+      "text": "controlled.",
+      "startMs": 11099,
+      "endMs": 11842
+    }
+  ]
+}

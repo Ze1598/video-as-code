@@ -1,0 +1,241 @@
+{
+  "text": "A flawed decision is not a flawed person. A negative comment on a pull request is not an attack on whoever opened it. You can challenge the work without questioning someone's competence, motives, or value to the team. That distinction must become normal before anyone needs it.",
+  "durationMs": 19830,
+  "words": [
+    {
+      "text": "A",
+      "startMs": 0,
+      "endMs": 81
+    },
+    {
+      "text": "flawed",
+      "startMs": 186,
+      "endMs": 569
+    },
+    {
+      "text": "decision",
+      "startMs": 708,
+      "endMs": 1474
+    },
+    {
+      "text": "is",
+      "startMs": 1602,
+      "endMs": 1788
+    },
+    {
+      "text": "not",
+      "startMs": 1892,
+      "endMs": 2171
+    },
+    {
+      "text": "a",
+      "startMs": 2276,
+      "endMs": 2334
+    },
+    {
+      "text": "flawed",
+      "startMs": 2461,
+      "endMs": 2810
+    },
+    {
+      "text": "person.",
+      "startMs": 2902,
+      "endMs": 3495
+    },
+    {
+      "text": "A",
+      "startMs": 3541,
+      "endMs": 3634
+    },
+    {
+      "text": "negative",
+      "startMs": 3727,
+      "endMs": 4423
+    },
+    {
+      "text": "comment",
+      "startMs": 4516,
+      "endMs": 4969
+    },
+    {
+      "text": "on",
+      "startMs": 5074,
+      "endMs": 5224
+    },
+    {
+      "text": "a",
+      "startMs": 5317,
+      "endMs": 5341
+    },
+    {
+      "text": "pull",
+      "startMs": 5468,
+      "endMs": 5735
+    },
+    {
+      "text": "request",
+      "startMs": 5817,
+      "endMs": 6490
+    },
+    {
+      "text": "is",
+      "startMs": 6548,
+      "endMs": 6722
+    },
+    {
+      "text": "not",
+      "startMs": 6815,
+      "endMs": 7047
+    },
+    {
+      "text": "an",
+      "startMs": 7140,
+      "endMs": 7256
+    },
+    {
+      "text": "attack",
+      "startMs": 7349,
+      "endMs": 7790
+    },
+    {
+      "text": "on",
+      "startMs": 7918,
+      "endMs": 8092.000000000001
+    },
+    {
+      "text": "whoever",
+      "startMs": 8138.999999999999,
+      "endMs": 8615
+    },
+    {
+      "text": "opened",
+      "startMs": 8754,
+      "endMs": 9195
+    },
+    {
+      "text": "it.",
+      "startMs": 9253,
+      "endMs": 9462
+    },
+    {
+      "text": "You",
+      "startMs": 9497,
+      "endMs": 9613
+    },
+    {
+      "text": "can",
+      "startMs": 9671,
+      "endMs": 9799
+    },
+    {
+      "text": "challenge",
+      "startMs": 9857,
+      "endMs": 10263
+    },
+    {
+      "text": "the",
+      "startMs": 10298,
+      "endMs": 10379
+    },
+    {
+      "text": "work",
+      "startMs": 10472,
+      "endMs": 10786
+    },
+    {
+      "text": "without",
+      "startMs": 10879,
+      "endMs": 11250
+    },
+    {
+      "text": "questioning",
+      "startMs": 11331,
+      "endMs": 12040
+    },
+    {
+      "text": "someone's",
+      "startMs": 12132,
+      "endMs": 12666
+    },
+    {
+      "text": "competence,",
+      "startMs": 12713,
+      "endMs": 13526
+    },
+    {
+      "text": "motives,",
+      "startMs": 13688,
+      "endMs": 14303
+    },
+    {
+      "text": "or",
+      "startMs": 14385,
+      "endMs": 14536
+    },
+    {
+      "text": "value",
+      "startMs": 14640,
+      "endMs": 15116
+    },
+    {
+      "text": "to",
+      "startMs": 15163,
+      "endMs": 15244
+    },
+    {
+      "text": "the",
+      "startMs": 15302,
+      "endMs": 15383
+    },
+    {
+      "text": "team.",
+      "startMs": 15441,
+      "endMs": 15848
+    },
+    {
+      "text": "That",
+      "startMs": 15906,
+      "endMs": 16068.000000000002
+    },
+    {
+      "text": "distinction",
+      "startMs": 16114.999999999998,
+      "endMs": 16730
+    },
+    {
+      "text": "must",
+      "startMs": 16834,
+      "endMs": 17067
+    },
+    {
+      "text": "become",
+      "startMs": 17125,
+      "endMs": 17461
+    },
+    {
+      "text": "normal",
+      "startMs": 17508,
+      "endMs": 17879
+    },
+    {
+      "text": "before",
+      "startMs": 17961,
+      "endMs": 18448
+    },
+    {
+      "text": "anyone",
+      "startMs": 18530,
+      "endMs": 18971
+    },
+    {
+      "text": "needs",
+      "startMs": 19006,
+      "endMs": 19354
+    },
+    {
+      "text": "it.",
+      "startMs": 19412,
+      "endMs": 19830
+    }
+  ]
+}

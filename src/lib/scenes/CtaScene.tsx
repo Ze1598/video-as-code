@@ -1,6 +1,6 @@
 import { AbsoluteFill, Easing, interpolate, useCurrentFrame } from "remotion";
 import type { Beat } from "../timeline.ts";
-import { DIM_TEXT, FONT } from "../palette.ts";
+import { BG, DIM_TEXT, FONT } from "../palette.ts";
 import { wordsToText } from "../sentences.ts";
 
 const EASE = Easing.bezier(0.16, 1, 0.3, 1);
@@ -22,7 +22,9 @@ export const CtaScene: React.FC<CtaSceneProps> = ({ beatId, beats }) => {
   const opacity = interpolate(frame, [15, 45], [0, 1], { ...clamp, easing: EASE });
 
   return (
-    <AbsoluteFill style={{ display: "flex", alignItems: "center", justifyContent: "center", padding: "0 220px" }}>
+    <AbsoluteFill
+      style={{ backgroundColor: BG, display: "flex", alignItems: "center", justifyContent: "center", padding: "0 220px" }}
+    >
       <div
         style={{
           textAlign: "center",

@@ -1,0 +1,146 @@
+{
+  "text": "She asked her mentor for feedback. He gave her a real answer. And neither of them said a word about the only thing she actually needed to know.",
+  "durationMs": 9288,
+  "words": [
+    {
+      "text": "She",
+      "startMs": 0,
+      "endMs": 186
+    },
+    {
+      "text": "asked",
+      "startMs": 290,
+      "endMs": 662
+    },
+    {
+      "text": "her",
+      "startMs": 708,
+      "endMs": 824
+    },
+    {
+      "text": "mentor",
+      "startMs": 929,
+      "endMs": 1265
+    },
+    {
+      "text": "for",
+      "startMs": 1347,
+      "endMs": 1498
+    },
+    {
+      "text": "feedback.",
+      "startMs": 1579,
+      "endMs": 2148
+    },
+    {
+      "text": "He",
+      "startMs": 2171,
+      "endMs": 2276
+    },
+    {
+      "text": "gave",
+      "startMs": 2357,
+      "endMs": 2659
+    },
+    {
+      "text": "her",
+      "startMs": 2705,
+      "endMs": 2902
+    },
+    {
+      "text": "a",
+      "startMs": 2995,
+      "endMs": 3053
+    },
+    {
+      "text": "real",
+      "startMs": 3181,
+      "endMs": 3483
+    },
+    {
+      "text": "answer.",
+      "startMs": 3611,
+      "endMs": 4191
+    },
+    {
+      "text": "And",
+      "startMs": 4272,
+      "endMs": 4423
+    },
+    {
+      "text": "neither",
+      "startMs": 4516,
+      "endMs": 4865
+    },
+    {
+      "text": "of",
+      "startMs": 4957,
+      "endMs": 5062
+    },
+    {
+      "text": "them",
+      "startMs": 5155,
+      "endMs": 5399
+    },
+    {
+      "text": "said",
+      "startMs": 5492,
+      "endMs": 5724
+    },
+    {
+      "text": "a",
+      "startMs": 5770,
+      "endMs": 5793
+    },
+    {
+      "text": "word",
+      "startMs": 5851,
+      "endMs": 6142
+    },
+    {
+      "text": "about",
+      "startMs": 6269,
+      "endMs": 6641
+    },
+    {
+      "text": "the",
+      "startMs": 6687,
+      "endMs": 6769
+    },
+    {
+      "text": "only",
+      "startMs": 6850,
+      "endMs": 7094
+    },
+    {
+      "text": "thing",
+      "startMs": 7152,
+      "endMs": 7396
+    },
+    {
+      "text": "she",
+      "startMs": 7500,
+      "endMs": 7674
+    },
+    {
+      "text": "actually",
+      "startMs": 7767,
+      "endMs": 8313
+    },
+    {
+      "text": "needed",
+      "startMs": 8359,
+      "endMs": 8673
+    },
+    {
+      "text": "to",
+      "startMs": 8719,
+      "endMs": 8800
+    },
+    {
+      "text": "know.",
+      "startMs": 8858,
+      "endMs": 9288
+    }
+  ]
+}

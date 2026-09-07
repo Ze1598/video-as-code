@@ -1,0 +1,301 @@
+{
+  "text": "The architect answered: you were speaking too fast, slow it down a bit. He answered the question she asked — speaking speed was the first thing that came to mind, so that was the feedback she received. It may have been accurate. It may even have been useful. But she gave him no reason to focus on anything else.",
+  "durationMs": 21038,
+  "words": [
+    {
+      "text": "The",
+      "startMs": 0,
+      "endMs": 209
+    },
+    {
+      "text": "architect",
+      "startMs": 302,
+      "endMs": 859
+    },
+    {
+      "text": "answered:",
+      "startMs": 952,
+      "endMs": 1660
+    },
+    {
+      "text": "you",
+      "startMs": 1707,
+      "endMs": 1811
+    },
+    {
+      "text": "were",
+      "startMs": 1858,
+      "endMs": 1997
+    },
+    {
+      "text": "speaking",
+      "startMs": 2020,
+      "endMs": 2473
+    },
+    {
+      "text": "too",
+      "startMs": 2531,
+      "endMs": 2659
+    },
+    {
+      "text": "fast,",
+      "startMs": 2763,
+      "endMs": 3239
+    },
+    {
+      "text": "slow",
+      "startMs": 3402,
+      "endMs": 3715
+    },
+    {
+      "text": "it",
+      "startMs": 3808,
+      "endMs": 3901
+    },
+    {
+      "text": "down",
+      "startMs": 3959,
+      "endMs": 4226
+    },
+    {
+      "text": "a",
+      "startMs": 4284,
+      "endMs": 4331
+    },
+    {
+      "text": "bit.",
+      "startMs": 4423,
+      "endMs": 4783
+    },
+    {
+      "text": "He",
+      "startMs": 4841,
+      "endMs": 4981
+    },
+    {
+      "text": "answered",
+      "startMs": 5085,
+      "endMs": 5654
+    },
+    {
+      "text": "the",
+      "startMs": 5747,
+      "endMs": 5851
+    },
+    {
+      "text": "question",
+      "startMs": 5909,
+      "endMs": 6385
+    },
+    {
+      "text": "she",
+      "startMs": 6444,
+      "endMs": 6571
+    },
+    {
+      "text": "asked",
+      "startMs": 6664,
+      "endMs": 7059
+    },
+    {
+      "text": "—",
+      "startMs": 7117,
+      "endMs": 7163
+    },
+    {
+      "text": "speaking",
+      "startMs": 7221,
+      "endMs": 7697
+    },
+    {
+      "text": "speed",
+      "startMs": 7779,
+      "endMs": 8173
+    },
+    {
+      "text": "was",
+      "startMs": 8266,
+      "endMs": 8417
+    },
+    {
+      "text": "the",
+      "startMs": 8475,
+      "endMs": 8557
+    },
+    {
+      "text": "first",
+      "startMs": 8638,
+      "endMs": 8940
+    },
+    {
+      "text": "thing",
+      "startMs": 9021,
+      "endMs": 9300
+    },
+    {
+      "text": "that",
+      "startMs": 9392,
+      "endMs": 9578
+    },
+    {
+      "text": "came",
+      "startMs": 9659,
+      "endMs": 9892
+    },
+    {
+      "text": "to",
+      "startMs": 9927,
+      "endMs": 9996
+    },
+    {
+      "text": "mind,",
+      "startMs": 10089,
+      "endMs": 10461
+    },
+    {
+      "text": "so",
+      "startMs": 10507,
+      "endMs": 10670
+    },
+    {
+      "text": "that",
+      "startMs": 10751,
+      "endMs": 10925
+    },
+    {
+      "text": "was",
+      "startMs": 11006,
+      "endMs": 11169
+    },
+    {
+      "text": "the",
+      "startMs": 11262,
+      "endMs": 11331
+    },
+    {
+      "text": "feedback",
+      "startMs": 11389,
+      "endMs": 11958
+    },
+    {
+      "text": "she",
+      "startMs": 12086,
+      "endMs": 12307
+    },
+    {
+      "text": "received.",
+      "startMs": 12411,
+      "endMs": 12968
+    },
+    {
+      "text": "It",
+      "startMs": 12992,
+      "endMs": 13142
+    },
+    {
+      "text": "may",
+      "startMs": 13224,
+      "endMs": 13456
+    },
+    {
+      "text": "have",
+      "startMs": 13549,
+      "endMs": 13723
+    },
+    {
+      "text": "been",
+      "startMs": 13781,
+      "endMs": 14048
+    },
+    {
+      "text": "accurate.",
+      "startMs": 14130,
+      "endMs": 14780
+    },
+    {
+      "text": "It",
+      "startMs": 14803,
+      "endMs": 14954
+    },
+    {
+      "text": "may",
+      "startMs": 15047,
+      "endMs": 15267
+    },
+    {
+      "text": "even",
+      "startMs": 15395,
+      "endMs": 15732
+    },
+    {
+      "text": "have",
+      "startMs": 15825,
+      "endMs": 16011
+    },
+    {
+      "text": "been",
+      "startMs": 16056.999999999998,
+      "endMs": 16231.000000000002
+    },
+    {
+      "text": "useful.",
+      "startMs": 16312.000000000002,
+      "endMs": 16939
+    },
+    {
+      "text": "But",
+      "startMs": 16986,
+      "endMs": 17137
+    },
+    {
+      "text": "she",
+      "startMs": 17183,
+      "endMs": 17299
+    },
+    {
+      "text": "gave",
+      "startMs": 17404,
+      "endMs": 17706
+    },
+    {
+      "text": "him",
+      "startMs": 17787,
+      "endMs": 17984
+    },
+    {
+      "text": "no",
+      "startMs": 18147,
+      "endMs": 18333
+    },
+    {
+      "text": "reason",
+      "startMs": 18425,
+      "endMs": 18797
+    },
+    {
+      "text": "to",
+      "startMs": 18878,
+      "endMs": 19018
+    },
+    {
+      "text": "focus",
+      "startMs": 19110,
+      "endMs": 19575
+    },
+    {
+      "text": "on",
+      "startMs": 19702,
+      "endMs": 19888
+    },
+    {
+      "text": "anything",
+      "startMs": 19981,
+      "endMs": 20492
+    },
+    {
+      "text": "else.",
+      "startMs": 20596,
+      "endMs": 21038
+    }
+  ]
+}

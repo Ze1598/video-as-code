@@ -1,0 +1,71 @@
+{
+  "text": "Then, during implementation, the team ran into technical constraints the email never mentioned.",
+  "durationMs": 6362,
+  "words": [
+    {
+      "text": "Then,",
+      "startMs": 0,
+      "endMs": 325
+    },
+    {
+      "text": "during",
+      "startMs": 430,
+      "endMs": 755
+    },
+    {
+      "text": "implementation,",
+      "startMs": 859,
+      "endMs": 1881
+    },
+    {
+      "text": "the",
+      "startMs": 1962,
+      "endMs": 2078
+    },
+    {
+      "text": "team",
+      "startMs": 2125,
+      "endMs": 2368
+    },
+    {
+      "text": "ran",
+      "startMs": 2473,
+      "endMs": 2763
+    },
+    {
+      "text": "into",
+      "startMs": 2868,
+      "endMs": 3170
+    },
+    {
+      "text": "technical",
+      "startMs": 3262,
+      "endMs": 3750
+    },
+    {
+      "text": "constraints",
+      "startMs": 3843,
+      "endMs": 4551
+    },
+    {
+      "text": "the",
+      "startMs": 4644,
+      "endMs": 4783
+    },
+    {
+      "text": "email",
+      "startMs": 4865,
+      "endMs": 5224
+    },
+    {
+      "text": "never",
+      "startMs": 5352,
+      "endMs": 5619
+    },
+    {
+      "text": "mentioned.",
+      "startMs": 5712,
+      "endMs": 6362
+    }
+  ]
+}

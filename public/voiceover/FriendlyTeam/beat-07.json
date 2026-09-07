@@ -1,0 +1,61 @@
+{
+  "text": "By avoiding tension between friends, they created tension with the client.",
+  "durationMs": 4644,
+  "words": [
+    {
+      "text": "By",
+      "startMs": 0,
+      "endMs": 232
+    },
+    {
+      "text": "avoiding",
+      "startMs": 313,
+      "endMs": 824
+    },
+    {
+      "text": "tension",
+      "startMs": 917,
+      "endMs": 1312
+    },
+    {
+      "text": "between",
+      "startMs": 1393,
+      "endMs": 1765
+    },
+    {
+      "text": "friends,",
+      "startMs": 1869,
+      "endMs": 2345
+    },
+    {
+      "text": "they",
+      "startMs": 2403,
+      "endMs": 2543
+    },
+    {
+      "text": "created",
+      "startMs": 2577,
+      "endMs": 3077
+    },
+    {
+      "text": "tension",
+      "startMs": 3204,
+      "endMs": 3692
+    },
+    {
+      "text": "with",
+      "startMs": 3750,
+      "endMs": 3889
+    },
+    {
+      "text": "the",
+      "startMs": 3913,
+      "endMs": 3982
+    },
+    {
+      "text": "client.",
+      "startMs": 4029,
+      "endMs": 4644
+    }
+  ]
+}

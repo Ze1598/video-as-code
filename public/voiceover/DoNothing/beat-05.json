@@ -1,0 +1,181 @@
+{
+  "text": "Nobody reviewed the documentation. Nobody used the standardized layouts. Nobody could confirm whether the cleaned datasets belonged in the project that would return. The team stopped asking, because the answer never changed: just keep working.",
+  "durationMs": 18344,
+  "words": [
+    {
+      "text": "Nobody",
+      "startMs": 0,
+      "endMs": 697
+    },
+    {
+      "text": "reviewed",
+      "startMs": 801,
+      "endMs": 1242
+    },
+    {
+      "text": "the",
+      "startMs": 1405,
+      "endMs": 1579
+    },
+    {
+      "text": "documentation.",
+      "startMs": 1637,
+      "endMs": 2705
+    },
+    {
+      "text": "Nobody",
+      "startMs": 2844,
+      "endMs": 3425
+    },
+    {
+      "text": "used",
+      "startMs": 3529,
+      "endMs": 3831
+    },
+    {
+      "text": "the",
+      "startMs": 3878,
+      "endMs": 3982
+    },
+    {
+      "text": "standardized",
+      "startMs": 4029,
+      "endMs": 5004
+    },
+    {
+      "text": "layouts.",
+      "startMs": 5132,
+      "endMs": 5759
+    },
+    {
+      "text": "Nobody",
+      "startMs": 5863,
+      "endMs": 6385
+    },
+    {
+      "text": "could",
+      "startMs": 6513,
+      "endMs": 6722
+    },
+    {
+      "text": "confirm",
+      "startMs": 6780,
+      "endMs": 7361
+    },
+    {
+      "text": "whether",
+      "startMs": 7488,
+      "endMs": 7848
+    },
+    {
+      "text": "the",
+      "startMs": 7953,
+      "endMs": 8069.000000000001
+    },
+    {
+      "text": "cleaned",
+      "startMs": 8150,
+      "endMs": 8615
+    },
+    {
+      "text": "datasets",
+      "startMs": 8742,
+      "endMs": 9578
+    },
+    {
+      "text": "belonged",
+      "startMs": 9706,
+      "endMs": 10136
+    },
+    {
+      "text": "in",
+      "startMs": 10228,
+      "endMs": 10368
+    },
+    {
+      "text": "the",
+      "startMs": 10414,
+      "endMs": 10484
+    },
+    {
+      "text": "project",
+      "startMs": 10542,
+      "endMs": 11134
+    },
+    {
+      "text": "that",
+      "startMs": 11180,
+      "endMs": 11389
+    },
+    {
+      "text": "would",
+      "startMs": 11482,
+      "endMs": 11680
+    },
+    {
+      "text": "return.",
+      "startMs": 11773,
+      "endMs": 12330
+    },
+    {
+      "text": "The",
+      "startMs": 12458,
+      "endMs": 12562
+    },
+    {
+      "text": "team",
+      "startMs": 12620,
+      "endMs": 12899
+    },
+    {
+      "text": "stopped",
+      "startMs": 13026,
+      "endMs": 13421
+    },
+    {
+      "text": "asking,",
+      "startMs": 13549,
+      "endMs": 14222
+    },
+    {
+      "text": "because",
+      "startMs": 14245,
+      "endMs": 14640
+    },
+    {
+      "text": "the",
+      "startMs": 14687,
+      "endMs": 14803
+    },
+    {
+      "text": "answer",
+      "startMs": 14896,
+      "endMs": 15441
+    },
+    {
+      "text": "never",
+      "startMs": 15569,
+      "endMs": 15836
+    },
+    {
+      "text": "changed:",
+      "startMs": 15917,
+      "endMs": 16579
+    },
+    {
+      "text": "just",
+      "startMs": 16742,
+      "endMs": 17101
+    },
+    {
+      "text": "keep",
+      "startMs": 17229,
+      "endMs": 17508
+    },
+    {
+      "text": "working.",
+      "startMs": 17636,
+      "endMs": 18344
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "text": "A focused question doesn't manipulate the answer. Which part of my explanation was hardest to follow? That gives the reviewer a target, and it's still open ended. The presentation was clear, right? That asks for confirmation.",
+  "durationMs": 16254.000000000002,
+  "words": [
+    {
+      "text": "A",
+      "startMs": 0,
+      "endMs": 81
+    },
+    {
+      "text": "focused",
+      "startMs": 174,
+      "endMs": 720
+    },
+    {
+      "text": "question",
+      "startMs": 848,
+      "endMs": 1463
+    },
+    {
+      "text": "doesn't",
+      "startMs": 1649,
+      "endMs": 2078
+    },
+    {
+      "text": "manipulate",
+      "startMs": 2206,
+      "endMs": 3007
+    },
+    {
+      "text": "the",
+      "startMs": 3065,
+      "endMs": 3193
+    },
+    {
+      "text": "answer.",
+      "startMs": 3251,
+      "endMs": 3796
+    },
+    {
+      "text": "Which",
+      "startMs": 3831,
+      "endMs": 4098
+    },
+    {
+      "text": "part",
+      "startMs": 4203,
+      "endMs": 4551
+    },
+    {
+      "text": "of",
+      "startMs": 4632,
+      "endMs": 4737
+    },
+    {
+      "text": "my",
+      "startMs": 4830,
+      "endMs": 4923
+    },
+    {
+      "text": "explanation",
+      "startMs": 5004,
+      "endMs": 5747
+    },
+    {
+      "text": "was",
+      "startMs": 5805,
+      "endMs": 5991
+    },
+    {
+      "text": "hardest",
+      "startMs": 6084,
+      "endMs": 6618
+    },
+    {
+      "text": "to",
+      "startMs": 6676,
+      "endMs": 6803
+    },
+    {
+      "text": "follow?",
+      "startMs": 6908,
+      "endMs": 7442
+    },
+    {
+      "text": "That",
+      "startMs": 7488,
+      "endMs": 7686
+    },
+    {
+      "text": "gives",
+      "startMs": 7744,
+      "endMs": 8010.999999999999
+    },
+    {
+      "text": "the",
+      "startMs": 8069.000000000001,
+      "endMs": 8150
+    },
+    {
+      "text": "reviewer",
+      "startMs": 8208,
+      "endMs": 8603
+    },
+    {
+      "text": "a",
+      "startMs": 8696,
+      "endMs": 8731
+    },
+    {
+      "text": "target,",
+      "startMs": 8824,
+      "endMs": 9474
+    },
+    {
+      "text": "and",
+      "startMs": 9578,
+      "endMs": 9857
+    },
+    {
+      "text": "it's",
+      "startMs": 9985,
+      "endMs": 10228
+    },
+    {
+      "text": "still",
+      "startMs": 10275,
+      "endMs": 10681
+    },
+    {
+      "text": "open",
+      "startMs": 10809,
+      "endMs": 11192
+    },
+    {
+      "text": "ended.",
+      "startMs": 11297,
+      "endMs": 11749
+    },
+    {
+      "text": "The",
+      "startMs": 11831,
+      "endMs": 11958
+    },
+    {
+      "text": "presentation",
+      "startMs": 12040,
+      "endMs": 12759
+    },
+    {
+      "text": "was",
+      "startMs": 12841,
+      "endMs": 12992
+    },
+    {
+      "text": "clear,",
+      "startMs": 13096,
+      "endMs": 13572
+    },
+    {
+      "text": "right?",
+      "startMs": 13677,
+      "endMs": 14176
+    },
+    {
+      "text": "That",
+      "startMs": 14222,
+      "endMs": 14547
+    },
+    {
+      "text": "asks",
+      "startMs": 14640,
+      "endMs": 15035
+    },
+    {
+      "text": "for",
+      "startMs": 15093,
+      "endMs": 15244
+    },
+    {
+      "text": "confirmation.",
+      "startMs": 15337,
+      "endMs": 16254.000000000002
+    }
+  ]
+}

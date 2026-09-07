@@ -1,0 +1,336 @@
+{
+  "text": "Busywork doesn't protect productivity. It protects a manager from admitting they do not know what the team should do next. The team pays for that discomfort with its time. Then morale goes with it. People can tolerate uncertainty. What destroys their patience is being told to treat meaningless work as important. Force them to perform that lie, and they stop trusting your judgment about what matters.",
+  "durationMs": 27168,
+  "words": [
+    {
+      "text": "Busywork",
+      "startMs": 0,
+      "endMs": 836
+    },
+    {
+      "text": "doesn't",
+      "startMs": 1022,
+      "endMs": 1393
+    },
+    {
+      "text": "protect",
+      "startMs": 1428,
+      "endMs": 1881
+    },
+    {
+      "text": "productivity.",
+      "startMs": 1939,
+      "endMs": 2833
+    },
+    {
+      "text": "It",
+      "startMs": 2856,
+      "endMs": 3042
+    },
+    {
+      "text": "protects",
+      "startMs": 3123,
+      "endMs": 3727
+    },
+    {
+      "text": "a",
+      "startMs": 3808,
+      "endMs": 3866
+    },
+    {
+      "text": "manager",
+      "startMs": 3971,
+      "endMs": 4447
+    },
+    {
+      "text": "from",
+      "startMs": 4528,
+      "endMs": 4714
+    },
+    {
+      "text": "admitting",
+      "startMs": 4807,
+      "endMs": 5364
+    },
+    {
+      "text": "they",
+      "startMs": 5550,
+      "endMs": 5747
+    },
+    {
+      "text": "do",
+      "startMs": 5793,
+      "endMs": 5863
+    },
+    {
+      "text": "not",
+      "startMs": 5921,
+      "endMs": 6095
+    },
+    {
+      "text": "know",
+      "startMs": 6153,
+      "endMs": 6409
+    },
+    {
+      "text": "what",
+      "startMs": 6536,
+      "endMs": 6745
+    },
+    {
+      "text": "the",
+      "startMs": 6792,
+      "endMs": 6873
+    },
+    {
+      "text": "team",
+      "startMs": 6931,
+      "endMs": 7187
+    },
+    {
+      "text": "should",
+      "startMs": 7279,
+      "endMs": 7558
+    },
+    {
+      "text": "do",
+      "startMs": 7605,
+      "endMs": 7721
+    },
+    {
+      "text": "next.",
+      "startMs": 7802,
+      "endMs": 8324
+    },
+    {
+      "text": "The",
+      "startMs": 8371,
+      "endMs": 8510
+    },
+    {
+      "text": "team",
+      "startMs": 8568,
+      "endMs": 8824
+    },
+    {
+      "text": "pays",
+      "startMs": 8905,
+      "endMs": 9207
+    },
+    {
+      "text": "for",
+      "startMs": 9288,
+      "endMs": 9416
+    },
+    {
+      "text": "that",
+      "startMs": 9474,
+      "endMs": 9636
+    },
+    {
+      "text": "discomfort",
+      "startMs": 9729,
+      "endMs": 10565
+    },
+    {
+      "text": "with",
+      "startMs": 10623,
+      "endMs": 10774
+    },
+    {
+      "text": "its",
+      "startMs": 10809,
+      "endMs": 10971
+    },
+    {
+      "text": "time.",
+      "startMs": 11029,
+      "endMs": 11378
+    },
+    {
+      "text": "Then",
+      "startMs": 11459,
+      "endMs": 11645
+    },
+    {
+      "text": "morale",
+      "startMs": 11703,
+      "endMs": 12063
+    },
+    {
+      "text": "goes",
+      "startMs": 12121,
+      "endMs": 12365
+    },
+    {
+      "text": "with",
+      "startMs": 12423,
+      "endMs": 12585
+    },
+    {
+      "text": "it.",
+      "startMs": 12643,
+      "endMs": 12922
+    },
+    {
+      "text": "People",
+      "startMs": 13050,
+      "endMs": 13433
+    },
+    {
+      "text": "can",
+      "startMs": 13479,
+      "endMs": 13653
+    },
+    {
+      "text": "tolerate",
+      "startMs": 13735,
+      "endMs": 14327
+    },
+    {
+      "text": "uncertainty.",
+      "startMs": 14385,
+      "endMs": 15383
+    },
+    {
+      "text": "What",
+      "startMs": 15418,
+      "endMs": 15627
+    },
+    {
+      "text": "destroys",
+      "startMs": 15685,
+      "endMs": 16254.000000000002
+    },
+    {
+      "text": "their",
+      "startMs": 16312.000000000002,
+      "endMs": 16463
+    },
+    {
+      "text": "patience",
+      "startMs": 16568,
+      "endMs": 17241
+    },
+    {
+      "text": "is",
+      "startMs": 17287,
+      "endMs": 17496
+    },
+    {
+      "text": "being",
+      "startMs": 17624,
+      "endMs": 17984
+    },
+    {
+      "text": "told",
+      "startMs": 18077,
+      "endMs": 18518
+    },
+    {
+      "text": "to",
+      "startMs": 18611,
+      "endMs": 18750
+    },
+    {
+      "text": "treat",
+      "startMs": 18808,
+      "endMs": 19099
+    },
+    {
+      "text": "meaningless",
+      "startMs": 19226,
+      "endMs": 20004
+    },
+    {
+      "text": "work",
+      "startMs": 20236,
+      "endMs": 20608
+    },
+    {
+      "text": "as",
+      "startMs": 20701,
+      "endMs": 20863
+    },
+    {
+      "text": "important.",
+      "startMs": 20945,
+      "endMs": 21641
+    },
+    {
+      "text": "Force",
+      "startMs": 21734,
+      "endMs": 22082
+    },
+    {
+      "text": "them",
+      "startMs": 22117,
+      "endMs": 22268
+    },
+    {
+      "text": "to",
+      "startMs": 22349,
+      "endMs": 22442
+    },
+    {
+      "text": "perform",
+      "startMs": 22547,
+      "endMs": 22953
+    },
+    {
+      "text": "that",
+      "startMs": 23000,
+      "endMs": 23162
+    },
+    {
+      "text": "lie,",
+      "startMs": 23267,
+      "endMs": 23661
+    },
+    {
+      "text": "and",
+      "startMs": 23696,
+      "endMs": 23835
+    },
+    {
+      "text": "they",
+      "startMs": 23882,
+      "endMs": 24010
+    },
+    {
+      "text": "stop",
+      "startMs": 24102,
+      "endMs": 24462
+    },
+    {
+      "text": "trusting",
+      "startMs": 24544,
+      "endMs": 25020
+    },
+    {
+      "text": "your",
+      "startMs": 25078,
+      "endMs": 25229
+    },
+    {
+      "text": "judgment",
+      "startMs": 25310,
+      "endMs": 25798
+    },
+    {
+      "text": "about",
+      "startMs": 25879,
+      "endMs": 26204
+    },
+    {
+      "text": "what",
+      "startMs": 26285,
+      "endMs": 26483
+    },
+    {
+      "text": "matters.",
+      "startMs": 26575,
+      "endMs": 27168
+    }
+  ]
+}

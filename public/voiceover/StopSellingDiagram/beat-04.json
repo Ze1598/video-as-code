@@ -1,0 +1,76 @@
+{
+  "text": "More explanation made the proposal easier to understand. It didn't make the proposal real.",
+  "durationMs": 6594,
+  "words": [
+    {
+      "text": "More",
+      "startMs": 0,
+      "endMs": 267
+    },
+    {
+      "text": "explanation",
+      "startMs": 360,
+      "endMs": 1324
+    },
+    {
+      "text": "made",
+      "startMs": 1486,
+      "endMs": 1741
+    },
+    {
+      "text": "the",
+      "startMs": 1776,
+      "endMs": 1858
+    },
+    {
+      "text": "proposal",
+      "startMs": 1916,
+      "endMs": 2624
+    },
+    {
+      "text": "easier",
+      "startMs": 2763,
+      "endMs": 3181
+    },
+    {
+      "text": "to",
+      "startMs": 3239,
+      "endMs": 3320
+    },
+    {
+      "text": "understand.",
+      "startMs": 3402,
+      "endMs": 4110
+    },
+    {
+      "text": "It",
+      "startMs": 4214,
+      "endMs": 4389
+    },
+    {
+      "text": "didn't",
+      "startMs": 4447,
+      "endMs": 4830
+    },
+    {
+      "text": "make",
+      "startMs": 4923,
+      "endMs": 5190
+    },
+    {
+      "text": "the",
+      "startMs": 5236,
+      "endMs": 5306
+    },
+    {
+      "text": "proposal",
+      "startMs": 5364,
+      "endMs": 5979
+    },
+    {
+      "text": "real.",
+      "startMs": 6107,
+      "endMs": 6594
+    }
+  ]
+}

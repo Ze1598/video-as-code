@@ -1,0 +1,121 @@
+{
+  "text": "The next time your team pulls off an unusually good sprint, do you know why? Or do you just know that it happened?",
+  "durationMs": 8034.000000000001,
+  "words": [
+    {
+      "text": "The",
+      "startMs": 0,
+      "endMs": 151
+    },
+    {
+      "text": "next",
+      "startMs": 209,
+      "endMs": 464
+    },
+    {
+      "text": "time",
+      "startMs": 546,
+      "endMs": 940
+    },
+    {
+      "text": "your",
+      "startMs": 1033,
+      "endMs": 1219
+    },
+    {
+      "text": "team",
+      "startMs": 1265,
+      "endMs": 1463
+    },
+    {
+      "text": "pulls",
+      "startMs": 1556,
+      "endMs": 1904
+    },
+    {
+      "text": "off",
+      "startMs": 2009,
+      "endMs": 2287
+    },
+    {
+      "text": "an",
+      "startMs": 2380,
+      "endMs": 2485
+    },
+    {
+      "text": "unusually",
+      "startMs": 2612,
+      "endMs": 3170
+    },
+    {
+      "text": "good",
+      "startMs": 3228,
+      "endMs": 3413
+    },
+    {
+      "text": "sprint,",
+      "startMs": 3460,
+      "endMs": 3982
+    },
+    {
+      "text": "do",
+      "startMs": 4075,
+      "endMs": 4191
+    },
+    {
+      "text": "you",
+      "startMs": 4249,
+      "endMs": 4331
+    },
+    {
+      "text": "know",
+      "startMs": 4377,
+      "endMs": 4540
+    },
+    {
+      "text": "why?",
+      "startMs": 4598,
+      "endMs": 5016
+    },
+    {
+      "text": "Or",
+      "startMs": 5108,
+      "endMs": 5329
+    },
+    {
+      "text": "do",
+      "startMs": 5468,
+      "endMs": 5619
+    },
+    {
+      "text": "you",
+      "startMs": 5712,
+      "endMs": 5805
+    },
+    {
+      "text": "just",
+      "startMs": 5898,
+      "endMs": 6235
+    },
+    {
+      "text": "know",
+      "startMs": 6327,
+      "endMs": 6560
+    },
+    {
+      "text": "that",
+      "startMs": 6687,
+      "endMs": 6931
+    },
+    {
+      "text": "it",
+      "startMs": 7024,
+      "endMs": 7245
+    },
+    {
+      "text": "happened?",
+      "startMs": 7338,
+      "endMs": 8034.000000000001
+    }
+  ]
+}

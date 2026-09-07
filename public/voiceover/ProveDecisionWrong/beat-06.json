@@ -1,0 +1,491 @@
+{
+  "text": "That architect had designed a model for an identical set of requirements the year before — and had already worked through every constraint now delaying this team. The first architect checked whether his data model answered the requirements. It did. What he never checked was whether the email contained everything the solution needed. He'd used the available requirements to design the model — then used those same requirements to confirm the model worked. Every check relied on the same source. So every check returned the same answer. The problem was sitting outside that loop the entire time.",
+  "durationMs": 39428,
+  "words": [
+    {
+      "text": "That",
+      "startMs": 0,
+      "endMs": 279
+    },
+    {
+      "text": "architect",
+      "startMs": 360,
+      "endMs": 998
+    },
+    {
+      "text": "had",
+      "startMs": 1080,
+      "endMs": 1265
+    },
+    {
+      "text": "designed",
+      "startMs": 1324,
+      "endMs": 1730
+    },
+    {
+      "text": "a",
+      "startMs": 1811,
+      "endMs": 1846
+    },
+    {
+      "text": "model",
+      "startMs": 1927,
+      "endMs": 2473
+    },
+    {
+      "text": "for",
+      "startMs": 2601,
+      "endMs": 2821
+    },
+    {
+      "text": "an",
+      "startMs": 2902,
+      "endMs": 3007
+    },
+    {
+      "text": "identical",
+      "startMs": 3065,
+      "endMs": 3843
+    },
+    {
+      "text": "set",
+      "startMs": 3971,
+      "endMs": 4307
+    },
+    {
+      "text": "of",
+      "startMs": 4435,
+      "endMs": 4598
+    },
+    {
+      "text": "requirements",
+      "startMs": 4760,
+      "endMs": 5573
+    },
+    {
+      "text": "the",
+      "startMs": 5700,
+      "endMs": 5817
+    },
+    {
+      "text": "year",
+      "startMs": 5875,
+      "endMs": 6037
+    },
+    {
+      "text": "before",
+      "startMs": 6118,
+      "endMs": 6513
+    },
+    {
+      "text": "—",
+      "startMs": 6594,
+      "endMs": 6641
+    },
+    {
+      "text": "and",
+      "startMs": 6769,
+      "endMs": 6908
+    },
+    {
+      "text": "had",
+      "startMs": 7012,
+      "endMs": 7233
+    },
+    {
+      "text": "already",
+      "startMs": 7291,
+      "endMs": 7802
+    },
+    {
+      "text": "worked",
+      "startMs": 7860,
+      "endMs": 8138.999999999999
+    },
+    {
+      "text": "through",
+      "startMs": 8197,
+      "endMs": 8522
+    },
+    {
+      "text": "every",
+      "startMs": 8603,
+      "endMs": 8847
+    },
+    {
+      "text": "constraint",
+      "startMs": 8893,
+      "endMs": 9683
+    },
+    {
+      "text": "now",
+      "startMs": 9822,
+      "endMs": 10043
+    },
+    {
+      "text": "delaying",
+      "startMs": 10147,
+      "endMs": 10623
+    },
+    {
+      "text": "this",
+      "startMs": 10681,
+      "endMs": 10879
+    },
+    {
+      "text": "team.",
+      "startMs": 11006,
+      "endMs": 11413
+    },
+    {
+      "text": "The",
+      "startMs": 11575,
+      "endMs": 11703
+    },
+    {
+      "text": "first",
+      "startMs": 11761,
+      "endMs": 12028
+    },
+    {
+      "text": "architect",
+      "startMs": 12086,
+      "endMs": 12655
+    },
+    {
+      "text": "checked",
+      "startMs": 12736,
+      "endMs": 13119
+    },
+    {
+      "text": "whether",
+      "startMs": 13212,
+      "endMs": 13572
+    },
+    {
+      "text": "his",
+      "startMs": 13665,
+      "endMs": 13781
+    },
+    {
+      "text": "data",
+      "startMs": 13839,
+      "endMs": 14176
+    },
+    {
+      "text": "model",
+      "startMs": 14257,
+      "endMs": 14617
+    },
+    {
+      "text": "answered",
+      "startMs": 14745,
+      "endMs": 15186
+    },
+    {
+      "text": "the",
+      "startMs": 15232,
+      "endMs": 15314
+    },
+    {
+      "text": "requirements.",
+      "startMs": 15395,
+      "endMs": 16394
+    },
+    {
+      "text": "It",
+      "startMs": 16440,
+      "endMs": 16603
+    },
+    {
+      "text": "did.",
+      "startMs": 16695,
+      "endMs": 17009
+    },
+    {
+      "text": "What",
+      "startMs": 17137,
+      "endMs": 17334
+    },
+    {
+      "text": "he",
+      "startMs": 17392,
+      "endMs": 17438
+    },
+    {
+      "text": "never",
+      "startMs": 17520,
+      "endMs": 17787
+    },
+    {
+      "text": "checked",
+      "startMs": 17868,
+      "endMs": 18205
+    },
+    {
+      "text": "was",
+      "startMs": 18309,
+      "endMs": 18576
+    },
+    {
+      "text": "whether",
+      "startMs": 18681,
+      "endMs": 19110
+    },
+    {
+      "text": "the",
+      "startMs": 19238,
+      "endMs": 19389
+    },
+    {
+      "text": "email",
+      "startMs": 19517,
+      "endMs": 19946
+    },
+    {
+      "text": "contained",
+      "startMs": 20086,
+      "endMs": 20643
+    },
+    {
+      "text": "everything",
+      "startMs": 20724,
+      "endMs": 21200
+    },
+    {
+      "text": "the",
+      "startMs": 21258,
+      "endMs": 21339
+    },
+    {
+      "text": "solution",
+      "startMs": 21397,
+      "endMs": 21908
+    },
+    {
+      "text": "needed.",
+      "startMs": 21955,
+      "endMs": 22408
+    },
+    {
+      "text": "He'd",
+      "startMs": 22442,
+      "endMs": 22617
+    },
+    {
+      "text": "used",
+      "startMs": 22709,
+      "endMs": 23046
+    },
+    {
+      "text": "the",
+      "startMs": 23139,
+      "endMs": 23290
+    },
+    {
+      "text": "available",
+      "startMs": 23348,
+      "endMs": 23870
+    },
+    {
+      "text": "requirements",
+      "startMs": 23928,
+      "endMs": 24753
+    },
+    {
+      "text": "to",
+      "startMs": 24788,
+      "endMs": 24869
+    },
+    {
+      "text": "design",
+      "startMs": 24962,
+      "endMs": 25322
+    },
+    {
+      "text": "the",
+      "startMs": 25356,
+      "endMs": 25438
+    },
+    {
+      "text": "model",
+      "startMs": 25519,
+      "endMs": 25949
+    },
+    {
+      "text": "—",
+      "startMs": 26041,
+      "endMs": 26099
+    },
+    {
+      "text": "then",
+      "startMs": 26123,
+      "endMs": 26390
+    },
+    {
+      "text": "used",
+      "startMs": 26517,
+      "endMs": 26808
+    },
+    {
+      "text": "those",
+      "startMs": 26889,
+      "endMs": 27191
+    },
+    {
+      "text": "same",
+      "startMs": 27226,
+      "endMs": 27481
+    },
+    {
+      "text": "requirements",
+      "startMs": 27516,
+      "endMs": 28259
+    },
+    {
+      "text": "to",
+      "startMs": 28305,
+      "endMs": 28375
+    },
+    {
+      "text": "confirm",
+      "startMs": 28456,
+      "endMs": 29002
+    },
+    {
+      "text": "the",
+      "startMs": 29060,
+      "endMs": 29130
+    },
+    {
+      "text": "model",
+      "startMs": 29188,
+      "endMs": 29548
+    },
+    {
+      "text": "worked.",
+      "startMs": 29629,
+      "endMs": 30047
+    },
+    {
+      "text": "Every",
+      "startMs": 30105,
+      "endMs": 30407
+    },
+    {
+      "text": "check",
+      "startMs": 30465,
+      "endMs": 30732
+    },
+    {
+      "text": "relied",
+      "startMs": 30825,
+      "endMs": 31324
+    },
+    {
+      "text": "on",
+      "startMs": 31429,
+      "endMs": 31557
+    },
+    {
+      "text": "the",
+      "startMs": 31603,
+      "endMs": 31696
+    },
+    {
+      "text": "same",
+      "startMs": 31789,
+      "endMs": 32137
+    },
+    {
+      "text": "source.",
+      "startMs": 32195,
+      "endMs": 32752.000000000004
+    },
+    {
+      "text": "So",
+      "startMs": 32834,
+      "endMs": 33089
+    },
+    {
+      "text": "every",
+      "startMs": 33217,
+      "endMs": 33507
+    },
+    {
+      "text": "check",
+      "startMs": 33565,
+      "endMs": 33867
+    },
+    {
+      "text": "returned",
+      "startMs": 34030,
+      "endMs": 34552
+    },
+    {
+      "text": "the",
+      "startMs": 34691,
+      "endMs": 34819
+    },
+    {
+      "text": "same",
+      "startMs": 34900,
+      "endMs": 35214
+    },
+    {
+      "text": "answer.",
+      "startMs": 35272,
+      "endMs": 35841
+    },
+    {
+      "text": "The",
+      "startMs": 35875,
+      "endMs": 35980
+    },
+    {
+      "text": "problem",
+      "startMs": 36038,
+      "endMs": 36456
+    },
+    {
+      "text": "was",
+      "startMs": 36514,
+      "endMs": 36769
+    },
+    {
+      "text": "sitting",
+      "startMs": 36851,
+      "endMs": 37187
+    },
+    {
+      "text": "outside",
+      "startMs": 37245,
+      "endMs": 37721
+    },
+    {
+      "text": "that",
+      "startMs": 37780,
+      "endMs": 37954
+    },
+    {
+      "text": "loop",
+      "startMs": 38035,
+      "endMs": 38256
+    },
+    {
+      "text": "the",
+      "startMs": 38348,
+      "endMs": 38465
+    },
+    {
+      "text": "entire",
+      "startMs": 38546,
+      "endMs": 39022
+    },
+    {
+      "text": "time.",
+      "startMs": 39080,
+      "endMs": 39428
+    }
+  ]
+}

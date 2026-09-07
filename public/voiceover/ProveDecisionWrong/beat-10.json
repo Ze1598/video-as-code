@@ -1,0 +1,81 @@
+{
+  "text": "Before you ship your next decision — who have you asked to prove it wrong?",
+  "durationMs": 5666,
+  "words": [
+    {
+      "text": "Before",
+      "startMs": 0,
+      "endMs": 337
+    },
+    {
+      "text": "you",
+      "startMs": 395,
+      "endMs": 488
+    },
+    {
+      "text": "ship",
+      "startMs": 592,
+      "endMs": 952
+    },
+    {
+      "text": "your",
+      "startMs": 1115,
+      "endMs": 1335
+    },
+    {
+      "text": "next",
+      "startMs": 1416,
+      "endMs": 1776
+    },
+    {
+      "text": "decision",
+      "startMs": 2009,
+      "endMs": 2635
+    },
+    {
+      "text": "—",
+      "startMs": 2728,
+      "endMs": 2775
+    },
+    {
+      "text": "who",
+      "startMs": 2833,
+      "endMs": 2949
+    },
+    {
+      "text": "have",
+      "startMs": 3042,
+      "endMs": 3251
+    },
+    {
+      "text": "you",
+      "startMs": 3286,
+      "endMs": 3379
+    },
+    {
+      "text": "asked",
+      "startMs": 3506,
+      "endMs": 3947
+    },
+    {
+      "text": "to",
+      "startMs": 4051.9999999999995,
+      "endMs": 4191
+    },
+    {
+      "text": "prove",
+      "startMs": 4296,
+      "endMs": 4598
+    },
+    {
+      "text": "it",
+      "startMs": 4690,
+      "endMs": 4923
+    },
+    {
+      "text": "wrong?",
+      "startMs": 5050,
+      "endMs": 5666
+    }
+  ]
+}

@@ -1,0 +1,281 @@
+{
+  "text": "Unassigned time isn't a management failure. Your team isn't a stage prop for a status report. If you cannot explain why a task matters, do not use somebody else's calendar to hide your lack of direction. Find the problem with them, or get out of their way while you do your job as the leader.",
+  "durationMs": 20759,
+  "words": [
+    {
+      "text": "Unassigned",
+      "startMs": 0,
+      "endMs": 882
+    },
+    {
+      "text": "time",
+      "startMs": 1010,
+      "endMs": 1370
+    },
+    {
+      "text": "isn't",
+      "startMs": 1428,
+      "endMs": 1788
+    },
+    {
+      "text": "a",
+      "startMs": 1846,
+      "endMs": 1869
+    },
+    {
+      "text": "management",
+      "startMs": 1974,
+      "endMs": 2589
+    },
+    {
+      "text": "failure.",
+      "startMs": 2670,
+      "endMs": 3297
+    },
+    {
+      "text": "Your",
+      "startMs": 3390,
+      "endMs": 3576
+    },
+    {
+      "text": "team",
+      "startMs": 3669,
+      "endMs": 3924
+    },
+    {
+      "text": "isn't",
+      "startMs": 4051.9999999999995,
+      "endMs": 4412
+    },
+    {
+      "text": "a",
+      "startMs": 4493,
+      "endMs": 4540
+    },
+    {
+      "text": "stage",
+      "startMs": 4598,
+      "endMs": 4992
+    },
+    {
+      "text": "prop",
+      "startMs": 5039,
+      "endMs": 5283
+    },
+    {
+      "text": "for",
+      "startMs": 5410,
+      "endMs": 5584
+    },
+    {
+      "text": "a",
+      "startMs": 5666,
+      "endMs": 5701
+    },
+    {
+      "text": "status",
+      "startMs": 5793,
+      "endMs": 6304
+    },
+    {
+      "text": "report.",
+      "startMs": 6397,
+      "endMs": 7001
+    },
+    {
+      "text": "If",
+      "startMs": 7059,
+      "endMs": 7233
+    },
+    {
+      "text": "you",
+      "startMs": 7279,
+      "endMs": 7372
+    },
+    {
+      "text": "cannot",
+      "startMs": 7430,
+      "endMs": 7732
+    },
+    {
+      "text": "explain",
+      "startMs": 7814,
+      "endMs": 8394
+    },
+    {
+      "text": "why",
+      "startMs": 8522,
+      "endMs": 8847
+    },
+    {
+      "text": "a",
+      "startMs": 8951,
+      "endMs": 8986
+    },
+    {
+      "text": "task",
+      "startMs": 9079,
+      "endMs": 9567
+    },
+    {
+      "text": "matters,",
+      "startMs": 9671,
+      "endMs": 10391
+    },
+    {
+      "text": "do",
+      "startMs": 10426,
+      "endMs": 10519
+    },
+    {
+      "text": "not",
+      "startMs": 10612,
+      "endMs": 10786
+    },
+    {
+      "text": "use",
+      "startMs": 10948,
+      "endMs": 11204
+    },
+    {
+      "text": "somebody",
+      "startMs": 11227,
+      "endMs": 11656
+    },
+    {
+      "text": "else's",
+      "startMs": 11784,
+      "endMs": 12225
+    },
+    {
+      "text": "calendar",
+      "startMs": 12307,
+      "endMs": 12841
+    },
+    {
+      "text": "to",
+      "startMs": 12945,
+      "endMs": 13073
+    },
+    {
+      "text": "hide",
+      "startMs": 13201,
+      "endMs": 13479
+    },
+    {
+      "text": "your",
+      "startMs": 13560,
+      "endMs": 13746
+    },
+    {
+      "text": "lack",
+      "startMs": 13851,
+      "endMs": 14048
+    },
+    {
+      "text": "of",
+      "startMs": 14106,
+      "endMs": 14176
+    },
+    {
+      "text": "direction.",
+      "startMs": 14257,
+      "endMs": 15047
+    },
+    {
+      "text": "Find",
+      "startMs": 15209,
+      "endMs": 15534
+    },
+    {
+      "text": "the",
+      "startMs": 15581,
+      "endMs": 15662
+    },
+    {
+      "text": "problem",
+      "startMs": 15720,
+      "endMs": 16184.000000000002
+    },
+    {
+      "text": "with",
+      "startMs": 16265.999999999998,
+      "endMs": 16475
+    },
+    {
+      "text": "them,",
+      "startMs": 16533,
+      "endMs": 16869
+    },
+    {
+      "text": "or",
+      "startMs": 16916,
+      "endMs": 17078
+    },
+    {
+      "text": "get",
+      "startMs": 17160,
+      "endMs": 17380
+    },
+    {
+      "text": "out",
+      "startMs": 17438,
+      "endMs": 17624
+    },
+    {
+      "text": "of",
+      "startMs": 17670,
+      "endMs": 17740
+    },
+    {
+      "text": "their",
+      "startMs": 17821,
+      "endMs": 18019
+    },
+    {
+      "text": "way",
+      "startMs": 18112,
+      "endMs": 18425
+    },
+    {
+      "text": "while",
+      "startMs": 18553,
+      "endMs": 18797
+    },
+    {
+      "text": "you",
+      "startMs": 18831,
+      "endMs": 18913
+    },
+    {
+      "text": "do",
+      "startMs": 19006,
+      "endMs": 19122
+    },
+    {
+      "text": "your",
+      "startMs": 19215,
+      "endMs": 19354
+    },
+    {
+      "text": "job",
+      "startMs": 19447,
+      "endMs": 19772
+    },
+    {
+      "text": "as",
+      "startMs": 19865,
+      "endMs": 20039
+    },
+    {
+      "text": "the",
+      "startMs": 20120,
+      "endMs": 20201
+    },
+    {
+      "text": "leader.",
+      "startMs": 20294,
+      "endMs": 20759
+    }
+  ]
+}

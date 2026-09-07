@@ -1,0 +1,131 @@
+{
+  "text": "Is there a comment you're holding back right now, not because it's wrong, but because the person you'd say it to is also a friend?",
+  "durationMs": 7755,
+  "words": [
+    {
+      "text": "Is",
+      "startMs": 0,
+      "endMs": 151
+    },
+    {
+      "text": "there",
+      "startMs": 197,
+      "endMs": 418
+    },
+    {
+      "text": "a",
+      "startMs": 476,
+      "endMs": 522
+    },
+    {
+      "text": "comment",
+      "startMs": 650,
+      "endMs": 1149
+    },
+    {
+      "text": "you're",
+      "startMs": 1254,
+      "endMs": 1521
+    },
+    {
+      "text": "holding",
+      "startMs": 1579,
+      "endMs": 1997
+    },
+    {
+      "text": "back",
+      "startMs": 2078,
+      "endMs": 2299
+    },
+    {
+      "text": "right",
+      "startMs": 2392,
+      "endMs": 2635
+    },
+    {
+      "text": "now,",
+      "startMs": 2740,
+      "endMs": 3111
+    },
+    {
+      "text": "not",
+      "startMs": 3170,
+      "endMs": 3379
+    },
+    {
+      "text": "because",
+      "startMs": 3460,
+      "endMs": 3738
+    },
+    {
+      "text": "it's",
+      "startMs": 3762,
+      "endMs": 3901
+    },
+    {
+      "text": "wrong,",
+      "startMs": 3947,
+      "endMs": 4261
+    },
+    {
+      "text": "but",
+      "startMs": 4284,
+      "endMs": 4481
+    },
+    {
+      "text": "because",
+      "startMs": 4563,
+      "endMs": 4888
+    },
+    {
+      "text": "the",
+      "startMs": 4923,
+      "endMs": 5004
+    },
+    {
+      "text": "person",
+      "startMs": 5085,
+      "endMs": 5492
+    },
+    {
+      "text": "you'd",
+      "startMs": 5550,
+      "endMs": 5700
+    },
+    {
+      "text": "say",
+      "startMs": 5735,
+      "endMs": 5921
+    },
+    {
+      "text": "it",
+      "startMs": 5956,
+      "endMs": 6037
+    },
+    {
+      "text": "to",
+      "startMs": 6095,
+      "endMs": 6188
+    },
+    {
+      "text": "is",
+      "startMs": 6327,
+      "endMs": 6490
+    },
+    {
+      "text": "also",
+      "startMs": 6594,
+      "endMs": 7036
+    },
+    {
+      "text": "a",
+      "startMs": 7129,
+      "endMs": 7175
+    },
+    {
+      "text": "friend?",
+      "startMs": 7279,
+      "endMs": 7755
+    }
+  ]
+}

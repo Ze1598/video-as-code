@@ -1,0 +1,266 @@
+{
+  "text": "The engineers had earned every bit of credit for that first sprint, they used the time they had and delivered real results. What they hadn't earned was a new baseline. It wasn't proof the team could carry that much work every sprint. Effort got them there. So did circumstances nobody had engineered.",
+  "durationMs": 22570,
+  "words": [
+    {
+      "text": "The",
+      "startMs": 0,
+      "endMs": 290
+    },
+    {
+      "text": "engineers",
+      "startMs": 395,
+      "endMs": 1161
+    },
+    {
+      "text": "had",
+      "startMs": 1289,
+      "endMs": 1660
+    },
+    {
+      "text": "earned",
+      "startMs": 1927,
+      "endMs": 2426
+    },
+    {
+      "text": "every",
+      "startMs": 2612,
+      "endMs": 2972
+    },
+    {
+      "text": "bit",
+      "startMs": 3065,
+      "endMs": 3274
+    },
+    {
+      "text": "of",
+      "startMs": 3355,
+      "endMs": 3448
+    },
+    {
+      "text": "credit",
+      "startMs": 3576,
+      "endMs": 4086.9999999999995
+    },
+    {
+      "text": "for",
+      "startMs": 4191,
+      "endMs": 4423
+    },
+    {
+      "text": "that",
+      "startMs": 4505,
+      "endMs": 4656
+    },
+    {
+      "text": "first",
+      "startMs": 4760,
+      "endMs": 5097
+    },
+    {
+      "text": "sprint,",
+      "startMs": 5178,
+      "endMs": 5747
+    },
+    {
+      "text": "they",
+      "startMs": 5782,
+      "endMs": 5933
+    },
+    {
+      "text": "used",
+      "startMs": 6014,
+      "endMs": 6269
+    },
+    {
+      "text": "the",
+      "startMs": 6327,
+      "endMs": 6409
+    },
+    {
+      "text": "time",
+      "startMs": 6455,
+      "endMs": 6792
+    },
+    {
+      "text": "they",
+      "startMs": 6827,
+      "endMs": 6966
+    },
+    {
+      "text": "had",
+      "startMs": 7047,
+      "endMs": 7361
+    },
+    {
+      "text": "and",
+      "startMs": 7419,
+      "endMs": 7581
+    },
+    {
+      "text": "delivered",
+      "startMs": 7639,
+      "endMs": 8150
+    },
+    {
+      "text": "real",
+      "startMs": 8336,
+      "endMs": 8603
+    },
+    {
+      "text": "results.",
+      "startMs": 8684,
+      "endMs": 9323
+    },
+    {
+      "text": "What",
+      "startMs": 9427,
+      "endMs": 9671
+    },
+    {
+      "text": "they",
+      "startMs": 9729,
+      "endMs": 9915
+    },
+    {
+      "text": "hadn't",
+      "startMs": 10043,
+      "endMs": 10519
+    },
+    {
+      "text": "earned",
+      "startMs": 10704,
+      "endMs": 11088
+    },
+    {
+      "text": "was",
+      "startMs": 11192,
+      "endMs": 11436
+    },
+    {
+      "text": "a",
+      "startMs": 11540,
+      "endMs": 11622
+    },
+    {
+      "text": "new",
+      "startMs": 11749,
+      "endMs": 12028
+    },
+    {
+      "text": "baseline.",
+      "startMs": 12214,
+      "endMs": 12934
+    },
+    {
+      "text": "It",
+      "startMs": 12968,
+      "endMs": 13108
+    },
+    {
+      "text": "wasn't",
+      "startMs": 13189,
+      "endMs": 13584
+    },
+    {
+      "text": "proof",
+      "startMs": 13711,
+      "endMs": 14153
+    },
+    {
+      "text": "the",
+      "startMs": 14280,
+      "endMs": 14396
+    },
+    {
+      "text": "team",
+      "startMs": 14454,
+      "endMs": 14675
+    },
+    {
+      "text": "could",
+      "startMs": 14756,
+      "endMs": 14942
+    },
+    {
+      "text": "carry",
+      "startMs": 14988,
+      "endMs": 15290
+    },
+    {
+      "text": "that",
+      "startMs": 15348,
+      "endMs": 15546
+    },
+    {
+      "text": "much",
+      "startMs": 15639,
+      "endMs": 15917
+    },
+    {
+      "text": "work",
+      "startMs": 15999,
+      "endMs": 16335
+    },
+    {
+      "text": "every",
+      "startMs": 16463,
+      "endMs": 16846
+    },
+    {
+      "text": "sprint.",
+      "startMs": 16904,
+      "endMs": 17531
+    },
+    {
+      "text": "Effort",
+      "startMs": 17566,
+      "endMs": 18112
+    },
+    {
+      "text": "got",
+      "startMs": 18239,
+      "endMs": 18506
+    },
+    {
+      "text": "them",
+      "startMs": 18599,
+      "endMs": 18785
+    },
+    {
+      "text": "there.",
+      "startMs": 18843,
+      "endMs": 19145
+    },
+    {
+      "text": "So",
+      "startMs": 19249,
+      "endMs": 19435
+    },
+    {
+      "text": "did",
+      "startMs": 19493,
+      "endMs": 19690
+    },
+    {
+      "text": "circumstances",
+      "startMs": 19772,
+      "endMs": 20828
+    },
+    {
+      "text": "nobody",
+      "startMs": 20956,
+      "endMs": 21444
+    },
+    {
+      "text": "had",
+      "startMs": 21548,
+      "endMs": 21745
+    },
+    {
+      "text": "engineered.",
+      "startMs": 21838,
+      "endMs": 22570
+    }
+  ]
+}

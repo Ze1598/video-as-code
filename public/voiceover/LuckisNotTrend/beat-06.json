@@ -1,0 +1,106 @@
+{
+  "text": "The manager didn't see it that way. He asked why the team couldn't hold the pace it had just proven.",
+  "durationMs": 6873,
+  "words": [
+    {
+      "text": "The",
+      "startMs": 0,
+      "endMs": 139
+    },
+    {
+      "text": "manager",
+      "startMs": 197,
+      "endMs": 720
+    },
+    {
+      "text": "didn't",
+      "startMs": 824,
+      "endMs": 1173
+    },
+    {
+      "text": "see",
+      "startMs": 1231,
+      "endMs": 1428
+    },
+    {
+      "text": "it",
+      "startMs": 1463,
+      "endMs": 1614
+    },
+    {
+      "text": "that",
+      "startMs": 1718,
+      "endMs": 1904
+    },
+    {
+      "text": "way.",
+      "startMs": 2032,
+      "endMs": 2426
+    },
+    {
+      "text": "He",
+      "startMs": 2589,
+      "endMs": 2717
+    },
+    {
+      "text": "asked",
+      "startMs": 2810,
+      "endMs": 3181
+    },
+    {
+      "text": "why",
+      "startMs": 3274,
+      "endMs": 3495
+    },
+    {
+      "text": "the",
+      "startMs": 3587,
+      "endMs": 3680
+    },
+    {
+      "text": "team",
+      "startMs": 3738,
+      "endMs": 4029
+    },
+    {
+      "text": "couldn't",
+      "startMs": 4156,
+      "endMs": 4458
+    },
+    {
+      "text": "hold",
+      "startMs": 4516,
+      "endMs": 4748
+    },
+    {
+      "text": "the",
+      "startMs": 4783,
+      "endMs": 4853
+    },
+    {
+      "text": "pace",
+      "startMs": 4911,
+      "endMs": 5352
+    },
+    {
+      "text": "it",
+      "startMs": 5387,
+      "endMs": 5538
+    },
+    {
+      "text": "had",
+      "startMs": 5596,
+      "endMs": 5759
+    },
+    {
+      "text": "just",
+      "startMs": 5851,
+      "endMs": 6130
+    },
+    {
+      "text": "proven.",
+      "startMs": 6188,
+      "endMs": 6873
+    }
+  ]
+}

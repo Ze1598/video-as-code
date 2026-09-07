@@ -1,0 +1,276 @@
+{
+  "text": "The manager had two useful options. First, make finding the real problem the work: interview users, map the decisions, inspect the current process, and test what justified investment. Second, if the team could not help resolve it, stop assigning project tasks. Give people time for work they knew carried value while he secured direction.",
+  "durationMs": 26424,
+  "words": [
+    {
+      "text": "The",
+      "startMs": 0,
+      "endMs": 163
+    },
+    {
+      "text": "manager",
+      "startMs": 255,
+      "endMs": 766
+    },
+    {
+      "text": "had",
+      "startMs": 906,
+      "endMs": 1219
+    },
+    {
+      "text": "two",
+      "startMs": 1324,
+      "endMs": 1591
+    },
+    {
+      "text": "useful",
+      "startMs": 1683,
+      "endMs": 2183
+    },
+    {
+      "text": "options.",
+      "startMs": 2310,
+      "endMs": 3077
+    },
+    {
+      "text": "First,",
+      "startMs": 3309,
+      "endMs": 3843
+    },
+    {
+      "text": "make",
+      "startMs": 3936,
+      "endMs": 4180
+    },
+    {
+      "text": "finding",
+      "startMs": 4238,
+      "endMs": 4783
+    },
+    {
+      "text": "the",
+      "startMs": 4969,
+      "endMs": 5097
+    },
+    {
+      "text": "real",
+      "startMs": 5201,
+      "endMs": 5433
+    },
+    {
+      "text": "problem",
+      "startMs": 5515,
+      "endMs": 6072
+    },
+    {
+      "text": "the",
+      "startMs": 6200,
+      "endMs": 6339
+    },
+    {
+      "text": "work:",
+      "startMs": 6420,
+      "endMs": 6861
+    },
+    {
+      "text": "interview",
+      "startMs": 6989,
+      "endMs": 7581
+    },
+    {
+      "text": "users,",
+      "startMs": 7674,
+      "endMs": 8359
+    },
+    {
+      "text": "map",
+      "startMs": 8487,
+      "endMs": 8754
+    },
+    {
+      "text": "the",
+      "startMs": 8847,
+      "endMs": 8916
+    },
+    {
+      "text": "decisions,",
+      "startMs": 8998,
+      "endMs": 9880
+    },
+    {
+      "text": "inspect",
+      "startMs": 9961,
+      "endMs": 10646
+    },
+    {
+      "text": "the",
+      "startMs": 10774,
+      "endMs": 10902
+    },
+    {
+      "text": "current",
+      "startMs": 10960,
+      "endMs": 11320
+    },
+    {
+      "text": "process,",
+      "startMs": 11366,
+      "endMs": 12121
+    },
+    {
+      "text": "and",
+      "startMs": 12167,
+      "endMs": 12341
+    },
+    {
+      "text": "test",
+      "startMs": 12423,
+      "endMs": 12806
+    },
+    {
+      "text": "what",
+      "startMs": 12899,
+      "endMs": 13142
+    },
+    {
+      "text": "justified",
+      "startMs": 13270,
+      "endMs": 13990
+    },
+    {
+      "text": "investment.",
+      "startMs": 14118,
+      "endMs": 14977
+    },
+    {
+      "text": "Second,",
+      "startMs": 15209,
+      "endMs": 15894
+    },
+    {
+      "text": "if",
+      "startMs": 15975,
+      "endMs": 16161.000000000002
+    },
+    {
+      "text": "the",
+      "startMs": 16219.000000000002,
+      "endMs": 16289.000000000002
+    },
+    {
+      "text": "team",
+      "startMs": 16347.000000000002,
+      "endMs": 16591
+    },
+    {
+      "text": "could",
+      "startMs": 16672,
+      "endMs": 16858
+    },
+    {
+      "text": "not",
+      "startMs": 16904,
+      "endMs": 17055
+    },
+    {
+      "text": "help",
+      "startMs": 17113,
+      "endMs": 17299
+    },
+    {
+      "text": "resolve",
+      "startMs": 17403,
+      "endMs": 17960
+    },
+    {
+      "text": "it,",
+      "startMs": 17984,
+      "endMs": 18251
+    },
+    {
+      "text": "stop",
+      "startMs": 18436,
+      "endMs": 18808
+    },
+    {
+      "text": "assigning",
+      "startMs": 18901,
+      "endMs": 19481
+    },
+    {
+      "text": "project",
+      "startMs": 19609,
+      "endMs": 20166
+    },
+    {
+      "text": "tasks.",
+      "startMs": 20190,
+      "endMs": 20816
+    },
+    {
+      "text": "Give",
+      "startMs": 21049,
+      "endMs": 21293
+    },
+    {
+      "text": "people",
+      "startMs": 21339,
+      "endMs": 21710
+    },
+    {
+      "text": "time",
+      "startMs": 21769,
+      "endMs": 22024
+    },
+    {
+      "text": "for",
+      "startMs": 22082,
+      "endMs": 22268
+    },
+    {
+      "text": "work",
+      "startMs": 22395,
+      "endMs": 22721
+    },
+    {
+      "text": "they",
+      "startMs": 22860,
+      "endMs": 23046
+    },
+    {
+      "text": "knew",
+      "startMs": 23092,
+      "endMs": 23313
+    },
+    {
+      "text": "carried",
+      "startMs": 23406,
+      "endMs": 23812
+    },
+    {
+      "text": "value",
+      "startMs": 23905,
+      "endMs": 24334
+    },
+    {
+      "text": "while",
+      "startMs": 24416,
+      "endMs": 24706
+    },
+    {
+      "text": "he",
+      "startMs": 24787,
+      "endMs": 24892
+    },
+    {
+      "text": "secured",
+      "startMs": 24984,
+      "endMs": 25519
+    },
+    {
+      "text": "direction.",
+      "startMs": 25646,
+      "endMs": 26424
+    }
+  ]
+}

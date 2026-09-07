@@ -1,0 +1,186 @@
+{
+  "text": "When the client defined the real problem, the project changed. The dashboards now had to support a different operational process, with different data and different measures. Most of the work completed during the pause was useless.",
+  "durationMs": 16021.999999999998,
+  "words": [
+    {
+      "text": "When",
+      "startMs": 0,
+      "endMs": 267
+    },
+    {
+      "text": "the",
+      "startMs": 325,
+      "endMs": 441
+    },
+    {
+      "text": "client",
+      "startMs": 499,
+      "endMs": 906
+    },
+    {
+      "text": "defined",
+      "startMs": 940,
+      "endMs": 1463
+    },
+    {
+      "text": "the",
+      "startMs": 1521,
+      "endMs": 1625
+    },
+    {
+      "text": "real",
+      "startMs": 1718,
+      "endMs": 1939
+    },
+    {
+      "text": "problem,",
+      "startMs": 2043.0000000000002,
+      "endMs": 2694
+    },
+    {
+      "text": "the",
+      "startMs": 2821,
+      "endMs": 2937
+    },
+    {
+      "text": "project",
+      "startMs": 2995,
+      "endMs": 3587
+    },
+    {
+      "text": "changed.",
+      "startMs": 3750,
+      "endMs": 4284
+    },
+    {
+      "text": "The",
+      "startMs": 4447,
+      "endMs": 4563
+    },
+    {
+      "text": "dashboards",
+      "startMs": 4621,
+      "endMs": 5387
+    },
+    {
+      "text": "now",
+      "startMs": 5515,
+      "endMs": 5712
+    },
+    {
+      "text": "had",
+      "startMs": 5793,
+      "endMs": 5968
+    },
+    {
+      "text": "to",
+      "startMs": 6014,
+      "endMs": 6084
+    },
+    {
+      "text": "support",
+      "startMs": 6165,
+      "endMs": 6664
+    },
+    {
+      "text": "a",
+      "startMs": 6757,
+      "endMs": 6803
+    },
+    {
+      "text": "different",
+      "startMs": 6885,
+      "endMs": 7233
+    },
+    {
+      "text": "operational",
+      "startMs": 7314,
+      "endMs": 8069.000000000001
+    },
+    {
+      "text": "process,",
+      "startMs": 8150,
+      "endMs": 9009
+    },
+    {
+      "text": "with",
+      "startMs": 9102,
+      "endMs": 9311
+    },
+    {
+      "text": "different",
+      "startMs": 9369,
+      "endMs": 9776
+    },
+    {
+      "text": "data",
+      "startMs": 9857,
+      "endMs": 10344
+    },
+    {
+      "text": "and",
+      "startMs": 10403,
+      "endMs": 10577
+    },
+    {
+      "text": "different",
+      "startMs": 10670,
+      "endMs": 11076
+    },
+    {
+      "text": "measures.",
+      "startMs": 11169,
+      "endMs": 11784
+    },
+    {
+      "text": "Most",
+      "startMs": 11947,
+      "endMs": 12225
+    },
+    {
+      "text": "of",
+      "startMs": 12283,
+      "endMs": 12365
+    },
+    {
+      "text": "the",
+      "startMs": 12423,
+      "endMs": 12492
+    },
+    {
+      "text": "work",
+      "startMs": 12574,
+      "endMs": 12864
+    },
+    {
+      "text": "completed",
+      "startMs": 12945,
+      "endMs": 13642
+    },
+    {
+      "text": "during",
+      "startMs": 13827,
+      "endMs": 14187
+    },
+    {
+      "text": "the",
+      "startMs": 14245,
+      "endMs": 14315
+    },
+    {
+      "text": "pause",
+      "startMs": 14373,
+      "endMs": 14756
+    },
+    {
+      "text": "was",
+      "startMs": 14849,
+      "endMs": 15116
+    },
+    {
+      "text": "useless.",
+      "startMs": 15244,
+      "endMs": 16021.999999999998
+    }
+  ]
+}

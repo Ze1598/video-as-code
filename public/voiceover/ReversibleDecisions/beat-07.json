@@ -1,0 +1,181 @@
+{
+  "text": "Checking availability made sense. Booking over a known commitment would have caused real problems. The mistake wasn't asking. It was refusing to book anything until every possible conflict, present and future, had been ruled out.",
+  "durationMs": 17415,
+  "words": [
+    {
+      "text": "Checking",
+      "startMs": 0,
+      "endMs": 580
+    },
+    {
+      "text": "availability",
+      "startMs": 708,
+      "endMs": 1741
+    },
+    {
+      "text": "made",
+      "startMs": 1904,
+      "endMs": 2183
+    },
+    {
+      "text": "sense.",
+      "startMs": 2241,
+      "endMs": 2763
+    },
+    {
+      "text": "Booking",
+      "startMs": 2810,
+      "endMs": 3204
+    },
+    {
+      "text": "over",
+      "startMs": 3332,
+      "endMs": 3704
+    },
+    {
+      "text": "a",
+      "startMs": 3808,
+      "endMs": 3936
+    },
+    {
+      "text": "known",
+      "startMs": 3994,
+      "endMs": 4191
+    },
+    {
+      "text": "commitment",
+      "startMs": 4272,
+      "endMs": 4969
+    },
+    {
+      "text": "would",
+      "startMs": 5050,
+      "endMs": 5259
+    },
+    {
+      "text": "have",
+      "startMs": 5317,
+      "endMs": 5550
+    },
+    {
+      "text": "caused",
+      "startMs": 5677,
+      "endMs": 6095
+    },
+    {
+      "text": "real",
+      "startMs": 6223,
+      "endMs": 6478
+    },
+    {
+      "text": "problems.",
+      "startMs": 6571,
+      "endMs": 7268
+    },
+    {
+      "text": "The",
+      "startMs": 7396,
+      "endMs": 7523
+    },
+    {
+      "text": "mistake",
+      "startMs": 7605,
+      "endMs": 8243
+    },
+    {
+      "text": "wasn't",
+      "startMs": 8290,
+      "endMs": 8719
+    },
+    {
+      "text": "asking.",
+      "startMs": 8800,
+      "endMs": 9392
+    },
+    {
+      "text": "It",
+      "startMs": 9497,
+      "endMs": 9660
+    },
+    {
+      "text": "was",
+      "startMs": 9741,
+      "endMs": 9927
+    },
+    {
+      "text": "refusing",
+      "startMs": 10019,
+      "endMs": 10623
+    },
+    {
+      "text": "to",
+      "startMs": 10704,
+      "endMs": 10786
+    },
+    {
+      "text": "book",
+      "startMs": 10867,
+      "endMs": 11088
+    },
+    {
+      "text": "anything",
+      "startMs": 11192,
+      "endMs": 11703
+    },
+    {
+      "text": "until",
+      "startMs": 11807,
+      "endMs": 12249
+    },
+    {
+      "text": "every",
+      "startMs": 12376,
+      "endMs": 12713
+    },
+    {
+      "text": "possible",
+      "startMs": 12817,
+      "endMs": 13375
+    },
+    {
+      "text": "conflict,",
+      "startMs": 13456,
+      "endMs": 14211
+    },
+    {
+      "text": "present",
+      "startMs": 14234,
+      "endMs": 14884
+    },
+    {
+      "text": "and",
+      "startMs": 14965,
+      "endMs": 15128
+    },
+    {
+      "text": "future,",
+      "startMs": 15209,
+      "endMs": 15801
+    },
+    {
+      "text": "had",
+      "startMs": 15882,
+      "endMs": 16079.999999999998
+    },
+    {
+      "text": "been",
+      "startMs": 16126.000000000002,
+      "endMs": 16277.000000000002
+    },
+    {
+      "text": "ruled",
+      "startMs": 16358,
+      "endMs": 16695
+    },
+    {
+      "text": "out.",
+      "startMs": 16776,
+      "endMs": 17415
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "text": "A recurring meeting went through two full rounds of scheduling and still didn't have a day. Every single person had said when they were free. That was never actually the problem.",
+  "durationMs": 11935,
+  "words": [
+    {
+      "text": "A",
+      "startMs": 0,
+      "endMs": 104
+    },
+    {
+      "text": "recurring",
+      "startMs": 197,
+      "endMs": 778
+    },
+    {
+      "text": "meeting",
+      "startMs": 882,
+      "endMs": 1335
+    },
+    {
+      "text": "went",
+      "startMs": 1474,
+      "endMs": 1869
+    },
+    {
+      "text": "through",
+      "startMs": 1892,
+      "endMs": 2218
+    },
+    {
+      "text": "two",
+      "startMs": 2264,
+      "endMs": 2508
+    },
+    {
+      "text": "full",
+      "startMs": 2635,
+      "endMs": 2995
+    },
+    {
+      "text": "rounds",
+      "startMs": 3158,
+      "endMs": 3529
+    },
+    {
+      "text": "of",
+      "startMs": 3634,
+      "endMs": 3773
+    },
+    {
+      "text": "scheduling",
+      "startMs": 3866,
+      "endMs": 4551
+    },
+    {
+      "text": "and",
+      "startMs": 4644,
+      "endMs": 4830
+    },
+    {
+      "text": "still",
+      "startMs": 4911,
+      "endMs": 5213
+    },
+    {
+      "text": "didn't",
+      "startMs": 5294,
+      "endMs": 5631
+    },
+    {
+      "text": "have",
+      "startMs": 5724,
+      "endMs": 5979
+    },
+    {
+      "text": "a",
+      "startMs": 6060,
+      "endMs": 6165
+    },
+    {
+      "text": "day.",
+      "startMs": 6258,
+      "endMs": 6571
+    },
+    {
+      "text": "Every",
+      "startMs": 6711,
+      "endMs": 7001
+    },
+    {
+      "text": "single",
+      "startMs": 7047,
+      "endMs": 7407
+    },
+    {
+      "text": "person",
+      "startMs": 7454,
+      "endMs": 7964
+    },
+    {
+      "text": "had",
+      "startMs": 8092.000000000001,
+      "endMs": 8301
+    },
+    {
+      "text": "said",
+      "startMs": 8359,
+      "endMs": 8638
+    },
+    {
+      "text": "when",
+      "startMs": 8731,
+      "endMs": 8893
+    },
+    {
+      "text": "they",
+      "startMs": 8928,
+      "endMs": 9044
+    },
+    {
+      "text": "were",
+      "startMs": 9079,
+      "endMs": 9230
+    },
+    {
+      "text": "free.",
+      "startMs": 9311,
+      "endMs": 9683
+    },
+    {
+      "text": "That",
+      "startMs": 9787,
+      "endMs": 10019
+    },
+    {
+      "text": "was",
+      "startMs": 10101,
+      "endMs": 10263
+    },
+    {
+      "text": "never",
+      "startMs": 10344,
+      "endMs": 10612
+    },
+    {
+      "text": "actually",
+      "startMs": 10693,
+      "endMs": 11157
+    },
+    {
+      "text": "the",
+      "startMs": 11215,
+      "endMs": 11297
+    },
+    {
+      "text": "problem.",
+      "startMs": 11355,
+      "endMs": 11935
+    }
+  ]
+}

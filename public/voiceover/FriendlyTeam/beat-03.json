@@ -1,0 +1,121 @@
+{
+  "text": "A mistake that once got a comment right away now got a gentle suggestion instead, softer, easier to hear, no tension at all.",
+  "durationMs": 8916,
+  "words": [
+    {
+      "text": "A",
+      "startMs": 0,
+      "endMs": 81
+    },
+    {
+      "text": "mistake",
+      "startMs": 174,
+      "endMs": 685
+    },
+    {
+      "text": "that",
+      "startMs": 731,
+      "endMs": 929
+    },
+    {
+      "text": "once",
+      "startMs": 1022,
+      "endMs": 1289
+    },
+    {
+      "text": "got",
+      "startMs": 1370,
+      "endMs": 1591
+    },
+    {
+      "text": "a",
+      "startMs": 1649,
+      "endMs": 1672
+    },
+    {
+      "text": "comment",
+      "startMs": 1730,
+      "endMs": 2125
+    },
+    {
+      "text": "right",
+      "startMs": 2218,
+      "endMs": 2473
+    },
+    {
+      "text": "away",
+      "startMs": 2508,
+      "endMs": 2810
+    },
+    {
+      "text": "now",
+      "startMs": 2972,
+      "endMs": 3193
+    },
+    {
+      "text": "got",
+      "startMs": 3274,
+      "endMs": 3460
+    },
+    {
+      "text": "a",
+      "startMs": 3541,
+      "endMs": 3576
+    },
+    {
+      "text": "gentle",
+      "startMs": 3669,
+      "endMs": 4075
+    },
+    {
+      "text": "suggestion",
+      "startMs": 4122,
+      "endMs": 4876
+    },
+    {
+      "text": "instead,",
+      "startMs": 5004,
+      "endMs": 5642
+    },
+    {
+      "text": "softer,",
+      "startMs": 5805,
+      "endMs": 6397
+    },
+    {
+      "text": "easier",
+      "startMs": 6478,
+      "endMs": 6896
+    },
+    {
+      "text": "to",
+      "startMs": 6989,
+      "endMs": 7070
+    },
+    {
+      "text": "hear,",
+      "startMs": 7163,
+      "endMs": 7512
+    },
+    {
+      "text": "no",
+      "startMs": 7593,
+      "endMs": 7744
+    },
+    {
+      "text": "tension",
+      "startMs": 7837,
+      "endMs": 8313
+    },
+    {
+      "text": "at",
+      "startMs": 8371,
+      "endMs": 8475
+    },
+    {
+      "text": "all.",
+      "startMs": 8557,
+      "endMs": 8916
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "text": "Then the sprint actually started. Support requests began pulling engineers off feature work. A production incident took two of them off the plan entirely.",
+  "durationMs": 11378,
+  "words": [
+    {
+      "text": "Then",
+      "startMs": 0,
+      "endMs": 255
+    },
+    {
+      "text": "the",
+      "startMs": 313,
+      "endMs": 430
+    },
+    {
+      "text": "sprint",
+      "startMs": 476,
+      "endMs": 1022
+    },
+    {
+      "text": "actually",
+      "startMs": 1115,
+      "endMs": 1625
+    },
+    {
+      "text": "started.",
+      "startMs": 1672,
+      "endMs": 2345
+    },
+    {
+      "text": "Support",
+      "startMs": 2508,
+      "endMs": 3030
+    },
+    {
+      "text": "requests",
+      "startMs": 3123,
+      "endMs": 3715
+    },
+    {
+      "text": "began",
+      "startMs": 3843,
+      "endMs": 4168
+    },
+    {
+      "text": "pulling",
+      "startMs": 4249,
+      "endMs": 4586
+    },
+    {
+      "text": "engineers",
+      "startMs": 4679,
+      "endMs": 5271
+    },
+    {
+      "text": "off",
+      "startMs": 5375,
+      "endMs": 5608
+    },
+    {
+      "text": "feature",
+      "startMs": 5689,
+      "endMs": 6072
+    },
+    {
+      "text": "work.",
+      "startMs": 6118,
+      "endMs": 6502
+    },
+    {
+      "text": "A",
+      "startMs": 6687,
+      "endMs": 6769
+    },
+    {
+      "text": "production",
+      "startMs": 6861,
+      "endMs": 7372
+    },
+    {
+      "text": "incident",
+      "startMs": 7465,
+      "endMs": 8057
+    },
+    {
+      "text": "took",
+      "startMs": 8138.999999999999,
+      "endMs": 8440
+    },
+    {
+      "text": "two",
+      "startMs": 8499,
+      "endMs": 8673
+    },
+    {
+      "text": "of",
+      "startMs": 8766,
+      "endMs": 8847
+    },
+    {
+      "text": "them",
+      "startMs": 8905,
+      "endMs": 9091
+    },
+    {
+      "text": "off",
+      "startMs": 9218,
+      "endMs": 9567
+    },
+    {
+      "text": "the",
+      "startMs": 9694,
+      "endMs": 9799
+    },
+    {
+      "text": "plan",
+      "startMs": 9857,
+      "endMs": 10228
+    },
+    {
+      "text": "entirely.",
+      "startMs": 10414,
+      "endMs": 11378
+    }
+  ]
+}

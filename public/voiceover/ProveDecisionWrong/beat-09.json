@@ -1,0 +1,66 @@
+{
+  "text": "Don't ask if your idea works. Instead, ask what breaks your idea.",
+  "durationMs": 4737,
+  "words": [
+    {
+      "text": "Don't",
+      "startMs": 0,
+      "endMs": 290
+    },
+    {
+      "text": "ask",
+      "startMs": 372,
+      "endMs": 697
+    },
+    {
+      "text": "if",
+      "startMs": 801,
+      "endMs": 987
+    },
+    {
+      "text": "your",
+      "startMs": 1068,
+      "endMs": 1219
+    },
+    {
+      "text": "idea",
+      "startMs": 1277,
+      "endMs": 1707
+    },
+    {
+      "text": "works.",
+      "startMs": 1834,
+      "endMs": 2345
+    },
+    {
+      "text": "Instead,",
+      "startMs": 2438,
+      "endMs": 3019
+    },
+    {
+      "text": "ask",
+      "startMs": 3100,
+      "endMs": 3413
+    },
+    {
+      "text": "what",
+      "startMs": 3448,
+      "endMs": 3611
+    },
+    {
+      "text": "breaks",
+      "startMs": 3669,
+      "endMs": 3936
+    },
+    {
+      "text": "your",
+      "startMs": 3971,
+      "endMs": 4110
+    },
+    {
+      "text": "idea.",
+      "startMs": 4145,
+      "endMs": 4737
+    }
+  ]
+}

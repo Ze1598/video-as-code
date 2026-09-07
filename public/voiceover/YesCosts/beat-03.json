@@ -1,0 +1,76 @@
+{
+  "text": "Between the demo and the client report, no deadlines changed. Yet both were committed.",
+  "durationMs": 6037,
+  "words": [
+    {
+      "text": "Between",
+      "startMs": 0,
+      "endMs": 395
+    },
+    {
+      "text": "the",
+      "startMs": 476,
+      "endMs": 557
+    },
+    {
+      "text": "demo",
+      "startMs": 639,
+      "endMs": 1080
+    },
+    {
+      "text": "and",
+      "startMs": 1173,
+      "endMs": 1324
+    },
+    {
+      "text": "the",
+      "startMs": 1370,
+      "endMs": 1440
+    },
+    {
+      "text": "client",
+      "startMs": 1474,
+      "endMs": 1939
+    },
+    {
+      "text": "report,",
+      "startMs": 2032,
+      "endMs": 2635
+    },
+    {
+      "text": "no",
+      "startMs": 2798,
+      "endMs": 2949
+    },
+    {
+      "text": "deadlines",
+      "startMs": 3053,
+      "endMs": 3704
+    },
+    {
+      "text": "changed.",
+      "startMs": 3808,
+      "endMs": 4331
+    },
+    {
+      "text": "Yet",
+      "startMs": 4435,
+      "endMs": 4679
+    },
+    {
+      "text": "both",
+      "startMs": 4760,
+      "endMs": 5062
+    },
+    {
+      "text": "were",
+      "startMs": 5155,
+      "endMs": 5329
+    },
+    {
+      "text": "committed.",
+      "startMs": 5375,
+      "endMs": 6037
+    }
+  ]
+}

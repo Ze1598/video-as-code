@@ -1,0 +1,296 @@
+{
+  "text": "It was Tuesday afternoon, and the manager called his data analyst asking to prepare a demo for a prospect on Thursday. She was already working on a client report due Friday afternoon, with an internal review slot booked for Friday morning. The manager told her to fit the demo in her week and keep the report on track.",
+  "durationMs": 23545,
+  "words": [
+    {
+      "text": "It",
+      "startMs": 0,
+      "endMs": 174
+    },
+    {
+      "text": "was",
+      "startMs": 232,
+      "endMs": 383
+    },
+    {
+      "text": "Tuesday",
+      "startMs": 464,
+      "endMs": 836
+    },
+    {
+      "text": "afternoon,",
+      "startMs": 917,
+      "endMs": 1544
+    },
+    {
+      "text": "and",
+      "startMs": 1625,
+      "endMs": 1823
+    },
+    {
+      "text": "the",
+      "startMs": 1869,
+      "endMs": 1939
+    },
+    {
+      "text": "manager",
+      "startMs": 2020,
+      "endMs": 2519
+    },
+    {
+      "text": "called",
+      "startMs": 2647,
+      "endMs": 2949
+    },
+    {
+      "text": "his",
+      "startMs": 3042,
+      "endMs": 3204
+    },
+    {
+      "text": "data",
+      "startMs": 3309,
+      "endMs": 3669
+    },
+    {
+      "text": "analyst",
+      "startMs": 3715,
+      "endMs": 4389
+    },
+    {
+      "text": "asking",
+      "startMs": 4493,
+      "endMs": 4981
+    },
+    {
+      "text": "to",
+      "startMs": 5062,
+      "endMs": 5143
+    },
+    {
+      "text": "prepare",
+      "startMs": 5224,
+      "endMs": 5666
+    },
+    {
+      "text": "a",
+      "startMs": 5712,
+      "endMs": 5747
+    },
+    {
+      "text": "demo",
+      "startMs": 5851,
+      "endMs": 6258
+    },
+    {
+      "text": "for",
+      "startMs": 6351,
+      "endMs": 6525
+    },
+    {
+      "text": "a",
+      "startMs": 6618,
+      "endMs": 6653
+    },
+    {
+      "text": "prospect",
+      "startMs": 6757,
+      "endMs": 7488
+    },
+    {
+      "text": "on",
+      "startMs": 7593,
+      "endMs": 7744
+    },
+    {
+      "text": "Thursday.",
+      "startMs": 7825,
+      "endMs": 8452
+    },
+    {
+      "text": "She",
+      "startMs": 8615,
+      "endMs": 8777
+    },
+    {
+      "text": "was",
+      "startMs": 8858,
+      "endMs": 9021
+    },
+    {
+      "text": "already",
+      "startMs": 9102,
+      "endMs": 9613
+    },
+    {
+      "text": "working",
+      "startMs": 9718,
+      "endMs": 10159
+    },
+    {
+      "text": "on",
+      "startMs": 10252,
+      "endMs": 10437
+    },
+    {
+      "text": "a",
+      "startMs": 10530,
+      "endMs": 10588
+    },
+    {
+      "text": "client",
+      "startMs": 10681,
+      "endMs": 11134
+    },
+    {
+      "text": "report",
+      "startMs": 11238,
+      "endMs": 11761
+    },
+    {
+      "text": "due",
+      "startMs": 11947,
+      "endMs": 12295
+    },
+    {
+      "text": "Friday",
+      "startMs": 12458,
+      "endMs": 13026
+    },
+    {
+      "text": "afternoon,",
+      "startMs": 13131,
+      "endMs": 13793
+    },
+    {
+      "text": "with",
+      "startMs": 13851,
+      "endMs": 14036
+    },
+    {
+      "text": "an",
+      "startMs": 14095,
+      "endMs": 14199
+    },
+    {
+      "text": "internal",
+      "startMs": 14280,
+      "endMs": 14826
+    },
+    {
+      "text": "review",
+      "startMs": 14930,
+      "endMs": 15290
+    },
+    {
+      "text": "slot",
+      "startMs": 15395,
+      "endMs": 15708
+    },
+    {
+      "text": "booked",
+      "startMs": 15790,
+      "endMs": 16079.999999999998
+    },
+    {
+      "text": "for",
+      "startMs": 16172.999999999998,
+      "endMs": 16393
+    },
+    {
+      "text": "Friday",
+      "startMs": 16486,
+      "endMs": 16892
+    },
+    {
+      "text": "morning.",
+      "startMs": 16973,
+      "endMs": 17496
+    },
+    {
+      "text": "The",
+      "startMs": 17763,
+      "endMs": 17867
+    },
+    {
+      "text": "manager",
+      "startMs": 17926,
+      "endMs": 18425
+    },
+    {
+      "text": "told",
+      "startMs": 18518,
+      "endMs": 18866
+    },
+    {
+      "text": "her",
+      "startMs": 18947,
+      "endMs": 19145
+    },
+    {
+      "text": "to",
+      "startMs": 19330,
+      "endMs": 19481
+    },
+    {
+      "text": "fit",
+      "startMs": 19574,
+      "endMs": 19841
+    },
+    {
+      "text": "the",
+      "startMs": 19946,
+      "endMs": 20050
+    },
+    {
+      "text": "demo",
+      "startMs": 20131,
+      "endMs": 20503
+    },
+    {
+      "text": "in",
+      "startMs": 20631,
+      "endMs": 20805
+    },
+    {
+      "text": "her",
+      "startMs": 20909,
+      "endMs": 21037
+    },
+    {
+      "text": "week",
+      "startMs": 21118,
+      "endMs": 21397
+    },
+    {
+      "text": "and",
+      "startMs": 21501,
+      "endMs": 21652
+    },
+    {
+      "text": "keep",
+      "startMs": 21757,
+      "endMs": 21989
+    },
+    {
+      "text": "the",
+      "startMs": 22070,
+      "endMs": 22140
+    },
+    {
+      "text": "report",
+      "startMs": 22221,
+      "endMs": 22616
+    },
+    {
+      "text": "on",
+      "startMs": 22697,
+      "endMs": 22837
+    },
+    {
+      "text": "track.",
+      "startMs": 22895,
+      "endMs": 23545
+    }
+  ]
+}

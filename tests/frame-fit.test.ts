@@ -160,6 +160,52 @@ test("regression — LeadWithWhatMatters's hub-spoke layout: tight() on each nod
   }
 });
 
+test("regression — StopSellingDiagram's hub-spoke layout: tight() on each node excludes the other three at maxZoom 2.3", () => {
+  // Reuses the same hub-spoke coordinates as LeadWithWhatMatters/
+  // HowToBeUnderstood (architect/delivery/finance/operations at the same
+  // positions as manager/leadA/leadB/engineers), including the close
+  // 80-unit vertical gap between the two lower spokes that motivated the
+  // 2.3 maxZoom override there. This video only ever uses tight() shots on
+  // each of the four nodes, never a pair shot.
+  const nodes = {
+    architect: { x: 960, y: 260 },
+    delivery: { x: 460, y: 820 },
+    finance: { x: 1460, y: 820 },
+    operations: { x: 960, y: 900 },
+  };
+  for (const focusId of Object.keys(nodes)) {
+    const result = fitCameraToFocus(nodes, [focusId], { maxZoom: 2.3 });
+    assert.ok(
+      result.excludesNonFocus,
+      `tight(${focusId}) leaked: ${result.leakingNodeIds.join(", ")}`,
+    );
+  }
+});
+
+test("regression — YesCosts's hub-spoke layout: tight() on each node excludes the other three at maxZoom 2.3", () => {
+  // Same hub-spoke coordinates as HowToBeUnderstood/LeadWithWhatMatters/
+  // StopSellingDiagram (analyst/manager/client/sales at the same positions
+  // as lead/eng1/eng2/eng3), including the close 80-unit vertical gap
+  // between the two side spokes that motivated the 2.3 maxZoom override
+  // there. This video only ever uses tight() shots plus 0-focus wide/reveal
+  // shots, never a pair or triple shot (pair(analyst, spoke) leaks the
+  // other two spokes on this compact a layout — confirmed while designing
+  // it, not just assumed).
+  const nodes = {
+    analyst: { x: 960, y: 260 },
+    manager: { x: 460, y: 820 },
+    client: { x: 960, y: 900 },
+    sales: { x: 1460, y: 820 },
+  };
+  for (const focusId of Object.keys(nodes)) {
+    const result = fitCameraToFocus(nodes, [focusId], { maxZoom: 2.3 });
+    assert.ok(
+      result.excludesNonFocus,
+      `tight(${focusId}) leaked: ${result.leakingNodeIds.join(", ")}`,
+    );
+  }
+});
+
 test("regression — WinningTheArgument's three-node hub layout: every shot it actually uses excludes the third node", () => {
   // Manager is the hub, First Lead and Second Lead fan out below, 1280
   // world-units apart — wide enough that a pair(manager, oneLead) shot
@@ -181,6 +227,49 @@ test("regression — WinningTheArgument's three-node hub layout: every shot it a
     assert.ok(
       result.excludesNonFocus,
       `${JSON.stringify(focusIds)} leaked: ${result.leakingNodeIds.join(", ")}`,
+    );
+  }
+});
+
+test("regression — DoNothing's three-role diagonal layout: every tight and pair shot excludes non-focus roles", () => {
+  const nodes = {
+    client: { x: 300, y: 250 },
+    manager: { x: 960, y: 480 },
+    analysts: { x: 1600, y: 760 },
+  };
+  const shots: string[][] = [
+    ["client"],
+    ["client", "manager"],
+    ["manager", "analysts"],
+  ];
+  for (const focusIds of shots) {
+    const result = fitCameraToFocus(nodes, focusIds);
+    assert.ok(
+      result.excludesNonFocus,
+      `${JSON.stringify(focusIds)} leaked: ${result.leakingNodeIds.join(", ")}`,
+    );
+  }
+});
+
+test("regression — ReversibleDecisions's hub-and-four-spokes layout: tight() on each node excludes the other four at maxZoom 2.3", () => {
+  // Unlike the three-spoke hub layouts above, this video's four spokes all
+  // sit at the SAME y (900) — deliberately, to avoid re-triggering the
+  // eng1/eng2 80-unit vertical-gap bug those layouts needed maxZoom 2.3 to
+  // fix. Confirmed here that the same 2.3 override still clears every tight
+  // shot with a fourth spoke added and the row widened to span the full
+  // 1920 viewport (200/707/1213/1720).
+  const nodes = {
+    manager: { x: 960, y: 220 },
+    tm1: { x: 200, y: 900 },
+    tm2: { x: 707, y: 900 },
+    tm3: { x: 1213, y: 900 },
+    tm4: { x: 1720, y: 900 },
+  };
+  for (const focusId of Object.keys(nodes)) {
+    const result = fitCameraToFocus(nodes, [focusId], { maxZoom: 2.3 });
+    assert.ok(
+      result.excludesNonFocus,
+      `tight(${focusId}) leaked: ${result.leakingNodeIds.join(", ")}`,
     );
   }
 });
@@ -229,6 +318,75 @@ test("regression — AddingMorePeople's two-cluster layout: every shot it actual
   ];
   for (const focusIds of shots) {
     const result = fitCameraToFocus(nodes, focusIds, { maxZoom: 2.6, margin });
+    assert.ok(
+      result.excludesNonFocus,
+      `${JSON.stringify(focusIds)} leaked: ${result.leakingNodeIds.join(", ")}`,
+    );
+  }
+});
+
+test("regression — LuckisNotTrend's hub-spoke layout: tight() on each node excludes the other three at maxZoom 2.3", () => {
+  // Same hub-spoke coordinates as HowToBeUnderstood/LeadWithWhatMatters/
+  // StopSellingDiagram/YesCosts (manager/team/stakeholders/otherTeam at the
+  // same positions as lead/eng1/eng2/eng3), including the close 80-unit
+  // vertical gap between the two lower spokes that motivated the 2.3
+  // maxZoom override there. otherTeam isn't rendered until Beat 7 (see
+  // World.tsx), but occupies its spoke position from the start, so every
+  // tight() shot before that beat already excludes it correctly.
+  const nodes = {
+    manager: { x: 960, y: 260 },
+    team: { x: 460, y: 820 },
+    stakeholders: { x: 1460, y: 820 },
+    otherTeam: { x: 960, y: 900 },
+  };
+  for (const focusId of Object.keys(nodes)) {
+    const result = fitCameraToFocus(nodes, [focusId], { maxZoom: 2.3 });
+    assert.ok(
+      result.excludesNonFocus,
+      `tight(${focusId}) leaked: ${result.leakingNodeIds.join(", ")}`,
+    );
+  }
+});
+
+test("regression — ProveDecisionWrong's hub-spoke layout: tight() on each node excludes the other three at maxZoom 2.3", () => {
+  // Same hub-spoke coordinates as HowToBeUnderstood/LeadWithWhatMatters/
+  // StopSellingDiagram/YesCosts/LuckisNotTrend (architect/client/team/other
+  // at the same positions as lead/eng1/eng2/eng3), including the close
+  // 80-unit vertical gap between the two lower spokes that motivated the
+  // 2.3 maxZoom override there. "other" (the other architect) isn't drawn
+  // into the story until Beat 5, but occupies its spoke position from the
+  // start, so every tight() shot before that beat already excludes it
+  // correctly.
+  const nodes = {
+    architect: { x: 960, y: 260 },
+    client: { x: 460, y: 820 },
+    team: { x: 960, y: 900 },
+    other: { x: 1460, y: 820 },
+  };
+  for (const focusId of Object.keys(nodes)) {
+    const result = fitCameraToFocus(nodes, [focusId], { maxZoom: 2.3 });
+    assert.ok(
+      result.excludesNonFocus,
+      `tight(${focusId}) leaked: ${result.leakingNodeIds.join(", ")}`,
+    );
+  }
+});
+
+test("regression — FriendlyTeam's three-node layout: tight(each) and pair(paul, scott) exclude the non-focus node", () => {
+  // Paul and Scott sit side by side, Client below — the only shots this
+  // video actually uses are tight() on each of the three, plus the
+  // pair(paul, scott) shot that recurs across Beats 1-6 (the two of them
+  // avoiding honest feedback with each other). No pair including Client is
+  // used, since Client is only ever shown alone (tight) or as part of the
+  // 0-focus wide/reveal shots.
+  const nodes = {
+    paul: { x: 620, y: 320 },
+    scott: { x: 1300, y: 320 },
+    client: { x: 960, y: 860 },
+  };
+  const shots: string[][] = [["paul"], ["scott"], ["client"], ["paul", "scott"]];
+  for (const focusIds of shots) {
+    const result = fitCameraToFocus(nodes, focusIds, { maxZoom: 2.3 });
     assert.ok(
       result.excludesNonFocus,
       `${JSON.stringify(focusIds)} leaked: ${result.leakingNodeIds.join(", ")}`,

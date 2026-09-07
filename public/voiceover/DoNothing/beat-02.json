@@ -1,0 +1,166 @@
+{
+  "text": "The analysts catalogued old reports, standardized dashboard layouts, documented unused queries, and cleaned datasets that could become relevant later. Each task sounded defensible. Reports need cataloguing. Queries need documentation. Data needs maintenance.",
+  "durationMs": 22430,
+  "words": [
+    {
+      "text": "The",
+      "startMs": 0,
+      "endMs": 197
+    },
+    {
+      "text": "analysts",
+      "startMs": 279,
+      "endMs": 1196
+    },
+    {
+      "text": "catalogued",
+      "startMs": 1463,
+      "endMs": 2252
+    },
+    {
+      "text": "old",
+      "startMs": 2380,
+      "endMs": 2589
+    },
+    {
+      "text": "reports,",
+      "startMs": 2682,
+      "endMs": 3390
+    },
+    {
+      "text": "standardized",
+      "startMs": 3553,
+      "endMs": 4540
+    },
+    {
+      "text": "dashboard",
+      "startMs": 4644,
+      "endMs": 5457
+    },
+    {
+      "text": "layouts,",
+      "startMs": 5584,
+      "endMs": 6362
+    },
+    {
+      "text": "documented",
+      "startMs": 6409,
+      "endMs": 7314
+    },
+    {
+      "text": "unused",
+      "startMs": 7500,
+      "endMs": 8162.000000000001
+    },
+    {
+      "text": "queries,",
+      "startMs": 8266,
+      "endMs": 9021
+    },
+    {
+      "text": "and",
+      "startMs": 9056,
+      "endMs": 9195
+    },
+    {
+      "text": "cleaned",
+      "startMs": 9300,
+      "endMs": 9671
+    },
+    {
+      "text": "datasets",
+      "startMs": 9799,
+      "endMs": 10670
+    },
+    {
+      "text": "that",
+      "startMs": 10797,
+      "endMs": 10995
+    },
+    {
+      "text": "could",
+      "startMs": 11076,
+      "endMs": 11262
+    },
+    {
+      "text": "become",
+      "startMs": 11308,
+      "endMs": 11691
+    },
+    {
+      "text": "relevant",
+      "startMs": 11738,
+      "endMs": 12365
+    },
+    {
+      "text": "later.",
+      "startMs": 12458,
+      "endMs": 13015
+    },
+    {
+      "text": "Each",
+      "startMs": 13119,
+      "endMs": 13386
+    },
+    {
+      "text": "task",
+      "startMs": 13433,
+      "endMs": 13862
+    },
+    {
+      "text": "sounded",
+      "startMs": 13990,
+      "endMs": 14582
+    },
+    {
+      "text": "defensible.",
+      "startMs": 14710,
+      "endMs": 15604
+    },
+    {
+      "text": "Reports",
+      "startMs": 15790,
+      "endMs": 16393
+    },
+    {
+      "text": "need",
+      "startMs": 16521,
+      "endMs": 16800
+    },
+    {
+      "text": "cataloguing.",
+      "startMs": 16927,
+      "endMs": 17891
+    },
+    {
+      "text": "Queries",
+      "startMs": 18030,
+      "endMs": 18599
+    },
+    {
+      "text": "need",
+      "startMs": 18727,
+      "endMs": 19006
+    },
+    {
+      "text": "documentation.",
+      "startMs": 19133,
+      "endMs": 20225
+    },
+    {
+      "text": "Data",
+      "startMs": 20352,
+      "endMs": 20840
+    },
+    {
+      "text": "needs",
+      "startMs": 20968,
+      "endMs": 21293
+    },
+    {
+      "text": "maintenance.",
+      "startMs": 21420,
+      "endMs": 22430
+    }
+  ]
+}

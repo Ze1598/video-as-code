@@ -1,0 +1,366 @@
+{
+  "text": "After another delayed release, the data architect asked leadership to fund a new architecture. The current platform required engineers to build custom pipelines for each source. His design would replace much of that work with reusable ingestion, validation, and monitoring components. He presented the target architecture. The diagram showed every service, data flow, security boundary, and integration. He explained how the design could shorten delivery times, improve data quality, and reduce maintenance.",
+  "durationMs": 40124,
+  "words": [
+    {
+      "text": "After",
+      "startMs": 0,
+      "endMs": 372
+    },
+    {
+      "text": "another",
+      "startMs": 464,
+      "endMs": 1022
+    },
+    {
+      "text": "delayed",
+      "startMs": 1149,
+      "endMs": 1614
+    },
+    {
+      "text": "release,",
+      "startMs": 1718,
+      "endMs": 2322
+    },
+    {
+      "text": "the",
+      "startMs": 2415,
+      "endMs": 2554
+    },
+    {
+      "text": "data",
+      "startMs": 2612,
+      "endMs": 2937
+    },
+    {
+      "text": "architect",
+      "startMs": 2995,
+      "endMs": 3622
+    },
+    {
+      "text": "asked",
+      "startMs": 3750,
+      "endMs": 4261
+    },
+    {
+      "text": "leadership",
+      "startMs": 4389,
+      "endMs": 5039
+    },
+    {
+      "text": "to",
+      "startMs": 5201,
+      "endMs": 5352
+    },
+    {
+      "text": "fund",
+      "startMs": 5457,
+      "endMs": 5840
+    },
+    {
+      "text": "a",
+      "startMs": 5968,
+      "endMs": 6060
+    },
+    {
+      "text": "new",
+      "startMs": 6188,
+      "endMs": 6385
+    },
+    {
+      "text": "architecture.",
+      "startMs": 6478,
+      "endMs": 7454
+    },
+    {
+      "text": "The",
+      "startMs": 7581,
+      "endMs": 7686
+    },
+    {
+      "text": "current",
+      "startMs": 7744,
+      "endMs": 8092.000000000001
+    },
+    {
+      "text": "platform",
+      "startMs": 8173,
+      "endMs": 8882
+    },
+    {
+      "text": "required",
+      "startMs": 9009,
+      "endMs": 9509
+    },
+    {
+      "text": "engineers",
+      "startMs": 9601,
+      "endMs": 10240
+    },
+    {
+      "text": "to",
+      "startMs": 10298,
+      "endMs": 10368
+    },
+    {
+      "text": "build",
+      "startMs": 10472,
+      "endMs": 10774
+    },
+    {
+      "text": "custom",
+      "startMs": 10902,
+      "endMs": 11413
+    },
+    {
+      "text": "pipelines",
+      "startMs": 11505,
+      "endMs": 12260
+    },
+    {
+      "text": "for",
+      "startMs": 12388,
+      "endMs": 12690
+    },
+    {
+      "text": "each",
+      "startMs": 12817,
+      "endMs": 13108
+    },
+    {
+      "text": "source.",
+      "startMs": 13293,
+      "endMs": 13862
+    },
+    {
+      "text": "His",
+      "startMs": 13909,
+      "endMs": 14095
+    },
+    {
+      "text": "design",
+      "startMs": 14176,
+      "endMs": 14594
+    },
+    {
+      "text": "would",
+      "startMs": 14640,
+      "endMs": 14826
+    },
+    {
+      "text": "replace",
+      "startMs": 14907,
+      "endMs": 15581
+    },
+    {
+      "text": "much",
+      "startMs": 15708,
+      "endMs": 16021.999999999998
+    },
+    {
+      "text": "of",
+      "startMs": 16114.999999999998,
+      "endMs": 16289.000000000002
+    },
+    {
+      "text": "that",
+      "startMs": 16417,
+      "endMs": 16660
+    },
+    {
+      "text": "work",
+      "startMs": 16753,
+      "endMs": 17136
+    },
+    {
+      "text": "with",
+      "startMs": 17264,
+      "endMs": 17450
+    },
+    {
+      "text": "reusable",
+      "startMs": 17578,
+      "endMs": 18344
+    },
+    {
+      "text": "ingestion,",
+      "startMs": 18425,
+      "endMs": 19273
+    },
+    {
+      "text": "validation,",
+      "startMs": 19412,
+      "endMs": 20376
+    },
+    {
+      "text": "and",
+      "startMs": 20480,
+      "endMs": 20794
+    },
+    {
+      "text": "monitoring",
+      "startMs": 20898,
+      "endMs": 21548
+    },
+    {
+      "text": "components.",
+      "startMs": 21676,
+      "endMs": 22651
+    },
+    {
+      "text": "He",
+      "startMs": 22779,
+      "endMs": 22895
+    },
+    {
+      "text": "presented",
+      "startMs": 22976,
+      "endMs": 23754
+    },
+    {
+      "text": "the",
+      "startMs": 23882,
+      "endMs": 24126
+    },
+    {
+      "text": "target",
+      "startMs": 24230,
+      "endMs": 24753
+    },
+    {
+      "text": "architecture.",
+      "startMs": 24880,
+      "endMs": 25844
+    },
+    {
+      "text": "The",
+      "startMs": 25879,
+      "endMs": 26018
+    },
+    {
+      "text": "diagram",
+      "startMs": 26076,
+      "endMs": 26610
+    },
+    {
+      "text": "showed",
+      "startMs": 26703,
+      "endMs": 27016
+    },
+    {
+      "text": "every",
+      "startMs": 27144,
+      "endMs": 27458
+    },
+    {
+      "text": "service,",
+      "startMs": 27551,
+      "endMs": 28247
+    },
+    {
+      "text": "data",
+      "startMs": 28375,
+      "endMs": 28723
+    },
+    {
+      "text": "flow,",
+      "startMs": 28804,
+      "endMs": 29234
+    },
+    {
+      "text": "security",
+      "startMs": 29327,
+      "endMs": 30023
+    },
+    {
+      "text": "boundary,",
+      "startMs": 30105,
+      "endMs": 30859
+    },
+    {
+      "text": "and",
+      "startMs": 30894,
+      "endMs": 31196
+    },
+    {
+      "text": "integration.",
+      "startMs": 31324,
+      "endMs": 32334.000000000004
+    },
+    {
+      "text": "He",
+      "startMs": 32357,
+      "endMs": 32473
+    },
+    {
+      "text": "explained",
+      "startMs": 32520.000000000004,
+      "endMs": 33042
+    },
+    {
+      "text": "how",
+      "startMs": 33135,
+      "endMs": 33355
+    },
+    {
+      "text": "the",
+      "startMs": 33448,
+      "endMs": 33530
+    },
+    {
+      "text": "design",
+      "startMs": 33588,
+      "endMs": 34110
+    },
+    {
+      "text": "could",
+      "startMs": 34168,
+      "endMs": 34412
+    },
+    {
+      "text": "shorten",
+      "startMs": 34575,
+      "endMs": 35190
+    },
+    {
+      "text": "delivery",
+      "startMs": 35352,
+      "endMs": 35863
+    },
+    {
+      "text": "times,",
+      "startMs": 35945,
+      "endMs": 36525
+    },
+    {
+      "text": "improve",
+      "startMs": 36606,
+      "endMs": 37059
+    },
+    {
+      "text": "data",
+      "startMs": 37117,
+      "endMs": 37454
+    },
+    {
+      "text": "quality,",
+      "startMs": 37535,
+      "endMs": 38243
+    },
+    {
+      "text": "and",
+      "startMs": 38267,
+      "endMs": 38580
+    },
+    {
+      "text": "reduce",
+      "startMs": 38743,
+      "endMs": 39184
+    },
+    {
+      "text": "maintenance.",
+      "startMs": 39242,
+      "endMs": 40124
+    }
+  ]
+}

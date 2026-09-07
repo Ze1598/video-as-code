@@ -1,6 +1,6 @@
 import { AbsoluteFill, useCurrentFrame } from "remotion";
 import type { Beat, TimelineEntry } from "../timeline.ts";
-import { ACCENT, DIM_TEXT, FONT } from "../palette.ts";
+import { ACCENT, BG, DIM_TEXT, FONT } from "../palette.ts";
 import { HighlightedText, sentenceCycle } from "./useSentenceCycle.tsx";
 
 export type LongFormSceneProps = {
@@ -35,7 +35,9 @@ export const LongFormScene: React.FC<LongFormSceneProps> = ({
   const result = sentenceCycle(beats[beatId].words, frame, timeline[beatId].duration, fps, highlight);
 
   return (
-    <AbsoluteFill style={{ display: "flex", alignItems: "center", justifyContent: "center", padding: "0 220px" }}>
+    <AbsoluteFill
+      style={{ backgroundColor: BG, display: "flex", alignItems: "center", justifyContent: "center", padding: "0 220px" }}
+    >
       <div
         style={{
           fontFamily: FONT,

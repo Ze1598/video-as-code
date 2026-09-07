@@ -1,0 +1,166 @@
+{
+  "text": "A client sent new reporting requirements to the data architect, by email, at the start of a new sprint. He designed an updated data model and shared it with the delivery team.",
+  "durationMs": 12307,
+  "words": [
+    {
+      "text": "A",
+      "startMs": 0,
+      "endMs": 93
+    },
+    {
+      "text": "client",
+      "startMs": 186,
+      "endMs": 592
+    },
+    {
+      "text": "sent",
+      "startMs": 673,
+      "endMs": 1080
+    },
+    {
+      "text": "new",
+      "startMs": 1219,
+      "endMs": 1405
+    },
+    {
+      "text": "reporting",
+      "startMs": 1591,
+      "endMs": 2136
+    },
+    {
+      "text": "requirements",
+      "startMs": 2229,
+      "endMs": 2902
+    },
+    {
+      "text": "to",
+      "startMs": 3030,
+      "endMs": 3204
+    },
+    {
+      "text": "the",
+      "startMs": 3297,
+      "endMs": 3367
+    },
+    {
+      "text": "data",
+      "startMs": 3425,
+      "endMs": 3855
+    },
+    {
+      "text": "architect,",
+      "startMs": 3947,
+      "endMs": 4621
+    },
+    {
+      "text": "by",
+      "startMs": 4679,
+      "endMs": 4888
+    },
+    {
+      "text": "email,",
+      "startMs": 4992,
+      "endMs": 5526
+    },
+    {
+      "text": "at",
+      "startMs": 5654,
+      "endMs": 5828
+    },
+    {
+      "text": "the",
+      "startMs": 5875,
+      "endMs": 5944
+    },
+    {
+      "text": "start",
+      "startMs": 6002,
+      "endMs": 6385
+    },
+    {
+      "text": "of",
+      "startMs": 6478,
+      "endMs": 6594
+    },
+    {
+      "text": "a",
+      "startMs": 6687,
+      "endMs": 6711
+    },
+    {
+      "text": "new",
+      "startMs": 6792,
+      "endMs": 6978
+    },
+    {
+      "text": "sprint.",
+      "startMs": 7036,
+      "endMs": 7419
+    },
+    {
+      "text": "He",
+      "startMs": 7500,
+      "endMs": 7616
+    },
+    {
+      "text": "designed",
+      "startMs": 7709,
+      "endMs": 8208
+    },
+    {
+      "text": "an",
+      "startMs": 8313,
+      "endMs": 8452
+    },
+    {
+      "text": "updated",
+      "startMs": 8580,
+      "endMs": 9160
+    },
+    {
+      "text": "data",
+      "startMs": 9207,
+      "endMs": 9555
+    },
+    {
+      "text": "model",
+      "startMs": 9636,
+      "endMs": 10008
+    },
+    {
+      "text": "and",
+      "startMs": 10101,
+      "endMs": 10263
+    },
+    {
+      "text": "shared",
+      "startMs": 10321,
+      "endMs": 10646
+    },
+    {
+      "text": "it",
+      "startMs": 10728,
+      "endMs": 10832
+    },
+    {
+      "text": "with",
+      "startMs": 10890,
+      "endMs": 11053
+    },
+    {
+      "text": "the",
+      "startMs": 11099,
+      "endMs": 11169
+    },
+    {
+      "text": "delivery",
+      "startMs": 11227,
+      "endMs": 11807
+    },
+    {
+      "text": "team.",
+      "startMs": 11900,
+      "endMs": 12307
+    }
+  ]
+}

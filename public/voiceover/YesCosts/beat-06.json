@@ -1,0 +1,131 @@
+{
+  "text": "Now the analyst had to explain why a report promised for Friday would be late, because nobody weighed the price of supporting the prospect demo.",
+  "durationMs": 11285,
+  "words": [
+    {
+      "text": "Now",
+      "startMs": 0,
+      "endMs": 302
+    },
+    {
+      "text": "the",
+      "startMs": 464,
+      "endMs": 673
+    },
+    {
+      "text": "analyst",
+      "startMs": 801,
+      "endMs": 1486
+    },
+    {
+      "text": "had",
+      "startMs": 1614,
+      "endMs": 1846
+    },
+    {
+      "text": "to",
+      "startMs": 1892,
+      "endMs": 1962
+    },
+    {
+      "text": "explain",
+      "startMs": 2043.0000000000002,
+      "endMs": 2577
+    },
+    {
+      "text": "why",
+      "startMs": 2705,
+      "endMs": 3042
+    },
+    {
+      "text": "a",
+      "startMs": 3135,
+      "endMs": 3193
+    },
+    {
+      "text": "report",
+      "startMs": 3320,
+      "endMs": 3889
+    },
+    {
+      "text": "promised",
+      "startMs": 3994,
+      "endMs": 4644
+    },
+    {
+      "text": "for",
+      "startMs": 4772,
+      "endMs": 5004
+    },
+    {
+      "text": "Friday",
+      "startMs": 5097,
+      "endMs": 5619
+    },
+    {
+      "text": "would",
+      "startMs": 5747,
+      "endMs": 5979
+    },
+    {
+      "text": "be",
+      "startMs": 6037,
+      "endMs": 6177
+    },
+    {
+      "text": "late,",
+      "startMs": 6269,
+      "endMs": 6699
+    },
+    {
+      "text": "because",
+      "startMs": 6745,
+      "endMs": 7198
+    },
+    {
+      "text": "nobody",
+      "startMs": 7256,
+      "endMs": 7628
+    },
+    {
+      "text": "weighed",
+      "startMs": 7709,
+      "endMs": 8069.000000000001
+    },
+    {
+      "text": "the",
+      "startMs": 8173,
+      "endMs": 8301
+    },
+    {
+      "text": "price",
+      "startMs": 8359,
+      "endMs": 8800
+    },
+    {
+      "text": "of",
+      "startMs": 8882,
+      "endMs": 9044
+    },
+    {
+      "text": "supporting",
+      "startMs": 9125,
+      "endMs": 9776
+    },
+    {
+      "text": "the",
+      "startMs": 9857,
+      "endMs": 9938
+    },
+    {
+      "text": "prospect",
+      "startMs": 9985,
+      "endMs": 10542
+    },
+    {
+      "text": "demo.",
+      "startMs": 10646,
+      "endMs": 11285
+    }
+  ]
+}

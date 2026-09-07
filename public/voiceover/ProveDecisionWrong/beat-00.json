@@ -1,0 +1,116 @@
+{
+  "text": "Two extra sprints. Not because the model was wrong — every requirement in that email, met. So where did the time go?",
+  "durationMs": 7755,
+  "words": [
+    {
+      "text": "Two",
+      "startMs": 0,
+      "endMs": 244
+    },
+    {
+      "text": "extra",
+      "startMs": 383,
+      "endMs": 882
+    },
+    {
+      "text": "sprints.",
+      "startMs": 929,
+      "endMs": 1579
+    },
+    {
+      "text": "Not",
+      "startMs": 1741,
+      "endMs": 1927
+    },
+    {
+      "text": "because",
+      "startMs": 1985,
+      "endMs": 2345
+    },
+    {
+      "text": "the",
+      "startMs": 2380,
+      "endMs": 2461
+    },
+    {
+      "text": "model",
+      "startMs": 2519,
+      "endMs": 2833
+    },
+    {
+      "text": "was",
+      "startMs": 2879,
+      "endMs": 3019
+    },
+    {
+      "text": "wrong",
+      "startMs": 3065,
+      "endMs": 3286
+    },
+    {
+      "text": "—",
+      "startMs": 3344,
+      "endMs": 3402
+    },
+    {
+      "text": "every",
+      "startMs": 3529,
+      "endMs": 3808
+    },
+    {
+      "text": "requirement",
+      "startMs": 3889,
+      "endMs": 4493
+    },
+    {
+      "text": "in",
+      "startMs": 4574,
+      "endMs": 4690
+    },
+    {
+      "text": "that",
+      "startMs": 4772,
+      "endMs": 4981
+    },
+    {
+      "text": "email,",
+      "startMs": 5108,
+      "endMs": 5550
+    },
+    {
+      "text": "met.",
+      "startMs": 5654,
+      "endMs": 5991
+    },
+    {
+      "text": "So",
+      "startMs": 6118,
+      "endMs": 6304
+    },
+    {
+      "text": "where",
+      "startMs": 6362,
+      "endMs": 6525
+    },
+    {
+      "text": "did",
+      "startMs": 6560,
+      "endMs": 6711
+    },
+    {
+      "text": "the",
+      "startMs": 6757,
+      "endMs": 6838
+    },
+    {
+      "text": "time",
+      "startMs": 6885,
+      "endMs": 7140
+    },
+    {
+      "text": "go?",
+      "startMs": 7198,
+      "endMs": 7755
+    }
+  ]
+}

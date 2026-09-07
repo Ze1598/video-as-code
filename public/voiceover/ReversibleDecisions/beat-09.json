@@ -1,0 +1,306 @@
+{
+  "text": "A recurring meeting is an easily reversible decision. If a slot stops working, you move it, and the week after, everyone's back to normal. If a decision involves real costs, lasting consequences, or a commitment you can't undo, it deserves that analysis. But if the answer is just, we change the next invitation, decide on the spot, and move on.",
+  "durationMs": 27028,
+  "words": [
+    {
+      "text": "A",
+      "startMs": 0,
+      "endMs": 93
+    },
+    {
+      "text": "recurring",
+      "startMs": 221,
+      "endMs": 743
+    },
+    {
+      "text": "meeting",
+      "startMs": 801,
+      "endMs": 1254
+    },
+    {
+      "text": "is",
+      "startMs": 1382,
+      "endMs": 1649
+    },
+    {
+      "text": "an",
+      "startMs": 1776,
+      "endMs": 1939
+    },
+    {
+      "text": "easily",
+      "startMs": 2067,
+      "endMs": 2670
+    },
+    {
+      "text": "reversible",
+      "startMs": 2937,
+      "endMs": 3669
+    },
+    {
+      "text": "decision.",
+      "startMs": 3773,
+      "endMs": 4493
+    },
+    {
+      "text": "If",
+      "startMs": 4632,
+      "endMs": 4783
+    },
+    {
+      "text": "a",
+      "startMs": 4841,
+      "endMs": 4865
+    },
+    {
+      "text": "slot",
+      "startMs": 4923,
+      "endMs": 5259
+    },
+    {
+      "text": "stops",
+      "startMs": 5317,
+      "endMs": 5712
+    },
+    {
+      "text": "working,",
+      "startMs": 5793,
+      "endMs": 6420
+    },
+    {
+      "text": "you",
+      "startMs": 6525,
+      "endMs": 6629
+    },
+    {
+      "text": "move",
+      "startMs": 6711,
+      "endMs": 6931
+    },
+    {
+      "text": "it,",
+      "startMs": 6966,
+      "endMs": 7279
+    },
+    {
+      "text": "and",
+      "startMs": 7419,
+      "endMs": 7605
+    },
+    {
+      "text": "the",
+      "startMs": 7651,
+      "endMs": 7732
+    },
+    {
+      "text": "week",
+      "startMs": 7790,
+      "endMs": 8057
+    },
+    {
+      "text": "after,",
+      "startMs": 8138.999999999999,
+      "endMs": 8638
+    },
+    {
+      "text": "everyone's",
+      "startMs": 8684,
+      "endMs": 9300
+    },
+    {
+      "text": "back",
+      "startMs": 9381,
+      "endMs": 9613
+    },
+    {
+      "text": "to",
+      "startMs": 9694,
+      "endMs": 9764
+    },
+    {
+      "text": "normal.",
+      "startMs": 9857,
+      "endMs": 10368
+    },
+    {
+      "text": "If",
+      "startMs": 10403,
+      "endMs": 10542
+    },
+    {
+      "text": "a",
+      "startMs": 10623,
+      "endMs": 10646
+    },
+    {
+      "text": "decision",
+      "startMs": 10704,
+      "endMs": 11250
+    },
+    {
+      "text": "involves",
+      "startMs": 11343,
+      "endMs": 11958
+    },
+    {
+      "text": "real",
+      "startMs": 12144,
+      "endMs": 12423
+    },
+    {
+      "text": "costs,",
+      "startMs": 12527,
+      "endMs": 13166
+    },
+    {
+      "text": "lasting",
+      "startMs": 13270,
+      "endMs": 13735
+    },
+    {
+      "text": "consequences,",
+      "startMs": 13793,
+      "endMs": 14930
+    },
+    {
+      "text": "or",
+      "startMs": 15023,
+      "endMs": 15186
+    },
+    {
+      "text": "a",
+      "startMs": 15232,
+      "endMs": 15267
+    },
+    {
+      "text": "commitment",
+      "startMs": 15325,
+      "endMs": 15952
+    },
+    {
+      "text": "you",
+      "startMs": 16079.999999999998,
+      "endMs": 16207.999999999998
+    },
+    {
+      "text": "can't",
+      "startMs": 16289.000000000002,
+      "endMs": 16672
+    },
+    {
+      "text": "undo,",
+      "startMs": 16858,
+      "endMs": 17589
+    },
+    {
+      "text": "it",
+      "startMs": 17717,
+      "endMs": 17914
+    },
+    {
+      "text": "deserves",
+      "startMs": 18019,
+      "endMs": 18739
+    },
+    {
+      "text": "that",
+      "startMs": 18878,
+      "endMs": 19180
+    },
+    {
+      "text": "analysis.",
+      "startMs": 19319,
+      "endMs": 20144
+    },
+    {
+      "text": "But",
+      "startMs": 20248,
+      "endMs": 20469
+    },
+    {
+      "text": "if",
+      "startMs": 20550,
+      "endMs": 20770
+    },
+    {
+      "text": "the",
+      "startMs": 20898,
+      "endMs": 21037
+    },
+    {
+      "text": "answer",
+      "startMs": 21130,
+      "endMs": 21537
+    },
+    {
+      "text": "is",
+      "startMs": 21630,
+      "endMs": 21804
+    },
+    {
+      "text": "just,",
+      "startMs": 21931,
+      "endMs": 22419
+    },
+    {
+      "text": "we",
+      "startMs": 22512,
+      "endMs": 22651
+    },
+    {
+      "text": "change",
+      "startMs": 22709,
+      "endMs": 23092
+    },
+    {
+      "text": "the",
+      "startMs": 23127,
+      "endMs": 23220
+    },
+    {
+      "text": "next",
+      "startMs": 23278,
+      "endMs": 23522
+    },
+    {
+      "text": "invitation,",
+      "startMs": 23603,
+      "endMs": 24474
+    },
+    {
+      "text": "decide",
+      "startMs": 24532,
+      "endMs": 25020
+    },
+    {
+      "text": "on",
+      "startMs": 25101,
+      "endMs": 25252
+    },
+    {
+      "text": "the",
+      "startMs": 25298,
+      "endMs": 25380
+    },
+    {
+      "text": "spot,",
+      "startMs": 25438,
+      "endMs": 26007
+    },
+    {
+      "text": "and",
+      "startMs": 26041,
+      "endMs": 26216
+    },
+    {
+      "text": "move",
+      "startMs": 26297,
+      "endMs": 26541
+    },
+    {
+      "text": "on.",
+      "startMs": 26622,
+      "endMs": 27028
+    }
+  ]
+}

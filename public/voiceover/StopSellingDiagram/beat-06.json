@@ -1,0 +1,196 @@
+{
+  "text": "The prototype ingested the data through the proposed reusable components. It rejected bad records and exposed the failure through the proposed monitoring flow. The team could inspect the output and see which parts no longer required custom development.",
+  "durationMs": 19876,
+  "words": [
+    {
+      "text": "The",
+      "startMs": 0,
+      "endMs": 279
+    },
+    {
+      "text": "prototype",
+      "startMs": 406,
+      "endMs": 1324
+    },
+    {
+      "text": "ingested",
+      "startMs": 1416,
+      "endMs": 2159
+    },
+    {
+      "text": "the",
+      "startMs": 2194,
+      "endMs": 2287
+    },
+    {
+      "text": "data",
+      "startMs": 2380,
+      "endMs": 2856
+    },
+    {
+      "text": "through",
+      "startMs": 2984,
+      "endMs": 3251
+    },
+    {
+      "text": "the",
+      "startMs": 3286,
+      "endMs": 3355
+    },
+    {
+      "text": "proposed",
+      "startMs": 3413,
+      "endMs": 4040
+    },
+    {
+      "text": "reusable",
+      "startMs": 4203,
+      "endMs": 4969
+    },
+    {
+      "text": "components.",
+      "startMs": 5027,
+      "endMs": 6002
+    },
+    {
+      "text": "It",
+      "startMs": 6188,
+      "endMs": 6339
+    },
+    {
+      "text": "rejected",
+      "startMs": 6432,
+      "endMs": 7163
+    },
+    {
+      "text": "bad",
+      "startMs": 7349,
+      "endMs": 7651
+    },
+    {
+      "text": "records",
+      "startMs": 7755,
+      "endMs": 8301
+    },
+    {
+      "text": "and",
+      "startMs": 8348,
+      "endMs": 8522
+    },
+    {
+      "text": "exposed",
+      "startMs": 8580,
+      "endMs": 9114
+    },
+    {
+      "text": "the",
+      "startMs": 9160,
+      "endMs": 9230
+    },
+    {
+      "text": "failure",
+      "startMs": 9323,
+      "endMs": 9938
+    },
+    {
+      "text": "through",
+      "startMs": 10019,
+      "endMs": 10298
+    },
+    {
+      "text": "the",
+      "startMs": 10321,
+      "endMs": 10391
+    },
+    {
+      "text": "proposed",
+      "startMs": 10449,
+      "endMs": 10948
+    },
+    {
+      "text": "monitoring",
+      "startMs": 11053,
+      "endMs": 11738
+    },
+    {
+      "text": "flow.",
+      "startMs": 11831,
+      "endMs": 12330
+    },
+    {
+      "text": "The",
+      "startMs": 12516,
+      "endMs": 12632
+    },
+    {
+      "text": "team",
+      "startMs": 12690,
+      "endMs": 12887
+    },
+    {
+      "text": "could",
+      "startMs": 12968,
+      "endMs": 13189
+    },
+    {
+      "text": "inspect",
+      "startMs": 13282,
+      "endMs": 13932
+    },
+    {
+      "text": "the",
+      "startMs": 14060,
+      "endMs": 14199
+    },
+    {
+      "text": "output",
+      "startMs": 14280,
+      "endMs": 14907
+    },
+    {
+      "text": "and",
+      "startMs": 15047,
+      "endMs": 15232
+    },
+    {
+      "text": "see",
+      "startMs": 15337,
+      "endMs": 15685
+    },
+    {
+      "text": "which",
+      "startMs": 15732,
+      "endMs": 15940
+    },
+    {
+      "text": "parts",
+      "startMs": 16033.000000000002,
+      "endMs": 16486
+    },
+    {
+      "text": "no",
+      "startMs": 16614,
+      "endMs": 16788
+    },
+    {
+      "text": "longer",
+      "startMs": 16893,
+      "endMs": 17252
+    },
+    {
+      "text": "required",
+      "startMs": 17415,
+      "endMs": 18077
+    },
+    {
+      "text": "custom",
+      "startMs": 18239,
+      "endMs": 18669
+    },
+    {
+      "text": "development.",
+      "startMs": 18773,
+      "endMs": 19876
+    }
+  ]
+}

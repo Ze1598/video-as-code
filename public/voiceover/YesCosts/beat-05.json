@@ -1,0 +1,121 @@
+{
+  "text": "The report missed its review slot. When the account lead asked for the version ready to send the client, it was still incomplete.",
+  "durationMs": 8731,
+  "words": [
+    {
+      "text": "The",
+      "startMs": 0,
+      "endMs": 151
+    },
+    {
+      "text": "report",
+      "startMs": 244,
+      "endMs": 801
+    },
+    {
+      "text": "missed",
+      "startMs": 929,
+      "endMs": 1254
+    },
+    {
+      "text": "its",
+      "startMs": 1312,
+      "endMs": 1498
+    },
+    {
+      "text": "review",
+      "startMs": 1579,
+      "endMs": 1904
+    },
+    {
+      "text": "slot.",
+      "startMs": 1962,
+      "endMs": 2403
+    },
+    {
+      "text": "When",
+      "startMs": 2426,
+      "endMs": 2612
+    },
+    {
+      "text": "the",
+      "startMs": 2670,
+      "endMs": 2821
+    },
+    {
+      "text": "account",
+      "startMs": 2949,
+      "endMs": 3355
+    },
+    {
+      "text": "lead",
+      "startMs": 3437,
+      "endMs": 3611
+    },
+    {
+      "text": "asked",
+      "startMs": 3738,
+      "endMs": 4086.9999999999995
+    },
+    {
+      "text": "for",
+      "startMs": 4180,
+      "endMs": 4342
+    },
+    {
+      "text": "the",
+      "startMs": 4435,
+      "endMs": 4528
+    },
+    {
+      "text": "version",
+      "startMs": 4621,
+      "endMs": 5027
+    },
+    {
+      "text": "ready",
+      "startMs": 5155,
+      "endMs": 5410
+    },
+    {
+      "text": "to",
+      "startMs": 5468,
+      "endMs": 5561
+    },
+    {
+      "text": "send",
+      "startMs": 5654,
+      "endMs": 5909
+    },
+    {
+      "text": "the",
+      "startMs": 6002,
+      "endMs": 6095
+    },
+    {
+      "text": "client,",
+      "startMs": 6142,
+      "endMs": 6734
+    },
+    {
+      "text": "it",
+      "startMs": 6815,
+      "endMs": 6966
+    },
+    {
+      "text": "was",
+      "startMs": 7047,
+      "endMs": 7221
+    },
+    {
+      "text": "still",
+      "startMs": 7303,
+      "endMs": 7616
+    },
+    {
+      "text": "incomplete.",
+      "startMs": 7721,
+      "endMs": 8731
+    }
+  ]
+}

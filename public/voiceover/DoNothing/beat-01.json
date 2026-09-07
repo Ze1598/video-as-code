@@ -1,0 +1,206 @@
+{
+  "text": "The client paused an analytics project because nobody could agree which decisions required new dashboards. There were no approved requirements. The delivery manager still refused to leave the analysts without assigned tasks, so he pulled work from a neglected backlog.",
+  "durationMs": 21130,
+  "words": [
+    {
+      "text": "The",
+      "startMs": 0,
+      "endMs": 232
+    },
+    {
+      "text": "client",
+      "startMs": 325,
+      "endMs": 824
+    },
+    {
+      "text": "paused",
+      "startMs": 952,
+      "endMs": 1393
+    },
+    {
+      "text": "an",
+      "startMs": 1521,
+      "endMs": 1707
+    },
+    {
+      "text": "analytics",
+      "startMs": 1834,
+      "endMs": 2682
+    },
+    {
+      "text": "project",
+      "startMs": 2844,
+      "endMs": 3471
+    },
+    {
+      "text": "because",
+      "startMs": 3553,
+      "endMs": 3971
+    },
+    {
+      "text": "nobody",
+      "startMs": 4051.9999999999995,
+      "endMs": 4632
+    },
+    {
+      "text": "could",
+      "startMs": 4714,
+      "endMs": 4923
+    },
+    {
+      "text": "agree",
+      "startMs": 5016,
+      "endMs": 5468
+    },
+    {
+      "text": "which",
+      "startMs": 5561,
+      "endMs": 5875
+    },
+    {
+      "text": "decisions",
+      "startMs": 5979,
+      "endMs": 6653
+    },
+    {
+      "text": "required",
+      "startMs": 6780,
+      "endMs": 7303
+    },
+    {
+      "text": "new",
+      "startMs": 7396,
+      "endMs": 7593
+    },
+    {
+      "text": "dashboards.",
+      "startMs": 7721,
+      "endMs": 8661
+    },
+    {
+      "text": "There",
+      "startMs": 8847,
+      "endMs": 9021
+    },
+    {
+      "text": "were",
+      "startMs": 9067,
+      "endMs": 9218
+    },
+    {
+      "text": "no",
+      "startMs": 9276,
+      "endMs": 9416
+    },
+    {
+      "text": "approved",
+      "startMs": 9509,
+      "endMs": 9973
+    },
+    {
+      "text": "requirements.",
+      "startMs": 10066,
+      "endMs": 11029
+    },
+    {
+      "text": "The",
+      "startMs": 11215,
+      "endMs": 11331
+    },
+    {
+      "text": "delivery",
+      "startMs": 11389,
+      "endMs": 11877
+    },
+    {
+      "text": "manager",
+      "startMs": 11958,
+      "endMs": 12527
+    },
+    {
+      "text": "still",
+      "startMs": 12620,
+      "endMs": 12945
+    },
+    {
+      "text": "refused",
+      "startMs": 13038,
+      "endMs": 13595
+    },
+    {
+      "text": "to",
+      "startMs": 13688,
+      "endMs": 13827
+    },
+    {
+      "text": "leave",
+      "startMs": 13932,
+      "endMs": 14187
+    },
+    {
+      "text": "the",
+      "startMs": 14234,
+      "endMs": 14327
+    },
+    {
+      "text": "analysts",
+      "startMs": 14420,
+      "endMs": 15139
+    },
+    {
+      "text": "without",
+      "startMs": 15232,
+      "endMs": 15743
+    },
+    {
+      "text": "assigned",
+      "startMs": 15824,
+      "endMs": 16416
+    },
+    {
+      "text": "tasks,",
+      "startMs": 16509,
+      "endMs": 17136
+    },
+    {
+      "text": "so",
+      "startMs": 17241,
+      "endMs": 17450
+    },
+    {
+      "text": "he",
+      "startMs": 17543,
+      "endMs": 17624
+    },
+    {
+      "text": "pulled",
+      "startMs": 17752,
+      "endMs": 18112
+    },
+    {
+      "text": "work",
+      "startMs": 18204,
+      "endMs": 18564
+    },
+    {
+      "text": "from",
+      "startMs": 18669,
+      "endMs": 18901
+    },
+    {
+      "text": "a",
+      "startMs": 18994,
+      "endMs": 19087
+    },
+    {
+      "text": "neglected",
+      "startMs": 19226,
+      "endMs": 19969
+    },
+    {
+      "text": "backlog.",
+      "startMs": 20108,
+      "endMs": 21130
+    }
+  ]
+}

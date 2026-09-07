@@ -1,0 +1,221 @@
+{
+  "text": "Then the analysts asked what the work was for. Which future decisions would the cleaned data support? Who had requested the report catalogue? Nobody knew. The manager told them to use the downtime while leadership resolved the direction. So they completed the tasks.",
+  "durationMs": 18622,
+  "words": [
+    {
+      "text": "Then",
+      "startMs": 0,
+      "endMs": 244
+    },
+    {
+      "text": "the",
+      "startMs": 325,
+      "endMs": 499
+    },
+    {
+      "text": "analysts",
+      "startMs": 592,
+      "endMs": 1451
+    },
+    {
+      "text": "asked",
+      "startMs": 1683,
+      "endMs": 2101
+    },
+    {
+      "text": "what",
+      "startMs": 2334,
+      "endMs": 2589
+    },
+    {
+      "text": "the",
+      "startMs": 2635,
+      "endMs": 2717
+    },
+    {
+      "text": "work",
+      "startMs": 2775,
+      "endMs": 3053
+    },
+    {
+      "text": "was",
+      "startMs": 3135,
+      "endMs": 3320
+    },
+    {
+      "text": "for.",
+      "startMs": 3425,
+      "endMs": 3820
+    },
+    {
+      "text": "Which",
+      "startMs": 3913,
+      "endMs": 4168
+    },
+    {
+      "text": "future",
+      "startMs": 4296,
+      "endMs": 4748
+    },
+    {
+      "text": "decisions",
+      "startMs": 4807,
+      "endMs": 5457
+    },
+    {
+      "text": "would",
+      "startMs": 5584,
+      "endMs": 5805
+    },
+    {
+      "text": "the",
+      "startMs": 5840,
+      "endMs": 5944
+    },
+    {
+      "text": "cleaned",
+      "startMs": 6026,
+      "endMs": 6385
+    },
+    {
+      "text": "data",
+      "startMs": 6571,
+      "endMs": 6978
+    },
+    {
+      "text": "support?",
+      "startMs": 7059,
+      "endMs": 7639
+    },
+    {
+      "text": "Who",
+      "startMs": 7663,
+      "endMs": 7883
+    },
+    {
+      "text": "had",
+      "startMs": 7964,
+      "endMs": 8092.000000000001
+    },
+    {
+      "text": "requested",
+      "startMs": 8150,
+      "endMs": 8812
+    },
+    {
+      "text": "the",
+      "startMs": 8951,
+      "endMs": 9067
+    },
+    {
+      "text": "report",
+      "startMs": 9149,
+      "endMs": 9590
+    },
+    {
+      "text": "catalogue?",
+      "startMs": 9671,
+      "endMs": 10414
+    },
+    {
+      "text": "Nobody",
+      "startMs": 10600,
+      "endMs": 11064
+    },
+    {
+      "text": "knew.",
+      "startMs": 11122,
+      "endMs": 11447
+    },
+    {
+      "text": "The",
+      "startMs": 11633,
+      "endMs": 11773
+    },
+    {
+      "text": "manager",
+      "startMs": 11831,
+      "endMs": 12260
+    },
+    {
+      "text": "told",
+      "startMs": 12341,
+      "endMs": 12620
+    },
+    {
+      "text": "them",
+      "startMs": 12678,
+      "endMs": 12864
+    },
+    {
+      "text": "to",
+      "startMs": 12957,
+      "endMs": 13061
+    },
+    {
+      "text": "use",
+      "startMs": 13189,
+      "endMs": 13456
+    },
+    {
+      "text": "the",
+      "startMs": 13491,
+      "endMs": 13560
+    },
+    {
+      "text": "downtime",
+      "startMs": 13642,
+      "endMs": 14199
+    },
+    {
+      "text": "while",
+      "startMs": 14222,
+      "endMs": 14443
+    },
+    {
+      "text": "leadership",
+      "startMs": 14489,
+      "endMs": 14988
+    },
+    {
+      "text": "resolved",
+      "startMs": 15047,
+      "endMs": 15441
+    },
+    {
+      "text": "the",
+      "startMs": 15464,
+      "endMs": 15534
+    },
+    {
+      "text": "direction.",
+      "startMs": 15592,
+      "endMs": 16289.000000000002
+    },
+    {
+      "text": "So",
+      "startMs": 16393,
+      "endMs": 16684
+    },
+    {
+      "text": "they",
+      "startMs": 16776,
+      "endMs": 16927
+    },
+    {
+      "text": "completed",
+      "startMs": 16974,
+      "endMs": 17566
+    },
+    {
+      "text": "the",
+      "startMs": 17694,
+      "endMs": 17821
+    },
+    {
+      "text": "tasks.",
+      "startMs": 17879,
+      "endMs": 18622
+    }
+  ]
+}

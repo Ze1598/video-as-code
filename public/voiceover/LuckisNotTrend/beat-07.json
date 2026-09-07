@@ -1,0 +1,356 @@
+{
+  "text": "So the team went back and compared the two sprints, side by side. The strong sprint had zero production incidents. And support wasn't even on this team's plate, another team was covering it, testing out a new rotation. Every hour that freed up went straight into features. This sprint, none of that was true. The rotation had ended. Support was back on this team. And an incident showed up anyway.",
+  "durationMs": 28003,
+  "words": [
+    {
+      "text": "So",
+      "startMs": 0,
+      "endMs": 197
+    },
+    {
+      "text": "the",
+      "startMs": 255,
+      "endMs": 348
+    },
+    {
+      "text": "team",
+      "startMs": 406,
+      "endMs": 604
+    },
+    {
+      "text": "went",
+      "startMs": 697,
+      "endMs": 929
+    },
+    {
+      "text": "back",
+      "startMs": 1022,
+      "endMs": 1335
+    },
+    {
+      "text": "and",
+      "startMs": 1463,
+      "endMs": 1672
+    },
+    {
+      "text": "compared",
+      "startMs": 1765,
+      "endMs": 2276
+    },
+    {
+      "text": "the",
+      "startMs": 2368,
+      "endMs": 2485
+    },
+    {
+      "text": "two",
+      "startMs": 2566,
+      "endMs": 2821
+    },
+    {
+      "text": "sprints,",
+      "startMs": 2902,
+      "endMs": 3553
+    },
+    {
+      "text": "side",
+      "startMs": 3634,
+      "endMs": 3947
+    },
+    {
+      "text": "by",
+      "startMs": 4005,
+      "endMs": 4156
+    },
+    {
+      "text": "side.",
+      "startMs": 4261,
+      "endMs": 4667
+    },
+    {
+      "text": "The",
+      "startMs": 4690,
+      "endMs": 4807
+    },
+    {
+      "text": "strong",
+      "startMs": 4865,
+      "endMs": 5178
+    },
+    {
+      "text": "sprint",
+      "startMs": 5236,
+      "endMs": 5608
+    },
+    {
+      "text": "had",
+      "startMs": 5700,
+      "endMs": 5898
+    },
+    {
+      "text": "zero",
+      "startMs": 5944,
+      "endMs": 6258
+    },
+    {
+      "text": "production",
+      "startMs": 6339,
+      "endMs": 6978
+    },
+    {
+      "text": "incidents.",
+      "startMs": 7105,
+      "endMs": 7906
+    },
+    {
+      "text": "And",
+      "startMs": 8045.999999999999,
+      "endMs": 8313
+    },
+    {
+      "text": "support",
+      "startMs": 8475,
+      "endMs": 9021
+    },
+    {
+      "text": "wasn't",
+      "startMs": 9114,
+      "endMs": 9439
+    },
+    {
+      "text": "even",
+      "startMs": 9532,
+      "endMs": 9845
+    },
+    {
+      "text": "on",
+      "startMs": 9927,
+      "endMs": 10077
+    },
+    {
+      "text": "this",
+      "startMs": 10159,
+      "endMs": 10368
+    },
+    {
+      "text": "team's",
+      "startMs": 10461,
+      "endMs": 10867
+    },
+    {
+      "text": "plate,",
+      "startMs": 10925,
+      "endMs": 11355
+    },
+    {
+      "text": "another",
+      "startMs": 11413,
+      "endMs": 11842
+    },
+    {
+      "text": "team",
+      "startMs": 11889,
+      "endMs": 12086
+    },
+    {
+      "text": "was",
+      "startMs": 12167,
+      "endMs": 12318
+    },
+    {
+      "text": "covering",
+      "startMs": 12411,
+      "endMs": 12864
+    },
+    {
+      "text": "it,",
+      "startMs": 12945,
+      "endMs": 13282
+    },
+    {
+      "text": "testing",
+      "startMs": 13363,
+      "endMs": 13920
+    },
+    {
+      "text": "out",
+      "startMs": 14048,
+      "endMs": 14396
+    },
+    {
+      "text": "a",
+      "startMs": 14524,
+      "endMs": 14629
+    },
+    {
+      "text": "new",
+      "startMs": 14756,
+      "endMs": 14919
+    },
+    {
+      "text": "rotation.",
+      "startMs": 15000,
+      "endMs": 15778
+    },
+    {
+      "text": "Every",
+      "startMs": 15882,
+      "endMs": 16184.000000000002
+    },
+    {
+      "text": "hour",
+      "startMs": 16242,
+      "endMs": 16555
+    },
+    {
+      "text": "that",
+      "startMs": 16637,
+      "endMs": 16811
+    },
+    {
+      "text": "freed",
+      "startMs": 16892,
+      "endMs": 17194
+    },
+    {
+      "text": "up",
+      "startMs": 17287,
+      "endMs": 17496
+    },
+    {
+      "text": "went",
+      "startMs": 17600,
+      "endMs": 17856
+    },
+    {
+      "text": "straight",
+      "startMs": 17949,
+      "endMs": 18320
+    },
+    {
+      "text": "into",
+      "startMs": 18401,
+      "endMs": 18692
+    },
+    {
+      "text": "features.",
+      "startMs": 18784,
+      "endMs": 19435
+    },
+    {
+      "text": "This",
+      "startMs": 19458,
+      "endMs": 19678
+    },
+    {
+      "text": "sprint,",
+      "startMs": 19702,
+      "endMs": 20294
+    },
+    {
+      "text": "none",
+      "startMs": 20375,
+      "endMs": 20607
+    },
+    {
+      "text": "of",
+      "startMs": 20630,
+      "endMs": 20712
+    },
+    {
+      "text": "that",
+      "startMs": 20793,
+      "endMs": 20956
+    },
+    {
+      "text": "was",
+      "startMs": 21048,
+      "endMs": 21234
+    },
+    {
+      "text": "true.",
+      "startMs": 21292,
+      "endMs": 21629
+    },
+    {
+      "text": "The",
+      "startMs": 21687,
+      "endMs": 21791
+    },
+    {
+      "text": "rotation",
+      "startMs": 21838,
+      "endMs": 22430
+    },
+    {
+      "text": "had",
+      "startMs": 22523,
+      "endMs": 22743
+    },
+    {
+      "text": "ended.",
+      "startMs": 22848,
+      "endMs": 23324
+    },
+    {
+      "text": "Support",
+      "startMs": 23428,
+      "endMs": 24032
+    },
+    {
+      "text": "was",
+      "startMs": 24160,
+      "endMs": 24369
+    },
+    {
+      "text": "back",
+      "startMs": 24462,
+      "endMs": 24706
+    },
+    {
+      "text": "on",
+      "startMs": 24833,
+      "endMs": 24973
+    },
+    {
+      "text": "this",
+      "startMs": 25019,
+      "endMs": 25170
+    },
+    {
+      "text": "team.",
+      "startMs": 25251,
+      "endMs": 25611
+    },
+    {
+      "text": "And",
+      "startMs": 25634,
+      "endMs": 25785
+    },
+    {
+      "text": "an",
+      "startMs": 25843,
+      "endMs": 25913
+    },
+    {
+      "text": "incident",
+      "startMs": 26006,
+      "endMs": 26586
+    },
+    {
+      "text": "showed",
+      "startMs": 26644,
+      "endMs": 26935
+    },
+    {
+      "text": "up",
+      "startMs": 27039,
+      "endMs": 27248
+    },
+    {
+      "text": "anyway.",
+      "startMs": 27376,
+      "endMs": 28003
+    }
+  ]
+}

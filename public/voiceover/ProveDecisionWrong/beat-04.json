@@ -1,0 +1,141 @@
+{
+  "text": "Each time a new constraint appeared, the architect adjusted the model — and the team went back to change work it had already started. Again, and again.",
+  "durationMs": 10495,
+  "words": [
+    {
+      "text": "Each",
+      "startMs": 0,
+      "endMs": 302
+    },
+    {
+      "text": "time",
+      "startMs": 406,
+      "endMs": 882
+    },
+    {
+      "text": "a",
+      "startMs": 940,
+      "endMs": 1033
+    },
+    {
+      "text": "new",
+      "startMs": 1138,
+      "endMs": 1289
+    },
+    {
+      "text": "constraint",
+      "startMs": 1347,
+      "endMs": 2009
+    },
+    {
+      "text": "appeared,",
+      "startMs": 2090,
+      "endMs": 2694
+    },
+    {
+      "text": "the",
+      "startMs": 2740,
+      "endMs": 2856
+    },
+    {
+      "text": "architect",
+      "startMs": 2949,
+      "endMs": 3646
+    },
+    {
+      "text": "adjusted",
+      "startMs": 3727,
+      "endMs": 4307
+    },
+    {
+      "text": "the",
+      "startMs": 4389,
+      "endMs": 4493
+    },
+    {
+      "text": "model",
+      "startMs": 4551,
+      "endMs": 4981
+    },
+    {
+      "text": "—",
+      "startMs": 5074,
+      "endMs": 5143
+    },
+    {
+      "text": "and",
+      "startMs": 5166,
+      "endMs": 5294
+    },
+    {
+      "text": "the",
+      "startMs": 5341,
+      "endMs": 5410
+    },
+    {
+      "text": "team",
+      "startMs": 5468,
+      "endMs": 5759
+    },
+    {
+      "text": "went",
+      "startMs": 5840,
+      "endMs": 6072
+    },
+    {
+      "text": "back",
+      "startMs": 6153,
+      "endMs": 6385
+    },
+    {
+      "text": "to",
+      "startMs": 6478,
+      "endMs": 6560
+    },
+    {
+      "text": "change",
+      "startMs": 6618,
+      "endMs": 6966
+    },
+    {
+      "text": "work",
+      "startMs": 7012,
+      "endMs": 7326
+    },
+    {
+      "text": "it",
+      "startMs": 7430,
+      "endMs": 7581
+    },
+    {
+      "text": "had",
+      "startMs": 7663,
+      "endMs": 7872
+    },
+    {
+      "text": "already",
+      "startMs": 7953,
+      "endMs": 8359
+    },
+    {
+      "text": "started.",
+      "startMs": 8417,
+      "endMs": 9033
+    },
+    {
+      "text": "Again,",
+      "startMs": 9125,
+      "endMs": 9683
+    },
+    {
+      "text": "and",
+      "startMs": 9729,
+      "endMs": 9915
+    },
+    {
+      "text": "again.",
+      "startMs": 9996,
+      "endMs": 10495
+    }
+  ]
+}
