@@ -6,6 +6,14 @@ dist
 # Ignore future project subfolders in src/ but persist the shared library and its related files.
 src/*
 !src/lib
+!src/archive
+!src/ChangingTooMuchV5
+!src/ChangingTooMuchV6
+!src/ChangingTooMuchV7
+!src/ChangingTooMuchV8
+!src/ChangingTooMuchV9
+!src/ChangingTooMuchV10
+!src/ChangingTooMuchV11
 !src/index.css
 !src/index.ts
 !src/Root.tsx
