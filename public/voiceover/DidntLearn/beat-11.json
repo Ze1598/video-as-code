@@ -1,0 +1,301 @@
+{
+  "text": "Take the next piece of duplicated work and trace how it started. Find where the check was missed, and what stopped it from happening. Use that to address the gap. Another training session proves nothing if the next ticket follows the same path. If completion is your measure of success, attendance is what you reward. Changing behavior becomes optional.",
+  "durationMs": 24567,
+  "words": [
+    {
+      "text": "Take",
+      "startMs": 0,
+      "endMs": 430
+    },
+    {
+      "text": "the",
+      "startMs": 511,
+      "endMs": 627
+    },
+    {
+      "text": "next",
+      "startMs": 685,
+      "endMs": 952
+    },
+    {
+      "text": "piece",
+      "startMs": 1045,
+      "endMs": 1358
+    },
+    {
+      "text": "of",
+      "startMs": 1405,
+      "endMs": 1544
+    },
+    {
+      "text": "duplicated",
+      "startMs": 1637,
+      "endMs": 2345
+    },
+    {
+      "text": "work",
+      "startMs": 2450,
+      "endMs": 2798
+    },
+    {
+      "text": "and",
+      "startMs": 2902,
+      "endMs": 3100
+    },
+    {
+      "text": "trace",
+      "startMs": 3181,
+      "endMs": 3599
+    },
+    {
+      "text": "how",
+      "startMs": 3657,
+      "endMs": 3808
+    },
+    {
+      "text": "it",
+      "startMs": 3889,
+      "endMs": 3971
+    },
+    {
+      "text": "started.",
+      "startMs": 4051.9999999999995,
+      "endMs": 4772
+    },
+    {
+      "text": "Find",
+      "startMs": 4818,
+      "endMs": 5108
+    },
+    {
+      "text": "where",
+      "startMs": 5190,
+      "endMs": 5387
+    },
+    {
+      "text": "the",
+      "startMs": 5433,
+      "endMs": 5515
+    },
+    {
+      "text": "check",
+      "startMs": 5561,
+      "endMs": 5840
+    },
+    {
+      "text": "was",
+      "startMs": 5921,
+      "endMs": 6095
+    },
+    {
+      "text": "missed,",
+      "startMs": 6200,
+      "endMs": 6641
+    },
+    {
+      "text": "and",
+      "startMs": 6687,
+      "endMs": 6861
+    },
+    {
+      "text": "what",
+      "startMs": 6954,
+      "endMs": 7175
+    },
+    {
+      "text": "stopped",
+      "startMs": 7303,
+      "endMs": 7721
+    },
+    {
+      "text": "it",
+      "startMs": 7779,
+      "endMs": 7860
+    },
+    {
+      "text": "from",
+      "startMs": 7918,
+      "endMs": 8092.000000000001
+    },
+    {
+      "text": "happening.",
+      "startMs": 8173,
+      "endMs": 8684
+    },
+    {
+      "text": "Use",
+      "startMs": 8812,
+      "endMs": 9033
+    },
+    {
+      "text": "that",
+      "startMs": 9079,
+      "endMs": 9300
+    },
+    {
+      "text": "to",
+      "startMs": 9358,
+      "endMs": 9451
+    },
+    {
+      "text": "address",
+      "startMs": 9543,
+      "endMs": 10019
+    },
+    {
+      "text": "the",
+      "startMs": 10077,
+      "endMs": 10159
+    },
+    {
+      "text": "gap.",
+      "startMs": 10217,
+      "endMs": 10612
+    },
+    {
+      "text": "Another",
+      "startMs": 10739,
+      "endMs": 11215
+    },
+    {
+      "text": "training",
+      "startMs": 11297,
+      "endMs": 11714
+    },
+    {
+      "text": "session",
+      "startMs": 11807,
+      "endMs": 12295
+    },
+    {
+      "text": "proves",
+      "startMs": 12388,
+      "endMs": 12748
+    },
+    {
+      "text": "nothing",
+      "startMs": 12841,
+      "endMs": 13259
+    },
+    {
+      "text": "if",
+      "startMs": 13444,
+      "endMs": 13653
+    },
+    {
+      "text": "the",
+      "startMs": 13758,
+      "endMs": 13862
+    },
+    {
+      "text": "next",
+      "startMs": 13944,
+      "endMs": 14199
+    },
+    {
+      "text": "ticket",
+      "startMs": 14234,
+      "endMs": 14617
+    },
+    {
+      "text": "follows",
+      "startMs": 14722,
+      "endMs": 15221
+    },
+    {
+      "text": "the",
+      "startMs": 15348,
+      "endMs": 15441
+    },
+    {
+      "text": "same",
+      "startMs": 15523,
+      "endMs": 15836
+    },
+    {
+      "text": "path.",
+      "startMs": 15894,
+      "endMs": 16370.000000000002
+    },
+    {
+      "text": "If",
+      "startMs": 16417,
+      "endMs": 16602
+    },
+    {
+      "text": "completion",
+      "startMs": 16660,
+      "endMs": 17531
+    },
+    {
+      "text": "is",
+      "startMs": 17694,
+      "endMs": 17903
+    },
+    {
+      "text": "your",
+      "startMs": 18007,
+      "endMs": 18205
+    },
+    {
+      "text": "measure",
+      "startMs": 18286,
+      "endMs": 18692
+    },
+    {
+      "text": "of",
+      "startMs": 18750,
+      "endMs": 18855
+    },
+    {
+      "text": "success,",
+      "startMs": 18959,
+      "endMs": 19737
+    },
+    {
+      "text": "attendance",
+      "startMs": 19760,
+      "endMs": 20527
+    },
+    {
+      "text": "is",
+      "startMs": 20585,
+      "endMs": 20770
+    },
+    {
+      "text": "what",
+      "startMs": 20863,
+      "endMs": 21061
+    },
+    {
+      "text": "you",
+      "startMs": 21119,
+      "endMs": 21212
+    },
+    {
+      "text": "reward.",
+      "startMs": 21304,
+      "endMs": 21873
+    },
+    {
+      "text": "Changing",
+      "startMs": 21955,
+      "endMs": 22373
+    },
+    {
+      "text": "behavior",
+      "startMs": 22419,
+      "endMs": 23116
+    },
+    {
+      "text": "becomes",
+      "startMs": 23220,
+      "endMs": 23731
+    },
+    {
+      "text": "optional.",
+      "startMs": 23859,
+      "endMs": 24567
+    }
+  ]
+}

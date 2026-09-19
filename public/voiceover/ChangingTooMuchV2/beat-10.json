@@ -1,0 +1,86 @@
+{
+  "text": "What side quest are you asking your team to carry before their main quest is finished?",
+  "durationMs": 6351,
+  "words": [
+    {
+      "text": "What",
+      "startMs": 500,
+      "endMs": 825
+    },
+    {
+      "text": "side",
+      "startMs": 953,
+      "endMs": 1266
+    },
+    {
+      "text": "quest",
+      "startMs": 1359,
+      "endMs": 1765
+    },
+    {
+      "text": "are",
+      "startMs": 1824,
+      "endMs": 1998
+    },
+    {
+      "text": "you",
+      "startMs": 2044,
+      "endMs": 2125
+    },
+    {
+      "text": "asking",
+      "startMs": 2218,
+      "endMs": 2706
+    },
+    {
+      "text": "your",
+      "startMs": 2810,
+      "endMs": 3019
+    },
+    {
+      "text": "team",
+      "startMs": 3077,
+      "endMs": 3368
+    },
+    {
+      "text": "to",
+      "startMs": 3495,
+      "endMs": 3600
+    },
+    {
+      "text": "carry",
+      "startMs": 3693,
+      "endMs": 4029
+    },
+    {
+      "text": "before",
+      "startMs": 4111,
+      "endMs": 4459
+    },
+    {
+      "text": "their",
+      "startMs": 4505,
+      "endMs": 4656
+    },
+    {
+      "text": "main",
+      "startMs": 4714,
+      "endMs": 4889
+    },
+    {
+      "text": "quest",
+      "startMs": 4981,
+      "endMs": 5399
+    },
+    {
+      "text": "is",
+      "startMs": 5492,
+      "endMs": 5713
+    },
+    {
+      "text": "finished?",
+      "startMs": 5817,
+      "endMs": 6351
+    }
+  ]
+}

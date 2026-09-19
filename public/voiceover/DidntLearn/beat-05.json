@@ -1,0 +1,41 @@
+{
+  "text": "Both teams built the same thing again.",
+  "durationMs": 2461,
+  "words": [
+    {
+      "text": "Both",
+      "startMs": 0,
+      "endMs": 313
+    },
+    {
+      "text": "teams",
+      "startMs": 395,
+      "endMs": 743
+    },
+    {
+      "text": "built",
+      "startMs": 836,
+      "endMs": 1115
+    },
+    {
+      "text": "the",
+      "startMs": 1173,
+      "endMs": 1265
+    },
+    {
+      "text": "same",
+      "startMs": 1324,
+      "endMs": 1567
+    },
+    {
+      "text": "thing",
+      "startMs": 1614,
+      "endMs": 1823
+    },
+    {
+      "text": "again.",
+      "startMs": 1916,
+      "endMs": 2461
+    }
+  ]
+}

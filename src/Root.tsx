@@ -17,7 +17,27 @@ import { LuckisNotTrend, LUCKIS_NOT_TREND_DURATION } from "./LuckisNotTrend/inde
 import { ProveDecisionWrong, PROVE_DECISION_WRONG_DURATION } from "./ProveDecisionWrong/index.tsx";
 import { FriendlyTeam, FRIENDLY_TEAM_DURATION } from "./FriendlyTeam/index.tsx";
 import { AskingForThoughts, ASKING_FOR_THOUGHTS_DURATION } from "./AskingForThoughts/index.tsx";
-import { LibDemo, LIB_DEMO_DURATION } from "./lib/__demo__/index.tsx";
+import { DidntLearn, DIDNT_LEARN_DURATION } from "./DidntLearn/index.tsx";
+import {
+  PerformanceVsMotivation,
+  PERFORMANCE_VS_MOTIVATION_DURATION,
+} from "./PerformanceVsMotivation/index.tsx";
+import {
+  DontHelpAgainstWill,
+  DONT_HELP_AGAINST_WILL_DURATION,
+} from "./DontHelpAgainstWill/index.tsx";
+import { ChangingTooMuch, CHANGING_TOO_MUCH_DURATION } from "./ChangingTooMuch/index.tsx";
+import { ChangingTooMuchV2, CHANGING_TOO_MUCH_V2_DURATION } from "./ChangingTooMuchV2/index.tsx";
+import { ChangingTooMuchV3, CHANGING_TOO_MUCH_V3_DURATION } from "./ChangingTooMuchV3/index.tsx";
+import { ChangingTooMuchV4, CHANGING_TOO_MUCH_V4_DURATION } from "./ChangingTooMuchV4/index.tsx";
+import { ChangingTooMuchV5, CHANGING_TOO_MUCH_V5_DURATION } from "./ChangingTooMuchV5/index.tsx";
+import { ChangingTooMuchV6, CHANGING_TOO_MUCH_V6_DURATION } from "./ChangingTooMuchV6/index.tsx";
+import { ChangingTooMuchV7, CHANGING_TOO_MUCH_V7_DURATION } from "./ChangingTooMuchV7/index.tsx";
+import { ChangingTooMuchV8, CHANGING_TOO_MUCH_V8_DURATION } from "./ChangingTooMuchV8/index.tsx";
+import { ChangingTooMuchV9, CHANGING_TOO_MUCH_V9_DURATION } from "./ChangingTooMuchV9/index.tsx";
+import { ChangingTooMuchV10, CHANGING_TOO_MUCH_V10_DURATION } from "./ChangingTooMuchV10/index.tsx";
+import { ChangingTooMuchV11, CHANGING_TOO_MUCH_V11_DURATION } from "./ChangingTooMuchV11/index.tsx";
+import { LibDemo, LIB_DEMO_DURATION } from "./archive/lib/__demo__/index.tsx";
 
 // Each <Composition> is an entry in the sidebar!
 
@@ -177,7 +197,77 @@ export const RemotionRoot: React.FC = () => {
         height={1080}
       />
 
+      <Composition
+        id="DidntLearn"
+        component={DidntLearn}
+        durationInFrames={DIDNT_LEARN_DURATION}
+        fps={60}
+        width={1920}
+        height={1080}
+      />
+
+      <Composition
+        id="PerformanceVsMotivation"
+        component={PerformanceVsMotivation}
+        durationInFrames={PERFORMANCE_VS_MOTIVATION_DURATION}
+        fps={60}
+        width={1920}
+        height={1080}
+      />
+
+      <Composition
+        id="DontHelpAgainstWill"
+        component={DontHelpAgainstWill}
+        durationInFrames={DONT_HELP_AGAINST_WILL_DURATION}
+        fps={60}
+        width={1920}
+        height={1080}
+      />
+
+      <Composition
+        id="ChangingTooMuch"
+        component={ChangingTooMuch}
+        durationInFrames={CHANGING_TOO_MUCH_DURATION}
+        fps={60}
+        width={1920}
+        height={1080}
+      />
+
+      <Composition
+        id="ChangingTooMuchV2"
+        component={ChangingTooMuchV2}
+        durationInFrames={CHANGING_TOO_MUCH_V2_DURATION}
+        fps={60}
+        width={1920}
+        height={1080}
+      />
+
+      <Composition
+        id="ChangingTooMuchV3"
+        component={ChangingTooMuchV3}
+        durationInFrames={CHANGING_TOO_MUCH_V3_DURATION}
+        fps={60}
+        width={1920}
+        height={1080}
+      />
+
+      <Composition
+        id="ChangingTooMuchV4"
+        component={ChangingTooMuchV4}
+        durationInFrames={CHANGING_TOO_MUCH_V4_DURATION}
+        fps={60}
+        width={1920}
+        height={1080}
+      />
+
       {/* Smoke test for src/lib — not a real video. See src/lib/__demo__/index.tsx. */}
+      <Composition id="ChangingTooMuchV5" component={ChangingTooMuchV5} durationInFrames={CHANGING_TOO_MUCH_V5_DURATION} fps={60} width={1920} height={1080} />
+      <Composition id="ChangingTooMuchV6" component={ChangingTooMuchV6} durationInFrames={CHANGING_TOO_MUCH_V6_DURATION} fps={60} width={1920} height={1080} />
+      <Composition id="ChangingTooMuchV7" component={ChangingTooMuchV7} durationInFrames={CHANGING_TOO_MUCH_V7_DURATION} fps={60} width={1920} height={1080} />
+      <Composition id="ChangingTooMuchV8" component={ChangingTooMuchV8} durationInFrames={CHANGING_TOO_MUCH_V8_DURATION} fps={60} width={1920} height={1080} />
+      <Composition id="ChangingTooMuchV9" component={ChangingTooMuchV9} durationInFrames={CHANGING_TOO_MUCH_V9_DURATION} fps={60} width={1920} height={1080} />
+      <Composition id="ChangingTooMuchV10" component={ChangingTooMuchV10} durationInFrames={CHANGING_TOO_MUCH_V10_DURATION} fps={60} width={1920} height={1080} />
+      <Composition id="ChangingTooMuchV11" component={ChangingTooMuchV11} durationInFrames={CHANGING_TOO_MUCH_V11_DURATION} fps={60} width={1920} height={1080} />
       <Composition
         id="LibDemo"
         component={LibDemo}

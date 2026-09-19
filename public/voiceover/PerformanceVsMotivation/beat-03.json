@@ -1,0 +1,151 @@
+{
+  "text": "Then the next check-in arrived, and the agreement didn't show up as action. The team reported on the work they'd already been assigned, and waited for the next instruction.",
+  "durationMs": 13003,
+  "words": [
+    {
+      "text": "Then",
+      "startMs": 0,
+      "endMs": 348
+    },
+    {
+      "text": "the",
+      "startMs": 488,
+      "endMs": 615
+    },
+    {
+      "text": "next",
+      "startMs": 697,
+      "endMs": 1033
+    },
+    {
+      "text": "check-in",
+      "startMs": 1451,
+      "endMs": 1985
+    },
+    {
+      "text": "arrived,",
+      "startMs": 2113,
+      "endMs": 2740
+    },
+    {
+      "text": "and",
+      "startMs": 2775,
+      "endMs": 2926
+    },
+    {
+      "text": "the",
+      "startMs": 3007,
+      "endMs": 3204
+    },
+    {
+      "text": "agreement",
+      "startMs": 3309,
+      "endMs": 3947
+    },
+    {
+      "text": "didn't",
+      "startMs": 4029,
+      "endMs": 4342
+    },
+    {
+      "text": "show",
+      "startMs": 4400,
+      "endMs": 4714
+    },
+    {
+      "text": "up",
+      "startMs": 4841,
+      "endMs": 5085
+    },
+    {
+      "text": "as",
+      "startMs": 5213,
+      "endMs": 5480
+    },
+    {
+      "text": "action.",
+      "startMs": 5642,
+      "endMs": 6269
+    },
+    {
+      "text": "The",
+      "startMs": 6397,
+      "endMs": 6536
+    },
+    {
+      "text": "team",
+      "startMs": 6594,
+      "endMs": 6873
+    },
+    {
+      "text": "reported",
+      "startMs": 7012,
+      "endMs": 7732
+    },
+    {
+      "text": "on",
+      "startMs": 7895,
+      "endMs": 8069.000000000001
+    },
+    {
+      "text": "the",
+      "startMs": 8115,
+      "endMs": 8185.000000000001
+    },
+    {
+      "text": "work",
+      "startMs": 8266,
+      "endMs": 8545
+    },
+    {
+      "text": "they'd",
+      "startMs": 8626,
+      "endMs": 8870
+    },
+    {
+      "text": "already",
+      "startMs": 8951,
+      "endMs": 9381
+    },
+    {
+      "text": "been",
+      "startMs": 9462,
+      "endMs": 9718
+    },
+    {
+      "text": "assigned,",
+      "startMs": 9799,
+      "endMs": 10403
+    },
+    {
+      "text": "and",
+      "startMs": 10449,
+      "endMs": 10635
+    },
+    {
+      "text": "waited",
+      "startMs": 10728,
+      "endMs": 11076
+    },
+    {
+      "text": "for",
+      "startMs": 11169,
+      "endMs": 11389
+    },
+    {
+      "text": "the",
+      "startMs": 11517,
+      "endMs": 11598
+    },
+    {
+      "text": "next",
+      "startMs": 11656,
+      "endMs": 11981
+    },
+    {
+      "text": "instruction.",
+      "startMs": 12063,
+      "endMs": 13003
+    }
+  ]
+}

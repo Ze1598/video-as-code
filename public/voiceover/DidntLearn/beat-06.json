@@ -1,0 +1,31 @@
+{
+  "text": "But everyone completed the training.",
+  "durationMs": 2786,
+  "words": [
+    {
+      "text": "But",
+      "startMs": 0,
+      "endMs": 232
+    },
+    {
+      "text": "everyone",
+      "startMs": 313,
+      "endMs": 906
+    },
+    {
+      "text": "completed",
+      "startMs": 998,
+      "endMs": 1695
+    },
+    {
+      "text": "the",
+      "startMs": 1800,
+      "endMs": 1927
+    },
+    {
+      "text": "training.",
+      "startMs": 1985,
+      "endMs": 2786
+    }
+  ]
+}

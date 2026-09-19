@@ -1,0 +1,101 @@
+{
+  "text": "They changed their calendars and prepared the reports. Time reserved for the migration became preparation for discussing the migration.",
+  "durationMs": 9427,
+  "words": [
+    {
+      "text": "They",
+      "startMs": 0,
+      "endMs": 290
+    },
+    {
+      "text": "changed",
+      "startMs": 372,
+      "endMs": 731
+    },
+    {
+      "text": "their",
+      "startMs": 778,
+      "endMs": 964
+    },
+    {
+      "text": "calendars",
+      "startMs": 1022,
+      "endMs": 1718
+    },
+    {
+      "text": "and",
+      "startMs": 1800,
+      "endMs": 1974
+    },
+    {
+      "text": "prepared",
+      "startMs": 2067,
+      "endMs": 2543
+    },
+    {
+      "text": "the",
+      "startMs": 2589,
+      "endMs": 2682
+    },
+    {
+      "text": "reports.",
+      "startMs": 2763,
+      "endMs": 3541
+    },
+    {
+      "text": "Time",
+      "startMs": 3669,
+      "endMs": 3994
+    },
+    {
+      "text": "reserved",
+      "startMs": 4029,
+      "endMs": 4505
+    },
+    {
+      "text": "for",
+      "startMs": 4598,
+      "endMs": 4795
+    },
+    {
+      "text": "the",
+      "startMs": 4876,
+      "endMs": 4946
+    },
+    {
+      "text": "migration",
+      "startMs": 4992,
+      "endMs": 5724
+    },
+    {
+      "text": "became",
+      "startMs": 5886,
+      "endMs": 6339
+    },
+    {
+      "text": "preparation",
+      "startMs": 6385,
+      "endMs": 7233
+    },
+    {
+      "text": "for",
+      "startMs": 7338,
+      "endMs": 7546
+    },
+    {
+      "text": "discussing",
+      "startMs": 7628,
+      "endMs": 8278
+    },
+    {
+      "text": "the",
+      "startMs": 8324,
+      "endMs": 8394
+    },
+    {
+      "text": "migration.",
+      "startMs": 8440,
+      "endMs": 9427
+    }
+  ]
+}

@@ -6,11 +6,11 @@ import { World } from "./World.tsx";
 import { Caption } from "./Hud.tsx";
 import { ArgumentDriftListScene, QuoteScene } from "./Scenes.tsx";
 import { BEATS } from "./data.ts";
-import { Wipe } from "../lib/Wipe.tsx";
-import { HookScene } from "../lib/scenes/HookScene.tsx";
-import { CtaScene } from "../lib/scenes/CtaScene.tsx";
-import { SplitArgumentScene } from "../lib/scenes/SplitArgumentScene.tsx";
-import { LongFormScene } from "../lib/scenes/LongFormScene.tsx";
+import { Wipe } from "../archive/lib/Wipe.tsx";
+import { HookScene } from "../archive/lib/scenes/HookScene.tsx";
+import { CtaScene } from "../archive/lib/scenes/CtaScene.tsx";
+import { SplitArgumentScene } from "../archive/lib/scenes/SplitArgumentScene.tsx";
+import { LongFormScene } from "../archive/lib/scenes/LongFormScene.tsx";
 
 export const WINNING_THE_ARGUMENT_DURATION = TOTAL_DURATION;
 

@@ -1,0 +1,62 @@
+import { AbsoluteFill, useCurrentFrame } from "remotion";
+import type { Beat, TimelineEntry } from "../timeline.ts";
+import { ACCENT, BG, DIM_TEXT, FONT } from "../../../lib/essay-sdk/palette.ts";
+import { HighlightedText, sentenceCycle } from "./useSentenceCycle.tsx";
+
+export type LongFormSceneProps = {
+  beatId: string;
+  beats: Record<string, Beat>;
+  timeline: Record<string, TimelineEntry>;
+  fps: number;
+  highlight?: string;
+  /** Use when the highlighted phrase is the takeaway of a newly presented
+   * sentence/screen. It enters already accented, avoiding a second visual
+   * state change that competes with the narration. */
+  highlightImmediately?: boolean;
+  fontSize?: number;
+};
+
+// For pure reflective narration — a beat that states a general principle or
+// thesis line, not tied to any specific node or relationship in the diagram
+// (e.g. a Reframe or Smallest Correction beat). Renders as the SOLE content
+// on screen: one real sentence at a time, centered in the full frame, at a
+// larger size than the ordinary caption since nothing else is competing for
+// attention. Pair with setting the diagram's opacity to a literal 0 (not a
+// faint residual) for this beat — a bottom-anchored caption over a dimmed
+// diagram reads as visible clutter once there's nothing else on screen to
+// justify the diagram being there at all; see the skill's "Match technique
+// to content". Wrap in its own <Sequence> per beat — this reads
+// useCurrentFrame() as LOCAL to the beat, unlike Caption.
+export const LongFormScene: React.FC<LongFormSceneProps> = ({
+  beatId,
+  beats,
+  timeline,
+  fps,
+  highlight,
+  highlightImmediately = false,
+  fontSize = 44,
+}) => {
+  const frame = useCurrentFrame();
+  const result = sentenceCycle(beats[beatId].words, frame, timeline[beatId].duration, fps, highlight);
+  const displayedResult =
+    highlightImmediately && result.highlightSplitAt >= 0 ? { ...result, highlightProgress: 1 } : result;
+
+  return (
+    <AbsoluteFill
+      style={{ backgroundColor: BG, display: "flex", alignItems: "center", justifyContent: "center", padding: "0 220px" }}
+    >
+      <div
+        style={{
+          fontFamily: FONT,
+          fontSize,
+          lineHeight: 1.5,
+          textAlign: "center",
+          color: DIM_TEXT,
+          opacity: result.opacity,
+        }}
+      >
+        <HighlightedText result={displayedResult} highlight={highlight} accentColor={ACCENT} neutralColor={DIM_TEXT} />
+      </div>
+    </AbsoluteFill>
+  );
+};

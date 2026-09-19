@@ -1,0 +1,106 @@
+{
+  "text": "They did. And that was exactly the problem with using completion as the measure — it tracked attendance. Not change.",
+  "durationMs": 7802,
+  "words": [
+    {
+      "text": "They",
+      "startMs": 0,
+      "endMs": 221
+    },
+    {
+      "text": "did.",
+      "startMs": 279,
+      "endMs": 615
+    },
+    {
+      "text": "And",
+      "startMs": 743,
+      "endMs": 906
+    },
+    {
+      "text": "that",
+      "startMs": 952,
+      "endMs": 1184
+    },
+    {
+      "text": "was",
+      "startMs": 1289,
+      "endMs": 1567
+    },
+    {
+      "text": "exactly",
+      "startMs": 1649,
+      "endMs": 2148
+    },
+    {
+      "text": "the",
+      "startMs": 2229,
+      "endMs": 2310
+    },
+    {
+      "text": "problem",
+      "startMs": 2392,
+      "endMs": 2879
+    },
+    {
+      "text": "with",
+      "startMs": 2961,
+      "endMs": 3146
+    },
+    {
+      "text": "using",
+      "startMs": 3274,
+      "endMs": 3576
+    },
+    {
+      "text": "completion",
+      "startMs": 3657,
+      "endMs": 4261
+    },
+    {
+      "text": "as",
+      "startMs": 4342,
+      "endMs": 4528
+    },
+    {
+      "text": "the",
+      "startMs": 4609,
+      "endMs": 4679
+    },
+    {
+      "text": "measure",
+      "startMs": 4737,
+      "endMs": 5120
+    },
+    {
+      "text": "—",
+      "startMs": 5155,
+      "endMs": 5213
+    },
+    {
+      "text": "it",
+      "startMs": 5317,
+      "endMs": 5445
+    },
+    {
+      "text": "tracked",
+      "startMs": 5480,
+      "endMs": 5840
+    },
+    {
+      "text": "attendance.",
+      "startMs": 5921,
+      "endMs": 6722
+    },
+    {
+      "text": "Not",
+      "startMs": 6908,
+      "endMs": 7129
+    },
+    {
+      "text": "change.",
+      "startMs": 7187,
+      "endMs": 7802
+    }
+  ]
+}

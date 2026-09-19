@@ -1,0 +1,406 @@
+{
+  "text": "Ask what the department actually needed to achieve, and the answers were lists of tasks: finish the reports, clear the requests, hit the deadlines. Nobody could say where any of that led. One of them asked, directly, which problems were hers to take on. Another pointed to an improvement she'd already proposed — nobody had told her if it was worth pursuing, or whether she had the time to give it. The next assignment landed before that answer ever did.",
+  "durationMs": 36316,
+  "words": [
+    {
+      "text": "Ask",
+      "startMs": 0,
+      "endMs": 395
+    },
+    {
+      "text": "what",
+      "startMs": 522,
+      "endMs": 778
+    },
+    {
+      "text": "the",
+      "startMs": 940,
+      "endMs": 1242
+    },
+    {
+      "text": "department",
+      "startMs": 1335,
+      "endMs": 2148
+    },
+    {
+      "text": "actually",
+      "startMs": 2206,
+      "endMs": 2763
+    },
+    {
+      "text": "needed",
+      "startMs": 2891,
+      "endMs": 3355
+    },
+    {
+      "text": "to",
+      "startMs": 3483,
+      "endMs": 3622
+    },
+    {
+      "text": "achieve,",
+      "startMs": 3715,
+      "endMs": 4261
+    },
+    {
+      "text": "and",
+      "startMs": 4284,
+      "endMs": 4423
+    },
+    {
+      "text": "the",
+      "startMs": 4481,
+      "endMs": 4563
+    },
+    {
+      "text": "answers",
+      "startMs": 4621,
+      "endMs": 5283
+    },
+    {
+      "text": "were",
+      "startMs": 5550,
+      "endMs": 5817
+    },
+    {
+      "text": "lists",
+      "startMs": 5944,
+      "endMs": 6339
+    },
+    {
+      "text": "of",
+      "startMs": 6444,
+      "endMs": 6606
+    },
+    {
+      "text": "tasks:",
+      "startMs": 6699,
+      "endMs": 7419
+    },
+    {
+      "text": "finish",
+      "startMs": 7651,
+      "endMs": 8080.999999999999
+    },
+    {
+      "text": "the",
+      "startMs": 8162.000000000001,
+      "endMs": 8243
+    },
+    {
+      "text": "reports,",
+      "startMs": 8324,
+      "endMs": 9172
+    },
+    {
+      "text": "clear",
+      "startMs": 9207,
+      "endMs": 9485
+    },
+    {
+      "text": "the",
+      "startMs": 9567,
+      "endMs": 9636
+    },
+    {
+      "text": "requests,",
+      "startMs": 9729,
+      "endMs": 10658
+    },
+    {
+      "text": "hit",
+      "startMs": 10762,
+      "endMs": 10960
+    },
+    {
+      "text": "the",
+      "startMs": 11018,
+      "endMs": 11088
+    },
+    {
+      "text": "deadlines.",
+      "startMs": 11169,
+      "endMs": 12051
+    },
+    {
+      "text": "Nobody",
+      "startMs": 12179,
+      "endMs": 12585
+    },
+    {
+      "text": "could",
+      "startMs": 12678,
+      "endMs": 12910
+    },
+    {
+      "text": "say",
+      "startMs": 12992,
+      "endMs": 13363
+    },
+    {
+      "text": "where",
+      "startMs": 13595,
+      "endMs": 13886
+    },
+    {
+      "text": "any",
+      "startMs": 13932,
+      "endMs": 14245
+    },
+    {
+      "text": "of",
+      "startMs": 14338,
+      "endMs": 14431
+    },
+    {
+      "text": "that",
+      "startMs": 14536,
+      "endMs": 14779
+    },
+    {
+      "text": "led.",
+      "startMs": 14907,
+      "endMs": 15372
+    },
+    {
+      "text": "One",
+      "startMs": 15604,
+      "endMs": 15836
+    },
+    {
+      "text": "of",
+      "startMs": 15894,
+      "endMs": 15987
+    },
+    {
+      "text": "them",
+      "startMs": 16068.000000000002,
+      "endMs": 16265.999999999998
+    },
+    {
+      "text": "asked,",
+      "startMs": 16393,
+      "endMs": 16939
+    },
+    {
+      "text": "directly,",
+      "startMs": 17032,
+      "endMs": 17961
+    },
+    {
+      "text": "which",
+      "startMs": 18042,
+      "endMs": 18355
+    },
+    {
+      "text": "problems",
+      "startMs": 18437,
+      "endMs": 19064
+    },
+    {
+      "text": "were",
+      "startMs": 19122,
+      "endMs": 19319
+    },
+    {
+      "text": "hers",
+      "startMs": 19366,
+      "endMs": 19679
+    },
+    {
+      "text": "to",
+      "startMs": 19737,
+      "endMs": 19818
+    },
+    {
+      "text": "take",
+      "startMs": 19911,
+      "endMs": 20190
+    },
+    {
+      "text": "on.",
+      "startMs": 20283,
+      "endMs": 20666
+    },
+    {
+      "text": "Another",
+      "startMs": 20724,
+      "endMs": 21293
+    },
+    {
+      "text": "pointed",
+      "startMs": 21560,
+      "endMs": 22187
+    },
+    {
+      "text": "to",
+      "startMs": 22349,
+      "endMs": 22605
+    },
+    {
+      "text": "an",
+      "startMs": 22767,
+      "endMs": 22953
+    },
+    {
+      "text": "improvement",
+      "startMs": 23034,
+      "endMs": 23742
+    },
+    {
+      "text": "she'd",
+      "startMs": 23882,
+      "endMs": 24242
+    },
+    {
+      "text": "already",
+      "startMs": 24323,
+      "endMs": 24787
+    },
+    {
+      "text": "proposed",
+      "startMs": 24869,
+      "endMs": 25461
+    },
+    {
+      "text": "—",
+      "startMs": 25623,
+      "endMs": 25681
+    },
+    {
+      "text": "nobody",
+      "startMs": 26030,
+      "endMs": 26494
+    },
+    {
+      "text": "had",
+      "startMs": 26575,
+      "endMs": 26761
+    },
+    {
+      "text": "told",
+      "startMs": 26808,
+      "endMs": 27098
+    },
+    {
+      "text": "her",
+      "startMs": 27179,
+      "endMs": 27376
+    },
+    {
+      "text": "if",
+      "startMs": 27469,
+      "endMs": 27620
+    },
+    {
+      "text": "it",
+      "startMs": 27701,
+      "endMs": 27806
+    },
+    {
+      "text": "was",
+      "startMs": 27852,
+      "endMs": 28027
+    },
+    {
+      "text": "worth",
+      "startMs": 28154,
+      "endMs": 28468
+    },
+    {
+      "text": "pursuing,",
+      "startMs": 28526,
+      "endMs": 29211
+    },
+    {
+      "text": "or",
+      "startMs": 29338,
+      "endMs": 29501
+    },
+    {
+      "text": "whether",
+      "startMs": 29559,
+      "endMs": 29989
+    },
+    {
+      "text": "she",
+      "startMs": 30093,
+      "endMs": 30279
+    },
+    {
+      "text": "had",
+      "startMs": 30372,
+      "endMs": 30581
+    },
+    {
+      "text": "the",
+      "startMs": 30639,
+      "endMs": 30720
+    },
+    {
+      "text": "time",
+      "startMs": 30778,
+      "endMs": 31150
+    },
+    {
+      "text": "to",
+      "startMs": 31335,
+      "endMs": 31475
+    },
+    {
+      "text": "give",
+      "startMs": 31556,
+      "endMs": 31788
+    },
+    {
+      "text": "it.",
+      "startMs": 31846,
+      "endMs": 32113
+    },
+    {
+      "text": "The",
+      "startMs": 32206.000000000004,
+      "endMs": 32334.000000000004
+    },
+    {
+      "text": "next",
+      "startMs": 32392.000000000004,
+      "endMs": 32705
+    },
+    {
+      "text": "assignment",
+      "startMs": 32798,
+      "endMs": 33646
+    },
+    {
+      "text": "landed",
+      "startMs": 33750,
+      "endMs": 34180
+    },
+    {
+      "text": "before",
+      "startMs": 34238,
+      "endMs": 34621
+    },
+    {
+      "text": "that",
+      "startMs": 34679,
+      "endMs": 34900
+    },
+    {
+      "text": "answer",
+      "startMs": 34993,
+      "endMs": 35480
+    },
+    {
+      "text": "ever",
+      "startMs": 35573,
+      "endMs": 35840
+    },
+    {
+      "text": "did.",
+      "startMs": 35933,
+      "endMs": 36316
+    }
+  ]
+}

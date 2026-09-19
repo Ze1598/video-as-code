@@ -1,0 +1,226 @@
+{
+  "text": "A manager noticed something troubling: two of his delivery teams had built the same thing twice. Tired of watching the duplication repeat, he moved fast — coordination meetings, a shared code repository, Jira tickets that made every team's work visible to every other team.",
+  "durationMs": 19598,
+  "words": [
+    {
+      "text": "A",
+      "startMs": 0,
+      "endMs": 70
+    },
+    {
+      "text": "manager",
+      "startMs": 174,
+      "endMs": 720
+    },
+    {
+      "text": "noticed",
+      "startMs": 906,
+      "endMs": 1649
+    },
+    {
+      "text": "something",
+      "startMs": 1834,
+      "endMs": 2299
+    },
+    {
+      "text": "troubling:",
+      "startMs": 2380,
+      "endMs": 2984
+    },
+    {
+      "text": "two",
+      "startMs": 3146,
+      "endMs": 3448
+    },
+    {
+      "text": "of",
+      "startMs": 3576,
+      "endMs": 3750
+    },
+    {
+      "text": "his",
+      "startMs": 3878,
+      "endMs": 4029
+    },
+    {
+      "text": "delivery",
+      "startMs": 4110,
+      "endMs": 4551
+    },
+    {
+      "text": "teams",
+      "startMs": 4609,
+      "endMs": 4934
+    },
+    {
+      "text": "had",
+      "startMs": 4992,
+      "endMs": 5166
+    },
+    {
+      "text": "built",
+      "startMs": 5248,
+      "endMs": 5515
+    },
+    {
+      "text": "the",
+      "startMs": 5561,
+      "endMs": 5654
+    },
+    {
+      "text": "same",
+      "startMs": 5735,
+      "endMs": 6002
+    },
+    {
+      "text": "thing",
+      "startMs": 6084,
+      "endMs": 6316
+    },
+    {
+      "text": "twice.",
+      "startMs": 6397,
+      "endMs": 6978
+    },
+    {
+      "text": "Tired",
+      "startMs": 7140,
+      "endMs": 7477
+    },
+    {
+      "text": "of",
+      "startMs": 7523,
+      "endMs": 7605
+    },
+    {
+      "text": "watching",
+      "startMs": 7709,
+      "endMs": 8103.999999999999
+    },
+    {
+      "text": "the",
+      "startMs": 8162.000000000001,
+      "endMs": 8231
+    },
+    {
+      "text": "duplication",
+      "startMs": 8290,
+      "endMs": 9021
+    },
+    {
+      "text": "repeat,",
+      "startMs": 9102,
+      "endMs": 9590
+    },
+    {
+      "text": "he",
+      "startMs": 9636,
+      "endMs": 9752
+    },
+    {
+      "text": "moved",
+      "startMs": 9834,
+      "endMs": 10136
+    },
+    {
+      "text": "fast",
+      "startMs": 10240,
+      "endMs": 10693
+    },
+    {
+      "text": "—",
+      "startMs": 10739,
+      "endMs": 10786
+    },
+    {
+      "text": "coordination",
+      "startMs": 10832,
+      "endMs": 11587
+    },
+    {
+      "text": "meetings,",
+      "startMs": 11645,
+      "endMs": 12295
+    },
+    {
+      "text": "a",
+      "startMs": 12341,
+      "endMs": 12388
+    },
+    {
+      "text": "shared",
+      "startMs": 12481,
+      "endMs": 12817
+    },
+    {
+      "text": "code",
+      "startMs": 12910,
+      "endMs": 13259
+    },
+    {
+      "text": "repository,",
+      "startMs": 13351,
+      "endMs": 14443
+    },
+    {
+      "text": "Jira",
+      "startMs": 14629,
+      "endMs": 14965
+    },
+    {
+      "text": "tickets",
+      "startMs": 15070,
+      "endMs": 15615
+    },
+    {
+      "text": "that",
+      "startMs": 15697,
+      "endMs": 15894
+    },
+    {
+      "text": "made",
+      "startMs": 15952,
+      "endMs": 16207.999999999998
+    },
+    {
+      "text": "every",
+      "startMs": 16254.000000000002,
+      "endMs": 16521
+    },
+    {
+      "text": "team's",
+      "startMs": 16579,
+      "endMs": 16997
+    },
+    {
+      "text": "work",
+      "startMs": 17125,
+      "endMs": 17461
+    },
+    {
+      "text": "visible",
+      "startMs": 17589,
+      "endMs": 18100
+    },
+    {
+      "text": "to",
+      "startMs": 18204,
+      "endMs": 18321
+    },
+    {
+      "text": "every",
+      "startMs": 18448,
+      "endMs": 18773
+    },
+    {
+      "text": "other",
+      "startMs": 18855,
+      "endMs": 19064
+    },
+    {
+      "text": "team.",
+      "startMs": 19122,
+      "endMs": 19598
+    }
+  ]
+}

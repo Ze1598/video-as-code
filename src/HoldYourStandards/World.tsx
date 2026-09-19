@@ -1,10 +1,10 @@
 import { Easing, interpolate, useCurrentFrame } from "remotion";
 import { cameraTransform } from "./Camera.ts";
-import { PersonNode } from "../lib/diagram/PersonNode.tsx";
-import { DiagramFrame } from "../lib/diagram/DiagramFrame.tsx";
-import { PacketMarker } from "../lib/diagram/PacketMarker.tsx";
-import { drawOnStyle } from "../lib/diagram/connectorMath.ts";
-import { opacityFactory } from "../lib/keyframes.ts";
+import { PersonNode } from "../archive/lib/diagram/PersonNode.tsx";
+import { DiagramFrame } from "../archive/lib/diagram/DiagramFrame.tsx";
+import { PacketMarker } from "../archive/lib/diagram/PacketMarker.tsx";
+import { drawOnStyle } from "../archive/lib/diagram/connectorMath.ts";
+import { opacityFactory } from "../archive/lib/keyframes.ts";
 import {
   ACCENT,
   CALLBACK_PULSE_CENTER,

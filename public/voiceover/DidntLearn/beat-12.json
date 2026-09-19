@@ -1,0 +1,111 @@
+{
+  "text": "The next time you require a training — what will you actually check, at the next ticket, to know it worked?",
+  "durationMs": 6920,
+  "words": [
+    {
+      "text": "The",
+      "startMs": 0,
+      "endMs": 174
+    },
+    {
+      "text": "next",
+      "startMs": 255,
+      "endMs": 511
+    },
+    {
+      "text": "time",
+      "startMs": 546,
+      "endMs": 824
+    },
+    {
+      "text": "you",
+      "startMs": 906,
+      "endMs": 1010
+    },
+    {
+      "text": "require",
+      "startMs": 1103,
+      "endMs": 1625
+    },
+    {
+      "text": "a",
+      "startMs": 1707,
+      "endMs": 1800
+    },
+    {
+      "text": "training",
+      "startMs": 1858,
+      "endMs": 2241
+    },
+    {
+      "text": "—",
+      "startMs": 2345,
+      "endMs": 2392
+    },
+    {
+      "text": "what",
+      "startMs": 2554,
+      "endMs": 2752
+    },
+    {
+      "text": "will",
+      "startMs": 2833,
+      "endMs": 3007
+    },
+    {
+      "text": "you",
+      "startMs": 3088,
+      "endMs": 3181
+    },
+    {
+      "text": "actually",
+      "startMs": 3309,
+      "endMs": 3866
+    },
+    {
+      "text": "check,",
+      "startMs": 3924,
+      "endMs": 4342
+    },
+    {
+      "text": "at",
+      "startMs": 4365,
+      "endMs": 4528
+    },
+    {
+      "text": "the",
+      "startMs": 4574,
+      "endMs": 4644
+    },
+    {
+      "text": "next",
+      "startMs": 4725,
+      "endMs": 4981
+    },
+    {
+      "text": "ticket,",
+      "startMs": 5016,
+      "endMs": 5480
+    },
+    {
+      "text": "to",
+      "startMs": 5515,
+      "endMs": 5619
+    },
+    {
+      "text": "know",
+      "startMs": 5677,
+      "endMs": 5875
+    },
+    {
+      "text": "it",
+      "startMs": 5979,
+      "endMs": 6118
+    },
+    {
+      "text": "worked?",
+      "startMs": 6211,
+      "endMs": 6920
+    }
+  ]
+}

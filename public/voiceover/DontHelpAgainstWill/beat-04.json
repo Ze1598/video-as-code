@@ -1,0 +1,161 @@
+{
+  "text": "His answer didn't change anything. Development stayed on their one-to-one agenda. Every conversation came back around to the same question: what else could he contribute, beyond what he was already doing.",
+  "durationMs": 14536,
+  "words": [
+    {
+      "text": "His",
+      "startMs": 0,
+      "endMs": 255
+    },
+    {
+      "text": "answer",
+      "startMs": 383,
+      "endMs": 871
+    },
+    {
+      "text": "didn't",
+      "startMs": 998,
+      "endMs": 1405
+    },
+    {
+      "text": "change",
+      "startMs": 1440,
+      "endMs": 1776
+    },
+    {
+      "text": "anything.",
+      "startMs": 1823,
+      "endMs": 2392
+    },
+    {
+      "text": "Development",
+      "startMs": 2438,
+      "endMs": 3239
+    },
+    {
+      "text": "stayed",
+      "startMs": 3297,
+      "endMs": 3796
+    },
+    {
+      "text": "on",
+      "startMs": 3901,
+      "endMs": 4075
+    },
+    {
+      "text": "their",
+      "startMs": 4122,
+      "endMs": 4400
+    },
+    {
+      "text": "one-to-one",
+      "startMs": 4563,
+      "endMs": 5317
+    },
+    {
+      "text": "agenda.",
+      "startMs": 5399,
+      "endMs": 6118
+    },
+    {
+      "text": "Every",
+      "startMs": 6177,
+      "endMs": 6455
+    },
+    {
+      "text": "conversation",
+      "startMs": 6513,
+      "endMs": 7419
+    },
+    {
+      "text": "came",
+      "startMs": 7500,
+      "endMs": 7790
+    },
+    {
+      "text": "back",
+      "startMs": 7848,
+      "endMs": 8138.999999999999
+    },
+    {
+      "text": "around",
+      "startMs": 8266,
+      "endMs": 8696
+    },
+    {
+      "text": "to",
+      "startMs": 8754,
+      "endMs": 8835
+    },
+    {
+      "text": "the",
+      "startMs": 8928,
+      "endMs": 8998
+    },
+    {
+      "text": "same",
+      "startMs": 9056,
+      "endMs": 9369
+    },
+    {
+      "text": "question:",
+      "startMs": 9451,
+      "endMs": 10089
+    },
+    {
+      "text": "what",
+      "startMs": 10147,
+      "endMs": 10379
+    },
+    {
+      "text": "else",
+      "startMs": 10484,
+      "endMs": 10762
+    },
+    {
+      "text": "could",
+      "startMs": 10809,
+      "endMs": 10995
+    },
+    {
+      "text": "he",
+      "startMs": 11076,
+      "endMs": 11169
+    },
+    {
+      "text": "contribute,",
+      "startMs": 11250,
+      "endMs": 12063
+    },
+    {
+      "text": "beyond",
+      "startMs": 12109,
+      "endMs": 12469
+    },
+    {
+      "text": "what",
+      "startMs": 12562,
+      "endMs": 12759
+    },
+    {
+      "text": "he",
+      "startMs": 12852,
+      "endMs": 12934
+    },
+    {
+      "text": "was",
+      "startMs": 12992,
+      "endMs": 13189
+    },
+    {
+      "text": "already",
+      "startMs": 13317,
+      "endMs": 13874
+    },
+    {
+      "text": "doing.",
+      "startMs": 13932,
+      "endMs": 14536
+    }
+  ]
+}

@@ -2,9 +2,9 @@ import { AbsoluteFill, Easing, interpolate, useCurrentFrame } from "remotion";
 import { BEATS } from "./data.ts";
 import { FPS, frameOfWord, TIMELINE } from "./timeline.ts";
 import { ACCENT, HIGHLIGHTS, TEXT } from "./layout.ts";
-import { wordsToText } from "../lib/sentences.ts";
-import { ListRow } from "../lib/scenes/ListRow.tsx";
-import { HighlightedText, sentenceCycle } from "../lib/scenes/useSentenceCycle.tsx";
+import { wordsToText } from "../lib/essay-sdk/sentences.ts";
+import { ListRow } from "../archive/lib/scenes/ListRow.tsx";
+import { HighlightedText, sentenceCycle } from "../archive/lib/scenes/useSentenceCycle.tsx";
 
 const EASE = Easing.bezier(0.16, 1, 0.3, 1);
 const clamp = { extrapolateLeft: "clamp" as const, extrapolateRight: "clamp" as const };
@@ -86,7 +86,12 @@ export const ThreeQuestionsScene: React.FC = () => {
           padding: "0 220px",
         }}
       >
-        <HighlightedText result={cycle} highlight={HIGHLIGHTS["beat-09"]} accentColor={ACCENT} />
+        <HighlightedText
+          result={cycle}
+          highlight={HIGHLIGHTS["beat-09"]}
+          accentColor={ACCENT}
+          neutralColor={TEXT}
+        />
       </div>
     </AbsoluteFill>
   );

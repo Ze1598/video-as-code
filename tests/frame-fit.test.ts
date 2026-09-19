@@ -1,6 +1,6 @@
 import { test } from "node:test";
 import assert from "node:assert/strict";
-import { DEFAULT_MARGIN, fitCameraToFocus, frameFitMath } from "../src/lib/diagram/frameFit.ts";
+import { DEFAULT_MARGIN, fitCameraToFocus, frameFitMath } from "../src/archive/lib/diagram/frameFit.ts";
 
 // Covers 0/1/2/N-focus cases, plus regression cases reproducing the two
 // real bugs this function exists to prevent: AvoidCommunicationSilos's
@@ -387,6 +387,50 @@ test("regression — FriendlyTeam's three-node layout: tight(each) and pair(paul
   const shots: string[][] = [["paul"], ["scott"], ["client"], ["paul", "scott"]];
   for (const focusIds of shots) {
     const result = fitCameraToFocus(nodes, focusIds, { maxZoom: 2.3 });
+    assert.ok(
+      result.excludesNonFocus,
+      `${JSON.stringify(focusIds)} leaked: ${result.leakingNodeIds.join(", ")}`,
+    );
+  }
+});
+
+test("regression — DontHelpAgainstWill's manager/engineer/work layout: tight(each) and pair(manager, engineer) exclude the non-focus node", () => {
+  // Reuses FriendlyTeam's exact triangle (manager/engineer at the same
+  // positions as paul/scott, work at the same position as client) for the
+  // same reason: a healthy side-by-side relationship (Manager<->Engineer)
+  // plus a second relationship (Engineer<->His Work) that only the 0-focus
+  // wide/reveal shots can hold both ends of at once. No pair including work
+  // is used — it's only ever shown as part of WIDE/REVEAL (see
+  // src/DontHelpAgainstWill/layout.ts's WORK_VISIBLE_WINDOWS).
+  const nodes = {
+    manager: { x: 620, y: 320 },
+    engineer: { x: 1300, y: 320 },
+    work: { x: 960, y: 860 },
+  };
+  const shots: string[][] = [["manager"], ["engineer"], ["work"], ["manager", "engineer"]];
+  for (const focusIds of shots) {
+    const result = fitCameraToFocus(nodes, focusIds, { maxZoom: 2.3 });
+    assert.ok(
+      result.excludesNonFocus,
+      `${JSON.stringify(focusIds)} leaked: ${result.leakingNodeIds.join(", ")}`,
+    );
+  }
+});
+
+test("regression — PerformanceVsMotivation's manager/teamA/teamB layout: tight(manager) and both manager/team pairs exclude the non-focus node", () => {
+  // Manager sits above, the two team members fanned out below — the only
+  // shots this video actually uses are tight(manager) (Beat 1's opening),
+  // and pair(manager, teamA) / pair(manager, teamB) (Beat 4's individuation
+  // of each team member's unanswered ask). No pair between teamA and teamB
+  // directly is used, since they're never shown discussing each other.
+  const nodes = {
+    manager: { x: 960, y: 200 },
+    teamA: { x: 400, y: 700 },
+    teamB: { x: 1520, y: 700 },
+  };
+  const shots: string[][] = [["manager"], ["manager", "teamA"], ["manager", "teamB"]];
+  for (const focusIds of shots) {
+    const result = fitCameraToFocus(nodes, focusIds);
     assert.ok(
       result.excludesNonFocus,
       `${JSON.stringify(focusIds)} leaked: ${result.leakingNodeIds.join(", ")}`,

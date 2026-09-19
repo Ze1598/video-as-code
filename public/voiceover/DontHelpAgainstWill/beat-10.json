@@ -1,0 +1,91 @@
+{
+  "text": "Is there someone on your team you're still trying to convince — long after they already answered?",
+  "durationMs": 6223,
+  "words": [
+    {
+      "text": "Is",
+      "startMs": 0,
+      "endMs": 128
+    },
+    {
+      "text": "there",
+      "startMs": 174,
+      "endMs": 337
+    },
+    {
+      "text": "someone",
+      "startMs": 383,
+      "endMs": 952
+    },
+    {
+      "text": "on",
+      "startMs": 1010,
+      "endMs": 1149
+    },
+    {
+      "text": "your",
+      "startMs": 1196,
+      "endMs": 1335
+    },
+    {
+      "text": "team",
+      "startMs": 1393,
+      "endMs": 1718
+    },
+    {
+      "text": "you're",
+      "startMs": 1881,
+      "endMs": 2136
+    },
+    {
+      "text": "still",
+      "startMs": 2194,
+      "endMs": 2415
+    },
+    {
+      "text": "trying",
+      "startMs": 2473,
+      "endMs": 2728
+    },
+    {
+      "text": "to",
+      "startMs": 2810,
+      "endMs": 2926
+    },
+    {
+      "text": "convince",
+      "startMs": 3019,
+      "endMs": 3576
+    },
+    {
+      "text": "—",
+      "startMs": 3669,
+      "endMs": 3738
+    },
+    {
+      "text": "long",
+      "startMs": 3901,
+      "endMs": 4180
+    },
+    {
+      "text": "after",
+      "startMs": 4284,
+      "endMs": 4632
+    },
+    {
+      "text": "they",
+      "startMs": 4679,
+      "endMs": 4818
+    },
+    {
+      "text": "already",
+      "startMs": 4876,
+      "endMs": 5352
+    },
+    {
+      "text": "answered?",
+      "startMs": 5445,
+      "endMs": 6223
+    }
+  ]
+}

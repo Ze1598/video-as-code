@@ -1,0 +1,291 @@
+{
+  "text": "For these teams, the evidence belonged at the start of development. Did they check for existing work? Did they contact the team building something related? Did that contact lead them to reuse code, or divide the work, instead of duplicating it? Those actions were the purpose of the training. They needed to become its measure of success.",
+  "durationMs": 23546,
+  "words": [
+    {
+      "text": "For",
+      "startMs": 0,
+      "endMs": 244
+    },
+    {
+      "text": "these",
+      "startMs": 337,
+      "endMs": 604
+    },
+    {
+      "text": "teams,",
+      "startMs": 697,
+      "endMs": 1254
+    },
+    {
+      "text": "the",
+      "startMs": 1289,
+      "endMs": 1428
+    },
+    {
+      "text": "evidence",
+      "startMs": 1486,
+      "endMs": 1997
+    },
+    {
+      "text": "belonged",
+      "startMs": 2055,
+      "endMs": 2601
+    },
+    {
+      "text": "at",
+      "startMs": 2682,
+      "endMs": 2833
+    },
+    {
+      "text": "the",
+      "startMs": 2891,
+      "endMs": 2972
+    },
+    {
+      "text": "start",
+      "startMs": 3019,
+      "endMs": 3495
+    },
+    {
+      "text": "of",
+      "startMs": 3587,
+      "endMs": 3704
+    },
+    {
+      "text": "development.",
+      "startMs": 3808,
+      "endMs": 4609
+    },
+    {
+      "text": "Did",
+      "startMs": 4714,
+      "endMs": 4888
+    },
+    {
+      "text": "they",
+      "startMs": 4934,
+      "endMs": 5085
+    },
+    {
+      "text": "check",
+      "startMs": 5166,
+      "endMs": 5550
+    },
+    {
+      "text": "for",
+      "startMs": 5712,
+      "endMs": 5921
+    },
+    {
+      "text": "existing",
+      "startMs": 6002,
+      "endMs": 6711
+    },
+    {
+      "text": "work?",
+      "startMs": 6803,
+      "endMs": 7221
+    },
+    {
+      "text": "Did",
+      "startMs": 7256,
+      "endMs": 7430
+    },
+    {
+      "text": "they",
+      "startMs": 7465,
+      "endMs": 7593
+    },
+    {
+      "text": "contact",
+      "startMs": 7674,
+      "endMs": 8301
+    },
+    {
+      "text": "the",
+      "startMs": 8382,
+      "endMs": 8475
+    },
+    {
+      "text": "team",
+      "startMs": 8533,
+      "endMs": 8847
+    },
+    {
+      "text": "building",
+      "startMs": 9079,
+      "endMs": 9474
+    },
+    {
+      "text": "something",
+      "startMs": 9567,
+      "endMs": 9938
+    },
+    {
+      "text": "related?",
+      "startMs": 10031,
+      "endMs": 10728
+    },
+    {
+      "text": "Did",
+      "startMs": 10913,
+      "endMs": 11111
+    },
+    {
+      "text": "that",
+      "startMs": 11169,
+      "endMs": 11389
+    },
+    {
+      "text": "contact",
+      "startMs": 11517,
+      "endMs": 12132
+    },
+    {
+      "text": "lead",
+      "startMs": 12260,
+      "endMs": 12516
+    },
+    {
+      "text": "them",
+      "startMs": 12550,
+      "endMs": 12701
+    },
+    {
+      "text": "to",
+      "startMs": 12783,
+      "endMs": 12899
+    },
+    {
+      "text": "reuse",
+      "startMs": 13026,
+      "endMs": 13468
+    },
+    {
+      "text": "code,",
+      "startMs": 13514,
+      "endMs": 13920
+    },
+    {
+      "text": "or",
+      "startMs": 14083,
+      "endMs": 14327
+    },
+    {
+      "text": "divide",
+      "startMs": 14454,
+      "endMs": 14954
+    },
+    {
+      "text": "the",
+      "startMs": 15000,
+      "endMs": 15093
+    },
+    {
+      "text": "work,",
+      "startMs": 15174,
+      "endMs": 15627
+    },
+    {
+      "text": "instead",
+      "startMs": 15720,
+      "endMs": 16103.000000000002
+    },
+    {
+      "text": "of",
+      "startMs": 16138.000000000002,
+      "endMs": 16207.999999999998
+    },
+    {
+      "text": "duplicating",
+      "startMs": 16300.999999999998,
+      "endMs": 16974
+    },
+    {
+      "text": "it?",
+      "startMs": 17056,
+      "endMs": 17346
+    },
+    {
+      "text": "Those",
+      "startMs": 17532,
+      "endMs": 17810
+    },
+    {
+      "text": "actions",
+      "startMs": 17857,
+      "endMs": 18426
+    },
+    {
+      "text": "were",
+      "startMs": 18565,
+      "endMs": 18820
+    },
+    {
+      "text": "the",
+      "startMs": 18902,
+      "endMs": 18994
+    },
+    {
+      "text": "purpose",
+      "startMs": 19052,
+      "endMs": 19517
+    },
+    {
+      "text": "of",
+      "startMs": 19575,
+      "endMs": 19714
+    },
+    {
+      "text": "the",
+      "startMs": 19795,
+      "endMs": 19877
+    },
+    {
+      "text": "training.",
+      "startMs": 19923,
+      "endMs": 20388
+    },
+    {
+      "text": "They",
+      "startMs": 20446,
+      "endMs": 20620
+    },
+    {
+      "text": "needed",
+      "startMs": 20666,
+      "endMs": 20980
+    },
+    {
+      "text": "to",
+      "startMs": 21026,
+      "endMs": 21096
+    },
+    {
+      "text": "become",
+      "startMs": 21177,
+      "endMs": 21630
+    },
+    {
+      "text": "its",
+      "startMs": 21734,
+      "endMs": 21967
+    },
+    {
+      "text": "measure",
+      "startMs": 22094,
+      "endMs": 22524
+    },
+    {
+      "text": "of",
+      "startMs": 22617,
+      "endMs": 22768
+    },
+    {
+      "text": "success.",
+      "startMs": 22849,
+      "endMs": 23546
+    }
+  ]
+}

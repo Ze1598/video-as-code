@@ -1,0 +1,481 @@
+{
+  "text": "When another session needed a speaker, she put his name forward. He agreed — after another conversation about why getting involved mattered. He spent his time on slides he didn't want to present. His actual work sat waiting. A change he rushed through came back from review full of errors. A task that should have shipped carried into the next sprint. She spent her own time reviewing his slides, chasing his prep, cleaning up the work that slipped. And he started wondering, every time she asked him for something new, whether it was really optional.",
+  "durationMs": 38359,
+  "words": [
+    {
+      "text": "When",
+      "startMs": 0,
+      "endMs": 383
+    },
+    {
+      "text": "another",
+      "startMs": 615,
+      "endMs": 1161
+    },
+    {
+      "text": "session",
+      "startMs": 1289,
+      "endMs": 1800
+    },
+    {
+      "text": "needed",
+      "startMs": 1939,
+      "endMs": 2322
+    },
+    {
+      "text": "a",
+      "startMs": 2403,
+      "endMs": 2438
+    },
+    {
+      "text": "speaker,",
+      "startMs": 2519,
+      "endMs": 3181
+    },
+    {
+      "text": "she",
+      "startMs": 3274,
+      "endMs": 3518
+    },
+    {
+      "text": "put",
+      "startMs": 3657,
+      "endMs": 4040
+    },
+    {
+      "text": "his",
+      "startMs": 4168,
+      "endMs": 4354
+    },
+    {
+      "text": "name",
+      "startMs": 4447,
+      "endMs": 4667
+    },
+    {
+      "text": "forward.",
+      "startMs": 4714,
+      "endMs": 5294
+    },
+    {
+      "text": "He",
+      "startMs": 5387,
+      "endMs": 5561
+    },
+    {
+      "text": "agreed",
+      "startMs": 5642,
+      "endMs": 6060
+    },
+    {
+      "text": "—",
+      "startMs": 6118,
+      "endMs": 6177
+    },
+    {
+      "text": "after",
+      "startMs": 6211,
+      "endMs": 6583
+    },
+    {
+      "text": "another",
+      "startMs": 6676,
+      "endMs": 7012
+    },
+    {
+      "text": "conversation",
+      "startMs": 7094,
+      "endMs": 7860
+    },
+    {
+      "text": "about",
+      "startMs": 7941,
+      "endMs": 8301
+    },
+    {
+      "text": "why",
+      "startMs": 8382,
+      "endMs": 8638
+    },
+    {
+      "text": "getting",
+      "startMs": 8731,
+      "endMs": 9149
+    },
+    {
+      "text": "involved",
+      "startMs": 9276,
+      "endMs": 9845
+    },
+    {
+      "text": "mattered.",
+      "startMs": 9973,
+      "endMs": 10507
+    },
+    {
+      "text": "He",
+      "startMs": 10565,
+      "endMs": 10704
+    },
+    {
+      "text": "spent",
+      "startMs": 10786,
+      "endMs": 11146
+    },
+    {
+      "text": "his",
+      "startMs": 11204,
+      "endMs": 11331
+    },
+    {
+      "text": "time",
+      "startMs": 11389,
+      "endMs": 11691
+    },
+    {
+      "text": "on",
+      "startMs": 11726,
+      "endMs": 11819
+    },
+    {
+      "text": "slides",
+      "startMs": 11877,
+      "endMs": 12341
+    },
+    {
+      "text": "he",
+      "startMs": 12469,
+      "endMs": 12585
+    },
+    {
+      "text": "didn't",
+      "startMs": 12678,
+      "endMs": 12934
+    },
+    {
+      "text": "want",
+      "startMs": 12980,
+      "endMs": 13189
+    },
+    {
+      "text": "to",
+      "startMs": 13235,
+      "endMs": 13317
+    },
+    {
+      "text": "present.",
+      "startMs": 13410,
+      "endMs": 14013
+    },
+    {
+      "text": "His",
+      "startMs": 14036,
+      "endMs": 14211
+    },
+    {
+      "text": "actual",
+      "startMs": 14292,
+      "endMs": 14698
+    },
+    {
+      "text": "work",
+      "startMs": 14803,
+      "endMs": 15128
+    },
+    {
+      "text": "sat",
+      "startMs": 15221,
+      "endMs": 15569
+    },
+    {
+      "text": "waiting.",
+      "startMs": 15697,
+      "endMs": 16277.000000000002
+    },
+    {
+      "text": "A",
+      "startMs": 16463,
+      "endMs": 16567
+    },
+    {
+      "text": "change",
+      "startMs": 16660,
+      "endMs": 17043
+    },
+    {
+      "text": "he",
+      "startMs": 17102,
+      "endMs": 17229
+    },
+    {
+      "text": "rushed",
+      "startMs": 17322,
+      "endMs": 17682
+    },
+    {
+      "text": "through",
+      "startMs": 17775,
+      "endMs": 18123
+    },
+    {
+      "text": "came",
+      "startMs": 18251,
+      "endMs": 18541
+    },
+    {
+      "text": "back",
+      "startMs": 18588,
+      "endMs": 18762
+    },
+    {
+      "text": "from",
+      "startMs": 18889,
+      "endMs": 19157
+    },
+    {
+      "text": "review",
+      "startMs": 19284,
+      "endMs": 19760
+    },
+    {
+      "text": "full",
+      "startMs": 19888,
+      "endMs": 20167
+    },
+    {
+      "text": "of",
+      "startMs": 20271,
+      "endMs": 20422
+    },
+    {
+      "text": "errors.",
+      "startMs": 20526,
+      "endMs": 21119
+    },
+    {
+      "text": "A",
+      "startMs": 21153,
+      "endMs": 21235
+    },
+    {
+      "text": "task",
+      "startMs": 21339,
+      "endMs": 21734
+    },
+    {
+      "text": "that",
+      "startMs": 21827,
+      "endMs": 21978
+    },
+    {
+      "text": "should",
+      "startMs": 22024,
+      "endMs": 22280
+    },
+    {
+      "text": "have",
+      "startMs": 22372,
+      "endMs": 22593
+    },
+    {
+      "text": "shipped",
+      "startMs": 22628,
+      "endMs": 22999
+    },
+    {
+      "text": "carried",
+      "startMs": 23127,
+      "endMs": 23557
+    },
+    {
+      "text": "into",
+      "startMs": 23661,
+      "endMs": 23963
+    },
+    {
+      "text": "the",
+      "startMs": 24044,
+      "endMs": 24114
+    },
+    {
+      "text": "next",
+      "startMs": 24172,
+      "endMs": 24462
+    },
+    {
+      "text": "sprint.",
+      "startMs": 24544,
+      "endMs": 25205
+    },
+    {
+      "text": "She",
+      "startMs": 25287,
+      "endMs": 25461
+    },
+    {
+      "text": "spent",
+      "startMs": 25542,
+      "endMs": 25948
+    },
+    {
+      "text": "her",
+      "startMs": 26030,
+      "endMs": 26146
+    },
+    {
+      "text": "own",
+      "startMs": 26239,
+      "endMs": 26448
+    },
+    {
+      "text": "time",
+      "startMs": 26506,
+      "endMs": 26877
+    },
+    {
+      "text": "reviewing",
+      "startMs": 27005,
+      "endMs": 27504
+    },
+    {
+      "text": "his",
+      "startMs": 27597,
+      "endMs": 27748
+    },
+    {
+      "text": "slides,",
+      "startMs": 27794,
+      "endMs": 28340
+    },
+    {
+      "text": "chasing",
+      "startMs": 28444,
+      "endMs": 29013
+    },
+    {
+      "text": "his",
+      "startMs": 29095,
+      "endMs": 29211
+    },
+    {
+      "text": "prep,",
+      "startMs": 29315,
+      "endMs": 29745
+    },
+    {
+      "text": "cleaning",
+      "startMs": 29791,
+      "endMs": 30209
+    },
+    {
+      "text": "up",
+      "startMs": 30256,
+      "endMs": 30360
+    },
+    {
+      "text": "the",
+      "startMs": 30418,
+      "endMs": 30499
+    },
+    {
+      "text": "work",
+      "startMs": 30558,
+      "endMs": 30848
+    },
+    {
+      "text": "that",
+      "startMs": 30941,
+      "endMs": 31138
+    },
+    {
+      "text": "slipped.",
+      "startMs": 31219,
+      "endMs": 31660
+    },
+    {
+      "text": "And",
+      "startMs": 31684,
+      "endMs": 31834
+    },
+    {
+      "text": "he",
+      "startMs": 31916,
+      "endMs": 31974
+    },
+    {
+      "text": "started",
+      "startMs": 32031.999999999996,
+      "endMs": 32473
+    },
+    {
+      "text": "wondering,",
+      "startMs": 32554.000000000004,
+      "endMs": 33181
+    },
+    {
+      "text": "every",
+      "startMs": 33228,
+      "endMs": 33506
+    },
+    {
+      "text": "time",
+      "startMs": 33564,
+      "endMs": 33808
+    },
+    {
+      "text": "she",
+      "startMs": 33843,
+      "endMs": 34145
+    },
+    {
+      "text": "asked",
+      "startMs": 34307,
+      "endMs": 34772
+    },
+    {
+      "text": "him",
+      "startMs": 34876,
+      "endMs": 35143
+    },
+    {
+      "text": "for",
+      "startMs": 35271,
+      "endMs": 35445
+    },
+    {
+      "text": "something",
+      "startMs": 35526,
+      "endMs": 35898
+    },
+    {
+      "text": "new,",
+      "startMs": 35991,
+      "endMs": 36304
+    },
+    {
+      "text": "whether",
+      "startMs": 36351,
+      "endMs": 36687
+    },
+    {
+      "text": "it",
+      "startMs": 36769,
+      "endMs": 36885
+    },
+    {
+      "text": "was",
+      "startMs": 36966,
+      "endMs": 37117
+    },
+    {
+      "text": "really",
+      "startMs": 37245,
+      "endMs": 37570
+    },
+    {
+      "text": "optional.",
+      "startMs": 37651,
+      "endMs": 38359
+    }
+  ]
+}

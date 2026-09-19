@@ -1,0 +1,161 @@
+{
+  "text": "So she pushed the point directly. She gave encouragement, repeated exactly what she expected, added check-ins to keep it in view. Every one of those conversations ended the same way: agreement.",
+  "durationMs": 14675,
+  "words": [
+    {
+      "text": "So",
+      "startMs": 0,
+      "endMs": 279
+    },
+    {
+      "text": "she",
+      "startMs": 337,
+      "endMs": 464
+    },
+    {
+      "text": "pushed",
+      "startMs": 546,
+      "endMs": 929
+    },
+    {
+      "text": "the",
+      "startMs": 1057,
+      "endMs": 1207
+    },
+    {
+      "text": "point",
+      "startMs": 1300,
+      "endMs": 1695
+    },
+    {
+      "text": "directly.",
+      "startMs": 1823,
+      "endMs": 2647
+    },
+    {
+      "text": "She",
+      "startMs": 2728,
+      "endMs": 2891
+    },
+    {
+      "text": "gave",
+      "startMs": 2984,
+      "endMs": 3286
+    },
+    {
+      "text": "encouragement,",
+      "startMs": 3344,
+      "endMs": 4296
+    },
+    {
+      "text": "repeated",
+      "startMs": 4389,
+      "endMs": 4911
+    },
+    {
+      "text": "exactly",
+      "startMs": 5050,
+      "endMs": 5724
+    },
+    {
+      "text": "what",
+      "startMs": 5817,
+      "endMs": 6037
+    },
+    {
+      "text": "she",
+      "startMs": 6118,
+      "endMs": 6327
+    },
+    {
+      "text": "expected,",
+      "startMs": 6385,
+      "endMs": 7291
+    },
+    {
+      "text": "added",
+      "startMs": 7419,
+      "endMs": 7755
+    },
+    {
+      "text": "check-ins",
+      "startMs": 7860,
+      "endMs": 8522
+    },
+    {
+      "text": "to",
+      "startMs": 8649,
+      "endMs": 8754
+    },
+    {
+      "text": "keep",
+      "startMs": 8847,
+      "endMs": 9044
+    },
+    {
+      "text": "it",
+      "startMs": 9125,
+      "endMs": 9242
+    },
+    {
+      "text": "in",
+      "startMs": 9323,
+      "endMs": 9427
+    },
+    {
+      "text": "view.",
+      "startMs": 9520,
+      "endMs": 9938
+    },
+    {
+      "text": "Every",
+      "startMs": 10077,
+      "endMs": 10379
+    },
+    {
+      "text": "one",
+      "startMs": 10437,
+      "endMs": 10588
+    },
+    {
+      "text": "of",
+      "startMs": 10623,
+      "endMs": 10681
+    },
+    {
+      "text": "those",
+      "startMs": 10739,
+      "endMs": 10960
+    },
+    {
+      "text": "conversations",
+      "startMs": 11006,
+      "endMs": 12005
+    },
+    {
+      "text": "ended",
+      "startMs": 12132,
+      "endMs": 12539
+    },
+    {
+      "text": "the",
+      "startMs": 12666,
+      "endMs": 12794
+    },
+    {
+      "text": "same",
+      "startMs": 12852,
+      "endMs": 13166
+    },
+    {
+      "text": "way:",
+      "startMs": 13212,
+      "endMs": 13595
+    },
+    {
+      "text": "agreement.",
+      "startMs": 13618,
+      "endMs": 14675
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "text": "Learning is changing behavior. If the team keeps working the same way, they learned nothing. Making the session mandatory doesn't change that.",
+  "durationMs": 9938,
+  "words": [
+    {
+      "text": "Learning",
+      "startMs": 0,
+      "endMs": 592
+    },
+    {
+      "text": "is",
+      "startMs": 697,
+      "endMs": 882
+    },
+    {
+      "text": "changing",
+      "startMs": 987,
+      "endMs": 1440
+    },
+    {
+      "text": "behavior.",
+      "startMs": 1544,
+      "endMs": 2276
+    },
+    {
+      "text": "If",
+      "startMs": 2357,
+      "endMs": 2519
+    },
+    {
+      "text": "the",
+      "startMs": 2601,
+      "endMs": 2705
+    },
+    {
+      "text": "team",
+      "startMs": 2810,
+      "endMs": 3042
+    },
+    {
+      "text": "keeps",
+      "startMs": 3146,
+      "endMs": 3518
+    },
+    {
+      "text": "working",
+      "startMs": 3622,
+      "endMs": 4133
+    },
+    {
+      "text": "the",
+      "startMs": 4238,
+      "endMs": 4319
+    },
+    {
+      "text": "same",
+      "startMs": 4365,
+      "endMs": 4632
+    },
+    {
+      "text": "way,",
+      "startMs": 4667,
+      "endMs": 5027
+    },
+    {
+      "text": "they",
+      "startMs": 5108,
+      "endMs": 5259
+    },
+    {
+      "text": "learned",
+      "startMs": 5317,
+      "endMs": 5608
+    },
+    {
+      "text": "nothing.",
+      "startMs": 5735,
+      "endMs": 6211
+    },
+    {
+      "text": "Making",
+      "startMs": 6339,
+      "endMs": 6711
+    },
+    {
+      "text": "the",
+      "startMs": 6757,
+      "endMs": 6850
+    },
+    {
+      "text": "session",
+      "startMs": 6908,
+      "endMs": 7396
+    },
+    {
+      "text": "mandatory",
+      "startMs": 7523,
+      "endMs": 8382
+    },
+    {
+      "text": "doesn't",
+      "startMs": 8545,
+      "endMs": 8893
+    },
+    {
+      "text": "change",
+      "startMs": 8940,
+      "endMs": 9323
+    },
+    {
+      "text": "that.",
+      "startMs": 9381,
+      "endMs": 9938
+    }
+  ]
+}

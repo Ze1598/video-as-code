@@ -1,0 +1,191 @@
+{
+  "text": "He was right to build it — teams couldn't reuse work they didn't know existed, and shared spaces finally gave them somewhere to look. The mistake was in what got measured: completion. It tracked attendance. Not change.",
+  "durationMs": 16254.000000000002,
+  "words": [
+    {
+      "text": "He",
+      "startMs": 0,
+      "endMs": 174
+    },
+    {
+      "text": "was",
+      "startMs": 255,
+      "endMs": 499
+    },
+    {
+      "text": "right",
+      "startMs": 731,
+      "endMs": 1033
+    },
+    {
+      "text": "to",
+      "startMs": 1115,
+      "endMs": 1231
+    },
+    {
+      "text": "build",
+      "startMs": 1324,
+      "endMs": 1614
+    },
+    {
+      "text": "it",
+      "startMs": 1649,
+      "endMs": 1753
+    },
+    {
+      "text": "—",
+      "startMs": 1939,
+      "endMs": 1997
+    },
+    {
+      "text": "teams",
+      "startMs": 2043.0000000000002,
+      "endMs": 2426
+    },
+    {
+      "text": "couldn't",
+      "startMs": 2519,
+      "endMs": 2891
+    },
+    {
+      "text": "reuse",
+      "startMs": 2995,
+      "endMs": 3529
+    },
+    {
+      "text": "work",
+      "startMs": 3587,
+      "endMs": 3913
+    },
+    {
+      "text": "they",
+      "startMs": 4040,
+      "endMs": 4214
+    },
+    {
+      "text": "didn't",
+      "startMs": 4261,
+      "endMs": 4656
+    },
+    {
+      "text": "know",
+      "startMs": 4783,
+      "endMs": 5108
+    },
+    {
+      "text": "existed,",
+      "startMs": 5236,
+      "endMs": 6049
+    },
+    {
+      "text": "and",
+      "startMs": 6072,
+      "endMs": 6258
+    },
+    {
+      "text": "shared",
+      "startMs": 6385,
+      "endMs": 6769
+    },
+    {
+      "text": "spaces",
+      "startMs": 6827,
+      "endMs": 7396
+    },
+    {
+      "text": "finally",
+      "startMs": 7523,
+      "endMs": 8092.000000000001
+    },
+    {
+      "text": "gave",
+      "startMs": 8185.000000000001,
+      "endMs": 8440
+    },
+    {
+      "text": "them",
+      "startMs": 8487,
+      "endMs": 8719
+    },
+    {
+      "text": "somewhere",
+      "startMs": 8858,
+      "endMs": 9346
+    },
+    {
+      "text": "to",
+      "startMs": 9404,
+      "endMs": 9474
+    },
+    {
+      "text": "look.",
+      "startMs": 9555,
+      "endMs": 9973
+    },
+    {
+      "text": "The",
+      "startMs": 10008,
+      "endMs": 10112
+    },
+    {
+      "text": "mistake",
+      "startMs": 10170,
+      "endMs": 10751
+    },
+    {
+      "text": "was",
+      "startMs": 10809,
+      "endMs": 11192
+    },
+    {
+      "text": "in",
+      "startMs": 11331,
+      "endMs": 11517
+    },
+    {
+      "text": "what",
+      "startMs": 11598,
+      "endMs": 11854
+    },
+    {
+      "text": "got",
+      "startMs": 11947,
+      "endMs": 12237
+    },
+    {
+      "text": "measured:",
+      "startMs": 12341,
+      "endMs": 12910
+    },
+    {
+      "text": "completion.",
+      "startMs": 12992,
+      "endMs": 13723
+    },
+    {
+      "text": "It",
+      "startMs": 13781,
+      "endMs": 13932
+    },
+    {
+      "text": "tracked",
+      "startMs": 13967,
+      "endMs": 14338
+    },
+    {
+      "text": "attendance.",
+      "startMs": 14385,
+      "endMs": 15163
+    },
+    {
+      "text": "Not",
+      "startMs": 15267,
+      "endMs": 15499
+    },
+    {
+      "text": "change.",
+      "startMs": 15581,
+      "endMs": 16254.000000000002
+    }
+  ]
+}

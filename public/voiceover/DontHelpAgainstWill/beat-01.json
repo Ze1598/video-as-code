@@ -1,0 +1,261 @@
+{
+  "text": "A manager asked one of her engineers to lead an internal knowledge-sharing session. He said yes. He put the work together, walked the room through it, and fielded every question that came back at him. The coordination it took — scheduling, prep, follow-up — he handled that too. It went well.",
+  "durationMs": 20712,
+  "words": [
+    {
+      "text": "A",
+      "startMs": 0,
+      "endMs": 58
+    },
+    {
+      "text": "manager",
+      "startMs": 163,
+      "endMs": 580
+    },
+    {
+      "text": "asked",
+      "startMs": 685,
+      "endMs": 1173
+    },
+    {
+      "text": "one",
+      "startMs": 1358,
+      "endMs": 1614
+    },
+    {
+      "text": "of",
+      "startMs": 1672,
+      "endMs": 1811
+    },
+    {
+      "text": "her",
+      "startMs": 1916,
+      "endMs": 2032
+    },
+    {
+      "text": "engineers",
+      "startMs": 2113,
+      "endMs": 2705
+    },
+    {
+      "text": "to",
+      "startMs": 2810,
+      "endMs": 2949
+    },
+    {
+      "text": "lead",
+      "startMs": 3077,
+      "endMs": 3320
+    },
+    {
+      "text": "an",
+      "startMs": 3413,
+      "endMs": 3541
+    },
+    {
+      "text": "internal",
+      "startMs": 3634,
+      "endMs": 4122
+    },
+    {
+      "text": "knowledge-sharing",
+      "startMs": 4180,
+      "endMs": 5271
+    },
+    {
+      "text": "session.",
+      "startMs": 5433,
+      "endMs": 6060
+    },
+    {
+      "text": "He",
+      "startMs": 6293,
+      "endMs": 6420
+    },
+    {
+      "text": "said",
+      "startMs": 6478,
+      "endMs": 6734
+    },
+    {
+      "text": "yes.",
+      "startMs": 6792,
+      "endMs": 7245
+    },
+    {
+      "text": "He",
+      "startMs": 7303,
+      "endMs": 7430
+    },
+    {
+      "text": "put",
+      "startMs": 7488,
+      "endMs": 7674
+    },
+    {
+      "text": "the",
+      "startMs": 7721,
+      "endMs": 7790
+    },
+    {
+      "text": "work",
+      "startMs": 7848,
+      "endMs": 8092.000000000001
+    },
+    {
+      "text": "together,",
+      "startMs": 8150,
+      "endMs": 8777
+    },
+    {
+      "text": "walked",
+      "startMs": 8824,
+      "endMs": 9160
+    },
+    {
+      "text": "the",
+      "startMs": 9288,
+      "endMs": 9392
+    },
+    {
+      "text": "room",
+      "startMs": 9474,
+      "endMs": 9694
+    },
+    {
+      "text": "through",
+      "startMs": 9776,
+      "endMs": 10066
+    },
+    {
+      "text": "it,",
+      "startMs": 10112,
+      "endMs": 10298
+    },
+    {
+      "text": "and",
+      "startMs": 10344,
+      "endMs": 10530
+    },
+    {
+      "text": "fielded",
+      "startMs": 10623,
+      "endMs": 11215
+    },
+    {
+      "text": "every",
+      "startMs": 11308,
+      "endMs": 11598
+    },
+    {
+      "text": "question",
+      "startMs": 11656,
+      "endMs": 12156
+    },
+    {
+      "text": "that",
+      "startMs": 12237,
+      "endMs": 12434
+    },
+    {
+      "text": "came",
+      "startMs": 12516,
+      "endMs": 12771
+    },
+    {
+      "text": "back",
+      "startMs": 12817,
+      "endMs": 13084
+    },
+    {
+      "text": "at",
+      "startMs": 13189,
+      "endMs": 13363
+    },
+    {
+      "text": "him.",
+      "startMs": 13444,
+      "endMs": 13723
+    },
+    {
+      "text": "The",
+      "startMs": 13886,
+      "endMs": 13990
+    },
+    {
+      "text": "coordination",
+      "startMs": 14048,
+      "endMs": 14756
+    },
+    {
+      "text": "it",
+      "startMs": 14849,
+      "endMs": 15000
+    },
+    {
+      "text": "took",
+      "startMs": 15058,
+      "endMs": 15325
+    },
+    {
+      "text": "—",
+      "startMs": 15464,
+      "endMs": 15546
+    },
+    {
+      "text": "scheduling,",
+      "startMs": 15732,
+      "endMs": 16393
+    },
+    {
+      "text": "prep,",
+      "startMs": 16440,
+      "endMs": 16985
+    },
+    {
+      "text": "follow-up",
+      "startMs": 17171,
+      "endMs": 17786
+    },
+    {
+      "text": "—",
+      "startMs": 17914,
+      "endMs": 17984
+    },
+    {
+      "text": "he",
+      "startMs": 18065,
+      "endMs": 18204
+    },
+    {
+      "text": "handled",
+      "startMs": 18286,
+      "endMs": 18704
+    },
+    {
+      "text": "that",
+      "startMs": 18738,
+      "endMs": 18959
+    },
+    {
+      "text": "too.",
+      "startMs": 19017,
+      "endMs": 19389
+    },
+    {
+      "text": "It",
+      "startMs": 19621,
+      "endMs": 19783
+    },
+    {
+      "text": "went",
+      "startMs": 19865,
+      "endMs": 20085
+    },
+    {
+      "text": "well.",
+      "startMs": 20167,
+      "endMs": 20712
+    }
+  ]
+}

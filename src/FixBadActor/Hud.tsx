@@ -1,7 +1,7 @@
 import { BEATS } from "./data.ts";
 import { BEAT_ORDER, FPS, TIMELINE } from "./timeline.ts";
 import { HIGHLIGHTS } from "./layout.ts";
-import { Caption as SharedCaption } from "../lib/scenes/Caption.tsx";
+import { Caption as SharedCaption } from "../archive/lib/scenes/Caption.tsx";
 
 // Beat 0 (Hook), Beat 5 (quote), Beats 9-11 (reflective LongFormScene),
 // Beat 12 (list), Beat 13 (split) and Beat 15 (CTA) all render their own

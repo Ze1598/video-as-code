@@ -1,0 +1,121 @@
+{
+  "text": "The migration fell behind. The department head scratched his curiosity itch. His team paid for it with more work and a delayed project.",
+  "durationMs": 10635,
+  "words": [
+    {
+      "text": "The",
+      "startMs": 0,
+      "endMs": 163
+    },
+    {
+      "text": "migration",
+      "startMs": 255,
+      "endMs": 940
+    },
+    {
+      "text": "fell",
+      "startMs": 1045,
+      "endMs": 1358
+    },
+    {
+      "text": "behind.",
+      "startMs": 1521,
+      "endMs": 2241
+    },
+    {
+      "text": "The",
+      "startMs": 2322,
+      "endMs": 2438
+    },
+    {
+      "text": "department",
+      "startMs": 2496,
+      "endMs": 3135
+    },
+    {
+      "text": "head",
+      "startMs": 3239,
+      "endMs": 3506
+    },
+    {
+      "text": "scratched",
+      "startMs": 3646,
+      "endMs": 4180
+    },
+    {
+      "text": "his",
+      "startMs": 4284,
+      "endMs": 4540
+    },
+    {
+      "text": "curiosity",
+      "startMs": 4667,
+      "endMs": 5433
+    },
+    {
+      "text": "itch.",
+      "startMs": 5561,
+      "endMs": 6072
+    },
+    {
+      "text": "His",
+      "startMs": 6235,
+      "endMs": 6420
+    },
+    {
+      "text": "team",
+      "startMs": 6513,
+      "endMs": 6745
+    },
+    {
+      "text": "paid",
+      "startMs": 6838,
+      "endMs": 7140
+    },
+    {
+      "text": "for",
+      "startMs": 7221,
+      "endMs": 7361
+    },
+    {
+      "text": "it",
+      "startMs": 7442,
+      "endMs": 7558
+    },
+    {
+      "text": "with",
+      "startMs": 7663,
+      "endMs": 7883
+    },
+    {
+      "text": "more",
+      "startMs": 7976,
+      "endMs": 8243
+    },
+    {
+      "text": "work",
+      "startMs": 8336,
+      "endMs": 8731
+    },
+    {
+      "text": "and",
+      "startMs": 8858,
+      "endMs": 9021
+    },
+    {
+      "text": "a",
+      "startMs": 9079,
+      "endMs": 9114
+    },
+    {
+      "text": "delayed",
+      "startMs": 9195,
+      "endMs": 9613
+    },
+    {
+      "text": "project.",
+      "startMs": 9706,
+      "endMs": 10635
+    }
+  ]
+}

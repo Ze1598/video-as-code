@@ -1,0 +1,151 @@
+{
+  "text": "A department head was already leading a cloud migration. His engineers were learning a new provider while moving the team's infrastructure, and every surprise demanded investigation, questions, and decisions.",
+  "durationMs": 16168,
+  "words": [
+    {
+      "text": "A",
+      "startMs": 500,
+      "endMs": 593
+    },
+    {
+      "text": "department",
+      "startMs": 721,
+      "endMs": 1440
+    },
+    {
+      "text": "head",
+      "startMs": 1568,
+      "endMs": 1870
+    },
+    {
+      "text": "was",
+      "startMs": 2056,
+      "endMs": 2346
+    },
+    {
+      "text": "already",
+      "startMs": 2450,
+      "endMs": 2996
+    },
+    {
+      "text": "leading",
+      "startMs": 3089,
+      "endMs": 3507
+    },
+    {
+      "text": "a",
+      "startMs": 3635,
+      "endMs": 3728
+    },
+    {
+      "text": "cloud",
+      "startMs": 3820,
+      "endMs": 4122
+    },
+    {
+      "text": "migration.",
+      "startMs": 4204,
+      "endMs": 4923
+    },
+    {
+      "text": "His",
+      "startMs": 5301,
+      "endMs": 5487
+    },
+    {
+      "text": "engineers",
+      "startMs": 5580,
+      "endMs": 6172
+    },
+    {
+      "text": "were",
+      "startMs": 6300,
+      "endMs": 6509
+    },
+    {
+      "text": "learning",
+      "startMs": 6567,
+      "endMs": 6996
+    },
+    {
+      "text": "a",
+      "startMs": 7124,
+      "endMs": 7217
+    },
+    {
+      "text": "new",
+      "startMs": 7344,
+      "endMs": 7519
+    },
+    {
+      "text": "provider",
+      "startMs": 7600,
+      "endMs": 8238
+    },
+    {
+      "text": "while",
+      "startMs": 8366,
+      "endMs": 8598
+    },
+    {
+      "text": "moving",
+      "startMs": 8645,
+      "endMs": 9040
+    },
+    {
+      "text": "the",
+      "startMs": 9144,
+      "endMs": 9260
+    },
+    {
+      "text": "team's",
+      "startMs": 9307,
+      "endMs": 9690
+    },
+    {
+      "text": "infrastructure,",
+      "startMs": 9852,
+      "endMs": 10944
+    },
+    {
+      "text": "and",
+      "startMs": 10978,
+      "endMs": 11164
+    },
+    {
+      "text": "every",
+      "startMs": 11269,
+      "endMs": 11536
+    },
+    {
+      "text": "surprise",
+      "startMs": 11582,
+      "endMs": 12081
+    },
+    {
+      "text": "demanded",
+      "startMs": 12139,
+      "endMs": 12859
+    },
+    {
+      "text": "investigation,",
+      "startMs": 13045,
+      "endMs": 14160
+    },
+    {
+      "text": "questions,",
+      "startMs": 14194,
+      "endMs": 14926
+    },
+    {
+      "text": "and",
+      "startMs": 14961,
+      "endMs": 15146
+    },
+    {
+      "text": "decisions.",
+      "startMs": 15239,
+      "endMs": 16168
+    }
+  ]
+}

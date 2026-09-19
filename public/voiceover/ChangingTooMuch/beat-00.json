@@ -1,0 +1,111 @@
+{
+  "text": "The team had one critical project. Then their leader found a way to make them more productive. The project fell behind.",
+  "durationMs": 8266,
+  "words": [
+    {
+      "text": "The",
+      "startMs": 0,
+      "endMs": 325
+    },
+    {
+      "text": "team",
+      "startMs": 488,
+      "endMs": 917
+    },
+    {
+      "text": "had",
+      "startMs": 1103,
+      "endMs": 1440
+    },
+    {
+      "text": "one",
+      "startMs": 1567,
+      "endMs": 1788
+    },
+    {
+      "text": "critical",
+      "startMs": 1823,
+      "endMs": 2264
+    },
+    {
+      "text": "project.",
+      "startMs": 2357,
+      "endMs": 2961
+    },
+    {
+      "text": "Then",
+      "startMs": 2995,
+      "endMs": 3216
+    },
+    {
+      "text": "their",
+      "startMs": 3274,
+      "endMs": 3448
+    },
+    {
+      "text": "leader",
+      "startMs": 3529,
+      "endMs": 3855
+    },
+    {
+      "text": "found",
+      "startMs": 3936,
+      "endMs": 4156
+    },
+    {
+      "text": "a",
+      "startMs": 4203,
+      "endMs": 4238
+    },
+    {
+      "text": "way",
+      "startMs": 4319,
+      "endMs": 4574
+    },
+    {
+      "text": "to",
+      "startMs": 4667,
+      "endMs": 4783
+    },
+    {
+      "text": "make",
+      "startMs": 4876,
+      "endMs": 5074
+    },
+    {
+      "text": "them",
+      "startMs": 5108,
+      "endMs": 5259
+    },
+    {
+      "text": "more",
+      "startMs": 5352,
+      "endMs": 5538
+    },
+    {
+      "text": "productive.",
+      "startMs": 5584,
+      "endMs": 6304
+    },
+    {
+      "text": "The",
+      "startMs": 6432,
+      "endMs": 6548
+    },
+    {
+      "text": "project",
+      "startMs": 6629,
+      "endMs": 7094
+    },
+    {
+      "text": "fell",
+      "startMs": 7175,
+      "endMs": 7454
+    },
+    {
+      "text": "behind.",
+      "startMs": 7546,
+      "endMs": 8266
+    }
+  ]
+}

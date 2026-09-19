@@ -1,0 +1,266 @@
+{
+  "text": "Then new requests arrived. Each team picked up its tickets and started building — the way they always had. No one checked the shared repository. No one asked whether another team was working on the same requirement. The process was there. It just wasn't part of how either team actually started work.",
+  "durationMs": 20619,
+  "words": [
+    {
+      "text": "Then",
+      "startMs": 0,
+      "endMs": 267
+    },
+    {
+      "text": "new",
+      "startMs": 395,
+      "endMs": 639
+    },
+    {
+      "text": "requests",
+      "startMs": 697,
+      "endMs": 1405
+    },
+    {
+      "text": "arrived.",
+      "startMs": 1509,
+      "endMs": 2136
+    },
+    {
+      "text": "Each",
+      "startMs": 2218,
+      "endMs": 2461
+    },
+    {
+      "text": "team",
+      "startMs": 2566,
+      "endMs": 2844
+    },
+    {
+      "text": "picked",
+      "startMs": 2972,
+      "endMs": 3274
+    },
+    {
+      "text": "up",
+      "startMs": 3367,
+      "endMs": 3576
+    },
+    {
+      "text": "its",
+      "startMs": 3704,
+      "endMs": 3936
+    },
+    {
+      "text": "tickets",
+      "startMs": 4017.0000000000005,
+      "endMs": 4516
+    },
+    {
+      "text": "and",
+      "startMs": 4551,
+      "endMs": 4679
+    },
+    {
+      "text": "started",
+      "startMs": 4737,
+      "endMs": 5178
+    },
+    {
+      "text": "building",
+      "startMs": 5271,
+      "endMs": 5654
+    },
+    {
+      "text": "—",
+      "startMs": 5735,
+      "endMs": 5782
+    },
+    {
+      "text": "the",
+      "startMs": 5840,
+      "endMs": 5944
+    },
+    {
+      "text": "way",
+      "startMs": 6026,
+      "endMs": 6165
+    },
+    {
+      "text": "they",
+      "startMs": 6211,
+      "endMs": 6351
+    },
+    {
+      "text": "always",
+      "startMs": 6409,
+      "endMs": 6757
+    },
+    {
+      "text": "had.",
+      "startMs": 6850,
+      "endMs": 7187
+    },
+    {
+      "text": "No",
+      "startMs": 7245,
+      "endMs": 7419
+    },
+    {
+      "text": "one",
+      "startMs": 7500,
+      "endMs": 7628
+    },
+    {
+      "text": "checked",
+      "startMs": 7674,
+      "endMs": 7988
+    },
+    {
+      "text": "the",
+      "startMs": 8045.999999999999,
+      "endMs": 8115
+    },
+    {
+      "text": "shared",
+      "startMs": 8173,
+      "endMs": 8557
+    },
+    {
+      "text": "repository.",
+      "startMs": 8649,
+      "endMs": 9543
+    },
+    {
+      "text": "No",
+      "startMs": 9706,
+      "endMs": 9845
+    },
+    {
+      "text": "one",
+      "startMs": 9938,
+      "endMs": 10136
+    },
+    {
+      "text": "asked",
+      "startMs": 10228,
+      "endMs": 10681
+    },
+    {
+      "text": "whether",
+      "startMs": 10774,
+      "endMs": 11088
+    },
+    {
+      "text": "another",
+      "startMs": 11169,
+      "endMs": 11517
+    },
+    {
+      "text": "team",
+      "startMs": 11598,
+      "endMs": 11877
+    },
+    {
+      "text": "was",
+      "startMs": 11981,
+      "endMs": 12156
+    },
+    {
+      "text": "working",
+      "startMs": 12260,
+      "endMs": 12632
+    },
+    {
+      "text": "on",
+      "startMs": 12713,
+      "endMs": 12806
+    },
+    {
+      "text": "the",
+      "startMs": 12841,
+      "endMs": 12922
+    },
+    {
+      "text": "same",
+      "startMs": 12968,
+      "endMs": 13224
+    },
+    {
+      "text": "requirement.",
+      "startMs": 13259,
+      "endMs": 14141
+    },
+    {
+      "text": "The",
+      "startMs": 14443,
+      "endMs": 14547
+    },
+    {
+      "text": "process",
+      "startMs": 14605,
+      "endMs": 15174
+    },
+    {
+      "text": "was",
+      "startMs": 15267,
+      "endMs": 15453
+    },
+    {
+      "text": "there.",
+      "startMs": 15545,
+      "endMs": 15894
+    },
+    {
+      "text": "It",
+      "startMs": 15998,
+      "endMs": 16207
+    },
+    {
+      "text": "just",
+      "startMs": 16312.000000000002,
+      "endMs": 16614
+    },
+    {
+      "text": "wasn't",
+      "startMs": 16706,
+      "endMs": 17101
+    },
+    {
+      "text": "part",
+      "startMs": 17206,
+      "endMs": 17531
+    },
+    {
+      "text": "of",
+      "startMs": 17612,
+      "endMs": 17775
+    },
+    {
+      "text": "how",
+      "startMs": 17879,
+      "endMs": 18100
+    },
+    {
+      "text": "either",
+      "startMs": 18227,
+      "endMs": 18552
+    },
+    {
+      "text": "team",
+      "startMs": 18657,
+      "endMs": 18936
+    },
+    {
+      "text": "actually",
+      "startMs": 19063,
+      "endMs": 19586
+    },
+    {
+      "text": "started",
+      "startMs": 19621,
+      "endMs": 20108
+    },
+    {
+      "text": "work.",
+      "startMs": 20189,
+      "endMs": 20619
+    }
+  ]
+}

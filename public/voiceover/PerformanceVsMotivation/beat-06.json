@@ -1,0 +1,56 @@
+{
+  "text": "I've tried everything I can. They don't seem to care.",
+  "durationMs": 3437,
+  "words": [
+    {
+      "text": "I've",
+      "startMs": 0,
+      "endMs": 221
+    },
+    {
+      "text": "tried",
+      "startMs": 244,
+      "endMs": 604
+    },
+    {
+      "text": "everything",
+      "startMs": 731,
+      "endMs": 1254
+    },
+    {
+      "text": "I",
+      "startMs": 1358,
+      "endMs": 1405
+    },
+    {
+      "text": "can.",
+      "startMs": 1509,
+      "endMs": 1846
+    },
+    {
+      "text": "They",
+      "startMs": 1974,
+      "endMs": 2148
+    },
+    {
+      "text": "don't",
+      "startMs": 2194,
+      "endMs": 2403
+    },
+    {
+      "text": "seem",
+      "startMs": 2461,
+      "endMs": 2752
+    },
+    {
+      "text": "to",
+      "startMs": 2844,
+      "endMs": 2914
+    },
+    {
+      "text": "care.",
+      "startMs": 3007,
+      "endMs": 3437
+    }
+  ]
+}

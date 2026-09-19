@@ -1,0 +1,141 @@
+{
+  "text": "Then he read a blog post about running productive meetings. The approach looked useful, so within hours he asked the team to rebuild every meeting around it.",
+  "durationMs": 12592,
+  "words": [
+    {
+      "text": "Then",
+      "startMs": 500,
+      "endMs": 755
+    },
+    {
+      "text": "he",
+      "startMs": 860,
+      "endMs": 976
+    },
+    {
+      "text": "read",
+      "startMs": 1069,
+      "endMs": 1336
+    },
+    {
+      "text": "a",
+      "startMs": 1417,
+      "endMs": 1464
+    },
+    {
+      "text": "blog",
+      "startMs": 1545,
+      "endMs": 1812
+    },
+    {
+      "text": "post",
+      "startMs": 1905,
+      "endMs": 2265
+    },
+    {
+      "text": "about",
+      "startMs": 2404,
+      "endMs": 2903
+    },
+    {
+      "text": "running",
+      "startMs": 3089,
+      "endMs": 3461
+    },
+    {
+      "text": "productive",
+      "startMs": 3588,
+      "endMs": 4238
+    },
+    {
+      "text": "meetings.",
+      "startMs": 4273,
+      "endMs": 4889
+    },
+    {
+      "text": "The",
+      "startMs": 5371,
+      "endMs": 5510
+    },
+    {
+      "text": "approach",
+      "startMs": 5557,
+      "endMs": 6114
+    },
+    {
+      "text": "looked",
+      "startMs": 6242,
+      "endMs": 6555
+    },
+    {
+      "text": "useful,",
+      "startMs": 6683,
+      "endMs": 7391
+    },
+    {
+      "text": "so",
+      "startMs": 7623,
+      "endMs": 7797
+    },
+    {
+      "text": "within",
+      "startMs": 7879,
+      "endMs": 8192
+    },
+    {
+      "text": "hours",
+      "startMs": 8296,
+      "endMs": 8772
+    },
+    {
+      "text": "he",
+      "startMs": 8865,
+      "endMs": 9005
+    },
+    {
+      "text": "asked",
+      "startMs": 9086,
+      "endMs": 9423
+    },
+    {
+      "text": "the",
+      "startMs": 9469,
+      "endMs": 9562
+    },
+    {
+      "text": "team",
+      "startMs": 9620,
+      "endMs": 9887
+    },
+    {
+      "text": "to",
+      "startMs": 10015,
+      "endMs": 10154
+    },
+    {
+      "text": "rebuild",
+      "startMs": 10247,
+      "endMs": 10758
+    },
+    {
+      "text": "every",
+      "startMs": 10886,
+      "endMs": 11164
+    },
+    {
+      "text": "meeting",
+      "startMs": 11245,
+      "endMs": 11605
+    },
+    {
+      "text": "around",
+      "startMs": 11698,
+      "endMs": 12093
+    },
+    {
+      "text": "it.",
+      "startMs": 12174,
+      "endMs": 12592
+    }
+  ]
+}

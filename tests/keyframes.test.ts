@@ -1,7 +1,7 @@
 import { test } from "node:test";
 import assert from "node:assert/strict";
-import { assertStrictlyIncreasing, opacityFactory } from "../src/lib/keyframes.ts";
-import { cameraTransformFactory } from "../src/lib/Camera.ts";
+import { assertStrictlyIncreasing, opacityFactory } from "../src/archive/lib/keyframes.ts";
+import { cameraTransformFactory } from "../src/archive/lib/Camera.ts";
 
 // Regression tests for two real bugs hit while building HoldYourStandards:
 // a camera-keyframe collision at a beat boundary (two adjacent beats each

@@ -1,10 +1,10 @@
 import { frameOfWord, TIMELINE, TOTAL_DURATION } from "./timeline.ts";
-import { DEFAULT_CAPTION_TOP, DEFAULT_DIAGRAM_SCALE } from "../lib/diagram/DiagramFrame.tsx";
-import { fitCameraToFocus } from "../lib/diagram/frameFit.ts";
+import { DEFAULT_CAPTION_TOP, DEFAULT_DIAGRAM_SCALE } from "../archive/lib/diagram/DiagramFrame.tsx";
+import { fitCameraToFocus } from "../archive/lib/diagram/frameFit.ts";
 
 // Same base palette as the other essay videos, for series continuity — see
 // src/lib/palette.ts, the shared source of truth.
-export { BG, TEXT, DIM_TEXT, ACCENT, LINE_INACTIVE, LINE_ACTIVE } from "../lib/palette.ts";
+export { BG, TEXT, DIM_TEXT, ACCENT, LINE_INACTIVE, LINE_ACTIVE } from "../lib/essay-sdk/palette.ts";
 
 export type NodeId = "mgmt" | "team" | "operations" | "dept" | "prod" | "arch";
 

@@ -1,0 +1,101 @@
+{
+  "text": "When was the last time you called someone unmotivated — without first asking what was actually in their way?",
+  "durationMs": 7709,
+  "words": [
+    {
+      "text": "When",
+      "startMs": 0,
+      "endMs": 279
+    },
+    {
+      "text": "was",
+      "startMs": 406,
+      "endMs": 639
+    },
+    {
+      "text": "the",
+      "startMs": 697,
+      "endMs": 778
+    },
+    {
+      "text": "last",
+      "startMs": 871,
+      "endMs": 1115
+    },
+    {
+      "text": "time",
+      "startMs": 1161,
+      "endMs": 1405
+    },
+    {
+      "text": "you",
+      "startMs": 1486,
+      "endMs": 1591
+    },
+    {
+      "text": "called",
+      "startMs": 1683,
+      "endMs": 1985
+    },
+    {
+      "text": "someone",
+      "startMs": 2078,
+      "endMs": 2740
+    },
+    {
+      "text": "unmotivated",
+      "startMs": 2775,
+      "endMs": 3808
+    },
+    {
+      "text": "—",
+      "startMs": 3889,
+      "endMs": 3936
+    },
+    {
+      "text": "without",
+      "startMs": 3994,
+      "endMs": 4400
+    },
+    {
+      "text": "first",
+      "startMs": 4493,
+      "endMs": 4795
+    },
+    {
+      "text": "asking",
+      "startMs": 4899,
+      "endMs": 5433
+    },
+    {
+      "text": "what",
+      "startMs": 5573,
+      "endMs": 5817
+    },
+    {
+      "text": "was",
+      "startMs": 5909,
+      "endMs": 6118
+    },
+    {
+      "text": "actually",
+      "startMs": 6211,
+      "endMs": 6769
+    },
+    {
+      "text": "in",
+      "startMs": 6850,
+      "endMs": 6989
+    },
+    {
+      "text": "their",
+      "startMs": 7070,
+      "endMs": 7256
+    },
+    {
+      "text": "way?",
+      "startMs": 7338,
+      "endMs": 7709
+    }
+  ]
+}
