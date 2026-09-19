@@ -1,3 +1,4 @@
+import { labelWidth, wrapLabel } from "./text-metrics.ts";
 import { BG, TEXT, ACCENT } from "./palette.ts";
 import { splitSentences, type WordTiming } from "./sentences.ts";
 import {
@@ -28,18 +29,21 @@ export type Scene = {
   relationships?: (Interval & { from: string; to: string })[];
   textMotion?: "rise";
   textStyle?: "normal" | "italic";
+  itemAlignment?: "left" | "center";
   transition?: "reflow";
   audio?: { src: string; duration: number };
   visuals?: Visual[];
 };
-export type EssayPlan = { fps: number; scenes: Scene[] };
+export type EssayPlan = { fps: number; scenes: Scene[]; fadeInFrames?: number };
 type Box = { x: number; y: number; width: number; height: number };
 type CompiledScene = Scene & {
   from: number;
   boxes: Record<string, Box>;
   slots: Record<string, string[]>;
+  listWidths: Record<string, number>;
+  itemLines: Record<string, string[]>;
 };
-export type Movie = { fps: number; duration: number; scenes: CompiledScene[] };
+export type Movie = { fps: number; duration: number; scenes: CompiledScene[]; fadeInFrames?: number };
 const requireValue = (condition: unknown, message: string) => {
   if (!condition) throw new Error(message);
 };
@@ -183,18 +187,30 @@ export function compileEssay(plan: EssayPlan): Movie {
         "invalid narration timing",
       ),
     );
-    const result = { ...scene, from, boxes, slots };
+    // Measure every reserved row, including future reveals and incoming work.
+    // Wrapping is decided before fitting the list, and stays stable during motion.
+    const itemLines: Record<string, string[]> = {};
+    for (const item of scene.items) {
+      const owners = [item.owner, ...scene.transfers.filter(t => t.item === item.id).map(t => t.to)];
+      const available = Math.min(...owners.map(owner => Math.min(600, boxes[owner].width - 120)));
+      itemLines[item.id] = wrapLabel(item.label, available);
+    }
+    const listWidths = Object.fromEntries(Object.entries(slots).map(([owner, ids]) => [
+      owner, Math.max(1, ...ids.flatMap(id => itemLines[id].map(line => labelWidth(line)))),
+    ]));
+    const result = { ...scene, from, boxes, slots, listWidths, itemLines };
     from += scene.duration;
     return result;
   });
-  return { fps: plan.fps, duration: from, scenes };
+  requireValue(plan.fadeInFrames === undefined || (Number.isInteger(plan.fadeInFrames) && plan.fadeInFrames > 0 && plan.fadeInFrames < from), "invalid opening fade duration");
+  return { fps: plan.fps, duration: from, scenes, ...(plan.fadeInFrames === undefined ? {} : {fadeInFrames: plan.fadeInFrames}) };
 }
 
 function slotBox(scene: CompiledScene, owner: string, item: string): Box {
   const group = scene.boxes[owner];
   const index = scene.slots[owner].indexOf(item);
   const center = group.x + group.width / 2;
-  const width = Math.min(600, group.width - 120);
+  const width = scene.listWidths[owner];
   return { x: center - width / 2, y: 390 + index * 105, width, height: 70 };
 }
 
@@ -281,6 +297,9 @@ export function frameState(movie: Movie, frame: number) {
       focused,
       visible,
       textOffset,
+      textAnchor: scene.itemAlignment === "center" ? "middle" : "start",
+      lines: scene.itemLines[item.id],
+      labelWidth: Math.max(...scene.itemLines[item.id].map(line => labelWidth(line))),
       opacity: 1,
       color: scene.takeaways.some((t) => t.item === item.id && active(t, local))
         ? ACCENT
@@ -333,7 +352,7 @@ export function frameState(movie: Movie, frame: number) {
       : 0;
   const cursors = items
     .filter((i) => i.visible && i.focused)
-    .map((i) => ({ item: i.id, x: i.x - 24, y: i.y + 24, dashOffset }));
+    .map((i) => ({ item: i.id, x: i.x + (i.textAnchor === "middle" ? (i.width - i.labelWidth) / 2 : 0) - 24, y: i.y + 24, dashOffset }));
   const relationships = (scene.relationships ?? [])
     .filter((r) => active(r, local))
     .map((r) => {
@@ -356,6 +375,7 @@ export function frameState(movie: Movie, frame: number) {
     relationships,
     visual,
     dashOffset,
+    openingOpacity: movie.fadeInFrames ? Math.min(1, frame / movie.fadeInFrames) : 1,
     captionOffset,
     captionStyle: scene.textStyle ?? "normal",
     caption:
@@ -423,10 +443,10 @@ export function renderSvg(state: ReturnType<typeof frameState>): string {
     .filter((i) => i.visible)
     .map((i) => {
       const y = i.y;
-      const label = textLines(i.label, Math.floor(i.width / 16))
+      const label = i.lines
         .map(
           (line, index) =>
-            `<text x="${i.x + i.textOffset}" y="${y + 34 + index * 31}" font-size="30" font-weight="400" fill="${i.color}">${esc(line)}</text>`,
+            `<text x="${i.x + (i.textAnchor === "middle" ? i.width / 2 : 0) + i.textOffset}" text-anchor="${i.textAnchor}" y="${y + 34 + index * 31}" font-size="30" font-weight="400" fill="${i.color}">${esc(line)}</text>`,
         )
         .join("");
       return `<g data-item="${esc(i.id)}">${label}</g>`;
@@ -444,5 +464,5 @@ export function renderSvg(state: ReturnType<typeof frameState>): string {
       return `<text x="960" y="${496 - (lines.length - 1) * 28 + i * 56 + state.captionOffset}" text-anchor="middle" font-size="44" font-style="${state.captionStyle}" fill="${state.captionColor}">${content}</text>`;
     })
     .join("");
-  return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" width="1920" height="1080" fill="${TEXT}" font-family="Helvetica Neue, Arial, sans-serif"><rect width="1920" height="1080" fill="${BG}"/>${groups}${edges}${relationships}${items}${cursors}${state.visual ? renderVisual(state.visual, state.dashOffset) : ""}${caption}</svg>`;
+  return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" width="1920" height="1080" fill="${TEXT}" font-family="Helvetica Neue, Arial, sans-serif"><rect width="1920" height="1080" fill="${BG}"/>${groups}${edges}${relationships}${items}${cursors}${state.visual ? renderVisual(state.visual, state.dashOffset) : ""}${caption}${state.openingOpacity < 1 ? `<rect width="1920" height="1080" fill="#000000" opacity="${1 - state.openingOpacity}"/>` : ""}</svg>`;
 }

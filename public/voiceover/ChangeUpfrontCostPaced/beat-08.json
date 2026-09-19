@@ -1,0 +1,61 @@
+{
+  "text": "Make room for the transition before you commit to the benefits.",
+  "durationMs": 4262,
+  "words": [
+    {
+      "text": "Make",
+      "startMs": 500,
+      "endMs": 755
+    },
+    {
+      "text": "room",
+      "startMs": 790,
+      "endMs": 976
+    },
+    {
+      "text": "for",
+      "startMs": 1057,
+      "endMs": 1197
+    },
+    {
+      "text": "the",
+      "startMs": 1243,
+      "endMs": 1324
+    },
+    {
+      "text": "transition",
+      "startMs": 1371,
+      "endMs": 2067
+    },
+    {
+      "text": "before",
+      "startMs": 2160,
+      "endMs": 2497
+    },
+    {
+      "text": "you",
+      "startMs": 2532,
+      "endMs": 2613
+    },
+    {
+      "text": "commit",
+      "startMs": 2671,
+      "endMs": 3019
+    },
+    {
+      "text": "to",
+      "startMs": 3101,
+      "endMs": 3217
+    },
+    {
+      "text": "the",
+      "startMs": 3298,
+      "endMs": 3368
+    },
+    {
+      "text": "benefits.",
+      "startMs": 3426,
+      "endMs": 4262
+    }
+  ]
+}

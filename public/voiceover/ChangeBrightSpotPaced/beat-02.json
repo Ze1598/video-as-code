@@ -1,0 +1,196 @@
+{
+  "text": "After each update, an engineer asked another engineer to read the documentation. Could the reader understand what changed, and what it meant for their work? If not, the author revised the explanation so the reader could understand it.",
+  "durationMs": 17672,
+  "words": [
+    {
+      "text": "After",
+      "startMs": 500,
+      "endMs": 883
+    },
+    {
+      "text": "each",
+      "startMs": 988,
+      "endMs": 1208
+    },
+    {
+      "text": "update,",
+      "startMs": 1301,
+      "endMs": 2033
+    },
+    {
+      "text": "an",
+      "startMs": 2056,
+      "endMs": 2195
+    },
+    {
+      "text": "engineer",
+      "startMs": 2276,
+      "endMs": 2810
+    },
+    {
+      "text": "asked",
+      "startMs": 2950,
+      "endMs": 3414
+    },
+    {
+      "text": "another",
+      "startMs": 3542,
+      "endMs": 4029
+    },
+    {
+      "text": "engineer",
+      "startMs": 4122,
+      "endMs": 4645
+    },
+    {
+      "text": "to",
+      "startMs": 4749,
+      "endMs": 4865
+    },
+    {
+      "text": "read",
+      "startMs": 4970,
+      "endMs": 5190
+    },
+    {
+      "text": "the",
+      "startMs": 5295,
+      "endMs": 5399
+    },
+    {
+      "text": "documentation.",
+      "startMs": 5457,
+      "endMs": 6409
+    },
+    {
+      "text": "Could",
+      "startMs": 6683,
+      "endMs": 6892
+    },
+    {
+      "text": "the",
+      "startMs": 6927,
+      "endMs": 6996
+    },
+    {
+      "text": "reader",
+      "startMs": 7101,
+      "endMs": 7472
+    },
+    {
+      "text": "understand",
+      "startMs": 7600,
+      "endMs": 8262
+    },
+    {
+      "text": "what",
+      "startMs": 8389,
+      "endMs": 8633
+    },
+    {
+      "text": "changed,",
+      "startMs": 8714,
+      "endMs": 9249
+    },
+    {
+      "text": "and",
+      "startMs": 9272,
+      "endMs": 9492
+    },
+    {
+      "text": "what",
+      "startMs": 9574,
+      "endMs": 9852
+    },
+    {
+      "text": "it",
+      "startMs": 9980,
+      "endMs": 10166
+    },
+    {
+      "text": "meant",
+      "startMs": 10293,
+      "endMs": 10549
+    },
+    {
+      "text": "for",
+      "startMs": 10630,
+      "endMs": 10804
+    },
+    {
+      "text": "their",
+      "startMs": 10862,
+      "endMs": 11060
+    },
+    {
+      "text": "work?",
+      "startMs": 11153,
+      "endMs": 11605
+    },
+    {
+      "text": "If",
+      "startMs": 12018,
+      "endMs": 12227
+    },
+    {
+      "text": "not,",
+      "startMs": 12331,
+      "endMs": 12668
+    },
+    {
+      "text": "the",
+      "startMs": 12703,
+      "endMs": 12831
+    },
+    {
+      "text": "author",
+      "startMs": 12877,
+      "endMs": 13260
+    },
+    {
+      "text": "revised",
+      "startMs": 13353,
+      "endMs": 13899
+    },
+    {
+      "text": "the",
+      "startMs": 14003,
+      "endMs": 14108
+    },
+    {
+      "text": "explanation",
+      "startMs": 14166,
+      "endMs": 15013
+    },
+    {
+      "text": "so",
+      "startMs": 15141,
+      "endMs": 15315
+    },
+    {
+      "text": "the",
+      "startMs": 15396,
+      "endMs": 15466
+    },
+    {
+      "text": "reader",
+      "startMs": 15547,
+      "endMs": 15919
+    },
+    {
+      "text": "could",
+      "startMs": 16012,
+      "endMs": 16232
+    },
+    {
+      "text": "understand",
+      "startMs": 16360,
+      "endMs": 17057
+    },
+    {
+      "text": "it.",
+      "startMs": 17184,
+      "endMs": 17672
+    }
+  ]
+}

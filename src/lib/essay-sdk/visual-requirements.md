@@ -4,7 +4,7 @@ This is the output contract for SDK implementation and authoring. Consult the RE
 
 ## Visual economy and continuity
 
-Center the overall composition horizontally, with its visual center modestly above the viewport midpoint and a clear bottom safe area for player controls. Keep staged layouts stable; do not recenter on each reveal. Text-only multi-line blocks are centered as a whole, not by placing their first line at the center.
+Center the overall composition horizontally, with its visual center modestly above the viewport midpoint and a clear bottom safe area for player controls. Fit each actor list to the width of its longest measured text line and center the resulting block beneath the actor/header axis. Keep rows left-aligned within that block; do not center individual rows or use a fixed-width box that leaves surplus space beside short text. Reserve future rows and incoming transfers when measuring. Keep staged layouts stable; do not recenter on each reveal. Text-only multi-line blocks are centered as a whole, not by placing their first line at the center.
 
 For every icon, line, container and motion ask: "Does this element help the viewer better understand the story? If not, do not add it."
 

@@ -140,7 +140,9 @@ test("existing work never swaps rows during handoff, and the team reframe starts
     settled.items.map((i) => i.y),
     [390, 495, 600],
   );
-  assert.ok(settled.items.every((i) => i.x === 660));
+  assert.equal(new Set(settled.items.map(i => i.x)).size, 1);
+  assert.ok(settled.items.every(i => i.x + i.width / 2 === 960));
+  assert.equal(settled.items[0].width, Math.max(...settled.items.map(i => i.labelWidth)));
 });
 
 test("the middle advances through allocation, waiting and delay; only hook and CTA are text-only", () => {

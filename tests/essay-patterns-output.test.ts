@@ -134,7 +134,7 @@ test(
       }
       const firstMeeting = render("beat-02", 0);
       assert.ok(
-        count(firstMeeting, [155, 405, 215, 430], gray) > 20,
+        count(firstMeeting, [315, 405, 375, 430], gray) > 20,
         "meeting cursor exists on the first visible frame",
       );
       for (const pixels of [before, after, early, waiting, planned, delay]) {

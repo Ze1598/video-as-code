@@ -1,0 +1,131 @@
+{
+  "text": "Management read headlines about AI multiplying developer productivity. They told engineering to start using it, and shortened delivery deadlines to match the gains they expected.",
+  "durationMs": 13050,
+  "words": [
+    {
+      "text": "Management",
+      "startMs": 0,
+      "endMs": 720
+    },
+    {
+      "text": "read",
+      "startMs": 859,
+      "endMs": 1161
+    },
+    {
+      "text": "headlines",
+      "startMs": 1289,
+      "endMs": 1881
+    },
+    {
+      "text": "about",
+      "startMs": 1962,
+      "endMs": 2392
+    },
+    {
+      "text": "AI",
+      "startMs": 2485,
+      "endMs": 2844
+    },
+    {
+      "text": "multiplying",
+      "startMs": 2984,
+      "endMs": 3750
+    },
+    {
+      "text": "developer",
+      "startMs": 3843,
+      "endMs": 4516
+    },
+    {
+      "text": "productivity.",
+      "startMs": 4621,
+      "endMs": 5608
+    },
+    {
+      "text": "They",
+      "startMs": 5666,
+      "endMs": 5782
+    },
+    {
+      "text": "told",
+      "startMs": 5863,
+      "endMs": 6165
+    },
+    {
+      "text": "engineering",
+      "startMs": 6258,
+      "endMs": 6861
+    },
+    {
+      "text": "to",
+      "startMs": 6966,
+      "endMs": 7105
+    },
+    {
+      "text": "start",
+      "startMs": 7198,
+      "endMs": 7581
+    },
+    {
+      "text": "using",
+      "startMs": 7721,
+      "endMs": 8127.000000000001
+    },
+    {
+      "text": "it,",
+      "startMs": 8208,
+      "endMs": 8464
+    },
+    {
+      "text": "and",
+      "startMs": 8499,
+      "endMs": 8626
+    },
+    {
+      "text": "shortened",
+      "startMs": 8707,
+      "endMs": 9195
+    },
+    {
+      "text": "delivery",
+      "startMs": 9253,
+      "endMs": 9741
+    },
+    {
+      "text": "deadlines",
+      "startMs": 9834,
+      "endMs": 10461
+    },
+    {
+      "text": "to",
+      "startMs": 10542,
+      "endMs": 10623
+    },
+    {
+      "text": "match",
+      "startMs": 10728,
+      "endMs": 11053
+    },
+    {
+      "text": "the",
+      "startMs": 11146,
+      "endMs": 11238
+    },
+    {
+      "text": "gains",
+      "startMs": 11320,
+      "endMs": 11703
+    },
+    {
+      "text": "they",
+      "startMs": 11865,
+      "endMs": 12016
+    },
+    {
+      "text": "expected.",
+      "startMs": 12098,
+      "endMs": 13050
+    }
+  ]
+}

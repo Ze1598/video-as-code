@@ -1,0 +1,151 @@
+{
+  "text": "Code reviews took longer, too. Before reviewing a colleague’s work, engineers had to read and understand the code they had generated themselves. Generating it had not removed that responsibility.",
+  "durationMs": 13653,
+  "words": [
+    {
+      "text": "Code",
+      "startMs": 0,
+      "endMs": 360
+    },
+    {
+      "text": "reviews",
+      "startMs": 592,
+      "endMs": 1068
+    },
+    {
+      "text": "took",
+      "startMs": 1173,
+      "endMs": 1393
+    },
+    {
+      "text": "longer,",
+      "startMs": 1486,
+      "endMs": 1985
+    },
+    {
+      "text": "too.",
+      "startMs": 2067,
+      "endMs": 2508
+    },
+    {
+      "text": "Before",
+      "startMs": 2694,
+      "endMs": 3111
+    },
+    {
+      "text": "reviewing",
+      "startMs": 3193,
+      "endMs": 3750
+    },
+    {
+      "text": "a",
+      "startMs": 3855,
+      "endMs": 3947
+    },
+    {
+      "text": "colleague’s",
+      "startMs": 4075,
+      "endMs": 4505
+    },
+    {
+      "text": "work,",
+      "startMs": 4563,
+      "endMs": 4911
+    },
+    {
+      "text": "engineers",
+      "startMs": 4969,
+      "endMs": 5515
+    },
+    {
+      "text": "had",
+      "startMs": 5596,
+      "endMs": 5793
+    },
+    {
+      "text": "to",
+      "startMs": 5840,
+      "endMs": 5909
+    },
+    {
+      "text": "read",
+      "startMs": 6014,
+      "endMs": 6246
+    },
+    {
+      "text": "and",
+      "startMs": 6339,
+      "endMs": 6513
+    },
+    {
+      "text": "understand",
+      "startMs": 6618,
+      "endMs": 7198
+    },
+    {
+      "text": "the",
+      "startMs": 7256,
+      "endMs": 7338
+    },
+    {
+      "text": "code",
+      "startMs": 7419,
+      "endMs": 7721
+    },
+    {
+      "text": "they",
+      "startMs": 7767,
+      "endMs": 7976
+    },
+    {
+      "text": "had",
+      "startMs": 8069.000000000001,
+      "endMs": 8301
+    },
+    {
+      "text": "generated",
+      "startMs": 8464,
+      "endMs": 9114
+    },
+    {
+      "text": "themselves.",
+      "startMs": 9172,
+      "endMs": 9961
+    },
+    {
+      "text": "Generating",
+      "startMs": 10124,
+      "endMs": 10809
+    },
+    {
+      "text": "it",
+      "startMs": 10902,
+      "endMs": 11053
+    },
+    {
+      "text": "had",
+      "startMs": 11157,
+      "endMs": 11320
+    },
+    {
+      "text": "not",
+      "startMs": 11401,
+      "endMs": 11564
+    },
+    {
+      "text": "removed",
+      "startMs": 11656,
+      "endMs": 12086
+    },
+    {
+      "text": "that",
+      "startMs": 12132,
+      "endMs": 12307
+    },
+    {
+      "text": "responsibility.",
+      "startMs": 12388,
+      "endMs": 13653
+    }
+  ]
+}

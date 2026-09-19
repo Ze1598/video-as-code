@@ -1,0 +1,61 @@
+{
+  "text": "Find the bright spot. Follow the work that makes it possible.",
+  "durationMs": 4744,
+  "words": [
+    {
+      "text": "Find",
+      "startMs": 500,
+      "endMs": 883
+    },
+    {
+      "text": "the",
+      "startMs": 1046,
+      "endMs": 1185
+    },
+    {
+      "text": "bright",
+      "startMs": 1243,
+      "endMs": 1487
+    },
+    {
+      "text": "spot.",
+      "startMs": 1522,
+      "endMs": 2021
+    },
+    {
+      "text": "Follow",
+      "startMs": 2375,
+      "endMs": 2712
+    },
+    {
+      "text": "the",
+      "startMs": 2770,
+      "endMs": 2851
+    },
+    {
+      "text": "work",
+      "startMs": 2909,
+      "endMs": 3188
+    },
+    {
+      "text": "that",
+      "startMs": 3223,
+      "endMs": 3397
+    },
+    {
+      "text": "makes",
+      "startMs": 3478,
+      "endMs": 3757
+    },
+    {
+      "text": "it",
+      "startMs": 3815,
+      "endMs": 3954
+    },
+    {
+      "text": "possible.",
+      "startMs": 4059,
+      "endMs": 4744
+    }
+  ]
+}

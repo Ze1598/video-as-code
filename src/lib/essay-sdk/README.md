@@ -13,11 +13,15 @@ The SDK renders scene plans with a fixed 1920×1080 viewport. `index.ts` provide
 
 The renderer supports representative people, icon-free vertical lists, physical ownership transfers, animated dashed topic cursors, bounded actor relationships, staged list entrances, sentence entrances, scene reflow and takeaway coloring. Dedicated visuals add paired comparisons, conserved capacity allocation, process waiting/return/resume, and planned-versus-actual delivery. Neutral text stays full-opacity and regular-weight regardless of focus. The current reference production is `src/ChangingTooMuchV11/plan.ts`; earlier plans are historical.
 
+## Opening fade
+
+Optional `EssayPlan.fadeInFrames` fades the complete image from black over that many frames at the start of the movie. Audio and scene timing remain unchanged. Omit it for the existing immediate opening. The frame-state/SVG implementation is shared by playback and deterministic output tests.
+
 ## Plan contract
 
 `EssayPlan` declares fps and ordered scenes. Each `Scene` declares duration in frames, narration words in milliseconds, optional audio source/playback duration, groups, typed items, transfers, topic intervals and takeaway intervals. All event intervals are local and half-open: `[start, end)`. The compiler derives global offsets.
 
-Groups contain representative individual glyphs and a centered name, with no visible boundary. Items are plain list labels for work, issues, processes, systems or questions; `owner` determines placement. Stable reserved rows follow array order. No item icons, panel outlines or redundant headings are drawn. A concept without ownership belongs in narration or a dedicated text scene. Semantic labels are plan data; captions come from timed narration.
+Groups contain representative individual glyphs and a centered name, with no visible boundary. Items are plain list labels for work, issues, processes, systems or questions; `owner` determines placement. Stable reserved rows follow array order. Each list is sized to its longest measured text line and centered beneath its actor header; rows remain left-aligned within that fitted block. Future reveals and incoming transfers reserve their width from the start. No item icons, panel outlines or redundant headings are drawn. A concept without ownership belongs in narration or a dedicated text scene. Semantic labels are plan data; captions come from timed narration.
 
 Transfers move one existing item to a destination group, first aligning with its row and then crossing horizontally. Slots remain reserved so existing work stays in place. A transfer needs half a second to settle before the scene ends.
 
@@ -28,6 +32,14 @@ Text-only scenes have no groups or items. The renderer displays one timed senten
 Scenes with `visuals` are also explanatory screens, never narration-subtitle screens. Their timed states are independent of the audio segment boundaries. The compiler validates intervals and pattern-specific requirements; `visuals.ts` implements geometry and drawing. Read the pattern guide before authoring these scenes.
 
 For a closing CTA, set `textStyle: 'italic'` and declare `takeaways: [{text: true, start: 0, end: duration}]` on its text-only scene. This colors every wrapped line from entry. Use `phrase` for a narrower retained phrase and `item` for a promoted list entry.
+
+### Shared actor/list visualization
+
+Actor lists use one renderer with automatic content-based widths: configure `Scene.groups` for the people and centered headers, `Scene.items` for left-aligned rows, and `Scene.takeaways` for gold guidance. Color does not select a different visualization or alter alignment. `text-metrics.ts` measures Helvetica Neue Regular glyph advances; wrapping uses the available pixel width before the list box is fitted, and stays fixed during transfers. A 600px cap is a wrapping limit, never a minimum or fixed list width. This is the layout used by isolated Engineering and Management guidance in `ChangeUpfrontCost`.
+
+### Actor label alignment
+
+Set `Scene.itemAlignment: "center"` to center each owned label under its actor header. Rows keep their reserved positions, including through reveal and transfer animations. Focus cursors sit beside the centered text using Helvetica Neue Regular advance metrics; SVG performs native text centering. The default `"left"` retains the left-aligned list layout.
 
 ### Motion and relationships
 

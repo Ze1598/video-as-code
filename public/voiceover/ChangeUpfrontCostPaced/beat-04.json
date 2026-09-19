@@ -1,0 +1,66 @@
+{
+  "text": "And those projects now had shorter deadlines. Nothing was delivered on time.",
+  "durationMs": 5905,
+  "words": [
+    {
+      "text": "And",
+      "startMs": 500,
+      "endMs": 697
+    },
+    {
+      "text": "those",
+      "startMs": 732,
+      "endMs": 1011
+    },
+    {
+      "text": "projects",
+      "startMs": 1057,
+      "endMs": 1649
+    },
+    {
+      "text": "now",
+      "startMs": 1754,
+      "endMs": 1951
+    },
+    {
+      "text": "had",
+      "startMs": 2044,
+      "endMs": 2265
+    },
+    {
+      "text": "shorter",
+      "startMs": 2358,
+      "endMs": 2845
+    },
+    {
+      "text": "deadlines.",
+      "startMs": 2926,
+      "endMs": 3507
+    },
+    {
+      "text": "Nothing",
+      "startMs": 3885,
+      "endMs": 4256
+    },
+    {
+      "text": "was",
+      "startMs": 4337,
+      "endMs": 4477
+    },
+    {
+      "text": "delivered",
+      "startMs": 4558,
+      "endMs": 5104
+    },
+    {
+      "text": "on",
+      "startMs": 5231,
+      "endMs": 5394
+    },
+    {
+      "text": "time.",
+      "startMs": 5475,
+      "endMs": 5905
+    }
+  ]
+}

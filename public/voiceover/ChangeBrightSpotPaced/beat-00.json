@@ -1,0 +1,151 @@
+{
+  "text": "A manager kept asking engineers to document their changes so other teams could keep up. When documentation slipped into the next sprint again, he considered making documentation sessions mandatory.",
+  "durationMs": 13857,
+  "words": [
+    {
+      "text": "A",
+      "startMs": 0,
+      "endMs": 81
+    },
+    {
+      "text": "manager",
+      "startMs": 174,
+      "endMs": 778
+    },
+    {
+      "text": "kept",
+      "startMs": 906,
+      "endMs": 1242
+    },
+    {
+      "text": "asking",
+      "startMs": 1300,
+      "endMs": 1869
+    },
+    {
+      "text": "engineers",
+      "startMs": 1997,
+      "endMs": 2612
+    },
+    {
+      "text": "to",
+      "startMs": 2705,
+      "endMs": 2810
+    },
+    {
+      "text": "document",
+      "startMs": 2914,
+      "endMs": 3460
+    },
+    {
+      "text": "their",
+      "startMs": 3495,
+      "endMs": 3634
+    },
+    {
+      "text": "changes",
+      "startMs": 3692,
+      "endMs": 4214
+    },
+    {
+      "text": "so",
+      "startMs": 4342,
+      "endMs": 4598
+    },
+    {
+      "text": "other",
+      "startMs": 4702,
+      "endMs": 5004
+    },
+    {
+      "text": "teams",
+      "startMs": 5062,
+      "endMs": 5375
+    },
+    {
+      "text": "could",
+      "startMs": 5433,
+      "endMs": 5654
+    },
+    {
+      "text": "keep",
+      "startMs": 5712,
+      "endMs": 5944
+    },
+    {
+      "text": "up.",
+      "startMs": 6037,
+      "endMs": 6385
+    },
+    {
+      "text": "When",
+      "startMs": 6670,
+      "endMs": 6844
+    },
+    {
+      "text": "documentation",
+      "startMs": 6891,
+      "endMs": 7727
+    },
+    {
+      "text": "slipped",
+      "startMs": 7785,
+      "endMs": 8087
+    },
+    {
+      "text": "into",
+      "startMs": 8145,
+      "endMs": 8389
+    },
+    {
+      "text": "the",
+      "startMs": 8481,
+      "endMs": 8551
+    },
+    {
+      "text": "next",
+      "startMs": 8609,
+      "endMs": 8946
+    },
+    {
+      "text": "sprint",
+      "startMs": 8981,
+      "endMs": 9364
+    },
+    {
+      "text": "again,",
+      "startMs": 9422,
+      "endMs": 9828
+    },
+    {
+      "text": "he",
+      "startMs": 9956,
+      "endMs": 10072
+    },
+    {
+      "text": "considered",
+      "startMs": 10153,
+      "endMs": 10792
+    },
+    {
+      "text": "making",
+      "startMs": 10885,
+      "endMs": 11245
+    },
+    {
+      "text": "documentation",
+      "startMs": 11303,
+      "endMs": 12115
+    },
+    {
+      "text": "sessions",
+      "startMs": 12220,
+      "endMs": 12800
+    },
+    {
+      "text": "mandatory.",
+      "startMs": 12882,
+      "endMs": 13857
+    }
+  ]
+}

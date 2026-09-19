@@ -94,30 +94,30 @@ test(
       const later = render(demands.from + migrationTopic.start + 30);
       for (const y of [390, 495, 600]) {
         assert.ok(
-          count(first, [790, y, 1140, y + 70], [212, 211, 210]) > 100,
+          count(first, [815, y, 1140, y + 70], [212, 211, 210]) > 100,
           "visible list row",
         );
         // Exact region equality proves focus has not dimmed, brightened, moved,
         // or reweighted the list text in the actual browser rasterization.
         for (let row = y; row < y + 70; row++) {
-          const offset = (row * 1920 + 790) * 3;
+          const offset = (row * 1920 + 815) * 3;
           assert.deepEqual(
-            first.subarray(offset, offset + 350 * 3),
-            later.subarray(offset, offset + 350 * 3),
+            first.subarray(offset, offset + 325 * 3),
+            later.subarray(offset, offset + 325 * 3),
           );
         }
       }
       assert.ok(
-        count(first, [590, 510, 650, 535], [212, 211, 210]) > 20,
+        count(first, [750, 510, 805, 535], [212, 211, 210]) > 20,
         "cursor points at bugs",
       );
       assert.equal(
-        count(first, [590, 405, 650, 430], [212, 211, 210]),
+        count(first, [750, 405, 805, 430], [212, 211, 210]),
         0,
         "no competing cursor",
       );
       assert.ok(
-        count(later, [590, 405, 650, 430], [212, 211, 210]) > 20,
+        count(later, [750, 405, 805, 430], [212, 211, 210]) > 20,
         "cursor follows migration topic",
       );
       const questions = movie.scenes.find((s) => s.id === "beat-03")!;

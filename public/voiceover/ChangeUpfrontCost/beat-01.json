@@ -1,0 +1,151 @@
+{
+  "text": "The engineers still had to learn how to use the tools in their work. Each tried a different approach. Then the team had to make those approaches work together.",
+  "durationMs": 11378,
+  "words": [
+    {
+      "text": "The",
+      "startMs": 0,
+      "endMs": 255
+    },
+    {
+      "text": "engineers",
+      "startMs": 337,
+      "endMs": 1010
+    },
+    {
+      "text": "still",
+      "startMs": 1173,
+      "endMs": 1591
+    },
+    {
+      "text": "had",
+      "startMs": 1695,
+      "endMs": 1974
+    },
+    {
+      "text": "to",
+      "startMs": 2055,
+      "endMs": 2148
+    },
+    {
+      "text": "learn",
+      "startMs": 2241,
+      "endMs": 2508
+    },
+    {
+      "text": "how",
+      "startMs": 2635,
+      "endMs": 2868
+    },
+    {
+      "text": "to",
+      "startMs": 2949,
+      "endMs": 3030
+    },
+    {
+      "text": "use",
+      "startMs": 3135,
+      "endMs": 3379
+    },
+    {
+      "text": "the",
+      "startMs": 3413,
+      "endMs": 3495
+    },
+    {
+      "text": "tools",
+      "startMs": 3553,
+      "endMs": 3994
+    },
+    {
+      "text": "in",
+      "startMs": 4098,
+      "endMs": 4249
+    },
+    {
+      "text": "their",
+      "startMs": 4307,
+      "endMs": 4516
+    },
+    {
+      "text": "work.",
+      "startMs": 4598,
+      "endMs": 4992
+    },
+    {
+      "text": "Each",
+      "startMs": 5120,
+      "endMs": 5387
+    },
+    {
+      "text": "tried",
+      "startMs": 5468,
+      "endMs": 5933
+    },
+    {
+      "text": "a",
+      "startMs": 6014,
+      "endMs": 6072
+    },
+    {
+      "text": "different",
+      "startMs": 6165,
+      "endMs": 6618
+    },
+    {
+      "text": "approach.",
+      "startMs": 6664,
+      "endMs": 7303
+    },
+    {
+      "text": "Then",
+      "startMs": 7430,
+      "endMs": 7628
+    },
+    {
+      "text": "the",
+      "startMs": 7686,
+      "endMs": 7767
+    },
+    {
+      "text": "team",
+      "startMs": 7814,
+      "endMs": 8185.000000000001
+    },
+    {
+      "text": "had",
+      "startMs": 8313,
+      "endMs": 8568
+    },
+    {
+      "text": "to",
+      "startMs": 8626,
+      "endMs": 8707
+    },
+    {
+      "text": "make",
+      "startMs": 8800,
+      "endMs": 9067
+    },
+    {
+      "text": "those",
+      "startMs": 9149,
+      "endMs": 9497
+    },
+    {
+      "text": "approaches",
+      "startMs": 9532,
+      "endMs": 10124
+    },
+    {
+      "text": "work",
+      "startMs": 10252,
+      "endMs": 10507
+    },
+    {
+      "text": "together.",
+      "startMs": 10565,
+      "endMs": 11378
+    }
+  ]
+}

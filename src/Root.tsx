@@ -1,4 +1,10 @@
 import "./index.css";
+import { ChangeBrightSpot, ChangeBrightSpotPreview } from "./ChangeBrightSpot/index.tsx";
+import { movie as brightSpotMovie } from "./ChangeBrightSpot/production.ts";
+import { previewMovie as brightSpotPreview } from "./ChangeBrightSpot/preview.ts";
+import { ChangeUpfrontCostPreview, ChangeUpfrontCostProduction } from "./ChangeUpfrontCost/index.tsx";
+import { movie as changeUpfrontCostMovie } from "./ChangeUpfrontCost/production.ts";
+import { previewMovie } from "./ChangeUpfrontCost/preview.ts";
 import { Composition } from "remotion";
 import { HowToBeUnderstood, HOW_TO_BE_UNDERSTOOD_DURATION } from "./HowToBeUnderstood/index.tsx";
 import { AvoidCommunicationSilos, AVOID_COMMUNICATION_SILOS_DURATION } from "./AvoidCommunicationSilos/index.tsx";
@@ -44,6 +50,10 @@ import { LibDemo, LIB_DEMO_DURATION } from "./archive/lib/__demo__/index.tsx";
 export const RemotionRoot: React.FC = () => {
   return (
     <>
+      <Composition id="ChangeBrightSpot" component={ChangeBrightSpot} durationInFrames={brightSpotMovie.duration} fps={brightSpotMovie.fps} width={1920} height={1080} />
+      <Composition id="ChangeBrightSpotPreview" component={ChangeBrightSpotPreview} durationInFrames={brightSpotPreview.duration} fps={brightSpotPreview.fps} width={1920} height={1080} />
+      <Composition id="ChangeUpfrontCost" component={ChangeUpfrontCostProduction} durationInFrames={changeUpfrontCostMovie.duration} fps={changeUpfrontCostMovie.fps} width={1920} height={1080} />
+      <Composition id="ChangeUpfrontCostPreview" component={ChangeUpfrontCostPreview} durationInFrames={previewMovie.duration} fps={previewMovie.fps} width={1920} height={1080} />
       <Composition
         id="HowToBeUnderstood"
         component={HowToBeUnderstood}
