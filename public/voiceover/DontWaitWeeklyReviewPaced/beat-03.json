@@ -1,0 +1,101 @@
+{
+  "text": "The decision stayed open. On Tuesday, another test exposed a dependency on the same decision. That work stopped too.",
+  "durationMs": 9220,
+  "words": [
+    {
+      "text": "The",
+      "startMs": 500,
+      "endMs": 639
+    },
+    {
+      "text": "decision",
+      "startMs": 697,
+      "endMs": 1197
+    },
+    {
+      "text": "stayed",
+      "startMs": 1289,
+      "endMs": 1673
+    },
+    {
+      "text": "open.",
+      "startMs": 1800,
+      "endMs": 2311
+    },
+    {
+      "text": "On",
+      "startMs": 2689,
+      "endMs": 2828
+    },
+    {
+      "text": "Tuesday,",
+      "startMs": 2886,
+      "endMs": 3490
+    },
+    {
+      "text": "another",
+      "startMs": 3536,
+      "endMs": 3943
+    },
+    {
+      "text": "test",
+      "startMs": 4036,
+      "endMs": 4372
+    },
+    {
+      "text": "exposed",
+      "startMs": 4430,
+      "endMs": 5127
+    },
+    {
+      "text": "a",
+      "startMs": 5220,
+      "endMs": 5278
+    },
+    {
+      "text": "dependency",
+      "startMs": 5371,
+      "endMs": 6137
+    },
+    {
+      "text": "on",
+      "startMs": 6242,
+      "endMs": 6334
+    },
+    {
+      "text": "the",
+      "startMs": 6369,
+      "endMs": 6439
+    },
+    {
+      "text": "same",
+      "startMs": 6497,
+      "endMs": 6752
+    },
+    {
+      "text": "decision.",
+      "startMs": 6799,
+      "endMs": 7426
+    },
+    {
+      "text": "That",
+      "startMs": 7757,
+      "endMs": 7989
+    },
+    {
+      "text": "work",
+      "startMs": 8082,
+      "endMs": 8338
+    },
+    {
+      "text": "stopped",
+      "startMs": 8419,
+      "endMs": 8755
+    },
+    {
+      "text": "too.",
+      "startMs": 8860,
+      "endMs": 9220
+    }
+  ]
+}

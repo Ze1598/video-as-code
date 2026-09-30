@@ -20,6 +20,8 @@ import { DEFAULT_MODEL_ID, DEFAULT_VOICE_SETTINGS, generateVoiceover } from "../
 // are actually valid. Costs a few seconds of TTS each run.
 
 const LIVE = Boolean(process.env.RUN_LIVE_ELEVENLABS_TESTS);
+// Retain generated samples for listening when explicitly requested.
+const KEEP_OUTPUT = process.env.KEEP_LIVE_ELEVENLABS_OUTPUT === "1";
 
 test(
   "live: generateVoiceover produces valid audio + timing for a real single-sentence call",
@@ -50,7 +52,8 @@ test(
         );
       }
     } finally {
-      rmSync(outDir, { recursive: true, force: true });
+      if (KEEP_OUTPUT) console.log(`Live test output retained at ${outDir}`);
+      else rmSync(outDir, { recursive: true, force: true });
     }
   },
 );
@@ -83,7 +86,8 @@ test(
         assert.ok(!/[<>=]/.test(w.text), `word "${w.text}" contains a suspicious tag-like character`);
       }
     } finally {
-      rmSync(outDir, { recursive: true, force: true });
+      if (KEEP_OUTPUT) console.log(`Live test output retained at ${outDir}`);
+      else rmSync(outDir, { recursive: true, force: true });
     }
   },
 );

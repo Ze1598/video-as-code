@@ -1,0 +1,171 @@
+{
+  "text": "A tech lead presented a new direction for a prototype and walked the team through the features to build. In the meetings that followed, she explained the architecture and how the modules connected.",
+  "durationMs": 13746,
+  "words": [
+    {
+      "text": "A",
+      "startMs": 0,
+      "endMs": 81
+    },
+    {
+      "text": "tech",
+      "startMs": 186,
+      "endMs": 418
+    },
+    {
+      "text": "lead",
+      "startMs": 522,
+      "endMs": 801
+    },
+    {
+      "text": "presented",
+      "startMs": 929,
+      "endMs": 1730
+    },
+    {
+      "text": "a",
+      "startMs": 1858,
+      "endMs": 1962
+    },
+    {
+      "text": "new",
+      "startMs": 2067,
+      "endMs": 2218
+    },
+    {
+      "text": "direction",
+      "startMs": 2276,
+      "endMs": 2891
+    },
+    {
+      "text": "for",
+      "startMs": 3019,
+      "endMs": 3355
+    },
+    {
+      "text": "a",
+      "startMs": 3460,
+      "endMs": 3518
+    },
+    {
+      "text": "prototype",
+      "startMs": 3622,
+      "endMs": 4365
+    },
+    {
+      "text": "and",
+      "startMs": 4447,
+      "endMs": 4621
+    },
+    {
+      "text": "walked",
+      "startMs": 4714,
+      "endMs": 5085
+    },
+    {
+      "text": "the",
+      "startMs": 5190,
+      "endMs": 5294
+    },
+    {
+      "text": "team",
+      "startMs": 5352,
+      "endMs": 5619
+    },
+    {
+      "text": "through",
+      "startMs": 5747,
+      "endMs": 6072
+    },
+    {
+      "text": "the",
+      "startMs": 6130,
+      "endMs": 6211
+    },
+    {
+      "text": "features",
+      "startMs": 6269,
+      "endMs": 6931
+    },
+    {
+      "text": "to",
+      "startMs": 7059,
+      "endMs": 7198
+    },
+    {
+      "text": "build.",
+      "startMs": 7303,
+      "endMs": 7825
+    },
+    {
+      "text": "In",
+      "startMs": 8092.000000000001,
+      "endMs": 8266
+    },
+    {
+      "text": "the",
+      "startMs": 8301,
+      "endMs": 8382
+    },
+    {
+      "text": "meetings",
+      "startMs": 8440,
+      "endMs": 8905
+    },
+    {
+      "text": "that",
+      "startMs": 8951,
+      "endMs": 9091
+    },
+    {
+      "text": "followed,",
+      "startMs": 9183,
+      "endMs": 9636
+    },
+    {
+      "text": "she",
+      "startMs": 9741,
+      "endMs": 9915
+    },
+    {
+      "text": "explained",
+      "startMs": 10008,
+      "endMs": 10507
+    },
+    {
+      "text": "the",
+      "startMs": 10530,
+      "endMs": 10623
+    },
+    {
+      "text": "architecture",
+      "startMs": 10704,
+      "endMs": 11564
+    },
+    {
+      "text": "and",
+      "startMs": 11668,
+      "endMs": 11877
+    },
+    {
+      "text": "how",
+      "startMs": 11958,
+      "endMs": 12098
+    },
+    {
+      "text": "the",
+      "startMs": 12156,
+      "endMs": 12225
+    },
+    {
+      "text": "modules",
+      "startMs": 12283,
+      "endMs": 12864
+    },
+    {
+      "text": "connected.",
+      "startMs": 12922,
+      "endMs": 13746
+    }
+  ]
+}

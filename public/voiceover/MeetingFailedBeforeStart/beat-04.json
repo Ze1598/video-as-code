@@ -1,0 +1,236 @@
+{
+  "text": "The manager arrived ready to ask for a decision. His invite gave the client no chance to prepare one. When people discover the trade-off during the call, that is when their preparation starts. Time reserved for a decision becomes time spent finding out what is needed.",
+  "durationMs": 19412,
+  "words": [
+    {
+      "text": "The",
+      "startMs": 0,
+      "endMs": 151
+    },
+    {
+      "text": "manager",
+      "startMs": 209,
+      "endMs": 755
+    },
+    {
+      "text": "arrived",
+      "startMs": 917,
+      "endMs": 1463
+    },
+    {
+      "text": "ready",
+      "startMs": 1649,
+      "endMs": 2032
+    },
+    {
+      "text": "to",
+      "startMs": 2125,
+      "endMs": 2264
+    },
+    {
+      "text": "ask",
+      "startMs": 2392,
+      "endMs": 2717
+    },
+    {
+      "text": "for",
+      "startMs": 2810,
+      "endMs": 3007
+    },
+    {
+      "text": "a",
+      "startMs": 3111,
+      "endMs": 3170
+    },
+    {
+      "text": "decision.",
+      "startMs": 3262,
+      "endMs": 3971
+    },
+    {
+      "text": "His",
+      "startMs": 4075,
+      "endMs": 4284
+    },
+    {
+      "text": "invite",
+      "startMs": 4377,
+      "endMs": 4853
+    },
+    {
+      "text": "gave",
+      "startMs": 4957,
+      "endMs": 5213
+    },
+    {
+      "text": "the",
+      "startMs": 5259,
+      "endMs": 5329
+    },
+    {
+      "text": "client",
+      "startMs": 5375,
+      "endMs": 5921
+    },
+    {
+      "text": "no",
+      "startMs": 6026,
+      "endMs": 6200
+    },
+    {
+      "text": "chance",
+      "startMs": 6281,
+      "endMs": 6653
+    },
+    {
+      "text": "to",
+      "startMs": 6699,
+      "endMs": 6780
+    },
+    {
+      "text": "prepare",
+      "startMs": 6873,
+      "endMs": 7314
+    },
+    {
+      "text": "one.",
+      "startMs": 7396,
+      "endMs": 7674
+    },
+    {
+      "text": "When",
+      "startMs": 7721,
+      "endMs": 7895
+    },
+    {
+      "text": "people",
+      "startMs": 7941,
+      "endMs": 8220
+    },
+    {
+      "text": "discover",
+      "startMs": 8278,
+      "endMs": 8766
+    },
+    {
+      "text": "the",
+      "startMs": 8858,
+      "endMs": 8951
+    },
+    {
+      "text": "trade-off",
+      "startMs": 8998,
+      "endMs": 9636
+    },
+    {
+      "text": "during",
+      "startMs": 9718,
+      "endMs": 10043
+    },
+    {
+      "text": "the",
+      "startMs": 10124,
+      "endMs": 10194
+    },
+    {
+      "text": "call,",
+      "startMs": 10275,
+      "endMs": 10635
+    },
+    {
+      "text": "that",
+      "startMs": 10716,
+      "endMs": 10902
+    },
+    {
+      "text": "is",
+      "startMs": 10948,
+      "endMs": 11041
+    },
+    {
+      "text": "when",
+      "startMs": 11122,
+      "endMs": 11331
+    },
+    {
+      "text": "their",
+      "startMs": 11424,
+      "endMs": 11680
+    },
+    {
+      "text": "preparation",
+      "startMs": 11807,
+      "endMs": 12608
+    },
+    {
+      "text": "starts.",
+      "startMs": 12701,
+      "endMs": 13386
+    },
+    {
+      "text": "Time",
+      "startMs": 13618,
+      "endMs": 13932
+    },
+    {
+      "text": "reserved",
+      "startMs": 13978,
+      "endMs": 14466
+    },
+    {
+      "text": "for",
+      "startMs": 14547,
+      "endMs": 14733
+    },
+    {
+      "text": "a",
+      "startMs": 14814,
+      "endMs": 14849
+    },
+    {
+      "text": "decision",
+      "startMs": 14954,
+      "endMs": 15499
+    },
+    {
+      "text": "becomes",
+      "startMs": 15627,
+      "endMs": 16126.000000000002
+    },
+    {
+      "text": "time",
+      "startMs": 16231.000000000002,
+      "endMs": 16579
+    },
+    {
+      "text": "spent",
+      "startMs": 16672,
+      "endMs": 17136
+    },
+    {
+      "text": "finding",
+      "startMs": 17264,
+      "endMs": 17670
+    },
+    {
+      "text": "out",
+      "startMs": 17763,
+      "endMs": 18019
+    },
+    {
+      "text": "what",
+      "startMs": 18146,
+      "endMs": 18413
+    },
+    {
+      "text": "is",
+      "startMs": 18495,
+      "endMs": 18622
+    },
+    {
+      "text": "needed.",
+      "startMs": 18715,
+      "endMs": 19412
+    }
+  ]
+}

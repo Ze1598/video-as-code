@@ -34,7 +34,7 @@ export type Scene = {
   audio?: { src: string; duration: number };
   visuals?: Visual[];
 };
-export type EssayPlan = { fps: number; scenes: Scene[]; fadeInFrames?: number };
+export type EssayPlan = { fps: number; scenes: Scene[]; fadeInFrames?: number; audio?: { src: string; duration: number } };
 type Box = { x: number; y: number; width: number; height: number };
 type CompiledScene = Scene & {
   from: number;
@@ -43,7 +43,7 @@ type CompiledScene = Scene & {
   listWidths: Record<string, number>;
   itemLines: Record<string, string[]>;
 };
-export type Movie = { fps: number; duration: number; scenes: CompiledScene[]; fadeInFrames?: number };
+export type Movie = { fps: number; duration: number; scenes: CompiledScene[]; fadeInFrames?: number; audio?: { src: string; duration: number } };
 const requireValue = (condition: unknown, message: string) => {
   if (!condition) throw new Error(message);
 };
@@ -61,6 +61,7 @@ export function compileEssay(plan: EssayPlan): Movie {
   let from = 0;
   const ids = new Set<string>();
   const scenes = plan.scenes.map((scene) => {
+    requireValue(!plan.audio || !scene.audio, "continuous audio cannot overlap scene audio");
     requireValue(!ids.has(scene.id), "duplicate scene");
     ids.add(scene.id);
     requireValue(
@@ -203,7 +204,8 @@ export function compileEssay(plan: EssayPlan): Movie {
     return result;
   });
   requireValue(plan.fadeInFrames === undefined || (Number.isInteger(plan.fadeInFrames) && plan.fadeInFrames > 0 && plan.fadeInFrames < from), "invalid opening fade duration");
-  return { fps: plan.fps, duration: from, scenes, ...(plan.fadeInFrames === undefined ? {} : {fadeInFrames: plan.fadeInFrames}) };
+  if (plan.audio) requireValue(Boolean(plan.audio.src) && Number.isInteger(plan.audio.duration) && plan.audio.duration > 0 && plan.audio.duration <= from, "invalid continuous audio duration");
+  return { fps: plan.fps, duration: from, scenes, ...(plan.fadeInFrames === undefined ? {} : {fadeInFrames: plan.fadeInFrames}), ...(plan.audio ? {audio: plan.audio} : {}) };
 }
 
 function slotBox(scene: CompiledScene, owner: string, item: string): Box {

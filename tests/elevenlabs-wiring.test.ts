@@ -4,7 +4,6 @@ import { mkdtempSync, readFileSync, rmSync, statSync } from "node:fs";
 import { tmpdir } from "node:os";
 import { join } from "node:path";
 import {
-  DEFAULT_MODEL_ID,
   DEFAULT_VOICE_SETTINGS,
   generateVoiceover,
   type VoiceSettings,
@@ -85,7 +84,7 @@ test("generateVoiceover: correct request shape, word derivation, and file writes
 
     assert.ok(captured, "expected the mocked fetch to have been called");
     assert.equal(captured.url, "https://api.elevenlabs.io/v1/text-to-speech/test-voice/with-timestamps");
-    assert.equal(captured.body.model_id, DEFAULT_MODEL_ID);
+    assert.equal(captured.body.model_id, "eleven_v4");
     assert.deepEqual(captured.body.voice_settings, DEFAULT_VOICE_SETTINGS);
 
     const json = JSON.parse(readFileSync(join(outDir, "beat-00.json"), "utf8"));

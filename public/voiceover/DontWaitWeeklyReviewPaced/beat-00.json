@@ -1,0 +1,171 @@
+{
+  "text": "In the final week before a project went live, testers kept finding bugs that changed the priorities each day. The project manager kept the weekly review to protect the engineers’ time for fixes.",
+  "durationMs": 13857,
+  "words": [
+    {
+      "text": "In",
+      "startMs": 0,
+      "endMs": 139
+    },
+    {
+      "text": "the",
+      "startMs": 186,
+      "endMs": 267
+    },
+    {
+      "text": "final",
+      "startMs": 348,
+      "endMs": 789
+    },
+    {
+      "text": "week",
+      "startMs": 848,
+      "endMs": 1080
+    },
+    {
+      "text": "before",
+      "startMs": 1173,
+      "endMs": 1498
+    },
+    {
+      "text": "a",
+      "startMs": 1544,
+      "endMs": 1591
+    },
+    {
+      "text": "project",
+      "startMs": 1683,
+      "endMs": 2183
+    },
+    {
+      "text": "went",
+      "startMs": 2264,
+      "endMs": 2508
+    },
+    {
+      "text": "live,",
+      "startMs": 2612,
+      "endMs": 2949
+    },
+    {
+      "text": "testers",
+      "startMs": 2972,
+      "endMs": 3529
+    },
+    {
+      "text": "kept",
+      "startMs": 3634,
+      "endMs": 3913
+    },
+    {
+      "text": "finding",
+      "startMs": 3994,
+      "endMs": 4423
+    },
+    {
+      "text": "bugs",
+      "startMs": 4516,
+      "endMs": 4876
+    },
+    {
+      "text": "that",
+      "startMs": 5004,
+      "endMs": 5201
+    },
+    {
+      "text": "changed",
+      "startMs": 5294,
+      "endMs": 5631
+    },
+    {
+      "text": "the",
+      "startMs": 5677,
+      "endMs": 5747
+    },
+    {
+      "text": "priorities",
+      "startMs": 5805,
+      "endMs": 6629
+    },
+    {
+      "text": "each",
+      "startMs": 6757,
+      "endMs": 6989
+    },
+    {
+      "text": "day.",
+      "startMs": 7082,
+      "endMs": 7442
+    },
+    {
+      "text": "The",
+      "startMs": 7878,
+      "endMs": 7994
+    },
+    {
+      "text": "project",
+      "startMs": 8052,
+      "endMs": 8528
+    },
+    {
+      "text": "manager",
+      "startMs": 8586,
+      "endMs": 9062
+    },
+    {
+      "text": "kept",
+      "startMs": 9190,
+      "endMs": 9550
+    },
+    {
+      "text": "the",
+      "startMs": 9654,
+      "endMs": 9770
+    },
+    {
+      "text": "weekly",
+      "startMs": 9828,
+      "endMs": 10188
+    },
+    {
+      "text": "review",
+      "startMs": 10281,
+      "endMs": 10653
+    },
+    {
+      "text": "to",
+      "startMs": 10745,
+      "endMs": 10873
+    },
+    {
+      "text": "protect",
+      "startMs": 10966,
+      "endMs": 11523
+    },
+    {
+      "text": "the",
+      "startMs": 11616,
+      "endMs": 11732
+    },
+    {
+      "text": "engineers’",
+      "startMs": 11790,
+      "endMs": 12406
+    },
+    {
+      "text": "time",
+      "startMs": 12440,
+      "endMs": 12719
+    },
+    {
+      "text": "for",
+      "startMs": 12766,
+      "endMs": 12905
+    },
+    {
+      "text": "fixes.",
+      "startMs": 12998,
+      "endMs": 13857
+    }
+  ]
+}

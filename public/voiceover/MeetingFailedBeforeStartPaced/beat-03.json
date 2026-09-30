@@ -1,0 +1,91 @@
+{
+  "text": "The client could not commit to either option with the information at hand. They booked another meeting.",
+  "durationMs": 7855,
+  "words": [
+    {
+      "text": "The",
+      "startMs": 500,
+      "endMs": 639
+    },
+    {
+      "text": "client",
+      "startMs": 697,
+      "endMs": 1208
+    },
+    {
+      "text": "could",
+      "startMs": 1336,
+      "endMs": 1545
+    },
+    {
+      "text": "not",
+      "startMs": 1580,
+      "endMs": 1719
+    },
+    {
+      "text": "commit",
+      "startMs": 1824,
+      "endMs": 2253
+    },
+    {
+      "text": "to",
+      "startMs": 2346,
+      "endMs": 2520
+    },
+    {
+      "text": "either",
+      "startMs": 2659,
+      "endMs": 2973
+    },
+    {
+      "text": "option",
+      "startMs": 3066,
+      "endMs": 3565
+    },
+    {
+      "text": "with",
+      "startMs": 3658,
+      "endMs": 3855
+    },
+    {
+      "text": "the",
+      "startMs": 3890,
+      "endMs": 3971
+    },
+    {
+      "text": "information",
+      "startMs": 4053,
+      "endMs": 4749
+    },
+    {
+      "text": "at",
+      "startMs": 4831,
+      "endMs": 5005
+    },
+    {
+      "text": "hand.",
+      "startMs": 5098,
+      "endMs": 5539
+    },
+    {
+      "text": "They",
+      "startMs": 6091,
+      "endMs": 6265
+    },
+    {
+      "text": "booked",
+      "startMs": 6311,
+      "endMs": 6601
+    },
+    {
+      "text": "another",
+      "startMs": 6683,
+      "endMs": 7101
+    },
+    {
+      "text": "meeting.",
+      "startMs": 7194,
+      "endMs": 7855
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "text": "The manager had protected time for execution while letting the decisions needed for that execution wait. Between reviews, people waited, found other work, or acted on assumptions.",
+  "durationMs": 14218,
+  "words": [
+    {
+      "text": "The",
+      "startMs": 500,
+      "endMs": 663
+    },
+    {
+      "text": "manager",
+      "startMs": 721,
+      "endMs": 1208
+    },
+    {
+      "text": "had",
+      "startMs": 1313,
+      "endMs": 1545
+    },
+    {
+      "text": "protected",
+      "startMs": 1673,
+      "endMs": 2334
+    },
+    {
+      "text": "time",
+      "startMs": 2381,
+      "endMs": 2683
+    },
+    {
+      "text": "for",
+      "startMs": 2729,
+      "endMs": 2880
+    },
+    {
+      "text": "execution",
+      "startMs": 3008,
+      "endMs": 3855
+    },
+    {
+      "text": "while",
+      "startMs": 3983,
+      "endMs": 4262
+    },
+    {
+      "text": "letting",
+      "startMs": 4308,
+      "endMs": 4680
+    },
+    {
+      "text": "the",
+      "startMs": 4772,
+      "endMs": 4877
+    },
+    {
+      "text": "decisions",
+      "startMs": 4935,
+      "endMs": 5492
+    },
+    {
+      "text": "needed",
+      "startMs": 5585,
+      "endMs": 5957
+    },
+    {
+      "text": "for",
+      "startMs": 6142,
+      "endMs": 6317
+    },
+    {
+      "text": "that",
+      "startMs": 6363,
+      "endMs": 6526
+    },
+    {
+      "text": "execution",
+      "startMs": 6618,
+      "endMs": 7431
+    },
+    {
+      "text": "wait.",
+      "startMs": 7559,
+      "endMs": 7965
+    },
+    {
+      "text": "Between",
+      "startMs": 8564,
+      "endMs": 8970
+    },
+    {
+      "text": "reviews,",
+      "startMs": 9016,
+      "endMs": 9608
+    },
+    {
+      "text": "people",
+      "startMs": 9736,
+      "endMs": 10131
+    },
+    {
+      "text": "waited,",
+      "startMs": 10166,
+      "endMs": 10677
+    },
+    {
+      "text": "found",
+      "startMs": 10816,
+      "endMs": 11060
+    },
+    {
+      "text": "other",
+      "startMs": 11153,
+      "endMs": 11408
+    },
+    {
+      "text": "work,",
+      "startMs": 11489,
+      "endMs": 11919
+    },
+    {
+      "text": "or",
+      "startMs": 11977,
+      "endMs": 12151
+    },
+    {
+      "text": "acted",
+      "startMs": 12279,
+      "endMs": 12778
+    },
+    {
+      "text": "on",
+      "startMs": 12906,
+      "endMs": 13068
+    },
+    {
+      "text": "assumptions.",
+      "startMs": 13126,
+      "endMs": 14218
+    }
+  ]
+}

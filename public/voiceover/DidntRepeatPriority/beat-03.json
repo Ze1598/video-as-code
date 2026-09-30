@@ -1,0 +1,106 @@
+{
+  "text": "At the next catch-up, the team had plenty to share about the technology, but very little working software to show.",
+  "durationMs": 8080.999999999999,
+  "words": [
+    {
+      "text": "At",
+      "startMs": 0,
+      "endMs": 186
+    },
+    {
+      "text": "the",
+      "startMs": 244,
+      "endMs": 337
+    },
+    {
+      "text": "next",
+      "startMs": 395,
+      "endMs": 685
+    },
+    {
+      "text": "catch-up,",
+      "startMs": 743,
+      "endMs": 1231
+    },
+    {
+      "text": "the",
+      "startMs": 1265,
+      "endMs": 1382
+    },
+    {
+      "text": "team",
+      "startMs": 1440,
+      "endMs": 1683
+    },
+    {
+      "text": "had",
+      "startMs": 1788,
+      "endMs": 2043.0000000000002
+    },
+    {
+      "text": "plenty",
+      "startMs": 2148,
+      "endMs": 2635
+    },
+    {
+      "text": "to",
+      "startMs": 2763,
+      "endMs": 3100
+    },
+    {
+      "text": "share",
+      "startMs": 3228,
+      "endMs": 3611
+    },
+    {
+      "text": "about",
+      "startMs": 3704,
+      "endMs": 4086.9999999999995
+    },
+    {
+      "text": "the",
+      "startMs": 4133,
+      "endMs": 4203
+    },
+    {
+      "text": "technology,",
+      "startMs": 4261,
+      "endMs": 5097
+    },
+    {
+      "text": "but",
+      "startMs": 5190,
+      "endMs": 5433
+    },
+    {
+      "text": "very",
+      "startMs": 5515,
+      "endMs": 5840
+    },
+    {
+      "text": "little",
+      "startMs": 5933,
+      "endMs": 6304
+    },
+    {
+      "text": "working",
+      "startMs": 6409,
+      "endMs": 6838
+    },
+    {
+      "text": "software",
+      "startMs": 6896,
+      "endMs": 7454
+    },
+    {
+      "text": "to",
+      "startMs": 7488,
+      "endMs": 7593
+    },
+    {
+      "text": "show.",
+      "startMs": 7651,
+      "endMs": 8080.999999999999
+    }
+  ]
+}

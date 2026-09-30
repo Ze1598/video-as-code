@@ -1,0 +1,151 @@
+{
+  "text": "At Friday’s review, the teams finally agreed on which system would change. But the team responsible now had less time to build and test it. The go live slipped.",
+  "durationMs": 12331,
+  "words": [
+    {
+      "text": "At",
+      "startMs": 500,
+      "endMs": 674
+    },
+    {
+      "text": "Friday’s",
+      "startMs": 732,
+      "endMs": 1289
+    },
+    {
+      "text": "review,",
+      "startMs": 1452,
+      "endMs": 1893
+    },
+    {
+      "text": "the",
+      "startMs": 1974,
+      "endMs": 2102
+    },
+    {
+      "text": "teams",
+      "startMs": 2160,
+      "endMs": 2474
+    },
+    {
+      "text": "finally",
+      "startMs": 2555,
+      "endMs": 3008
+    },
+    {
+      "text": "agreed",
+      "startMs": 3066,
+      "endMs": 3449
+    },
+    {
+      "text": "on",
+      "startMs": 3542,
+      "endMs": 3693
+    },
+    {
+      "text": "which",
+      "startMs": 3774,
+      "endMs": 4006
+    },
+    {
+      "text": "system",
+      "startMs": 4099,
+      "endMs": 4540
+    },
+    {
+      "text": "would",
+      "startMs": 4622,
+      "endMs": 4854
+    },
+    {
+      "text": "change.",
+      "startMs": 4981,
+      "endMs": 5492
+    },
+    {
+      "text": "But",
+      "startMs": 5777,
+      "endMs": 5951
+    },
+    {
+      "text": "the",
+      "startMs": 5998,
+      "endMs": 6079
+    },
+    {
+      "text": "team",
+      "startMs": 6137,
+      "endMs": 6381
+    },
+    {
+      "text": "responsible",
+      "startMs": 6509,
+      "endMs": 7286
+    },
+    {
+      "text": "now",
+      "startMs": 7379,
+      "endMs": 7611
+    },
+    {
+      "text": "had",
+      "startMs": 7704,
+      "endMs": 7925
+    },
+    {
+      "text": "less",
+      "startMs": 8111,
+      "endMs": 8413
+    },
+    {
+      "text": "time",
+      "startMs": 8494,
+      "endMs": 8819
+    },
+    {
+      "text": "to",
+      "startMs": 8854,
+      "endMs": 8923
+    },
+    {
+      "text": "build",
+      "startMs": 9005,
+      "endMs": 9318
+    },
+    {
+      "text": "and",
+      "startMs": 9411,
+      "endMs": 9585
+    },
+    {
+      "text": "test",
+      "startMs": 9643,
+      "endMs": 9992
+    },
+    {
+      "text": "it.",
+      "startMs": 10050,
+      "endMs": 10189
+    },
+    {
+      "text": "The",
+      "startMs": 10567,
+      "endMs": 10671
+    },
+    {
+      "text": "go",
+      "startMs": 10752,
+      "endMs": 10927
+    },
+    {
+      "text": "live",
+      "startMs": 11019,
+      "endMs": 11403
+    },
+    {
+      "text": "slipped.",
+      "startMs": 11565,
+      "endMs": 12331
+    }
+  ]
+}

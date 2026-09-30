@@ -1,0 +1,71 @@
+{
+  "text": "Give people what they need to prepare before you ask them to decide.",
+  "durationMs": 4644,
+  "words": [
+    {
+      "text": "Give",
+      "startMs": 0,
+      "endMs": 325
+    },
+    {
+      "text": "people",
+      "startMs": 383,
+      "endMs": 789
+    },
+    {
+      "text": "what",
+      "startMs": 836,
+      "endMs": 1057
+    },
+    {
+      "text": "they",
+      "startMs": 1138,
+      "endMs": 1324
+    },
+    {
+      "text": "need",
+      "startMs": 1382,
+      "endMs": 1625
+    },
+    {
+      "text": "to",
+      "startMs": 1707,
+      "endMs": 1834
+    },
+    {
+      "text": "prepare",
+      "startMs": 1927,
+      "endMs": 2438
+    },
+    {
+      "text": "before",
+      "startMs": 2519,
+      "endMs": 2891
+    },
+    {
+      "text": "you",
+      "startMs": 2937,
+      "endMs": 3042
+    },
+    {
+      "text": "ask",
+      "startMs": 3170,
+      "endMs": 3483
+    },
+    {
+      "text": "them",
+      "startMs": 3564,
+      "endMs": 3750
+    },
+    {
+      "text": "to",
+      "startMs": 3843,
+      "endMs": 3947
+    },
+    {
+      "text": "decide.",
+      "startMs": 4040,
+      "endMs": 4644
+    }
+  ]
+}

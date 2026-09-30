@@ -1,0 +1,146 @@
+{
+  "text": "Flag the decision you need from the client. Give people enough information to understand why they are involved and what they need to check before they can answer.",
+  "durationMs": 11146,
+  "words": [
+    {
+      "text": "Flag",
+      "startMs": 0,
+      "endMs": 383
+    },
+    {
+      "text": "the",
+      "startMs": 430,
+      "endMs": 557
+    },
+    {
+      "text": "decision",
+      "startMs": 650,
+      "endMs": 1219
+    },
+    {
+      "text": "you",
+      "startMs": 1324,
+      "endMs": 1440
+    },
+    {
+      "text": "need",
+      "startMs": 1521,
+      "endMs": 1741
+    },
+    {
+      "text": "from",
+      "startMs": 1823,
+      "endMs": 2009
+    },
+    {
+      "text": "the",
+      "startMs": 2090,
+      "endMs": 2171
+    },
+    {
+      "text": "client.",
+      "startMs": 2229,
+      "endMs": 2856
+    },
+    {
+      "text": "Give",
+      "startMs": 3019,
+      "endMs": 3251
+    },
+    {
+      "text": "people",
+      "startMs": 3297,
+      "endMs": 3669
+    },
+    {
+      "text": "enough",
+      "startMs": 3727,
+      "endMs": 4040
+    },
+    {
+      "text": "information",
+      "startMs": 4168,
+      "endMs": 4981
+    },
+    {
+      "text": "to",
+      "startMs": 5085,
+      "endMs": 5236
+    },
+    {
+      "text": "understand",
+      "startMs": 5364,
+      "endMs": 5956
+    },
+    {
+      "text": "why",
+      "startMs": 6037,
+      "endMs": 6339
+    },
+    {
+      "text": "they",
+      "startMs": 6432,
+      "endMs": 6687
+    },
+    {
+      "text": "are",
+      "startMs": 6769,
+      "endMs": 7001
+    },
+    {
+      "text": "involved",
+      "startMs": 7059,
+      "endMs": 7581
+    },
+    {
+      "text": "and",
+      "startMs": 7674,
+      "endMs": 7837
+    },
+    {
+      "text": "what",
+      "startMs": 7918,
+      "endMs": 8103.999999999999
+    },
+    {
+      "text": "they",
+      "startMs": 8150,
+      "endMs": 8336
+    },
+    {
+      "text": "need",
+      "startMs": 8464,
+      "endMs": 8766
+    },
+    {
+      "text": "to",
+      "startMs": 8858,
+      "endMs": 8986
+    },
+    {
+      "text": "check",
+      "startMs": 9079,
+      "endMs": 9334
+    },
+    {
+      "text": "before",
+      "startMs": 9439,
+      "endMs": 9868
+    },
+    {
+      "text": "they",
+      "startMs": 9927,
+      "endMs": 10089
+    },
+    {
+      "text": "can",
+      "startMs": 10136,
+      "endMs": 10298
+    },
+    {
+      "text": "answer.",
+      "startMs": 10403,
+      "endMs": 11146
+    }
+  ]
+}

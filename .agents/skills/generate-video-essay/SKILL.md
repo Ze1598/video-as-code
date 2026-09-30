@@ -13,6 +13,15 @@ The canonical skill is `.agents/skills/generate-video-essay/SKILL.md`. Keep any 
 
 Read `AGENTS.md` and the SDK documentation at `src/lib/essay-sdk/README.md`. Follow its authoring guide, visual requirements, API reference and verification instructions when translating the plan into code. Do not duplicate API instructions or rendering algorithms in this skill.
 
+## Production sequence
+
+Plan → prepare the full speech string with tone and pause tags → generate one
+complete audio file → write SDK video code from returned scene timing → render.
+Concentrate reasoning on the plan. Execute subsequent steps with shared helpers
+and SDK usage code. The generated audio drives the video timeline. The user
+approved `DidntRepeatPriority_apitest` as the working audio reference. Do not add
+new analysis utilities or repeat tone comparisons without a concrete need.
+
 ## Adapt the essay into a script
 
 Identify the concrete leadership situation: who is involved, what they are already trying to achieve, what someone changes, why that action appears reasonable, and how the consequences arise. Preserve the essay's meaning and relevant nuance. Do not invent factual details.
@@ -47,6 +56,15 @@ For each scene specify:
 - The documented SDK capabilities that implement that intent.
 
 Preserve successful explanatory actions when revising surrounding design. Ask for genuinely missing editorial decisions; do not infer them from what the current renderer happens to support.
+
+## Prepare narration with the audio subskill
+
+Before preparing or generating narration, read and follow the
+[`generate-essay-audio` subskill](../generate-essay-audio/SKILL.md). It owns the
+full-essay v4 request, delivery direction, preserved pause rules, per-video
+request-code provenance and manual listening review. Read it for audio reuse or
+revision too, so visual changes do not trigger unnecessary paid generation.
+Before spending, inventory all pauses from both narration and visual timing, including scene holds and final padding. Record the complete pause plan and encode it in the full request. Production plays one movie-level audio track; visual scenes follow its timestamps without playback padding. The SDK audio-generation guide supplies the executable code and timing contract.
 
 ## Produce SDK usage code
 

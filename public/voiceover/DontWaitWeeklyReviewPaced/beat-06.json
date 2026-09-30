@@ -1,0 +1,171 @@
+{
+  "text": "The frequency of your meetings needs to match how frequently the work changes. When iteration cycles are counted in days, meet every day. When work stays stable for a week, use weekly reviews.",
+  "durationMs": 16325,
+  "words": [
+    {
+      "text": "The",
+      "startMs": 500,
+      "endMs": 663
+    },
+    {
+      "text": "frequency",
+      "startMs": 755,
+      "endMs": 1580
+    },
+    {
+      "text": "of",
+      "startMs": 1707,
+      "endMs": 1905
+    },
+    {
+      "text": "your",
+      "startMs": 2033,
+      "endMs": 2183
+    },
+    {
+      "text": "meetings",
+      "startMs": 2265,
+      "endMs": 2810
+    },
+    {
+      "text": "needs",
+      "startMs": 2950,
+      "endMs": 3217
+    },
+    {
+      "text": "to",
+      "startMs": 3263,
+      "endMs": 3344
+    },
+    {
+      "text": "match",
+      "startMs": 3437,
+      "endMs": 3762
+    },
+    {
+      "text": "how",
+      "startMs": 3890,
+      "endMs": 4099
+    },
+    {
+      "text": "frequently",
+      "startMs": 4204,
+      "endMs": 5063
+    },
+    {
+      "text": "the",
+      "startMs": 5225,
+      "endMs": 5365
+    },
+    {
+      "text": "work",
+      "startMs": 5411,
+      "endMs": 5690
+    },
+    {
+      "text": "changes.",
+      "startMs": 5817,
+      "endMs": 6433
+    },
+    {
+      "text": "When",
+      "startMs": 6776,
+      "endMs": 7089
+    },
+    {
+      "text": "iteration",
+      "startMs": 7217,
+      "endMs": 8006
+    },
+    {
+      "text": "cycles",
+      "startMs": 8088,
+      "endMs": 8645
+    },
+    {
+      "text": "are",
+      "startMs": 8772,
+      "endMs": 8981
+    },
+    {
+      "text": "counted",
+      "startMs": 9028,
+      "endMs": 9574
+    },
+    {
+      "text": "in",
+      "startMs": 9655,
+      "endMs": 9759
+    },
+    {
+      "text": "days,",
+      "startMs": 9852,
+      "endMs": 10386
+    },
+    {
+      "text": "meet",
+      "startMs": 10468,
+      "endMs": 10758
+    },
+    {
+      "text": "every",
+      "startMs": 10944,
+      "endMs": 11234
+    },
+    {
+      "text": "day.",
+      "startMs": 11315,
+      "endMs": 11605
+    },
+    {
+      "text": "When",
+      "startMs": 11983,
+      "endMs": 12204
+    },
+    {
+      "text": "work",
+      "startMs": 12297,
+      "endMs": 12540
+    },
+    {
+      "text": "stays",
+      "startMs": 12645,
+      "endMs": 13098
+    },
+    {
+      "text": "stable",
+      "startMs": 13202,
+      "endMs": 13748
+    },
+    {
+      "text": "for",
+      "startMs": 13794,
+      "endMs": 13957
+    },
+    {
+      "text": "a",
+      "startMs": 14015,
+      "endMs": 14038
+    },
+    {
+      "text": "week,",
+      "startMs": 14131,
+      "endMs": 14479
+    },
+    {
+      "text": "use",
+      "startMs": 14607,
+      "endMs": 14955
+    },
+    {
+      "text": "weekly",
+      "startMs": 15083,
+      "endMs": 15512
+    },
+    {
+      "text": "reviews.",
+      "startMs": 15640,
+      "endMs": 16325
+    }
+  ]
+}

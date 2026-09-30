@@ -6,7 +6,9 @@ export const EssayVideo: React.FC<{ movie: Movie }> = ({ movie }) => {
   const frame = useCurrentFrame();
   return <AbsoluteFill>
     <div dangerouslySetInnerHTML={{ __html: renderSvg(frameState(movie, frame)) }} />
-    {movie.scenes.map(scene => scene.audio ? <Sequence key={scene.id} from={scene.from} durationInFrames={scene.audio.duration}>
+    {movie.audio ? <Sequence from={0} durationInFrames={movie.audio.duration}>
+      <Audio src={staticFile(movie.audio.src)} />
+    </Sequence> : movie.scenes.map(scene => scene.audio ? <Sequence key={scene.id} from={scene.from} durationInFrames={scene.audio.duration}>
       <Audio src={staticFile(scene.audio.src)} />
     </Sequence> : null)}
   </AbsoluteFill>;

@@ -49,3 +49,40 @@ If you hit a real error running a documented command that the existing checks di
 the fix isn't just patching the bug — add a test here that would have caught it, the same way
 `module-resolution.test.ts` now stands permanently between that exact class of bug and ever
 shipping silently again.
+
+## Manual storytelling tone case
+
+Full-essay pipeline mechanics are covered separately by `essay-audio.test.ts`:
+one v4 request, unchanged approved words, source preservation and actual
+250/500 ms silence measured in decoded synthetic audio with matching timings.
+These checks are free and do not assess storytelling tone.
+
+Run `npm run preview:tone` after approving the two paid API calls for that run.
+This uses `scripts/preview-storytelling-tone.ts` and the credentials in `.env`.
+It is a manual listening case, separate from `npm test` and `npm run test:live`.
+
+The case generates the same short leadership story twice with `eleven_v4`,
+the same cloned voice and identical voice settings. `baseline.mp3` uses plain
+text; `storytelling.mp3` adds conversational, curious and reflective delivery
+tags plus short pauses. Each run creates a new `out/voice-tone/manual-*`
+directory, preserving earlier samples. `request.json` records the text, model,
+settings and listening questions; the accompanying JSON files contain returned
+word timings. The output directory is ignored by Git.
+
+Play both MP3s at the same playback volume, or ask Codex to display the saved
+samples in chat. Listen for:
+
+- Calm energy that still holds attention.
+- Natural thought changes, curiosity in the question and a reflective ending.
+- Preservation of the cloned voice's identity and clarity.
+- No spoken direction tags or unwanted sounds.
+
+Use 92 BPM (about 652 ms per beat) as a reference for phrasing, rather than
+words per minute. Neither `speed: 0.92` nor the delivery tags enforce that rhythm.
+Record your preferred sample and observations in the run directory before
+changing the case or production settings. Successful API calls and valid timing
+data do not establish that the tone is suitable; the listening decision is yours.
+Tags can appear in returned alignment, so inspect what you hear before using
+those words as captions.
+
+The delivery experiment follows the [ElevenLabs v4 prompting guidance](https://elevenlabs.io/docs/overview/capabilities/text-to-speech/best-practices#prompting-eleven-v4).

@@ -1,0 +1,181 @@
+{
+  "text": "The team needed time to investigate, change the code, and test it. Another meeting would take time from that work. So the manager asked them to record issues in the shared tracker and keep going.",
+  "durationMs": 15443,
+  "words": [
+    {
+      "text": "The",
+      "startMs": 500,
+      "endMs": 837
+    },
+    {
+      "text": "team",
+      "startMs": 999,
+      "endMs": 1382
+    },
+    {
+      "text": "needed",
+      "startMs": 1522,
+      "endMs": 1951
+    },
+    {
+      "text": "time",
+      "startMs": 2044,
+      "endMs": 2288
+    },
+    {
+      "text": "to",
+      "startMs": 2334,
+      "endMs": 2416
+    },
+    {
+      "text": "investigate,",
+      "startMs": 2474,
+      "endMs": 3402
+    },
+    {
+      "text": "change",
+      "startMs": 3495,
+      "endMs": 3948
+    },
+    {
+      "text": "the",
+      "startMs": 3995,
+      "endMs": 4087
+    },
+    {
+      "text": "code,",
+      "startMs": 4146,
+      "endMs": 4575
+    },
+    {
+      "text": "and",
+      "startMs": 4633,
+      "endMs": 4831
+    },
+    {
+      "text": "test",
+      "startMs": 4912,
+      "endMs": 5283
+    },
+    {
+      "text": "it.",
+      "startMs": 5341,
+      "endMs": 5608
+    },
+    {
+      "text": "Another",
+      "startMs": 6044,
+      "endMs": 6416
+    },
+    {
+      "text": "meeting",
+      "startMs": 6474,
+      "endMs": 6915
+    },
+    {
+      "text": "would",
+      "startMs": 7077,
+      "endMs": 7414
+    },
+    {
+      "text": "take",
+      "startMs": 7507,
+      "endMs": 7832
+    },
+    {
+      "text": "time",
+      "startMs": 7890,
+      "endMs": 8238
+    },
+    {
+      "text": "from",
+      "startMs": 8285,
+      "endMs": 8540
+    },
+    {
+      "text": "that",
+      "startMs": 8645,
+      "endMs": 8842
+    },
+    {
+      "text": "work.",
+      "startMs": 8970,
+      "endMs": 9469
+    },
+    {
+      "text": "So",
+      "startMs": 9766,
+      "endMs": 10056
+    },
+    {
+      "text": "the",
+      "startMs": 10183,
+      "endMs": 10300
+    },
+    {
+      "text": "manager",
+      "startMs": 10358,
+      "endMs": 10834
+    },
+    {
+      "text": "asked",
+      "startMs": 10938,
+      "endMs": 11275
+    },
+    {
+      "text": "them",
+      "startMs": 11321,
+      "endMs": 11507
+    },
+    {
+      "text": "to",
+      "startMs": 11588,
+      "endMs": 11681
+    },
+    {
+      "text": "record",
+      "startMs": 11786,
+      "endMs": 12238
+    },
+    {
+      "text": "issues",
+      "startMs": 12366,
+      "endMs": 12889
+    },
+    {
+      "text": "in",
+      "startMs": 12981,
+      "endMs": 13086
+    },
+    {
+      "text": "the",
+      "startMs": 13121,
+      "endMs": 13190
+    },
+    {
+      "text": "shared",
+      "startMs": 13225,
+      "endMs": 13516
+    },
+    {
+      "text": "tracker",
+      "startMs": 13550,
+      "endMs": 14166
+    },
+    {
+      "text": "and",
+      "startMs": 14259,
+      "endMs": 14433
+    },
+    {
+      "text": "keep",
+      "startMs": 14526,
+      "endMs": 14735
+    },
+    {
+      "text": "going.",
+      "startMs": 14839,
+      "endMs": 15443
+    }
+  ]
+}

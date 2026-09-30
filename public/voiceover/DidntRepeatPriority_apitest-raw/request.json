@@ -1,0 +1,109 @@
+{
+  "createdAt": "2026-09-30T04:03:57.165Z",
+  "method": "POST",
+  "url": "https://api.elevenlabs.io/v1/text-to-speech/QmMeKYANmozqFOHSuY8V/with-timestamps",
+  "body": {
+    "text": "[Warm, conversational voice, measured delivery] A tech lead presented a new direction for a prototype and walked the team through the features to build. [brief pause, about a quarter of a second] In the meetings that followed, she explained the architecture and how the modules connected.\n\n[pause, about half a second]\n\n[Calm, clear storytelling voice] With the design explained and user stories ready to pick up, she expected implementation to begin. [brief pause, about a quarter of a second] But the stories named features without making the expected output clear.\n\n[pause, about half a second]\n\n[Calm, clear storytelling voice] The developers researched the technologies and explored examples to work out what would fit. [brief pause, about a quarter of a second] Each possibility raised more questions. [brief pause, about a quarter of a second] The research expanded into features and approaches the prototype did not need.\n\n[pause, about half a second]\n\n[Calm, clear storytelling voice] At the next catch-up, the team had plenty to share about the technology, but very little working software to show.\n\n[pause, about half a second]\n\n[Calm, clear storytelling voice] The lead had treated explaining the direction as completing the communication. [brief pause, about a quarter of a second] But the developers needed the priority again, when they had a concrete piece of work in front of them.\n\n[pause, about half a second]\n\n[Calm, clear storytelling voice] People do not bring every question they will need answered to a presentation. [brief pause, about a quarter of a second] Some questions appear when they apply what they heard. [brief pause, about a quarter of a second] Knowing how modules connect does not tell you how far to take a feature, or which possibilities to ignore.\n\n[pause, about half a second]\n\n[Calm, clear storytelling voice] Repeat the priority where those decisions happen. [brief pause, about a quarter of a second] The user stories were another chance to state what the prototype needed. [brief pause, about a quarter of a second] Make the expected output clear, including how far to take the feature and what to leave out.\n\n[pause, about half a second]\n\n[Calm, clear storytelling voice] Saying it once is not the finish line. [brief pause, about a quarter of a second] If the team fills the gaps with its own interpretation, you will have more work to course-correct later. [brief pause, about a quarter of a second] Keep repeating the priority until it appears in what the team is doing.\n\n[pause, about half a second]\n\n[Softening, reflective] Worry less about sounding repetitive, and more about whether the priority is guiding the work.",
+    "model_id": "eleven_v4",
+    "voice_settings": {
+      "stability": 0.35,
+      "similarity_boost": 0.75,
+      "style": 0.45,
+      "speed": 0.92
+    }
+  },
+  "narration": {
+    "modelId": "eleven_v4",
+    "voiceSettings": {
+      "stability": 0.35,
+      "similarity_boost": 0.75,
+      "style": 0.45,
+      "speed": 0.92
+    },
+    "pauseCues": {
+      "internalSentence": "brief pause, about a quarter of a second",
+      "betweenSegments": "pause, about half a second"
+    },
+    "segments": [
+      {
+        "id": "beat-00",
+        "sentences": [
+          "A tech lead presented a new direction for a prototype and walked the team through the features to build.",
+          "In the meetings that followed, she explained the architecture and how the modules connected."
+        ],
+        "direction": "Warm, conversational voice, measured delivery"
+      },
+      {
+        "id": "beat-01",
+        "sentences": [
+          "With the design explained and user stories ready to pick up, she expected implementation to begin.",
+          "But the stories named features without making the expected output clear."
+        ],
+        "direction": "Calm, clear storytelling voice"
+      },
+      {
+        "id": "beat-02",
+        "sentences": [
+          "The developers researched the technologies and explored examples to work out what would fit.",
+          "Each possibility raised more questions.",
+          "The research expanded into features and approaches the prototype did not need."
+        ],
+        "direction": "Calm, clear storytelling voice"
+      },
+      {
+        "id": "beat-03",
+        "sentences": [
+          "At the next catch-up, the team had plenty to share about the technology, but very little working software to show."
+        ],
+        "direction": "Calm, clear storytelling voice"
+      },
+      {
+        "id": "beat-04",
+        "sentences": [
+          "The lead had treated explaining the direction as completing the communication.",
+          "But the developers needed the priority again, when they had a concrete piece of work in front of them."
+        ],
+        "direction": "Calm, clear storytelling voice"
+      },
+      {
+        "id": "beat-05",
+        "sentences": [
+          "People do not bring every question they will need answered to a presentation.",
+          "Some questions appear when they apply what they heard.",
+          "Knowing how modules connect does not tell you how far to take a feature, or which possibilities to ignore."
+        ],
+        "direction": "Calm, clear storytelling voice"
+      },
+      {
+        "id": "beat-06",
+        "sentences": [
+          "Repeat the priority where those decisions happen.",
+          "The user stories were another chance to state what the prototype needed.",
+          "Make the expected output clear, including how far to take the feature and what to leave out."
+        ],
+        "direction": "Calm, clear storytelling voice"
+      },
+      {
+        "id": "beat-07",
+        "sentences": [
+          "Saying it once is not the finish line.",
+          "If the team fills the gaps with its own interpretation, you will have more work to course-correct later.",
+          "Keep repeating the priority until it appears in what the team is doing."
+        ],
+        "direction": "Calm, clear storytelling voice"
+      },
+      {
+        "id": "beat-08",
+        "sentences": [
+          "Worry less about sounding repetitive, and more about whether the priority is guiding the work."
+        ],
+        "direction": "Softening, reflective"
+      }
+    ]
+  },
+  "pauses": {
+    "laterBeatLeadMs": 500,
+    "internalSentenceMs": 250
+  },
+  "status": "completed"
+}

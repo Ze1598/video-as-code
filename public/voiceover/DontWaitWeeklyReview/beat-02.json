@@ -1,0 +1,141 @@
+{
+  "text": "On Monday, an engineer found a failure that needed two teams to agree on which system should change. She flagged the decision and moved to another task.",
+  "durationMs": 11099,
+  "words": [
+    {
+      "text": "On",
+      "startMs": 0,
+      "endMs": 174
+    },
+    {
+      "text": "Monday,",
+      "startMs": 255,
+      "endMs": 813
+    },
+    {
+      "text": "an",
+      "startMs": 848,
+      "endMs": 1010
+    },
+    {
+      "text": "engineer",
+      "startMs": 1115,
+      "endMs": 1625
+    },
+    {
+      "text": "found",
+      "startMs": 1788,
+      "endMs": 2113
+    },
+    {
+      "text": "a",
+      "startMs": 2218,
+      "endMs": 2264
+    },
+    {
+      "text": "failure",
+      "startMs": 2368,
+      "endMs": 2891
+    },
+    {
+      "text": "that",
+      "startMs": 2949,
+      "endMs": 3181
+    },
+    {
+      "text": "needed",
+      "startMs": 3262,
+      "endMs": 3657
+    },
+    {
+      "text": "two",
+      "startMs": 3785,
+      "endMs": 4062.9999999999995
+    },
+    {
+      "text": "teams",
+      "startMs": 4191,
+      "endMs": 4598
+    },
+    {
+      "text": "to",
+      "startMs": 4725,
+      "endMs": 4853
+    },
+    {
+      "text": "agree",
+      "startMs": 4946,
+      "endMs": 5329
+    },
+    {
+      "text": "on",
+      "startMs": 5422,
+      "endMs": 5596
+    },
+    {
+      "text": "which",
+      "startMs": 5642,
+      "endMs": 5875
+    },
+    {
+      "text": "system",
+      "startMs": 6060,
+      "endMs": 6594
+    },
+    {
+      "text": "should",
+      "startMs": 6687,
+      "endMs": 6908
+    },
+    {
+      "text": "change.",
+      "startMs": 6931,
+      "endMs": 7454
+    },
+    {
+      "text": "She",
+      "startMs": 7593,
+      "endMs": 7744
+    },
+    {
+      "text": "flagged",
+      "startMs": 7837,
+      "endMs": 8185.000000000001
+    },
+    {
+      "text": "the",
+      "startMs": 8208,
+      "endMs": 8290
+    },
+    {
+      "text": "decision",
+      "startMs": 8336,
+      "endMs": 8847
+    },
+    {
+      "text": "and",
+      "startMs": 8940,
+      "endMs": 9125
+    },
+    {
+      "text": "moved",
+      "startMs": 9218,
+      "endMs": 9509
+    },
+    {
+      "text": "to",
+      "startMs": 9567,
+      "endMs": 9671
+    },
+    {
+      "text": "another",
+      "startMs": 9764,
+      "endMs": 10159
+    },
+    {
+      "text": "task.",
+      "startMs": 10252,
+      "endMs": 11099
+    }
+  ]
+}

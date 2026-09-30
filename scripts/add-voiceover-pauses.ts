@@ -59,7 +59,7 @@ function audioFormat(path: string): { sampleRate: number; channelLayout: string 
   return { sampleRate: Number(stream.sample_rate), channelLayout };
 }
 
-function renderPausedAudio(
+export function renderPausedAudio(
   sourcePath: string,
   targetPath: string,
   timing: TimingFile,

@@ -4,23 +4,21 @@ Start with the narration script and scene intentions produced using the generati
 
 Use the [visual-pattern guide](patterns.md) to select a mechanism for each causal change. A single audio segment can contain staged entries, reallocations, waits, returns or several non-overlapping visual intervals. Do not hold an unchanged visual across unrelated narration simply because it is one audio file. Comparisons are paired semantic entries, not parallel subtitle paragraphs. Text-only screens need an editorial reason.
 
-## 1. Prepare narration
+## 1. Prepare and generate narration
 
-Put approved narration in `src/<VideoName>/script.ts`, exporting `SLIDES` with `{id, text}` entries. Paid generation requires approval:
+Follow the [audio-generation guide](audio-generation.md): plan → tagged speech
+string → one v4 audio generation → SDK video code from returned timing → render.
+Plan the scene intentions before generating audio; implement their exact timing
+after the recording exists. Include all sentence pauses, scene lead-ins, holds
+and final spacing in the request's explicit pause plan.
 
-```sh
-node --env-file=.env --experimental-strip-types scripts/generate-voiceover.ts <VideoName>
-```
-
-Preserve source audio. Apply 0.5 seconds of actual silence before later beats and 0.25 seconds between internal sentences using `scripts/add-voiceover-pauses.ts <SourceVideoName> <TargetVideoName>`. Keep the opening start unchanged. The script shifts timestamps together with the audio. Build timing data only after pacing:
-
-```sh
-node --experimental-strip-types scripts/build-timing-data.ts <TargetVideoName>
-```
-
-Reusing existing narration is valid. Removing a sentence requires trimming both its timed words and audible playback. Audio duration is expressed in frames in the SDK plan. Do not regenerate paid audio merely to change visuals.
-
-When removing an entire redundant scene, remove its scene declaration and audio sequence together. Recompile to derive the new offsets; do not leave a silent hole or renumber source audio files. Keep progression from case study through consequences and extrapolation to the solution.
+Keep the request code and exact request record with the video. Preserve the
+full generated recording. Use `continuousNarrationTimeline` to build
+browser-safe scene/word timing data, as shown in
+`src/DidntRepeatPriority_apitest/build-timing.ts`. Video code plays that recording
+once through `EssayPlan.audio`. Do not add `Scene.audio`, scene-duration padding,
+or a silence-insertion pass. Keep Node-only generation helpers out of browser
+imports. Reuse approved audio for visual revisions.
 
 ## 2. Write the production plan
 
@@ -32,16 +30,14 @@ Here is a minimal current-API text-scene factory. It receives timing data, so it
 import { compileEssay, type Scene } from '../lib/essay-sdk/index.ts';
 import type { WordTiming } from '../lib/essay-sdk/sentences.ts';
 
-export function makeTextVideo(words: WordTiming[], audioSrc: string) {
+export function makeTextVideo(words: WordTiming[], audioSrc: string, audioFrames: number) {
   if (!words.length) throw new Error('Narration required');
   const fps = 60;
-  const audioFrames = Math.ceil(words[words.length - 1].endMs * fps / 1000);
   const scene: Scene = {
-    id: 'explanation', duration: audioFrames + 90, narration: words,
-    audio: { src: audioSrc, duration: audioFrames },
+    id: 'explanation', duration: audioFrames, narration: words,
     groups: [], items: [], transfers: [], topics: [], takeaways: [],
   };
-  return compileEssay({ fps, scenes: [scene] });
+  return compileEssay({ fps, scenes: [scene], audio: { src: audioSrc, duration: audioFrames } });
 }
 ```
 

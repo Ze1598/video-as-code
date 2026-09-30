@@ -1,0 +1,186 @@
+{
+  "text": "A project manager learned that his team could not deliver every feature by the deadline. He sent the client an invite titled, “Discuss project scope,” and left the explanation for the call. There was no agenda.",
+  "durationMs": 15918,
+  "words": [
+    {
+      "text": "A",
+      "startMs": 0,
+      "endMs": 70
+    },
+    {
+      "text": "project",
+      "startMs": 174,
+      "endMs": 580
+    },
+    {
+      "text": "manager",
+      "startMs": 662,
+      "endMs": 1149
+    },
+    {
+      "text": "learned",
+      "startMs": 1254,
+      "endMs": 1660
+    },
+    {
+      "text": "that",
+      "startMs": 1788,
+      "endMs": 2136
+    },
+    {
+      "text": "his",
+      "startMs": 2241,
+      "endMs": 2426
+    },
+    {
+      "text": "team",
+      "startMs": 2554,
+      "endMs": 2810
+    },
+    {
+      "text": "could",
+      "startMs": 2914,
+      "endMs": 3123
+    },
+    {
+      "text": "not",
+      "startMs": 3216,
+      "endMs": 3425
+    },
+    {
+      "text": "deliver",
+      "startMs": 3506,
+      "endMs": 4062.9999999999995
+    },
+    {
+      "text": "every",
+      "startMs": 4191,
+      "endMs": 4528
+    },
+    {
+      "text": "feature",
+      "startMs": 4632,
+      "endMs": 5236
+    },
+    {
+      "text": "by",
+      "startMs": 5341,
+      "endMs": 5596
+    },
+    {
+      "text": "the",
+      "startMs": 5724,
+      "endMs": 5817
+    },
+    {
+      "text": "deadline.",
+      "startMs": 5909,
+      "endMs": 6618
+    },
+    {
+      "text": "He",
+      "startMs": 7007,
+      "endMs": 7146
+    },
+    {
+      "text": "sent",
+      "startMs": 7239,
+      "endMs": 7588
+    },
+    {
+      "text": "the",
+      "startMs": 7669,
+      "endMs": 7750
+    },
+    {
+      "text": "client",
+      "startMs": 7796,
+      "endMs": 8214
+    },
+    {
+      "text": "an",
+      "startMs": 8296,
+      "endMs": 8423
+    },
+    {
+      "text": "invite",
+      "startMs": 8528,
+      "endMs": 9178
+    },
+    {
+      "text": "titled,",
+      "startMs": 9271,
+      "endMs": 9898
+    },
+    {
+      "text": "“Discuss",
+      "startMs": 9991,
+      "endMs": 10571
+    },
+    {
+      "text": "project",
+      "startMs": 10676,
+      "endMs": 11071
+    },
+    {
+      "text": "scope,”",
+      "startMs": 11105,
+      "endMs": 11593
+    },
+    {
+      "text": "and",
+      "startMs": 11616,
+      "endMs": 11814
+    },
+    {
+      "text": "left",
+      "startMs": 11906,
+      "endMs": 12162
+    },
+    {
+      "text": "the",
+      "startMs": 12197,
+      "endMs": 12278
+    },
+    {
+      "text": "explanation",
+      "startMs": 12359,
+      "endMs": 13091
+    },
+    {
+      "text": "for",
+      "startMs": 13172,
+      "endMs": 13288
+    },
+    {
+      "text": "the",
+      "startMs": 13346,
+      "endMs": 13416
+    },
+    {
+      "text": "call.",
+      "startMs": 13474,
+      "endMs": 13961
+    },
+    {
+      "text": "There",
+      "startMs": 14351,
+      "endMs": 14571
+    },
+    {
+      "text": "was",
+      "startMs": 14618,
+      "endMs": 14745
+    },
+    {
+      "text": "no",
+      "startMs": 14838,
+      "endMs": 14989
+    },
+    {
+      "text": "agenda.",
+      "startMs": 15117,
+      "endMs": 15918
+    }
+  ]
+}

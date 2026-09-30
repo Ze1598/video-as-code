@@ -1,4 +1,15 @@
 import "./index.css";
+import { DidntRepeatPriorityApitest } from "./DidntRepeatPriority_apitest/index.tsx";
+import { movie as didntRepeatApitestMovie } from "./DidntRepeatPriority_apitest/production.ts";
+import { DidntRepeatPriority, DidntRepeatPriorityPreview } from "./DidntRepeatPriority/index.tsx";
+import { movie as didntRepeatMovie } from "./DidntRepeatPriority/production.ts";
+import { previewMovie as didntRepeatPreview } from "./DidntRepeatPriority/preview.ts";
+import { MeetingFailedBeforeStart, MeetingFailedBeforeStartPreview } from "./MeetingFailedBeforeStart/index.tsx";
+import { movie as meetingFailedMovie } from "./MeetingFailedBeforeStart/production.ts";
+import { previewMovie as meetingFailedPreview } from "./MeetingFailedBeforeStart/preview.ts";
+import { DontWaitWeeklyReview, DontWaitWeeklyReviewPreview } from "./DontWaitWeeklyReview/index.tsx";
+import { movie as dontWaitMovie } from "./DontWaitWeeklyReview/production.ts";
+import { previewMovie as dontWaitPreview } from "./DontWaitWeeklyReview/preview.ts";
 import { ChangeBrightSpot, ChangeBrightSpotPreview } from "./ChangeBrightSpot/index.tsx";
 import { movie as brightSpotMovie } from "./ChangeBrightSpot/production.ts";
 import { previewMovie as brightSpotPreview } from "./ChangeBrightSpot/preview.ts";
@@ -50,6 +61,13 @@ import { LibDemo, LIB_DEMO_DURATION } from "./archive/lib/__demo__/index.tsx";
 export const RemotionRoot: React.FC = () => {
   return (
     <>
+      <Composition id="DidntRepeatPriority-apitest" component={DidntRepeatPriorityApitest} durationInFrames={didntRepeatApitestMovie.duration} fps={didntRepeatApitestMovie.fps} width={1920} height={1080} />
+      <Composition id="DidntRepeatPriority" component={DidntRepeatPriority} durationInFrames={didntRepeatMovie.duration} fps={didntRepeatMovie.fps} width={1920} height={1080} />
+      <Composition id="DidntRepeatPriorityPreview" component={DidntRepeatPriorityPreview} durationInFrames={didntRepeatPreview.duration} fps={didntRepeatPreview.fps} width={1920} height={1080} />
+      <Composition id="MeetingFailedBeforeStart" component={MeetingFailedBeforeStart} durationInFrames={meetingFailedMovie.duration} fps={meetingFailedMovie.fps} width={1920} height={1080} />
+      <Composition id="MeetingFailedBeforeStartPreview" component={MeetingFailedBeforeStartPreview} durationInFrames={meetingFailedPreview.duration} fps={meetingFailedPreview.fps} width={1920} height={1080} />
+      <Composition id="DontWaitWeeklyReview" component={DontWaitWeeklyReview} durationInFrames={dontWaitMovie.duration} fps={dontWaitMovie.fps} width={1920} height={1080} />
+      <Composition id="DontWaitWeeklyReviewPreview" component={DontWaitWeeklyReviewPreview} durationInFrames={dontWaitPreview.duration} fps={dontWaitPreview.fps} width={1920} height={1080} />
       <Composition id="ChangeBrightSpot" component={ChangeBrightSpot} durationInFrames={brightSpotMovie.duration} fps={brightSpotMovie.fps} width={1920} height={1080} />
       <Composition id="ChangeBrightSpotPreview" component={ChangeBrightSpotPreview} durationInFrames={brightSpotPreview.duration} fps={brightSpotPreview.fps} width={1920} height={1080} />
       <Composition id="ChangeUpfrontCost" component={ChangeUpfrontCostProduction} durationInFrames={changeUpfrontCostMovie.duration} fps={changeUpfrontCostMovie.fps} width={1920} height={1080} />

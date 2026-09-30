@@ -23,10 +23,8 @@ export type VoiceSettings = {
   speed: number;
 };
 
-// Validated for this format's narration (see leadership-visual-essay SKILL.md
-// "Voice settings"): stability 0.35 gives natural prosodic variation instead
-// of a flat/monotone read, style 0.45 leans into the voice's own
-// expressiveness, speed 0.92 reads as measured rather than rushed.
+// Existing voice settings retained as a starting point. V4 tone is reviewed
+// through the manual listening case; speed 0.92 is not a 92 BPM control.
 export const DEFAULT_VOICE_SETTINGS: VoiceSettings = {
   stability: 0.35,
   similarity_boost: 0.75,
@@ -34,12 +32,7 @@ export const DEFAULT_VOICE_SETTINGS: VoiceSettings = {
   speed: 0.92,
 };
 
-// eleven_multilingual_v2, not eleven_v3: v3 is a preview feature and was
-// found, on direct listening after a full-script regeneration, to measurably
-// degrade voice fidelity/character compared to v2 — confirmed directly on
-// this voice, not a guess. Don't switch models without re-verifying fidelity,
-// not just whether a feature (e.g. <break> tag pause support) works.
-export const DEFAULT_MODEL_ID = "eleven_multilingual_v2";
+export const DEFAULT_MODEL_ID = "eleven_v4";
 
 function deriveWordTimings(alignment: Alignment): WordTiming[] {
   const words: WordTiming[] = [];
@@ -74,12 +67,9 @@ export type GenerateVoiceoverOptions = {
   modelId?: string;
 };
 
-// One ElevenLabs `with-timestamps` call per slide (a beat's script can be a
-// full paragraph — never split per sentence, see the skill's audio pipeline
-// section), writing `<outDir>/<slide.id>.mp3` and `.json` (real word-level
-// timings, never hand-transcribed). Shared across every video's
-// generate-voiceover-<name>.ts so the ElevenLabs call shape, env var checks,
-// and word-timing derivation live in exactly one place.
+// Low-level request helper: one call per supplied entry. New essay production
+// passes ONE complete narration entry through essay-audio.ts. Multiple entries
+// remain available for manual comparisons and explicitly selected legacy runs.
 export async function generateVoiceover({
   outDir,
   slides,

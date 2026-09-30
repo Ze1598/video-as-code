@@ -10,6 +10,7 @@ The skill adapts an input essay into a narration script and production plan/code
 - `src/ChangingTooMuchV11`: current reference script, visual production plan and thin composition.
 - `scripts/lib/elevenlabs.ts`: narration API and timing derivation.
 - `scripts/generate-voiceover.ts`: voice generation CLI.
+- `scripts/lib/essay-audio.ts`: one-request v4 narration, request records and offline beat preparation.
 - `scripts/add-voiceover-pauses.ts`: actual silence and matching timestamp shifts.
 - `scripts/build-timing-data.ts`: timed narration data generation.
 - `tests/essay-sdk*.test.ts`: requirements and actual rendered-output assertions.
@@ -18,10 +19,15 @@ The skill adapts an input essay into a narration script and production plan/code
 
 ## Workflow
 
-1. Plan the explanation, including a scenario-only hook and scene-by-scene visual meaning.
-2. Generate approved narration or reuse existing audio; apply pauses and load actual timings.
-3. Compile the scene plan with the SDK and register `EssayVideo`.
-4. Execute requirements and rendered-output tests, then render and verify the MP4.
+1. Plan the story, visual scene intentions and complete pause budget.
+2. Prepare the full speech string with tone, delivery and pause tags.
+3. Generate the complete audio with one approved `eleven_v4` request.
+4. Write SDK video code using the returned scene/word timing and one continuous audio track.
+5. Render and verify the video.
+
+The generated audio drives the video timeline. Reasoning concentrates on planning;
+subsequent work uses the shared pipeline and SDK. The user approved the audio in
+`DidntRepeatPriority_apitest` as the working reference for this approach.
 
 New SDK capabilities use requirements tests before implementation. Output assertions use independently specified geometry, colors and visibility. Automated verification replaces subjective screenshot review.
 
@@ -31,7 +37,12 @@ npm run lint
 npm test
 npx remotion render ChangingTooMuchV11 out/ChangingTooMuch_v11.mp4
 node --env-file=.env --experimental-strip-types scripts/generate-voiceover.ts <VideoName>
-node --experimental-strip-types scripts/build-timing-data.ts <VideoName>
+node --experimental-strip-types src/<VideoName>/build-timing.ts
 ```
 
 Paid generation needs `ELEVENLABS_API_KEY` and `ELEVENLABS_VOICE_ID` in `.env`, and explicit approval. `npm test` skips paid live calls; `npm run test:live` requires specific approval.
+
+New essays keep their complete request code in `src/<VideoName>/audio.ts` and
+use one `eleven_v4` call for the whole narration. See the
+[audio-generation guide](src/lib/essay-sdk/audio-generation.md) for request
+preview, logs, delivery tags and preservation of the established pause rules.

@@ -1,0 +1,86 @@
+{
+  "text": "Match the review to the pace of change, and use it to unblock the next step.",
+  "durationMs": 5619,
+  "words": [
+    {
+      "text": "Match",
+      "startMs": 0,
+      "endMs": 441
+    },
+    {
+      "text": "the",
+      "startMs": 569,
+      "endMs": 731
+    },
+    {
+      "text": "review",
+      "startMs": 859,
+      "endMs": 1231
+    },
+    {
+      "text": "to",
+      "startMs": 1335,
+      "endMs": 1486
+    },
+    {
+      "text": "the",
+      "startMs": 1567,
+      "endMs": 1637
+    },
+    {
+      "text": "pace",
+      "startMs": 1695,
+      "endMs": 2020
+    },
+    {
+      "text": "of",
+      "startMs": 2067,
+      "endMs": 2183
+    },
+    {
+      "text": "change,",
+      "startMs": 2264,
+      "endMs": 2670
+    },
+    {
+      "text": "and",
+      "startMs": 2775,
+      "endMs": 2937
+    },
+    {
+      "text": "use",
+      "startMs": 3030,
+      "endMs": 3297
+    },
+    {
+      "text": "it",
+      "startMs": 3355,
+      "endMs": 3495
+    },
+    {
+      "text": "to",
+      "startMs": 3587,
+      "endMs": 3680
+    },
+    {
+      "text": "unblock",
+      "startMs": 3785,
+      "endMs": 4296
+    },
+    {
+      "text": "the",
+      "startMs": 4389,
+      "endMs": 4470
+    },
+    {
+      "text": "next",
+      "startMs": 4528,
+      "endMs": 4818
+    },
+    {
+      "text": "step.",
+      "startMs": 4899,
+      "endMs": 5619
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "text": "During the meeting, the client asked which features could wait. The manager showed the proposed cuts, but the client needed to check them with the business teams. Moving the deadline needed another check: what other work depended on that date?",
+  "durationMs": 18694,
+  "words": [
+    {
+      "text": "During",
+      "startMs": 500,
+      "endMs": 906
+    },
+    {
+      "text": "the",
+      "startMs": 999,
+      "endMs": 1115
+    },
+    {
+      "text": "meeting,",
+      "startMs": 1173,
+      "endMs": 1696
+    },
+    {
+      "text": "the",
+      "startMs": 1777,
+      "endMs": 1905
+    },
+    {
+      "text": "client",
+      "startMs": 1986,
+      "endMs": 2509
+    },
+    {
+      "text": "asked",
+      "startMs": 2636,
+      "endMs": 3170
+    },
+    {
+      "text": "which",
+      "startMs": 3298,
+      "endMs": 3577
+    },
+    {
+      "text": "features",
+      "startMs": 3704,
+      "endMs": 4424
+    },
+    {
+      "text": "could",
+      "startMs": 4587,
+      "endMs": 4807
+    },
+    {
+      "text": "wait.",
+      "startMs": 4912,
+      "endMs": 5388
+    },
+    {
+      "text": "The",
+      "startMs": 5731,
+      "endMs": 5858
+    },
+    {
+      "text": "manager",
+      "startMs": 5940,
+      "endMs": 6555
+    },
+    {
+      "text": "showed",
+      "startMs": 6648,
+      "endMs": 7008
+    },
+    {
+      "text": "the",
+      "startMs": 7043,
+      "endMs": 7112
+    },
+    {
+      "text": "proposed",
+      "startMs": 7194,
+      "endMs": 7774
+    },
+    {
+      "text": "cuts,",
+      "startMs": 7902,
+      "endMs": 8482
+    },
+    {
+      "text": "but",
+      "startMs": 8529,
+      "endMs": 8714
+    },
+    {
+      "text": "the",
+      "startMs": 8738,
+      "endMs": 8807
+    },
+    {
+      "text": "client",
+      "startMs": 8889,
+      "endMs": 9399
+    },
+    {
+      "text": "needed",
+      "startMs": 9539,
+      "endMs": 9945
+    },
+    {
+      "text": "to",
+      "startMs": 10003,
+      "endMs": 10108
+    },
+    {
+      "text": "check",
+      "startMs": 10201,
+      "endMs": 10468
+    },
+    {
+      "text": "them",
+      "startMs": 10560,
+      "endMs": 10735
+    },
+    {
+      "text": "with",
+      "startMs": 10793,
+      "endMs": 10955
+    },
+    {
+      "text": "the",
+      "startMs": 11002,
+      "endMs": 11071
+    },
+    {
+      "text": "business",
+      "startMs": 11129,
+      "endMs": 11582
+    },
+    {
+      "text": "teams.",
+      "startMs": 11640,
+      "endMs": 12116
+    },
+    {
+      "text": "Moving",
+      "startMs": 12633,
+      "endMs": 12981
+    },
+    {
+      "text": "the",
+      "startMs": 13040,
+      "endMs": 13109
+    },
+    {
+      "text": "deadline",
+      "startMs": 13167,
+      "endMs": 13725
+    },
+    {
+      "text": "needed",
+      "startMs": 13852,
+      "endMs": 14293
+    },
+    {
+      "text": "another",
+      "startMs": 14386,
+      "endMs": 14793
+    },
+    {
+      "text": "check:",
+      "startMs": 14886,
+      "endMs": 15431
+    },
+    {
+      "text": "what",
+      "startMs": 15617,
+      "endMs": 15907
+    },
+    {
+      "text": "other",
+      "startMs": 16035,
+      "endMs": 16348
+    },
+    {
+      "text": "work",
+      "startMs": 16453,
+      "endMs": 16824
+    },
+    {
+      "text": "depended",
+      "startMs": 16952,
+      "endMs": 17463
+    },
+    {
+      "text": "on",
+      "startMs": 17567,
+      "endMs": 17718
+    },
+    {
+      "text": "that",
+      "startMs": 17776,
+      "endMs": 17985
+    },
+    {
+      "text": "date?",
+      "startMs": 18067,
+      "endMs": 18694
+    }
+  ]
+}
