@@ -14,15 +14,29 @@ not reproduce those mechanics in per-video workarounds.
 Read `AGENTS.md` and `src/lib/essay-sdk/audio-generation.md` for the executable
 contract, per-video code shape, commands and source/output conventions.
 
-## Approved sequence and reference
+## Workflow and bundled reference
 
 Plan → prepare the full speech string with tone and pause tags → generate one
 complete v4 recording → write video code from its scene timing → render.
-The user approved the audio in `DidntRepeatPriority_apitest`; use its request as
-the working reference for warm, measured storytelling. This does not require a
-new listening experiment for every essay. Trust generated pauses and use the
-returned timestamps to drive the visuals. Keep execution mechanical after
-planning; add analysis tools only for a demonstrated problem.
+Trust generated pauses and use returned timestamps to drive the visuals. Keep
+execution mechanical after planning; add analysis tools only for a demonstrated
+problem.
+
+Use these bundled assets when preparing delivery directions and pause cues:
+
+- [Storytelling audio](assets/storytelling.mp3): a complete narration demonstrating
+  warm, measured delivery, clear explanation and a reflective close. Play it when
+  a listening comparison is useful; do not infer a listening verdict from text.
+- [Exact generation request](assets/storytelling-request.json): the original
+  request record, including the complete tagged speech string in `body.text`,
+  model, voice settings and pause budget. Read it to see how the delivery and
+  pauses were encoded. It contains no API credentials.
+
+Adapt the vocal directions and pause structure to the new essay. The example's
+story is reference content, not material to copy into unrelated narration. Use
+configured voice credentials for new calls; the recorded voice identifies the
+sample rather than imposing a voice on other projects. Reuse these files for
+reference without generating another paid sample.
 
 ## Prepare the whole narration before spending
 
@@ -43,12 +57,11 @@ credentials. A generic CLI invocation alone is not sufficient provenance.
 ## Direct engaging, restrained storytelling
 
 The target is a warm conversational narrator: curious where a question opens
-the story, clear through the explanation, reflective at the close. Avoid the
-hyper delivery heard in the initial v4 samples without flattening the voice.
+the story, clear through the explanation, reflective at the close. Keep energy restrained while preserving natural expression and interest.
 Use sparse, explicit auditory tags such as `[Warm, conversational voice,
-measured delivery]`, `[Thoughtful, gently curious]` and `[Softening, reflective]`.
-These directions form the approved reference for this voice; retain manual
-listening review when the user requests it or delivery changes materially. Avoid unrequested laughter, sighs, whispering, sound effects, shouting,
+measured delivery]`, `[Calm, clear storytelling voice]` and `[Softening, reflective]`.
+The bundled request demonstrates these directions in context. Use manual
+listening review when requested or when delivery changes materially. Avoid unrequested laughter, sighs, whispering, sound effects, shouting,
 exclamation-heavy phrasing and capitalization that increases emphasis.
 
 Use natural sentence punctuation, paragraph boundaries and pause cues in the
@@ -74,8 +87,8 @@ Record all fields in `NARRATION.pausePlan`: `internalSentenceMs`,
 `laterSceneLeadMs`, `sceneHoldMs`, `finalHoldMs`, and `phrasingBpm`. Missing fields
 must fail before the API call; use explicit zero for a deliberately absent hold.
 The builder combines the scene hold and later lead-in into one requested pause.
-For the DidntRepeatPriority clone, 45 frames at 60 fps means 750 ms: preserve
-250 ms within sentences, 750 + 500 = 1250 ms between scenes, and 750 ms at the end.
+The bundled request demonstrates 250 ms within sentences, a 750 ms scene hold
+plus a 500 ms lead-in combined into 1250 ms between scenes, and 750 ms at the end.
 For new essays, choose and record holds during planning instead of inheriting
 unexplained frame padding. Inspect the complete prompt before generation.
 

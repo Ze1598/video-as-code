@@ -18,8 +18,9 @@ Read `AGENTS.md` and the SDK documentation at `src/lib/essay-sdk/README.md`. Fol
 Plan → prepare the full speech string with tone and pause tags → generate one
 complete audio file → write SDK video code from returned scene timing → render.
 Concentrate reasoning on the plan. Execute subsequent steps with shared helpers
-and SDK usage code. The generated audio drives the video timeline. The user
-approved `DidntRepeatPriority_apitest` as the working audio reference. Do not add
+and SDK usage code. The generated audio drives the video timeline. Use the audio subskill's
+[bundled narration and request](../generate-essay-audio/SKILL.md#workflow-and-bundled-reference)
+when preparing delivery and pause cues. Do not add
 new analysis utilities or repeat tone comparisons without a concrete need.
 
 ## Adapt the essay into a script
