@@ -1,0 +1,16 @@
+{
+  "modelId": "eleven_v4",
+  "voiceSettings": {
+    "stability": 0.35,
+    "similarity_boost": 0.75,
+    "style": 0.45,
+    "speed": 0.92
+  },
+  "pausePlan": {
+    "internalSentenceMs": 250,
+    "laterSceneLeadMs": 500,
+    "sceneHoldMs": 750,
+    "finalHoldMs": 750,
+    "phrasingBpm": 92
+  }
+}

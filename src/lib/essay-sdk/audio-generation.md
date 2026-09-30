@@ -12,7 +12,8 @@ Plan the story and visual intentions first. Before generation, inventory the
 complete pause budget: sentence pauses, scene lead-ins, intermediate holds and
 the final hold. When cloning, include spacing previously imposed by scene
 padding or audio sequencing. Convert frame holds at the source video's fps.
-For new essays, choose these values explicitly during planning.
+For new essays, inherit the audio skill’s bundled `assets/narration-defaults.json`
+and record the resolved values. Change them only for requested overrides.
 
 `NARRATION.pausePlan` requires `internalSentenceMs`, `laterSceneLeadMs`,
 `sceneHoldMs`, `finalHoldMs` and `phrasingBpm`. Use explicit zero for absent holds.

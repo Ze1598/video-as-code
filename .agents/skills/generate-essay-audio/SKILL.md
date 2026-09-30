@@ -32,11 +32,47 @@ Use these bundled assets when preparing delivery directions and pause cues:
   model, voice settings and pause budget. Read it to see how the delivery and
   pauses were encoded. It contains no API credentials.
 
-Adapt the vocal directions and pause structure to the new essay. The example's
+Adapt the vocal directions to the new essay while retaining the reusable
+timing defaults below unless an override is requested. The example's
 story is reference content, not material to copy into unrelated narration. Use
 configured voice credentials for new calls; the recorded voice identifies the
 sample rather than imposing a voice on other projects. Reuse these files for
 reference without generating another paid sample.
+
+## Reusable generation defaults
+
+Use these defaults for every new video essay. They are the skill's production
+settings, not values to rediscover from an example or choose again per project.
+Load [narration-defaults.json](assets/narration-defaults.json) when preparing the
+request and copy its resolved settings into the per-video request code/log.
+Inherit them without another preference question. Change them only when the
+user requests different timing or delivery, and record the explicit overrides.
+
+```json
+{
+  "modelId": "eleven_v4",
+  "voiceSettings": {
+    "stability": 0.35,
+    "similarity_boost": 0.75,
+    "style": 0.45,
+    "speed": 0.92
+  },
+  "pausePlan": {
+    "internalSentenceMs": 250,
+    "laterSceneLeadMs": 500,
+    "sceneHoldMs": 750,
+    "finalHoldMs": 750,
+    "phrasingBpm": 92
+  }
+}
+```
+
+Start immediately with no added opening lead-in. Encode the sentence pause as
+`[pause for 0.25 seconds]`, the combined scene hold and later lead-in as
+`[pause for 1.25 seconds]`, and the final hold as `[pause for 0.75 seconds]`.
+Use 92 BPM as the phrasing reference; it is separate from `speed: 0.92`.
+These are requested synthesis durations. The generated audio drives the video;
+do not add these pauses again during playback.
 
 ## Prepare the whole narration before spending
 
@@ -73,8 +109,7 @@ when changing the tag vocabulary. Do not assume tags guarantee durations.
 Use 92 BPM as the user's **phrasing rhythm** reference, about 652 ms per beat.
 It does not mean 92 words per minute, and `speed: 0.92` does not implement it.
 Judge natural thought pacing by listening rather than asserting a BPM result
-from API settings. Existing voice settings are a starting point; save any
-per-video changes explicitly and listen before promoting them to defaults.
+from API settings. Use the reusable voice settings below and record requested overrides explicitly.
 
 ## Plan every pause before generation
 
@@ -85,12 +120,12 @@ using the video's fps. Never account only for the audio utility's insertions.
 
 Record all fields in `NARRATION.pausePlan`: `internalSentenceMs`,
 `laterSceneLeadMs`, `sceneHoldMs`, `finalHoldMs`, and `phrasingBpm`. Missing fields
-must fail before the API call; use explicit zero for a deliberately absent hold.
+must fail before the API call; use explicit zero only when an override deliberately removes a hold.
 The builder combines the scene hold and later lead-in into one requested pause.
-The bundled request demonstrates 250 ms within sentences, a 750 ms scene hold
-plus a 500 ms lead-in combined into 1250 ms between scenes, and 750 ms at the end.
-For new essays, choose and record holds during planning instead of inheriting
-unexplained frame padding. Inspect the complete prompt before generation.
+Populate every new essay with the reusable defaults above. When cloning a
+video, reconcile any explicitly requested timing overrides with its existing
+holds so the complete pause budget reaches the prompt. Do not independently
+choose new hold values or add unexplained frame padding. Inspect the complete prompt before generation.
 
 Play the resulting file once through `EssayPlan.audio`. All scene audio must be
 absent. Visual scene boundaries and cues follow returned timestamps using
