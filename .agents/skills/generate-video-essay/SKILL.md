@@ -13,6 +13,14 @@ The canonical skill is `.agents/skills/generate-video-essay/SKILL.md`. Keep any 
 
 Read `AGENTS.md` and the SDK documentation at `src/lib/essay-sdk/README.md`. Follow its authoring guide, visual requirements, API reference and verification instructions when translating the plan into code. Do not duplicate API instructions or rendering algorithms in this skill.
 
+## Input routing
+
+For a podcast, interview or other fixed recording supplied as the source, use
+[`animate-recorded-audio`](../animate-recorded-audio/SKILL.md). That workflow
+preserves the recording and binds explanatory visuals to its timestamps; reuse
+this skill's visual explanation rules without applying its script adaptation,
+speech-generation or pause-planning steps. For prose essays, continue below.
+
 ## Production sequence
 
 Plan → prepare the full speech string with tone and pause tags → generate one

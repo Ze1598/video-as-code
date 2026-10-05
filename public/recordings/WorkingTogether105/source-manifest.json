@@ -1,0 +1,25 @@
+{
+  "source": "/Users/josecosta/Downloads/#105 Working Together Takes More Than Agreement.m4a",
+  "sourceSha256": "d0a88e14a27f5ccd900c89b81e9ba7ab4f0cab29d37f98ef6a35a0d8760ae8ca",
+  "engine": "mlx-whisper",
+  "model": "mlx-community/whisper-large-v3-turbo",
+  "execution": "local",
+  "audioUpload": false,
+  "audioGeneration": false,
+  "media": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "aac",
+        "codec_type": "audio",
+        "sample_rate": "44100",
+        "channels": 2
+      }
+    ],
+    "format": {
+      "duration": "1326.486349"
+    }
+  },
+  "sdkChanged": false
+}

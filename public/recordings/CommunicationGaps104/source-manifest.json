@@ -1,0 +1,25 @@
+{
+  "source": "/Users/josecosta/Downloads/#104 The Communication Gaps That Keep Work Stuck.m4a",
+  "sourceSha256": "48e3a415d2ed0ddb9fed98a0d2b86d596d0fd182eea6e65af149d61b337a8434",
+  "engine": "mlx-whisper",
+  "model": "mlx-community/whisper-large-v3-turbo",
+  "execution": "local",
+  "audioUpload": false,
+  "audioGeneration": false,
+  "sdkChangesPermitted": false,
+  "media": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "aac",
+        "codec_type": "audio",
+        "sample_rate": "44100",
+        "channels": 2
+      }
+    ],
+    "format": {
+      "duration": "1068.094694"
+    }
+  }
+}

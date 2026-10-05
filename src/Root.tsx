@@ -1,4 +1,14 @@
 import "./index.css";
+import { WorkingTogether105 } from "./WorkingTogether105/index.tsx";
+import { movie as workingTogether105Movie } from "./WorkingTogether105/plan.ts";
+import { CommunicationGaps104 } from "./CommunicationGaps104/index.tsx";
+import { movie as communicationGaps104Movie } from "./CommunicationGaps104/plan.ts";
+import { CooperationWithoutConsequences } from "./CooperationWithoutConsequences/index.tsx";
+import { movie as cooperationWithoutConsequencesMovie } from "./CooperationWithoutConsequences/production.ts";
+import { StartBeforeBelief } from "./StartBeforeBelief/index.tsx";
+import { movie as startBeforeBeliefMovie } from "./StartBeforeBelief/production.ts";
+import { GuessingMeetingList } from "./GuessingMeetingList/index.tsx";
+import { movie as guessingMeetingListMovie } from "./GuessingMeetingList/production.ts";
 import { DidntRepeatPriorityApitest } from "./DidntRepeatPriority_apitest/index.tsx";
 import { movie as didntRepeatApitestMovie } from "./DidntRepeatPriority_apitest/production.ts";
 import { DidntRepeatPriority, DidntRepeatPriorityPreview } from "./DidntRepeatPriority/index.tsx";
@@ -61,6 +71,10 @@ import { LibDemo, LIB_DEMO_DURATION } from "./archive/lib/__demo__/index.tsx";
 export const RemotionRoot: React.FC = () => {
   return (
     <>
+      <Composition id="CommunicationGaps104" component={CommunicationGaps104} durationInFrames={communicationGaps104Movie.duration} fps={communicationGaps104Movie.fps} width={1920} height={1080} />
+      <Composition id="CooperationWithoutConsequences" component={CooperationWithoutConsequences} durationInFrames={cooperationWithoutConsequencesMovie.duration} fps={cooperationWithoutConsequencesMovie.fps} width={1920} height={1080} />
+      <Composition id="StartBeforeBelief" component={StartBeforeBelief} durationInFrames={startBeforeBeliefMovie.duration} fps={startBeforeBeliefMovie.fps} width={1920} height={1080} />
+      <Composition id="GuessingMeetingList" component={GuessingMeetingList} durationInFrames={guessingMeetingListMovie.duration} fps={guessingMeetingListMovie.fps} width={1920} height={1080} />
       <Composition id="DidntRepeatPriority-apitest" component={DidntRepeatPriorityApitest} durationInFrames={didntRepeatApitestMovie.duration} fps={didntRepeatApitestMovie.fps} width={1920} height={1080} />
       <Composition id="DidntRepeatPriority" component={DidntRepeatPriority} durationInFrames={didntRepeatMovie.duration} fps={didntRepeatMovie.fps} width={1920} height={1080} />
       <Composition id="DidntRepeatPriorityPreview" component={DidntRepeatPriorityPreview} durationInFrames={didntRepeatPreview.duration} fps={didntRepeatPreview.fps} width={1920} height={1080} />
@@ -296,6 +310,7 @@ export const RemotionRoot: React.FC = () => {
       <Composition id="ChangingTooMuchV9" component={ChangingTooMuchV9} durationInFrames={CHANGING_TOO_MUCH_V9_DURATION} fps={60} width={1920} height={1080} />
       <Composition id="ChangingTooMuchV10" component={ChangingTooMuchV10} durationInFrames={CHANGING_TOO_MUCH_V10_DURATION} fps={60} width={1920} height={1080} />
       <Composition id="ChangingTooMuchV11" component={ChangingTooMuchV11} durationInFrames={CHANGING_TOO_MUCH_V11_DURATION} fps={60} width={1920} height={1080} />
+      <Composition id="WorkingTogether105" component={WorkingTogether105} durationInFrames={workingTogether105Movie.duration} fps={workingTogether105Movie.fps} width={1920} height={1080} />
       <Composition
         id="LibDemo"
         component={LibDemo}

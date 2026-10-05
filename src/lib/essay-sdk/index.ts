@@ -23,7 +23,7 @@ export type Scene = {
   narration: WordTiming[];
   groups: Group[];
   items: Item[];
-  transfers: (Interval & { item: string; to: string })[];
+  transfers: (Interval & { item: string; to: string; route?: "align-first" | "cross-first" })[];
   topics: (Interval & { group: string; item: string; connection?: boolean })[];
   takeaways: (Interval & { item?: string; phrase?: string; text?: true })[];
   relationships?: (Interval & { from: string; to: string })[];
@@ -133,6 +133,7 @@ export function compileEssay(plan: EssayPlan): Movie {
     }
     const transferred = new Set<string>();
     for (const transfer of scene.transfers) {
+      requireValue(transfer.route === undefined || transfer.route === "align-first" || transfer.route === "cross-first", "invalid transfer route");
       requireValue(
         items.has(transfer.item) && groups.has(transfer.to),
         "unknown transfer endpoint",
@@ -261,10 +262,14 @@ export function frameState(movie: Movie, frame: number) {
         1,
         (local - transfer.start) / (transfer.end - transfer.start),
       );
-      // Align with the destination row first, then traverse horizontally.
-      // This preserves the visibility of already assigned work above it.
-      const vertical = Math.min(1, t / 0.35);
-      const horizontal = Math.max(0, (t - 0.35) / 0.65);
+      // Default: align with the destination row before crossing. A reciprocal
+      // return can cross its vacant source row first to avoid received work.
+      const vertical = transfer.route === "cross-first"
+        ? Math.max(0, (t - 0.65) / 0.35)
+        : Math.min(1, t / 0.35);
+      const horizontal = transfer.route === "cross-first"
+        ? Math.min(1, t / 0.65)
+        : Math.max(0, (t - 0.35) / 0.65);
       const easeY = vertical * vertical * (3 - 2 * vertical);
       const easeX = horizontal * horizontal * (3 - 2 * horizontal);
       box = {

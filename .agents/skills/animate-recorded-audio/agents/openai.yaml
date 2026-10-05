@@ -1,0 +1,4 @@
+interface:
+  display_name: "Animate Recorded Audio"
+  short_description: "Turn recorded discussions into explanatory videos"
+  default_prompt: "Use $animate-recorded-audio to create an explanatory video for this recording, preserving the original audio and using the existing essay SDK."

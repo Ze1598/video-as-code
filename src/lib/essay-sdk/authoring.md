@@ -41,7 +41,7 @@ export function makeTextVideo(words: WordTiming[], audioSrc: string, audioFrames
 }
 ```
 
-For handoffs, declare groups and owned items, then a transfer with `item`, `to`, `start` and `end`. Preserve continuing item identifiers and ordering across the plan. See `src/ChangingTooMuchV11/plan.ts` for wiring real audio and exporting the exact script, and `visual-story.ts` for dedicated patterns.
+For handoffs, declare groups and owned items, then a transfer with `item`, `to`, `start` and `end`. Preserve continuing item identifiers and ordering across the plan. The default aligns rows before crossing; use `route: 'cross-first'` for a return that must cross its vacant source row before aligning at the destination, avoiding overlap with work already received. Verify separation throughout the path. See `src/CooperationWithoutConsequences/plan.ts` for a reciprocal exchange, `src/ChangingTooMuchV11/plan.ts` for wiring real audio and exporting the exact script, and `visual-story.ts` for dedicated patterns.
 
 Use `topics` for row cursors and `relationships` for timed actor-to-actor dashed strokes. Use item `revealAt` cues for a list narrated in stages, `textMotion: 'rise'` for complete sentence entrances, and `transition: 'reflow'` when continuing actors move into a new scene layout. These APIs are defined in the README. Keep focus independent of neutral text appearance. Do not add animation just because an API supports it: tie each event to an explanatory change.
 
