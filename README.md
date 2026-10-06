@@ -1,5 +1,7 @@
 # Leadership video essays
 
+[Watch the video introduction](media/DocsAnimationPart1.mp4) to see how this repo turns essays and recordings into narrated, animated videos.
+
 An editorial plan becomes a deterministic Remotion video. Use the vendor-agnostic [generation skill](.agents/skills/generate-video-essay/SKILL.md), [SDK contract](src/lib/essay-sdk/README.md) and repository instructions in `AGENTS.md`.
 
 The skill adapts an input essay into a narration script and production plan/code. SDK documentation teaches the LLM how to write that code. The SDK implements the video behavior. Read the [authoring guide](src/lib/essay-sdk/authoring.md) and [visual requirements](src/lib/essay-sdk/visual-requirements.md), then check implementation status in the SDK README before selecting APIs.

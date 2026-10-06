@@ -1,0 +1,104 @@
+{
+  "createdAt": "2026-10-06T22:48:06.363Z",
+  "method": "POST",
+  "url": "https://api.elevenlabs.io/v1/text-to-speech/QmMeKYANmozqFOHSuY8V/with-timestamps",
+  "body": {
+    "text": "[Warm, conversational voice, measured delivery] An idea starts with one person. [pause for 0.25 seconds] Someone else needs to understand it well enough to act. [pause for 0.25 seconds] This repository turns explanations into videos, with narration and diagrams that move together.\n\n[pause for 1.25 seconds]\n\nRemotion turns React code, using web technologies such as HTML, CSS, and SVG, into video.\n\n[pause for 1.25 seconds]\n\nYou can start with an essay. [pause for 0.25 seconds] An AI coding agent uses the repository's skills to shape the script, generate the voiceover, and build a video around it. [pause for 0.25 seconds] The diagrams follow the spoken explanation.\n\n[pause for 1.25 seconds]\n\nOr start with a recording: a podcast, an interview, or a discussion. [pause for 0.25 seconds] The original voice and sequence stay intact. [pause for 0.25 seconds] The agent maps the ideas to timed visuals, so the explanation develops as you listen.\n\n[pause for 1.25 seconds]\n\nSkills give the agent instructions for these tasks. [pause for 0.25 seconds] Generate video essay guides the adaptation, with generate essay audio handling narration. [pause for 0.25 seconds] Animate recorded audio guides the workflow when the recording already exists.\n\n[pause for 1.25 seconds]\n\nSupporting Remotion skills cover creating compositions, animation, captions, maps, and rendering. [pause for 0.25 seconds] The essay SDK supplies the reusable visual behavior, keeping each video's code focused on its content and timing.\n\n[pause for 1.25 seconds]\n\nNow we are testing that same toolkit on technical documentation, starting with this repository. [pause for 0.25 seconds] This video uses the existing SDK to explain what it can do. [pause for 0.25 seconds] Part two will show developers how to get started.\n\n[pause for 1.25 seconds]\n\n[Softening, reflective] Start with something you want to explain, and ask your AI coding agent to make a video. [pause for 0.75 seconds]",
+    "model_id": "eleven_v4",
+    "voice_settings": {
+      "stability": 0.35,
+      "similarity_boost": 0.75,
+      "style": 0.45,
+      "speed": 0.92
+    }
+  },
+  "narration": {
+    "modelId": "eleven_v4",
+    "voiceSettings": {
+      "stability": 0.35,
+      "similarity_boost": 0.75,
+      "style": 0.45,
+      "speed": 0.92
+    },
+    "pausePlan": {
+      "internalSentenceMs": 250,
+      "laterSceneLeadMs": 500,
+      "sceneHoldMs": 750,
+      "finalHoldMs": 750,
+      "phrasingBpm": 92
+    },
+    "segments": [
+      {
+        "id": "opening",
+        "sentences": [
+          "An idea starts with one person.",
+          "Someone else needs to understand it well enough to act.",
+          "This repository turns explanations into videos, with narration and diagrams that move together."
+        ],
+        "direction": "Warm, conversational voice, measured delivery"
+      },
+      {
+        "id": "remotion",
+        "sentences": [
+          "Remotion turns React code, using web technologies such as HTML, CSS, and SVG, into video."
+        ]
+      },
+      {
+        "id": "essay",
+        "sentences": [
+          "You can start with an essay.",
+          "An AI coding agent uses the repository's skills to shape the script, generate the voiceover, and build a video around it.",
+          "The diagrams follow the spoken explanation."
+        ]
+      },
+      {
+        "id": "recording",
+        "sentences": [
+          "Or start with a recording: a podcast, an interview, or a discussion.",
+          "The original voice and sequence stay intact.",
+          "The agent maps the ideas to timed visuals, so the explanation develops as you listen."
+        ]
+      },
+      {
+        "id": "skills",
+        "sentences": [
+          "Skills give the agent instructions for these tasks.",
+          "Generate video essay guides the adaptation, with generate essay audio handling narration.",
+          "Animate recorded audio guides the workflow when the recording already exists."
+        ]
+      },
+      {
+        "id": "support",
+        "sentences": [
+          "Supporting Remotion skills cover creating compositions, animation, captions, maps, and rendering.",
+          "The essay SDK supplies the reusable visual behavior, keeping each video's code focused on its content and timing."
+        ]
+      },
+      {
+        "id": "experiment",
+        "sentences": [
+          "Now we are testing that same toolkit on technical documentation, starting with this repository.",
+          "This video uses the existing SDK to explain what it can do.",
+          "Part two will show developers how to get started."
+        ]
+      },
+      {
+        "id": "invitation",
+        "sentences": [
+          "Start with something you want to explain, and ask your AI coding agent to make a video."
+        ],
+        "direction": "Softening, reflective"
+      }
+    ]
+  },
+  "pauseBudget": {
+    "internalSentenceMs": 250,
+    "laterSceneLeadMs": 500,
+    "sceneHoldMs": 750,
+    "finalHoldMs": 750,
+    "phrasingBpm": 92,
+    "betweenScenesMs": 1250,
+    "playbackPaddingMs": 0
+  },
+  "status": "failed"
+}

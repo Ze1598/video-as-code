@@ -1,0 +1,98 @@
+{
+  "createdAt": "2026-10-06T23:07:15.499Z",
+  "method": "POST",
+  "url": "https://api.elevenlabs.io/v1/text-to-speech/QmMeKYANmozqFOHSuY8V/with-timestamps",
+  "body": {
+    "text": "[Warm, conversational voice, measured delivery] You have an idea worth explaining. [pause for 0.25 seconds] You want your audience to understand it well enough to act. [pause for 0.25 seconds] This repository turns explanations into videos, with narration and diagrams that move together.\n\n[pause for 1.25 seconds]\n\nRemotion turns React code, using web technologies such as HTML, CSS, and SVG, into video.\n\n[pause for 1.25 seconds]\n\nYou can start with an essay. [pause for 0.25 seconds] An AI coding agent uses the repository's skills to shape the script, generate the voiceover, and build a video around it. [pause for 0.25 seconds] The diagrams follow the spoken explanation.\n\n[pause for 1.25 seconds]\n\nOr start with a recording: a podcast, an interview, or a discussion. [pause for 0.25 seconds] The original voice and sequence stay intact. [pause for 0.25 seconds] The agent maps the ideas to timed visuals, so the explanation develops as you listen.\n\n[pause for 1.25 seconds]\n\nSkills give the agent instructions for these tasks. [pause for 0.25 seconds] Generate video essay guides the adaptation, with generate essay audio handling narration. [pause for 0.25 seconds] Animate recorded audio guides the workflow when the recording already exists.\n\n[pause for 1.25 seconds]\n\nThis video was made with the repository's custom-built Animation SDK. [pause for 0.25 seconds] An AI agent wrote the script and used ElevenLabs for a high-quality, natural-sounding voiceover. [pause for 0.25 seconds] It then used the Animation SDK to time the diagrams to the narration. [pause for 0.25 seconds] The same toolkit is now explaining its own technical documentation.\n\n[pause for 1.25 seconds]\n\n[Softening, reflective] Start with something you want to explain, and ask your AI coding agent to make a video. [pause for 0.75 seconds]",
+    "model_id": "eleven_v4",
+    "voice_settings": {
+      "stability": 0.35,
+      "similarity_boost": 0.75,
+      "style": 0.45,
+      "speed": 0.92
+    }
+  },
+  "narration": {
+    "modelId": "eleven_v4",
+    "voiceSettings": {
+      "stability": 0.35,
+      "similarity_boost": 0.75,
+      "style": 0.45,
+      "speed": 0.92
+    },
+    "pausePlan": {
+      "internalSentenceMs": 250,
+      "laterSceneLeadMs": 500,
+      "sceneHoldMs": 750,
+      "finalHoldMs": 750,
+      "phrasingBpm": 92
+    },
+    "segments": [
+      {
+        "id": "opening",
+        "sentences": [
+          "You have an idea worth explaining.",
+          "You want your audience to understand it well enough to act.",
+          "This repository turns explanations into videos, with narration and diagrams that move together."
+        ],
+        "direction": "Warm, conversational voice, measured delivery"
+      },
+      {
+        "id": "remotion",
+        "sentences": [
+          "Remotion turns React code, using web technologies such as HTML, CSS, and SVG, into video."
+        ]
+      },
+      {
+        "id": "essay",
+        "sentences": [
+          "You can start with an essay.",
+          "An AI coding agent uses the repository's skills to shape the script, generate the voiceover, and build a video around it.",
+          "The diagrams follow the spoken explanation."
+        ]
+      },
+      {
+        "id": "recording",
+        "sentences": [
+          "Or start with a recording: a podcast, an interview, or a discussion.",
+          "The original voice and sequence stay intact.",
+          "The agent maps the ideas to timed visuals, so the explanation develops as you listen."
+        ]
+      },
+      {
+        "id": "skills",
+        "sentences": [
+          "Skills give the agent instructions for these tasks.",
+          "Generate video essay guides the adaptation, with generate essay audio handling narration.",
+          "Animate recorded audio guides the workflow when the recording already exists."
+        ]
+      },
+      {
+        "id": "experiment",
+        "sentences": [
+          "This video was made with the repository's custom-built Animation SDK.",
+          "An AI agent wrote the script and used ElevenLabs for a high-quality, natural-sounding voiceover.",
+          "It then used the Animation SDK to time the diagrams to the narration.",
+          "The same toolkit is now explaining its own technical documentation."
+        ]
+      },
+      {
+        "id": "invitation",
+        "sentences": [
+          "Start with something you want to explain, and ask your AI coding agent to make a video."
+        ],
+        "direction": "Softening, reflective"
+      }
+    ]
+  },
+  "pauseBudget": {
+    "internalSentenceMs": 250,
+    "laterSceneLeadMs": 500,
+    "sceneHoldMs": 750,
+    "finalHoldMs": 750,
+    "phrasingBpm": 92,
+    "betweenScenesMs": 1250,
+    "playbackPaddingMs": 0
+  },
+  "status": "completed"
+}

@@ -1,0 +1,1386 @@
+{
+  "text": "[Warm, conversational voice, measured delivery] You have an idea worth explaining. [pause for 0.25 seconds] You want your audience to understand it well enough to act. [pause for 0.25 seconds] This repository turns explanations into videos, with narration and diagrams that move together.\n\n[pause for 1.25 seconds]\n\nRemotion turns React code, using web technologies such as HTML, CSS, and SVG, into video.\n\n[pause for 1.25 seconds]\n\nYou can start with an essay. [pause for 0.25 seconds] An AI coding agent uses the repository's skills to shape the script, generate the voiceover, and build a video around it. [pause for 0.25 seconds] The diagrams follow the spoken explanation.\n\n[pause for 1.25 seconds]\n\nOr start with a recording: a podcast, an interview, or a discussion. [pause for 0.25 seconds] The original voice and sequence stay intact. [pause for 0.25 seconds] The agent maps the ideas to timed visuals, so the explanation develops as you listen.\n\n[pause for 1.25 seconds]\n\nSkills give the agent instructions for these tasks. [pause for 0.25 seconds] Generate video essay guides the adaptation, with generate essay audio handling narration. [pause for 0.25 seconds] Animate recorded audio guides the workflow when the recording already exists.\n\n[pause for 1.25 seconds]\n\nThis video was made with the repository's custom-built Animation SDK. [pause for 0.25 seconds] An AI agent wrote the script, generated the voiceover with ElevenLabs, and used the SDK to animate the diagrams you're seeing. [pause for 0.25 seconds] The same toolkit is now explaining its own technical documentation.\n\n[pause for 1.25 seconds]\n\n[Softening, reflective] Start with something you want to explain, and ask your AI coding agent to make a video. [pause for 0.75 seconds]",
+  "durationMs": 76815,
+  "words": [
+    {
+      "text": "[Warm,",
+      "startMs": 0,
+      "endMs": 99
+    },
+    {
+      "text": "conversational",
+      "startMs": 108,
+      "endMs": 136
+    },
+    {
+      "text": "voice,",
+      "startMs": 146,
+      "endMs": 165
+    },
+    {
+      "text": "measured",
+      "startMs": 174,
+      "endMs": 193
+    },
+    {
+      "text": "delivery]",
+      "startMs": 202,
+      "endMs": 221
+    },
+    {
+      "text": "You",
+      "startMs": 231,
+      "endMs": 240
+    },
+    {
+      "text": "have",
+      "startMs": 320,
+      "endMs": 400
+    },
+    {
+      "text": "an",
+      "startMs": 440,
+      "endMs": 480
+    },
+    {
+      "text": "idea",
+      "startMs": 560,
+      "endMs": 1040
+    },
+    {
+      "text": "worth",
+      "startMs": 1160,
+      "endMs": 1280
+    },
+    {
+      "text": "explaining.",
+      "startMs": 1360,
+      "endMs": 2040
+    },
+    {
+      "text": "[pause",
+      "startMs": 2080,
+      "endMs": 2112
+    },
+    {
+      "text": "for",
+      "startMs": 2128,
+      "endMs": 2144
+    },
+    {
+      "text": "0.25",
+      "startMs": 2160,
+      "endMs": 2480
+    },
+    {
+      "text": "seconds]",
+      "startMs": 2560,
+      "endMs": 2667
+    },
+    {
+      "text": "You",
+      "startMs": 2693,
+      "endMs": 2720
+    },
+    {
+      "text": "want",
+      "startMs": 2800,
+      "endMs": 2880
+    },
+    {
+      "text": "your",
+      "startMs": 2960,
+      "endMs": 3120
+    },
+    {
+      "text": "audience",
+      "startMs": 3200,
+      "endMs": 3520
+    },
+    {
+      "text": "to",
+      "startMs": 3560,
+      "endMs": 3600
+    },
+    {
+      "text": "understand",
+      "startMs": 3680,
+      "endMs": 4080
+    },
+    {
+      "text": "it",
+      "startMs": 4160,
+      "endMs": 4320
+    },
+    {
+      "text": "well",
+      "startMs": 4400,
+      "endMs": 4480
+    },
+    {
+      "text": "enough",
+      "startMs": 4640,
+      "endMs": 4880
+    },
+    {
+      "text": "to",
+      "startMs": 4960,
+      "endMs": 5040
+    },
+    {
+      "text": "act.",
+      "startMs": 5200,
+      "endMs": 5760
+    },
+    {
+      "text": "[pause",
+      "startMs": 6080,
+      "endMs": 6103
+    },
+    {
+      "text": "for",
+      "startMs": 6114,
+      "endMs": 6126
+    },
+    {
+      "text": "0.25",
+      "startMs": 6137,
+      "endMs": 6183
+    },
+    {
+      "text": "seconds]",
+      "startMs": 6194,
+      "endMs": 6217
+    },
+    {
+      "text": "This",
+      "startMs": 6229,
+      "endMs": 6240
+    },
+    {
+      "text": "repository",
+      "startMs": 6320,
+      "endMs": 7040
+    },
+    {
+      "text": "turns",
+      "startMs": 7120,
+      "endMs": 7400
+    },
+    {
+      "text": "explanations",
+      "startMs": 7440,
+      "endMs": 8160
+    },
+    {
+      "text": "into",
+      "startMs": 8240,
+      "endMs": 8480
+    },
+    {
+      "text": "videos,",
+      "startMs": 8760,
+      "endMs": 9080
+    },
+    {
+      "text": "with",
+      "startMs": 9120,
+      "endMs": 9280
+    },
+    {
+      "text": "narration",
+      "startMs": 9320,
+      "endMs": 9920
+    },
+    {
+      "text": "and",
+      "startMs": 10000,
+      "endMs": 10080
+    },
+    {
+      "text": "diagrams",
+      "startMs": 10200,
+      "endMs": 10720
+    },
+    {
+      "text": "that",
+      "startMs": 10800,
+      "endMs": 10960
+    },
+    {
+      "text": "move",
+      "startMs": 11080,
+      "endMs": 11200
+    },
+    {
+      "text": "together.",
+      "startMs": 11280,
+      "endMs": 11640
+    },
+    {
+      "text": "[pause",
+      "startMs": 11680,
+      "endMs": 11760
+    },
+    {
+      "text": "for",
+      "startMs": 11960,
+      "endMs": 12160
+    },
+    {
+      "text": "1.25",
+      "startMs": 12183,
+      "endMs": 12274
+    },
+    {
+      "text": "seconds]",
+      "startMs": 12297,
+      "endMs": 12373
+    },
+    {
+      "text": "Remotion",
+      "startMs": 12427,
+      "endMs": 12800
+    },
+    {
+      "text": "turns",
+      "startMs": 12920,
+      "endMs": 13120
+    },
+    {
+      "text": "React",
+      "startMs": 13320,
+      "endMs": 13520
+    },
+    {
+      "text": "code,",
+      "startMs": 13600,
+      "endMs": 14040
+    },
+    {
+      "text": "using",
+      "startMs": 14080,
+      "endMs": 14320
+    },
+    {
+      "text": "web",
+      "startMs": 14400,
+      "endMs": 14480
+    },
+    {
+      "text": "technologies",
+      "startMs": 14560,
+      "endMs": 15200
+    },
+    {
+      "text": "such",
+      "startMs": 15280,
+      "endMs": 15360
+    },
+    {
+      "text": "as",
+      "startMs": 15440,
+      "endMs": 15600
+    },
+    {
+      "text": "HTML,",
+      "startMs": 15760,
+      "endMs": 16600
+    },
+    {
+      "text": "CSS,",
+      "startMs": 16640,
+      "endMs": 17240
+    },
+    {
+      "text": "and",
+      "startMs": 17280,
+      "endMs": 17440
+    },
+    {
+      "text": "SVG,",
+      "startMs": 17520,
+      "endMs": 18320
+    },
+    {
+      "text": "into",
+      "startMs": 18400,
+      "endMs": 18480
+    },
+    {
+      "text": "video.",
+      "startMs": 18560,
+      "endMs": 19160
+    },
+    {
+      "text": "[pause",
+      "startMs": 19440,
+      "endMs": 19452
+    },
+    {
+      "text": "for",
+      "startMs": 19458,
+      "endMs": 19465
+    },
+    {
+      "text": "1.25",
+      "startMs": 19471,
+      "endMs": 19495
+    },
+    {
+      "text": "seconds]",
+      "startMs": 19501,
+      "endMs": 19514
+    },
+    {
+      "text": "You",
+      "startMs": 19520,
+      "endMs": 19560
+    },
+    {
+      "text": "can",
+      "startMs": 19600,
+      "endMs": 19760
+    },
+    {
+      "text": "start",
+      "startMs": 19880,
+      "endMs": 20000
+    },
+    {
+      "text": "with",
+      "startMs": 20040,
+      "endMs": 20080
+    },
+    {
+      "text": "an",
+      "startMs": 20160,
+      "endMs": 20240
+    },
+    {
+      "text": "essay.",
+      "startMs": 20440,
+      "endMs": 20880
+    },
+    {
+      "text": "[pause",
+      "startMs": 21120,
+      "endMs": 21143
+    },
+    {
+      "text": "for",
+      "startMs": 21154,
+      "endMs": 21166
+    },
+    {
+      "text": "0.25",
+      "startMs": 21177,
+      "endMs": 21223
+    },
+    {
+      "text": "seconds]",
+      "startMs": 21234,
+      "endMs": 21257
+    },
+    {
+      "text": "An",
+      "startMs": 21269,
+      "endMs": 21280
+    },
+    {
+      "text": "AI",
+      "startMs": 21360,
+      "endMs": 21680
+    },
+    {
+      "text": "coding",
+      "startMs": 21840,
+      "endMs": 22000
+    },
+    {
+      "text": "agent",
+      "startMs": 22080,
+      "endMs": 22400
+    },
+    {
+      "text": "uses",
+      "startMs": 22480,
+      "endMs": 22720
+    },
+    {
+      "text": "the",
+      "startMs": 22800,
+      "endMs": 22880
+    },
+    {
+      "text": "repository's",
+      "startMs": 23200,
+      "endMs": 23680
+    },
+    {
+      "text": "skills",
+      "startMs": 23880,
+      "endMs": 24080
+    },
+    {
+      "text": "to",
+      "startMs": 24160,
+      "endMs": 24320
+    },
+    {
+      "text": "shape",
+      "startMs": 24440,
+      "endMs": 24560
+    },
+    {
+      "text": "the",
+      "startMs": 24600,
+      "endMs": 24640
+    },
+    {
+      "text": "script,",
+      "startMs": 24840,
+      "endMs": 25280
+    },
+    {
+      "text": "generate",
+      "startMs": 25360,
+      "endMs": 25680
+    },
+    {
+      "text": "the",
+      "startMs": 25720,
+      "endMs": 25760
+    },
+    {
+      "text": "voiceover,",
+      "startMs": 25920,
+      "endMs": 26560
+    },
+    {
+      "text": "and",
+      "startMs": 26640,
+      "endMs": 26720
+    },
+    {
+      "text": "build",
+      "startMs": 26840,
+      "endMs": 26960
+    },
+    {
+      "text": "a",
+      "startMs": 27000,
+      "endMs": 27040
+    },
+    {
+      "text": "video",
+      "startMs": 27120,
+      "endMs": 27440
+    },
+    {
+      "text": "around",
+      "startMs": 27520,
+      "endMs": 27840
+    },
+    {
+      "text": "it.",
+      "startMs": 27920,
+      "endMs": 28400
+    },
+    {
+      "text": "[pause",
+      "startMs": 28405,
+      "endMs": 28416
+    },
+    {
+      "text": "for",
+      "startMs": 28421,
+      "endMs": 28427
+    },
+    {
+      "text": "0.25",
+      "startMs": 28432,
+      "endMs": 28453
+    },
+    {
+      "text": "seconds]",
+      "startMs": 28458,
+      "endMs": 28470
+    },
+    {
+      "text": "The",
+      "startMs": 28476,
+      "endMs": 28481
+    },
+    {
+      "text": "diagrams",
+      "startMs": 28561,
+      "endMs": 29121
+    },
+    {
+      "text": "follow",
+      "startMs": 29281,
+      "endMs": 29521
+    },
+    {
+      "text": "the",
+      "startMs": 29561,
+      "endMs": 29601
+    },
+    {
+      "text": "spoken",
+      "startMs": 29681,
+      "endMs": 30001
+    },
+    {
+      "text": "explanation.",
+      "startMs": 30081,
+      "endMs": 31201
+    },
+    {
+      "text": "[pause",
+      "startMs": 31207,
+      "endMs": 31218
+    },
+    {
+      "text": "for",
+      "startMs": 31224,
+      "endMs": 31230
+    },
+    {
+      "text": "1.25",
+      "startMs": 31235,
+      "endMs": 31258
+    },
+    {
+      "text": "seconds]",
+      "startMs": 31264,
+      "endMs": 31276
+    },
+    {
+      "text": "Or",
+      "startMs": 31282,
+      "endMs": 31442
+    },
+    {
+      "text": "start",
+      "startMs": 31602,
+      "endMs": 31762
+    },
+    {
+      "text": "with",
+      "startMs": 31842,
+      "endMs": 31922
+    },
+    {
+      "text": "a",
+      "startMs": 31962,
+      "endMs": 32002.000000000004
+    },
+    {
+      "text": "recording:",
+      "startMs": 32082,
+      "endMs": 32802
+    },
+    {
+      "text": "a",
+      "startMs": 32842,
+      "endMs": 32882
+    },
+    {
+      "text": "podcast,",
+      "startMs": 32962,
+      "endMs": 33682
+    },
+    {
+      "text": "an",
+      "startMs": 33722,
+      "endMs": 33762
+    },
+    {
+      "text": "interview,",
+      "startMs": 33842,
+      "endMs": 34402
+    },
+    {
+      "text": "or",
+      "startMs": 34442,
+      "endMs": 34482
+    },
+    {
+      "text": "a",
+      "startMs": 34562,
+      "endMs": 34602
+    },
+    {
+      "text": "discussion.",
+      "startMs": 34642,
+      "endMs": 35522
+    },
+    {
+      "text": "[pause",
+      "startMs": 35527,
+      "endMs": 35538
+    },
+    {
+      "text": "for",
+      "startMs": 35543,
+      "endMs": 35549
+    },
+    {
+      "text": "0.25",
+      "startMs": 35554,
+      "endMs": 35575
+    },
+    {
+      "text": "seconds]",
+      "startMs": 35580,
+      "endMs": 35592
+    },
+    {
+      "text": "The",
+      "startMs": 35598,
+      "endMs": 35603
+    },
+    {
+      "text": "original",
+      "startMs": 35803,
+      "endMs": 36003
+    },
+    {
+      "text": "voice",
+      "startMs": 36083,
+      "endMs": 36403
+    },
+    {
+      "text": "and",
+      "startMs": 36443,
+      "endMs": 36483
+    },
+    {
+      "text": "sequence",
+      "startMs": 36563,
+      "endMs": 37043
+    },
+    {
+      "text": "stay",
+      "startMs": 37123,
+      "endMs": 37363
+    },
+    {
+      "text": "intact.",
+      "startMs": 37443,
+      "endMs": 38323
+    },
+    {
+      "text": "[pause",
+      "startMs": 38334,
+      "endMs": 38355
+    },
+    {
+      "text": "for",
+      "startMs": 38366,
+      "endMs": 38376
+    },
+    {
+      "text": "0.25",
+      "startMs": 38387,
+      "endMs": 38430
+    },
+    {
+      "text": "seconds]",
+      "startMs": 38440,
+      "endMs": 38462
+    },
+    {
+      "text": "The",
+      "startMs": 38472,
+      "endMs": 38483
+    },
+    {
+      "text": "agent",
+      "startMs": 38683,
+      "endMs": 38883
+    },
+    {
+      "text": "maps",
+      "startMs": 39043,
+      "endMs": 39203
+    },
+    {
+      "text": "the",
+      "startMs": 39243,
+      "endMs": 39283
+    },
+    {
+      "text": "ideas",
+      "startMs": 39363,
+      "endMs": 39763
+    },
+    {
+      "text": "to",
+      "startMs": 39803,
+      "endMs": 39843
+    },
+    {
+      "text": "timed",
+      "startMs": 40003,
+      "endMs": 40323
+    },
+    {
+      "text": "visuals,",
+      "startMs": 40403,
+      "endMs": 40963
+    },
+    {
+      "text": "so",
+      "startMs": 41043,
+      "endMs": 41123
+    },
+    {
+      "text": "the",
+      "startMs": 41163,
+      "endMs": 41203
+    },
+    {
+      "text": "explanation",
+      "startMs": 41283,
+      "endMs": 41843
+    },
+    {
+      "text": "develops",
+      "startMs": 41923,
+      "endMs": 42483
+    },
+    {
+      "text": "as",
+      "startMs": 42563,
+      "endMs": 42643
+    },
+    {
+      "text": "you",
+      "startMs": 42683,
+      "endMs": 42723
+    },
+    {
+      "text": "listen.",
+      "startMs": 42803,
+      "endMs": 43523
+    },
+    {
+      "text": "[pause",
+      "startMs": 43529,
+      "endMs": 43540
+    },
+    {
+      "text": "for",
+      "startMs": 43546,
+      "endMs": 43552
+    },
+    {
+      "text": "1.25",
+      "startMs": 43557,
+      "endMs": 43580
+    },
+    {
+      "text": "seconds]",
+      "startMs": 43586,
+      "endMs": 43598
+    },
+    {
+      "text": "Skills",
+      "startMs": 43604,
+      "endMs": 44004
+    },
+    {
+      "text": "give",
+      "startMs": 44084,
+      "endMs": 44164
+    },
+    {
+      "text": "the",
+      "startMs": 44244,
+      "endMs": 44324
+    },
+    {
+      "text": "agent",
+      "startMs": 44444,
+      "endMs": 44564
+    },
+    {
+      "text": "instructions",
+      "startMs": 44644,
+      "endMs": 45284
+    },
+    {
+      "text": "for",
+      "startMs": 45324,
+      "endMs": 45364
+    },
+    {
+      "text": "these",
+      "startMs": 45484,
+      "endMs": 45604
+    },
+    {
+      "text": "tasks.",
+      "startMs": 45844,
+      "endMs": 46484
+    },
+    {
+      "text": "[pause",
+      "startMs": 46490,
+      "endMs": 46501
+    },
+    {
+      "text": "for",
+      "startMs": 46507,
+      "endMs": 46513
+    },
+    {
+      "text": "0.25",
+      "startMs": 46518,
+      "endMs": 46541
+    },
+    {
+      "text": "seconds]",
+      "startMs": 46547,
+      "endMs": 46559
+    },
+    {
+      "text": "Generate",
+      "startMs": 46565,
+      "endMs": 46885
+    },
+    {
+      "text": "video",
+      "startMs": 47045,
+      "endMs": 47285
+    },
+    {
+      "text": "essay",
+      "startMs": 47365,
+      "endMs": 47685
+    },
+    {
+      "text": "guides",
+      "startMs": 47845,
+      "endMs": 48085
+    },
+    {
+      "text": "the",
+      "startMs": 48165,
+      "endMs": 48205
+    },
+    {
+      "text": "adaptation,",
+      "startMs": 48245,
+      "endMs": 49125
+    },
+    {
+      "text": "with",
+      "startMs": 49205,
+      "endMs": 49285
+    },
+    {
+      "text": "generate",
+      "startMs": 49445,
+      "endMs": 49765
+    },
+    {
+      "text": "essay",
+      "startMs": 49845,
+      "endMs": 50165
+    },
+    {
+      "text": "audio",
+      "startMs": 50245,
+      "endMs": 50565
+    },
+    {
+      "text": "handling",
+      "startMs": 50725,
+      "endMs": 51045
+    },
+    {
+      "text": "narration.",
+      "startMs": 51125,
+      "endMs": 51925
+    },
+    {
+      "text": "[pause",
+      "startMs": 51952,
+      "endMs": 52005
+    },
+    {
+      "text": "for",
+      "startMs": 52032,
+      "endMs": 52058
+    },
+    {
+      "text": "0.25",
+      "startMs": 52085,
+      "endMs": 52192
+    },
+    {
+      "text": "seconds]",
+      "startMs": 52218,
+      "endMs": 52272
+    },
+    {
+      "text": "Animate",
+      "startMs": 52298,
+      "endMs": 52325
+    },
+    {
+      "text": "recorded",
+      "startMs": 52405,
+      "endMs": 52805
+    },
+    {
+      "text": "audio",
+      "startMs": 52885,
+      "endMs": 53205
+    },
+    {
+      "text": "guides",
+      "startMs": 53365,
+      "endMs": 53605
+    },
+    {
+      "text": "the",
+      "startMs": 53685,
+      "endMs": 53725
+    },
+    {
+      "text": "workflow",
+      "startMs": 53765,
+      "endMs": 54245
+    },
+    {
+      "text": "when",
+      "startMs": 54285,
+      "endMs": 54325
+    },
+    {
+      "text": "the",
+      "startMs": 54405,
+      "endMs": 54445
+    },
+    {
+      "text": "recording",
+      "startMs": 54485,
+      "endMs": 54965
+    },
+    {
+      "text": "already",
+      "startMs": 55045,
+      "endMs": 55365
+    },
+    {
+      "text": "exists.",
+      "startMs": 55445,
+      "endMs": 56325
+    },
+    {
+      "text": "[pause",
+      "startMs": 56336,
+      "endMs": 56357
+    },
+    {
+      "text": "for",
+      "startMs": 56368,
+      "endMs": 56378
+    },
+    {
+      "text": "1.25",
+      "startMs": 56389,
+      "endMs": 56432
+    },
+    {
+      "text": "seconds]",
+      "startMs": 56442,
+      "endMs": 56464
+    },
+    {
+      "text": "This",
+      "startMs": 56474,
+      "endMs": 56485
+    },
+    {
+      "text": "video",
+      "startMs": 56565,
+      "endMs": 56805
+    },
+    {
+      "text": "was",
+      "startMs": 56885,
+      "endMs": 57045
+    },
+    {
+      "text": "made",
+      "startMs": 57125,
+      "endMs": 57285
+    },
+    {
+      "text": "with",
+      "startMs": 57325,
+      "endMs": 57365
+    },
+    {
+      "text": "the",
+      "startMs": 57405,
+      "endMs": 57445
+    },
+    {
+      "text": "repository's",
+      "startMs": 57805,
+      "endMs": 58325
+    },
+    {
+      "text": "custom-built",
+      "startMs": 58485,
+      "endMs": 58965
+    },
+    {
+      "text": "Animation",
+      "startMs": 59125,
+      "endMs": 59605
+    },
+    {
+      "text": "SDK.",
+      "startMs": 59765,
+      "endMs": 60645
+    },
+    {
+      "text": "[pause",
+      "startMs": 60651,
+      "endMs": 60662
+    },
+    {
+      "text": "for",
+      "startMs": 60668,
+      "endMs": 60674
+    },
+    {
+      "text": "0.25",
+      "startMs": 60679,
+      "endMs": 60702
+    },
+    {
+      "text": "seconds]",
+      "startMs": 60708,
+      "endMs": 60720
+    },
+    {
+      "text": "An",
+      "startMs": 60726,
+      "endMs": 60806
+    },
+    {
+      "text": "AI",
+      "startMs": 60886,
+      "endMs": 61206
+    },
+    {
+      "text": "agent",
+      "startMs": 61286,
+      "endMs": 61526
+    },
+    {
+      "text": "wrote",
+      "startMs": 61606,
+      "endMs": 61766
+    },
+    {
+      "text": "the",
+      "startMs": 61846,
+      "endMs": 61926
+    },
+    {
+      "text": "script,",
+      "startMs": 62126,
+      "endMs": 62566
+    },
+    {
+      "text": "generated",
+      "startMs": 62766,
+      "endMs": 62966
+    },
+    {
+      "text": "the",
+      "startMs": 63046,
+      "endMs": 63126
+    },
+    {
+      "text": "voiceover",
+      "startMs": 63286,
+      "endMs": 63606
+    },
+    {
+      "text": "with",
+      "startMs": 63686,
+      "endMs": 63766
+    },
+    {
+      "text": "ElevenLabs,",
+      "startMs": 63846,
+      "endMs": 64646
+    },
+    {
+      "text": "and",
+      "startMs": 64726,
+      "endMs": 64806
+    },
+    {
+      "text": "used",
+      "startMs": 64965.99999999999,
+      "endMs": 65046.00000000001
+    },
+    {
+      "text": "the",
+      "startMs": 65126.00000000001,
+      "endMs": 65206
+    },
+    {
+      "text": "SDK",
+      "startMs": 65286,
+      "endMs": 65846
+    },
+    {
+      "text": "to",
+      "startMs": 65926,
+      "endMs": 66086
+    },
+    {
+      "text": "animate",
+      "startMs": 66166,
+      "endMs": 66486
+    },
+    {
+      "text": "the",
+      "startMs": 66526,
+      "endMs": 66566
+    },
+    {
+      "text": "diagrams",
+      "startMs": 66646,
+      "endMs": 67126
+    },
+    {
+      "text": "you're",
+      "startMs": 67179,
+      "endMs": 67286
+    },
+    {
+      "text": "seeing.",
+      "startMs": 67446,
+      "endMs": 67926
+    },
+    {
+      "text": "[pause",
+      "startMs": 67937,
+      "endMs": 67958
+    },
+    {
+      "text": "for",
+      "startMs": 67969,
+      "endMs": 67979
+    },
+    {
+      "text": "0.25",
+      "startMs": 67990,
+      "endMs": 68033
+    },
+    {
+      "text": "seconds]",
+      "startMs": 68043,
+      "endMs": 68065
+    },
+    {
+      "text": "The",
+      "startMs": 68075,
+      "endMs": 68086
+    },
+    {
+      "text": "same",
+      "startMs": 68206,
+      "endMs": 68326
+    },
+    {
+      "text": "toolkit",
+      "startMs": 68406,
+      "endMs": 68806
+    },
+    {
+      "text": "is",
+      "startMs": 68886,
+      "endMs": 68966
+    },
+    {
+      "text": "now",
+      "startMs": 69046,
+      "endMs": 69126
+    },
+    {
+      "text": "explaining",
+      "startMs": 69206,
+      "endMs": 69686
+    },
+    {
+      "text": "its",
+      "startMs": 69806,
+      "endMs": 69926
+    },
+    {
+      "text": "own",
+      "startMs": 70006,
+      "endMs": 70166
+    },
+    {
+      "text": "technical",
+      "startMs": 70246,
+      "endMs": 70566
+    },
+    {
+      "text": "documentation.",
+      "startMs": 70646,
+      "endMs": 71846
+    },
+    {
+      "text": "[pause",
+      "startMs": 71849,
+      "endMs": 71857
+    },
+    {
+      "text": "for",
+      "startMs": 71860,
+      "endMs": 71863
+    },
+    {
+      "text": "1.25",
+      "startMs": 71867,
+      "endMs": 71881
+    },
+    {
+      "text": "seconds]",
+      "startMs": 71884,
+      "endMs": 71894
+    },
+    {
+      "text": "[Softening,",
+      "startMs": 71898,
+      "endMs": 71914
+    },
+    {
+      "text": "reflective]",
+      "startMs": 71917,
+      "endMs": 71931
+    },
+    {
+      "text": "Start",
+      "startMs": 71934,
+      "endMs": 72094
+    },
+    {
+      "text": "with",
+      "startMs": 72174,
+      "endMs": 72334
+    },
+    {
+      "text": "something",
+      "startMs": 72494,
+      "endMs": 72654
+    },
+    {
+      "text": "you",
+      "startMs": 72734,
+      "endMs": 72814
+    },
+    {
+      "text": "want",
+      "startMs": 72894,
+      "endMs": 72974
+    },
+    {
+      "text": "to",
+      "startMs": 73054,
+      "endMs": 73134
+    },
+    {
+      "text": "explain,",
+      "startMs": 73574,
+      "endMs": 74041
+    },
+    {
+      "text": "and",
+      "startMs": 74067,
+      "endMs": 74094
+    },
+    {
+      "text": "ask",
+      "startMs": 74254,
+      "endMs": 74414
+    },
+    {
+      "text": "your",
+      "startMs": 74494,
+      "endMs": 74574
+    },
+    {
+      "text": "AI",
+      "startMs": 74654,
+      "endMs": 74894
+    },
+    {
+      "text": "coding",
+      "startMs": 75054,
+      "endMs": 75214
+    },
+    {
+      "text": "agent",
+      "startMs": 75294,
+      "endMs": 75534
+    },
+    {
+      "text": "to",
+      "startMs": 75614,
+      "endMs": 75694
+    },
+    {
+      "text": "make",
+      "startMs": 75774,
+      "endMs": 75854
+    },
+    {
+      "text": "a",
+      "startMs": 75934,
+      "endMs": 76174
+    },
+    {
+      "text": "video.",
+      "startMs": 76414,
+      "endMs": 76660
+    },
+    {
+      "text": "[pause",
+      "startMs": 76665,
+      "endMs": 76677
+    },
+    {
+      "text": "for",
+      "startMs": 76683,
+      "endMs": 76688
+    },
+    {
+      "text": "0.75",
+      "startMs": 76694,
+      "endMs": 76717
+    },
+    {
+      "text": "seconds]",
+      "startMs": 76722,
+      "endMs": 76815
+    }
+  ]
+}
