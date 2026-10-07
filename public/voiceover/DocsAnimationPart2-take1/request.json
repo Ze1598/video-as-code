@@ -1,0 +1,187 @@
+{
+  "createdAt": "2026-10-07T16:42:11.361Z",
+  "method": "POST",
+  "url": "https://api.elevenlabs.io/v1/text-to-speech/QmMeKYANmozqFOHSuY8V/with-timestamps",
+  "body": {
+    "text": "[Warm, conversational voice, measured delivery] Here is the whole journey from source material to a finished video. [pause for 0.25 seconds] You provide the material. [pause for 0.25 seconds] The agent works out what it means, proposes the visuals for your approval, then produces, checks, and delivers the MP4.\n\n[pause for 1.25 seconds]\n\nFirst, the source material. [pause for 0.25 seconds] An essay or documentation needs a spoken script and new narration. [pause for 0.25 seconds] A podcast, interview, or discussion already supplies the voice and the order of the explanation.\n\n[pause for 1.25 seconds]\n\nTo start, clone the repository and install its dependencies with npm install. [pause for 0.25 seconds] Open an AI coding agent in the project folder, where it can read the repository instructions and skills.\n\n[pause for 1.25 seconds]\n\nGive it the source material and explain who the video is for. [pause for 0.25 seconds] For example, ask it to explain this repository to a new developer, using the existing Animation SDK. [pause for 0.25 seconds] Ask for a plan first, including any paid narration, before producing the video.\n\n[pause for 1.25 seconds]\n\nThe next stage is understanding. [pause for 0.25 seconds] The agent reads the material, or transcribes the recording when needed. [pause for 0.25 seconds] It identifies the main ideas, how they connect, and what the viewer needs to understand at each step.\n\n[pause for 1.25 seconds]\n\nThe skills guide this work. [pause for 0.25 seconds] Generate video essay guides adaptation from written material, and generate essay audio handles new narration. [pause for 0.25 seconds] Animate recorded audio guides the existing recording workflow, preserving its spoken content and sequence.\n\n[pause for 1.25 seconds]\n\nNow, planning and approval. [pause for 0.25 seconds] The agent turns the explanation into visual beats. [pause for 0.25 seconds] For each beat, it chooses a supported animation, specifies what stays visible, and identifies what changes as the narration develops.\n\n[pause for 1.25 seconds]\n\nA process diagram explains a sequence, such as a request moving through review to delivery. [pause for 0.25 seconds] A comparison explains a distinction, such as generating a new voiceover or keeping an existing recording.\n\n[pause for 1.25 seconds]\n\nWhen a draft moves from an author to a reviewer, a handoff can show the change in responsibility. [pause for 0.25 seconds] The agent selects these existing patterns from the SDK documentation.\n\n[pause for 1.25 seconds]\n\nYou review the proposed explanation, the visuals, and any paid calls. [pause for 0.25 seconds] This is the point to correct omissions or change the emphasis. [pause for 0.25 seconds] Production and paid narration begin after you approve the plan.\n\n[pause for 1.25 seconds]\n\nThe final stage is production and delivery. [pause for 0.25 seconds] For written material, the approved script becomes one continuous voiceover. [pause for 0.25 seconds] For an existing recording, the original audio remains the soundtrack. [pause for 0.25 seconds] Both routes then use the same visual pipeline.\n\n[pause for 1.25 seconds]\n\nElevenLabs provides the high-quality, natural-sounding narration for this video. [pause for 0.25 seconds] For new narration, configure your API key and voice identifier in the local environment file. [pause for 0.25 seconds] The repository preserves the exact request, the recording, and the returned word timings.\n\n[pause for 1.25 seconds]\n\nThose timestamps connect speech to animation. [pause for 0.25 seconds] When the narrator reaches a planned cue, the corresponding label appears or the diagram moves. [pause for 0.25 seconds] The visuals follow the continuous soundtrack, without adding a separate pause at every scene boundary.\n\n[pause for 1.25 seconds]\n\nThe agent writes the video plan in TypeScript. [pause for 0.25 seconds] That plan declares scenes, labels, relationships, movements, and timing. [pause for 0.25 seconds] The Animation SDK computes the layout and the state of each frame, then draws the visuals as SVG. [pause for 0.25 seconds] A thin React composition connects that output and the audio to Remotion.\n\n[pause for 1.25 seconds]\n\nThe responsibilities stay separate in the repository. [pause for 0.25 seconds] Skills live under the agents directory. [pause for 0.25 seconds] The reusable rendering code lives in the essay SDK directory. [pause for 0.25 seconds] Each video has its own script, audio request, timing data, and scene plan.\n\n[pause for 1.25 seconds]\n\nRemotion renders the React composition using web technologies, including HTML and SVG, into video frames. [pause for 0.25 seconds] Run npm run dev to preview it in Remotion Studio. [pause for 0.25 seconds] The render command selects the composition and writes the MP4 to the output folder.\n\n[pause for 1.25 seconds]\n\nBefore delivery, the agent runs the code checks and verifies the rendered output. [pause for 0.25 seconds] The tests check geometry, visibility, colors, and important before and after states. [pause for 0.25 seconds] The exported file is also checked for its audio and video streams, duration, and successful decoding.\n\n[pause for 1.25 seconds]\n\nThe finished MP4 is delivered with its script and reproducible production code. [pause for 0.25 seconds] The source recording is preserved, so visual revisions can reuse the same audio. [pause for 0.75 seconds]",
+    "model_id": "eleven_v4",
+    "voice_settings": {
+      "stability": 0.35,
+      "similarity_boost": 0.75,
+      "style": 0.45,
+      "speed": 0.92
+    }
+  },
+  "narration": {
+    "modelId": "eleven_v4",
+    "voiceSettings": {
+      "stability": 0.35,
+      "similarity_boost": 0.75,
+      "style": 0.45,
+      "speed": 0.92
+    },
+    "pausePlan": {
+      "internalSentenceMs": 250,
+      "laterSceneLeadMs": 500,
+      "sceneHoldMs": 750,
+      "finalHoldMs": 750,
+      "phrasingBpm": 92
+    },
+    "segments": [
+      {
+        "id": "overview",
+        "sentences": [
+          "Here is the whole journey from source material to a finished video.",
+          "You provide the material.",
+          "The agent works out what it means, proposes the visuals for your approval, then produces, checks, and delivers the MP4."
+        ],
+        "direction": "Warm, conversational voice, measured delivery"
+      },
+      {
+        "id": "source",
+        "sentences": [
+          "First, the source material.",
+          "An essay or documentation needs a spoken script and new narration.",
+          "A podcast, interview, or discussion already supplies the voice and the order of the explanation."
+        ]
+      },
+      {
+        "id": "setup",
+        "sentences": [
+          "To start, clone the repository and install its dependencies with npm install.",
+          "Open an AI coding agent in the project folder, where it can read the repository instructions and skills."
+        ]
+      },
+      {
+        "id": "request",
+        "sentences": [
+          "Give it the source material and explain who the video is for.",
+          "For example, ask it to explain this repository to a new developer, using the existing Animation SDK.",
+          "Ask for a plan first, including any paid narration, before producing the video."
+        ]
+      },
+      {
+        "id": "understand",
+        "sentences": [
+          "The next stage is understanding.",
+          "The agent reads the material, or transcribes the recording when needed.",
+          "It identifies the main ideas, how they connect, and what the viewer needs to understand at each step."
+        ]
+      },
+      {
+        "id": "skills",
+        "sentences": [
+          "The skills guide this work.",
+          "Generate video essay guides adaptation from written material, and generate essay audio handles new narration.",
+          "Animate recorded audio guides the existing recording workflow, preserving its spoken content and sequence."
+        ]
+      },
+      {
+        "id": "planning",
+        "sentences": [
+          "Now, planning and approval.",
+          "The agent turns the explanation into visual beats.",
+          "For each beat, it chooses a supported animation, specifies what stays visible, and identifies what changes as the narration develops."
+        ]
+      },
+      {
+        "id": "patterns",
+        "sentences": [
+          "A process diagram explains a sequence, such as a request moving through review to delivery.",
+          "A comparison explains a distinction, such as generating a new voiceover or keeping an existing recording."
+        ]
+      },
+      {
+        "id": "handoff",
+        "sentences": [
+          "When a draft moves from an author to a reviewer, a handoff can show the change in responsibility.",
+          "The agent selects these existing patterns from the SDK documentation."
+        ]
+      },
+      {
+        "id": "approval",
+        "sentences": [
+          "You review the proposed explanation, the visuals, and any paid calls.",
+          "This is the point to correct omissions or change the emphasis.",
+          "Production and paid narration begin after you approve the plan."
+        ]
+      },
+      {
+        "id": "produce",
+        "sentences": [
+          "The final stage is production and delivery.",
+          "For written material, the approved script becomes one continuous voiceover.",
+          "For an existing recording, the original audio remains the soundtrack.",
+          "Both routes then use the same visual pipeline."
+        ]
+      },
+      {
+        "id": "voice",
+        "sentences": [
+          "ElevenLabs provides the high-quality, natural-sounding narration for this video.",
+          "For new narration, configure your API key and voice identifier in the local environment file.",
+          "The repository preserves the exact request, the recording, and the returned word timings."
+        ]
+      },
+      {
+        "id": "timing",
+        "sentences": [
+          "Those timestamps connect speech to animation.",
+          "When the narrator reaches a planned cue, the corresponding label appears or the diagram moves.",
+          "The visuals follow the continuous soundtrack, without adding a separate pause at every scene boundary."
+        ]
+      },
+      {
+        "id": "code",
+        "sentences": [
+          "The agent writes the video plan in TypeScript.",
+          "That plan declares scenes, labels, relationships, movements, and timing.",
+          "The Animation SDK computes the layout and the state of each frame, then draws the visuals as SVG.",
+          "A thin React composition connects that output and the audio to Remotion."
+        ]
+      },
+      {
+        "id": "files",
+        "sentences": [
+          "The responsibilities stay separate in the repository.",
+          "Skills live under the agents directory.",
+          "The reusable rendering code lives in the essay SDK directory.",
+          "Each video has its own script, audio request, timing data, and scene plan."
+        ]
+      },
+      {
+        "id": "render",
+        "sentences": [
+          "Remotion renders the React composition using web technologies, including HTML and SVG, into video frames.",
+          "Run npm run dev to preview it in Remotion Studio.",
+          "The render command selects the composition and writes the MP4 to the output folder."
+        ]
+      },
+      {
+        "id": "checks",
+        "sentences": [
+          "Before delivery, the agent runs the code checks and verifies the rendered output.",
+          "The tests check geometry, visibility, colors, and important before and after states.",
+          "The exported file is also checked for its audio and video streams, duration, and successful decoding."
+        ]
+      },
+      {
+        "id": "delivery",
+        "sentences": [
+          "The finished MP4 is delivered with its script and reproducible production code.",
+          "The source recording is preserved, so visual revisions can reuse the same audio."
+        ]
+      }
+    ]
+  },
+  "pauseBudget": {
+    "internalSentenceMs": 250,
+    "laterSceneLeadMs": 500,
+    "sceneHoldMs": 750,
+    "finalHoldMs": 750,
+    "phrasingBpm": 92,
+    "betweenScenesMs": 1250,
+    "playbackPaddingMs": 0
+  },
+  "status": "completed"
+}

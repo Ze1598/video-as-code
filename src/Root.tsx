@@ -1,4 +1,6 @@
 import "./index.css";
+import { DocsAnimationPart2 } from "./DocsAnimationPart2/index.tsx";
+import { movie as docsAnimationPart2Movie } from "./DocsAnimationPart2/production.ts";
 import { RepoOverview } from "./RepoOverview/index.tsx";
 import { movie as repoOverviewMovie } from "./RepoOverview/production.ts";
 import { WorkingTogether105 } from "./WorkingTogether105/index.tsx";
@@ -73,6 +75,7 @@ import { LibDemo, LIB_DEMO_DURATION } from "./archive/lib/__demo__/index.tsx";
 export const RemotionRoot: React.FC = () => {
   return (
     <>
+      <Composition id="DocsAnimationPart2" component={DocsAnimationPart2} durationInFrames={docsAnimationPart2Movie.duration} fps={docsAnimationPart2Movie.fps} width={1920} height={1080} />
       <Composition id="DocsAnimationPart1" component={RepoOverview} durationInFrames={repoOverviewMovie.duration} fps={repoOverviewMovie.fps} width={1920} height={1080} />
       <Composition id="CommunicationGaps104" component={CommunicationGaps104} durationInFrames={communicationGaps104Movie.duration} fps={communicationGaps104Movie.fps} width={1920} height={1080} />
       <Composition id="CooperationWithoutConsequences" component={CooperationWithoutConsequences} durationInFrames={cooperationWithoutConsequencesMovie.duration} fps={cooperationWithoutConsequencesMovie.fps} width={1920} height={1080} />
